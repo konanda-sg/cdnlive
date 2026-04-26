@@ -15,7 +15,7 @@ HEADERS = {
 }
 
 # 2. FILTER: Only extract these sports
-TARGET_SPORTS = ["Soccer", "Cricket", "WWE"]
+TARGET_SPORTS = ["Soccer", "Cricket", "Fight"]
 
 def build_playlist():
     print("[*] Fetching Sports Events API...")
