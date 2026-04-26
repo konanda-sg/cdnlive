@@ -6,7 +6,7 @@ on:
   # Runs automatically every 3 hours. 
   # (Cron format: Minute Hour Day Month DayOfWeek)
   schedule:
-    - cron: '0 */1 * * *'  
+    - cron: '*/20 * * * *'    
 
 # Give the action permission to commit files back to your repo
 permissions:
