@@ -3,239 +3,239 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=0de37c6e9db6a54dbeaf126f231967538395f45f27823943fe901444ad4097be.1777196033.76a08297e5d7a21f839f26cbd5ad9530.3dc08f87a305e1c19099a62e188ff9e2.6179f0efd6c71dc8f9fab8afc7265064&signature=67fff90868ad944723758e9de8029afd2a58d94e3d8d103252a3353e8dd002c1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=b927e2e36256f6f736306ad1dfe95aea8333d0534e8ee8ff1ccfc2cb53c21e4b.1777196313.ea9e5a50054c418e6100f436a3db82a4.cba926c94314af3bb3b83680161aee60.a1d0f7cec66fdd3197504207f9066cb1&signature=c3b3cd2d43e1855725bd7ebdc8a28a504e1927b1b664385ba5bd20a84f91114c|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Lusitania FC Lourosa vs Paços de Ferreira (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/35174.png" group-title="Soccer",[Soccer] Lusitania FC Lourosa vs Paços de Ferreira (Sport TV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=b13580b3d7981c289bca669435a4f24a61aed6a7c7488ea948d36597818bbfd4.1777196034.a95931a144e9eddd561b9b6516fc78d0.e44bfde1ef12279edcac8c4a681c7bf8.256ddd341184f8402a0df4ffa1e23cdf&signature=1d2d15eb9ceac2ccc46267710824122569df36dbe4c0f8fee4a2124ed26a01ec|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=691b788e965792d335c5ab0a69bee7d20a311d637b51401bad4a0f74bb203961.1777196314.5dd1ce8e9c0e65895b6f9a150a98725f.41936fffce5130a9e3b9b9d503d0ad82.cd2c71b5163729d4308f7652e07d6cdd&signature=618dee958eb1ae45e888e52adc4b7cca9442824fda0083fc70a66a915f0015ce|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Excelsior vs Utrecht (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2967.png" group-title="Soccer",[Soccer] Excelsior vs Utrecht (ESPN 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-espn-2/playlist.m3u8?token=304a54e755af8d11c5faf3f01981229ff1bd8e3850a1a49250316831fefc2228.1777196034.25135ebf4fd032dc0c0f69b5a13f20d0.167e62265e6721a7c1b6ef673b73bb5f.7c095a739838963aa815763a0adc9f8f&signature=6167d8796ea95582a8f7b2ae01b864fe0def30337c6b994d6ec0eef182d286a2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn-2/playlist.m3u8?token=5f38ca132bf5956da45aa845253005f263bc22cb8ceab116dc0cc6220bf205f6.1777196315.46d1cd51d292b3c644096fa56ac718e9.c5145c3bb19b0a2c5bad787840bcd470.36dd98fadb321d6c9618acabe0ff26f3&signature=1a7eff867a2cc6ef0ae1b5c84353972f2076fadaef593ffd0a0d40f09fc108cb|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Wisła Płock vs Radomiak Radom (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3122.png" group-title="Soccer",[Soccer] Wisła Płock vs Radomiak Radom (Canal Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-3/playlist.m3u8?token=3d5c71e1b6dd908e0f877c4e97db2fc1866a1fc49cd6d602e4525033668ed117.1777196035.cbea322f4ef95eb657f6d1948fea0c65.7916be2bec4daa63884dd164e949a7c2.6af1a90ef0513a0e9705429853c96318&signature=be009514d415102529e12c84f3d2279a2b86434cf15793030b214cb821656c00|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-3/playlist.m3u8?token=fc4839b3bb9602762e84e021506f817ea900b99ab0233db6a9370b4ff8e1ff2c.1777196316.f8d3e99b9e4c5d1c8686dd66e1813dec.0b09bbc804e12593b6ef3a969b26ab50.6bd88efe6f707581d8ec4a35d9e7413e&signature=957855c1fb6f5de526e4bdb48b3fc0a373185ef910dfed1acf7c628af84ad62a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Wisła Płock vs Radomiak Radom (Canal 360)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3122.png" group-title="Soccer",[Soccer] Wisła Płock vs Radomiak Radom (Canal 360)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+360&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+360&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-360/playlist.m3u8?token=7e27d73f9da852d05654be2322d603b5c4feb324aab27cc6363dfde7814b08ee.1777196035.9ab97eb47e2b02484a53022349cb3771.1a6bc7619f110426a1aeb441f20e62c5.ede3450f7fb9e1a74bf0659b480956e2&signature=6156acd63303592a509af8a1a0951e08a76809274f8bf96bea4256f2619f553e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-360/playlist.m3u8?token=62742df43d9faa9992e0824da46eba909c7ee5a28fbcc08ab5fbd3d26d1f1b3d.1777196316.3473b0c1fa500b8c4a7386156fef2ca5.d3eb97981065a80130b8259898bf6fd2.9426ae294a24576b56b122d0ee808bf3&signature=2d4115f9ec2a1a272df93149da472c5f384fccb2bde3be438d38812fd5ec5161|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Wisła Płock vs Radomiak Radom (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3122.png" group-title="Soccer",[Soccer] Wisła Płock vs Radomiak Radom (Arena Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-4/playlist.m3u8?token=f9fb42d7aeb148386b1f2c63a81cc417a9608f7f6eb668e1a1a8ae91a9bcc3a7.1777196036.f11811da9ef3f96636e62788e9648033.753568d8c0280536ac34d6148ae50000.8993456af64ab5aee43e90165c152f2f&signature=b1d1fec40f740da6c133441e3987ce35b44a0450f06d9315e11881e4d7fb0e04|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-4/playlist.m3u8?token=e967cb938bbdf14b545c88658efbf7d15cf24fa6fc071e3b4298cec038d5b9fa.1777196317.84b756e6ac7de1f5bfcc77dde2be8bd8.980dd9c2d89a2b1b6397a9a702f29907.e7595a25a23d6c021af31a5147b2c849&signature=ebb14a7960ef93bec1c64ebe01c70c29bb87d47631328054f8b9ea97f6a4ba72|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Fiorentina vs Sassuolo (SuperSport Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (SuperSport Football)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-football/playlist.m3u8?token=7a0e815e08cf45b78514ff851f238c60fe26a141c4b6b1eb550e1f72ceb12ac2.1777196037.3d6d8411af474dd831a12de17a3b146f.b07b3f189a4422a2d6e4097410785fe0.512f54c41f4fc9cc030283c377fe865c&signature=807034d7eb147cc1d42a23234d63f07e9a2c3712d1f50df291481d9447e4d9f2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-football/playlist.m3u8?token=524c8b7a169203241b34dc84db05019bc8e726fd4a7e7d7481c9c57a0041602a.1777196318.dd8b09654837fc71783d44852fe7a10f.f6879dcaab98638d080f291cecfa4dbc.81283e7d50e19d8fd76e4a2183b0573f&signature=4683daad97ffda5cf901e34875ac6863f24c1d8dc0b5a83de79df1ee576d3dc0|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Fiorentina vs Sassuolo (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (DAZN 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-dazn-1/playlist.m3u8?token=82fe9de6ec7ed7c3d0c3c6fce7a1ccd074c2ad91289d5fb0d46e4e06e9189aaa.1777196037.10f64de0a8c2c0d47ab96df042eee949.f6ffe855d307357877c2b5801387f4a4.fc043b6d4036f8359a33977d56361d47&signature=e5a1a06779b5b3465e592e080f75f1ccbde96140953dd6032376fe9cd934e8d5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/it-dazn-1/playlist.m3u8?token=df687ca585eb9c1a90d36150412880108948abcb44cda4485f48dd8b026c068c.1777196318.6d4c70dd6ff5bcb9dc1fe85e5d3cb229.fccee32fe16e8674f5472bc5df93b2ba.bb2489a0288c3aa25aab7cfdbaee32b5&signature=83007621cc07dc2eb1f693436e4013f5543e12794ddb84a7bc77ca60e7638572|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Fiorentina vs Sassuolo (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (DAZN 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-2/playlist.m3u8?token=86a2a2cd9c20e95821cf9741ced9ac2e80bac426c96b8a90b8c214d7e086c3cf.1777196038.5db65f8a366c9d3721c1ec9ef11095db.fe8304d63b2a929390da050c396bf578.db46da300d0cd84dc787d5a597173c4c&signature=69ca5344182c1a9c5bd2bcb0d23b005072ee5070fd41731dd5bca72c9846bf9e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-2/playlist.m3u8?token=cd7cc49a86d61f7c43c0a5c547b0d44ca4fe0104fed826965c343281c1081dd0.1777196319.ad09f73b559f81da6d281d75c23cdc9d.3dbde50fd0a1f80713f7c407358459e7.ccf2096133eb2a88729f37ba6cf5c8d1&signature=74f08985290e41d279d4bdc0a9c991e746cb9692fdb6c6a26de15206bd74fdbc|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Fiorentina vs Sassuolo (Sport TV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (Sport TV 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=cee6c8b32a5e937d2ec9a7cd2c5580ffca5ded1f94e7df49503f7cd2a13e82af.1777196038.b7a9174a05475b56290ee93d1578ba04.a72073989954d9fdb20927bd6a484435.e680111bbc59bb71361b054c54f90085&signature=d2cf707ef0a042c8b68c5b27ef684f7c091dd1b7d98bc785b096b55e92ed77a3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=4fac494498e9252d9751bf99c7c25c6d0b47377bfa76442e2d6982f1fbc6d2f3.1777196320.4b19762d8e88aacf1c4202301c2740b2.fd51ac98074c5dc61789a2103dfa3ac1.68e91d52ebf084b5116a07b7813850e0&signature=a7c08af1653abf8ffcdfeac6e7bc10487fb8319b7043971086333d183211c94a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Fiorentina vs Sassuolo (Cosmote Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (Cosmote Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-2/playlist.m3u8?token=150c861520c5bbd198a35558f0eadf6c98298181f9415729fbb554a6b6adca1b.1777196039.dd6e3f7e9d641632240da9b91dd0de2f.8f879d32a8fbe07ddd967a83fca12be6.7dde6f29262b7628a09033fb7129a099&signature=a379d158e195d1dbc44840631be8f3e1460123d5c4e32d2bd4e8adb6c5d2f6cd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-2/playlist.m3u8?token=6a8f1775891120e773f030b22a84a8e6bf6980d578758f1b9ed3d1c65c6d7ea2.1777196320.ae8cc092b2fb6255cf50059344131560.2802eb9250c7ae2a3b44b37cf8fc08ad.d796fe9f58e90db501bc77ed27c05839&signature=aa277a98bb9f37998d6518409a057fe70cbec63c2b6cd2a5528de79b36414d2a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Fiorentina vs Sassuolo (Eleven Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (Eleven Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-1/playlist.m3u8?token=973f1b39b7bc543f447c9f4e028d54922b372d684207a9d217088ca8de6e62e8.1777196040.315d52eda9860ecd5e079305cf91e62d.9bc7937aabec972a399bb707f991baec.0e8ca7d85d1b0aca0d703ee1434c954a&signature=5cc3a472902a51fed8cd0caecbbae34ec0416a9b4566e7efc97c9d3d868b6b04|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-1/playlist.m3u8?token=17836eefca23fb18005bf7cb2875a08f5e556ae72e52349a583bd1e4fdfc4d01.1777196321.f6d9b4aa7094db826113c9469644a6ec.fe9607091ee0a9e4cd554e2e4d503112.5590dad57d81cbadb8e2639f1fa7e976&signature=3a5e90acbdd3e15cfeb850d42cf330310d686b717c639db69c22907df02336da|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Fiorentina vs Sassuolo (Match Football 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (Match Football 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-1/playlist.m3u8?token=add91790fc855367e82c491abbb7d59b9c9e2a06cbd3dfa227190326b9a52206.1777196040.1a6089edf2429af49539c19df3274f63.7111b19d2370525efbc529f79137d941.69ef88d27bb61c9a1ee2113c79f1d61c&signature=16c65d7b4c6a5bc3c5f4339fe8f5633e85159a1d810ee50dd6614e55831895ca|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-1/playlist.m3u8?token=7231b4020845d2dd69ac50d42a3cba3153ddf3e3f347fe11d2ee15be270eb2bf.1777196321.669e9cd2c144a96c0efd228948b151ed.5468638268dc7bbd052a63debe3af409.0e81c0cbc3744adebe2bd467101873f9&signature=94b290bdf6b1cf22526539a39868e6140223e84fbb2f721a6744a65eba584e9a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Fiorentina vs Sassuolo (Max Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (Max Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-3/playlist.m3u8?token=61fda13e7acc9c689eadfcad8d82f2ae6934e6cb6425049b47c68cda4635cadd.1777196041.c25afb9a44a6d0d8e62ccd769b48f18f.442af313e1bd69abb4b4c5c9ba81db37.2e553548576d4a6940f92d930948c7ba&signature=7e27715e2e2bb7fcd1ee3b5c7f20442da10e8c926f669454b17ea747a1696de0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-3/playlist.m3u8?token=5396aab00456a4219352cf7725424374074ff2a8b90a0d1fb64ea084b9c5ae02.1777196322.568f2d152785996558a4aeb81d19c6c7.b9a8f6562e7fce3bd37029cf0e000729.a5bd236ccd713303abeb84dc4cca377e&signature=cc2fc96ffe2c010c7259798fbe6669ff80278f8ee04bb5683fb8b541784e1f73|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Fiorentina vs Sassuolo (Cytavision Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (Cytavision Sports 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-4/playlist.m3u8?token=098a8bd2166d016bc54be75fcae59496646b8eabd5e238c033f6f2b3db35525a.1777196041.4ad65f2d5f37cd786904210b6ceb4403.2556dd66b495b8208908b148d420b795.e4ce7cfc73fda710737f132a5131497a&signature=3698a246077ae6d54f8365d4d4a77628d006ea7f38d7c60d3c361b6d203566d9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-4/playlist.m3u8?token=b91d42617f336483d61f0c9dac968f6a71178908145f94e8fc445248f118a66e.1777196323.3ae4664fe318e68147f5fefed4a64085.e65febd7460e5cd4d091709c60d5f9ec.654490a41d221564f0799f5c9698f0bd&signature=9d9f508562b069427cc8e4f28ee3cef3ce035a9ba3682943680f1198284a3c54|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Fiorentina vs Sassuolo (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (Arena 1 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=2d871d5c3b04af34c3d7bfb02848358221445750962b177a4aa4437428eb8257.1777196042.8907aa2ed056a5ff2744bd3bae0248a1.73bd6ff42d4359714ee56532ae2e5873.c24fb154f5f8685899fc31844c6c9ab8&signature=da579136b92bdfe0459be03246714f35f4e224a2ba3ea6af6086f8bb610c1fdb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=2a9943d9a9f68667457d27a954c452617d5978d2ddf5ca732ecdd60a262a6a9c.1777196323.3a2d180d355e331957c5bab0a6f7ca24.077a416174c0004bd3b9681af7cf2882.5cab157de6523b14741835d351c2ba69&signature=9aa0f58311ca354a0be36e9b0a58251390b2262f802e1c9df1d1a6d8f3179e0d|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Fiorentina vs Sassuolo (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (Arena Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=08a5aabaa4333b282091c90e7562ffa4d0b3d54df819b2a5310865cf8e1e45b9.1777196043.600f211d95897808cc7836d7cbeda905.68d25ba3506d10a92375da4f28425a3b.90602622184602555b2c0825e7b3bef2&signature=d227c5691db2a24611c5270f283fb1bad03eec56166fea97ffa6a2eba5d2e636|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=475dbcd1f25b30253fd95d7c9d1802cbceef5f4384f76e0a155cb461cc93922d.1777196324.a60f3fa49c995ec0fcbc851cd566207b.07d6a9f678b4d2fc25e20cc1676f06bb.04fed1558369b3e3631aee85c783bdeb&signature=0c1ab62a450dde5870ade89456f9c5b84082f19820a6646d1738480b2bfad72d|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Fiorentina vs Sassuolo (Viasat Vinter)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (Viasat Vinter)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viasat+vinter&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viasat+vinter&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-9/playlist.m3u8?token=378bf36add5f9ff70452bb4bab1606f42ba36916f2a29bbae5588c1ad2e50572.1777196043.98deee964b840bbaf910cc778713ebd9.aac8e0c73cff454267f54492cf8b93e8.4187ed04ae0cbb0039ffd9c346838afd&signature=5268a8b0d0f8dff118d98236af1dce71e8fcae431dd92e5305b7add4e1eaed64|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-9/playlist.m3u8?token=f6deaacbf79857c60245828ca9ac2ae1f58c1105b91739cbb02f161a50c029c1.1777196325.1448548c5756e6bcd2aa8e682996f544.f2a2f1f77e54be44bbc5850bec09215d.4992564d080fdfd3216a1f8424ad2fd5&signature=24e8568a1cd597764f549387665df878056c54345fb72a53d8097e18c4155072|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Fiorentina vs Sassuolo (TV4 Sport Live 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (TV4 Sport Live 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+1&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+1&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sport-live-1/playlist.m3u8?token=0f9e32503bec72321933afbf18d7be54e7e67576e091eec8ded0d0988dcfaa7b.1777196044.28c637f742077e140347c754376e2206.3c720fa25af5012462297fc8e572c577.aa03346a3982555d27b6c9dd8ed1a052&signature=59c98887ff566c07e5074ca472dd0e62e70d054305f59525f0b5a9b441c09dd3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sport-live-1/playlist.m3u8?token=8cf37443fab36c575bdf7c975c3efc53dd379499290457c5e9fe960e93432e3f.1777196325.30392d71aaf8a810da6e6f19bddf8df6.d2f63719c90bfec8327b6a7848e5ad00.60ca02ed0b2e3981740aaa7fa700bd25&signature=1e27d3e4d73370b59053fdbb2694ba2b4a3495b6e825c3b8bc3690ad994da9d2|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Fiorentina vs Sassuolo (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (ESPN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=251a4fe3b437308933e554df357fa716a5a8e603d272df4da7d939d368a63756.1777196044.8bcc51758fae76856d8a569649865771.d67c90608c6415bae5cf6c5859abf008.5412d86dd1b8da19dde2653199b1bd82&signature=a04188a2023a12ceb68d0f0d7ca8cdeb1f035200859fe7462e91421967bc837a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=0a55215936c46f46d85071ccf0689a212613cbe9d5895fe49a03f8167d7f9ad9.1777196326.3f43c9f7d6296491b47e65db381572f2.dd5633b4633746141a09f9c2e073d8dd.85bab208218565abdab56b698691d14e&signature=50bd5b01d1db858d0d4ff5354b30246f080ad913d5dfa31e44244ad109d136b8|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Fiorentina vs Sassuolo (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (ESPN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn/playlist.m3u8?token=2bf858ea03d701810665142e0751a7f28378adb286f5bbb5523138432426bb15.1777196045.baa7042e23f045be6cbbe33a7c508f5e.21fba0f97c58132ef43d7269c2f7ba20.67d01fe467fe457c881f5f75715414ba&signature=970345efb6716d106ede4ee78cd8df0e31d01ecb9d53c868aeb8c37b741c52f3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn/playlist.m3u8?token=0a60c2221d6c61e38440af9aca0085c35c72b9f9c98866b2e68187480c8d0d5c.1777196327.2127dd14453ac769f868c33a0c28a98d.7ef6f614266cee4fb607927363acd22e.33abd39d749eb17c28d2a9ebbd26f047&signature=d69c01bb2286c682b4a41c2839ca924bc0420bccd85f125dc75b30c7621a52fc|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Fiorentina vs Sassuolo (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2693.png" group-title="Soccer",[Soccer] Fiorentina vs Sassuolo (Prima Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=7b3f7c3554fa59b55989112cd02cc29e1c88b0111f0ef787e6c99994af22622d.1777196045.95222a7db6eddc5f5af3dbb0e2519c3b.312a8025673d3cfde7680dc417be2de2.1300dac6c0b60a8c09cdcc202e95222e&signature=f5a9fd48c759990b851178e2096de58a4dd1914be3d627ea0c81bc9968843a32|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=531b5fa670d33162cfb1bae4a570b8617ab231d28a42eb8bbf2ab7f6f332c0f3.1777196327.b0b0f644f3dcf083508bb48b7c0bfcf6.44e80022ca61acd6405dbeb6a2bb7172.2a4c28561a5d58428ef0e2ab25e8fe3b&signature=d5d3cd26acd6ccd8a7e0f947894d68f0b0e848e9cf9048236db5dc05e8b5fff6|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] County Championship One : Surrey vs Essex vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] County Championship One : Surrey vs Essex vs  (Sky Sports Arena)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=be5c65e0c6c1167a3498fbd4d72a0e9c8bf9d99d7a918ea7e6b327e2a8b34ecf.1777196046.be833071e5088fd1853b171f335c9757.25b778bd1fd840ba6f9daa94bd8535ee.b3a5fb8e6c0b8bdae696fc2aeb33fadd&signature=814b9c3edf41fb1d1ba1392f56a52d7f254e74c146de2e8099e9eb36b101df8f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=6ad347ccf47d38a222209a6b3ae90901adfe27f36560b1d7766cf7b2c6f14f6a.1777196328.93dd6f09a66d8080dce63ea37333e62e.f25549a5b0c976e384cdb606444200f2.9b28d330ca2e791cf19eee073a6d8f94&signature=4cdb79d88f682df4d1125d7287582772a317beb41b74268166ca4083fedba8f2|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=348264a2bf9438c722c2d25d70b0227cdad8b7c0e3afe16bc6c9742b19d41ec3.1777196047.b46b8aba9e815700790952230e07c4b5.2097b634f4f8836eef7d5136671f6620.fa5d15928480e18acecfcb09c3a84fe2&signature=b1f7074771a688fb884fe5a76dc41792ade5332278ca65e23fdee7b10d057c99|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=9be370103d1f37491717a64704828c3ccf7ead3d0fe0f9f6b79cbe94b2a5fd4c.1777196328.296367634072c29cedb74f530363e391.af471e5f178b086023883f69be02c1b4.b7afee995e0e55653887a59879ab533c&signature=1c839c5dc6d9d1245f132cc770664f36fb96c9a4971b2f8de3d9c540122e0b6f|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=406ba781a991199aaa4b31cb58ca4b1cd36447e6db8f8c34051df7b6a959af25.1777196047.d6f6e4a35e9aa3e49b419b9b9f4f6227.e889c1ff53b3cac793630e6e15ff18fb.8f2e1c58348549ff784494157a1cc183&signature=e5c02c34611aaf4bbc98f3040b1b90785ffa3a17ab15ff96bb94e7c1a8445f4a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=59c7b8e2e8c8906e886a68e88d88fdffe2608edbe3c09c58a0b86878d52dcad6.1777196329.d2ba8c92ae0acdd50fbe881e3d2f8c94.72a24451bf35abd5507b3e504274aa10.38f0ddbb967230f3a78a294c6c1873ba&signature=a50570bdb978aee4d54a104e48121302d877cf4dbebccfa3dedfed5f4a9ec841|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=64391e2c395214713f140da362a2c79ca6f7e8283f786b243c862772eaedc050.1777196048.48f97cd507532b3fc377d985cf2cca50.3a71429b19e43d4447a455eba3fb01e2.09f73fdfc2b8abc010beb159400e3515&signature=01ff58df528b33de68cbc381a6aa200a0fc68ffb0046be023581ef2151c796ba|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=84d26ee5f0064b974fe3f00a51c6cdac426906349be9fa3fa67bee23ada62d7e.1777196330.fb5458757c5afbbbc0cb28cc57b8c8b2.80ec4459316e6068b626632c9abc42b2.1da222e678b7d2a96d862b19b437954d&signature=88c2f1ed544bc306654d3a4f84f7e273ac6b09c981e1283cd55e226718740159|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=1e119181dfbc4cb3ee06fdc48db09957070a629bd59315f260c6dfa2e61fb69b.1777196048.7cab89254e82d099663901130c790fcd.2001621677d4505286ede274dc5498a9.8b1f65bff91e143dc3d4c63d5ab34c71&signature=a00c352ced0b614d577196960e6d4b5e7037c93c7e56f55d68acc31d7ef8f0ed|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=242e703bea662da056b9a3d0db8cd4e637151d663fce595f1e1647ad76ed77a1.1777196330.4fd80cc2c7acabfa8eafe8ab9c653bc5.b6c69614613c9762378b025c3f163659.08bea98454c9c49951437bd634a67f9b&signature=51020349c3049715917e91e08747b74fe8e701e21b24c98774ab16441ed33d59|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=ecbb15db61c2f2336336d2e32281787faa14df446795a252eeb4345faaaf85fb.1777196049.438c3ddaa7049d17617e533372560516.76da1c09a2cda00283f5ed108a903cd8.d661f2a1e9fb60400accc8323b68a47c&signature=0d0b375f1df8903aed69b929394a7bf63545b11c60d3122741535d6fe5e1071e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=0c380ab56c94325f52143e81825dc1ba84e34673c14285f61031a5eb39619684.1777196331.a76bdd3fb7435abade0e579d8d6876a4.4c529df830a4f01041e3047570f1d12a.8821b4d02d8fd3bb7230b2596deb4e1e&signature=5dc671ca6ff3c83c8e28eb3f97a0654688eaefa51a0fb50557d127c2714b075f|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=8801b8f88d57424342e88f05e02821836001e8acc915cccfd10badae5e86a0b3.1777196049.05d18783bd3861a0e23cb03f8da3787f.e18e504ea2256c1869c3e275c43325b3.d8456e836d786641e0596fd7ef106ee2&signature=fe530602b3491412fb43d9b348b8d9969172d102b1d8ed41a377ae3592c736e0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=a8ced646ef4ed5751318166d534b67bbaac1f6988c7c4fd4fbcc334350f79990.1777196332.aa495b9019d8fb57bdf1691472524a20.39d5be0eb8120cf51dc3bb4be30db68d.f5644e840953f670891c917c3624ccca&signature=3f435deb8129dc0b57efa6f27279b1cd68430c6fc57854932cc28dea398dd5a7|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=f210e83807476b89f9cff0e11da3cc16d1d54472d288ecbb96ea4cc12748e975.1777196050.851da58fdee45829023ba1c85b5305d5.efa5c4967593ae037a0795edc6f5188e.c594c0d1ffc033eea8e8379bb2b25d24&signature=6cd13bfc9f3b5a11e220036bc50395f89bbb8eb976021daaedbd5e252b4c044c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=b05e6b41d51c02f88852d239b85591985e4e16861551b4d86b358ed2f580d9fb.1777196332.8d7f127cdd554dc6d38831b2cfca0f90.ba7b02117b0ef99ebb3f2811265f97a5.917285f7b9b607a3945d12e6bf5485ac&signature=cc617df7302761daa204a181631895207899e78dbe1f1655424c17952d15b068|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=764accd4b552b0c026d69a111851db71b07b448882a350294181b1a6fed47db5.1777196051.5dd6bc47a3508d07318de2436293f10f.4a0b9ceecfd61b625611048c224847a7.52de14aeef98a906ab311e742c77ef92&signature=db51faa4de9715ca8d49c9f1017fb5b281818b99368edbd3e4cff99db9f7b229|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=6d36600f606dc07bde176b4650eed73273867911247a9fee6f9195c367da13bb.1777196333.34171005b7bdfbf29fda2d9f463d955a.ad245bbcc8ab3a3047707adca54433fc.6094323537f4b235e79b2b2a65fe3b6a&signature=1f2db5126b036475d5c5260f445d962bb13945a0268b053e25a9d0bbd9a59ed1|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] County Championship One : Surrey vs Essex vs  (Sky Sports Arena)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] County Championship One : Surrey vs Essex vs  (Sky Sports Arena)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+arena&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=4c8d2208d93b59ee7daf3d76c246302c8ff4c495b8f96e13ccf70f0bf44aedbc.1777196051.5d6f7eefc8c73f2ae4cb7f9cf1a62ee9.8de2d4dc7fbb2596f98454d201e562e1.372cdb8acb54100a5043b6c0aa160b22&signature=56c09e4faa268ee8a32d4ac6bed906f0bdf4cfe165a5cc6220f243407d647326|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-arena/playlist.m3u8?token=ef4cd6db87db64ee7559aa54f43bae868ccbd39714e1f7a7134421e39d128795.1777196334.a4d7a9dfd05fa54ac98b097619615e5e.d27650603db8323a768534d8c2ca5e73.2e037c63facd1c1f3a400f7aa2bcd934&signature=1c86d0197238175d1c053b7fbf441b11e184feab0ef07c9ce7a6fcdafd91e783|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=eca4d75f685f0136b7d01ac859bf4258327002c389ab92bc5ef2aa7a5b8450b0.1777196052.0ee7bfad3aaab37bc31de969d1b71f2f.7e5560c379e765f59f42698ceed04976.2fd292473d888ca584a53c94749a1252&signature=9aa6b6204c9a4a68ffed39a69f82de43838560154bff4efc97cd3fd5f23fb950|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=5d6ea366720f287baca43e835294682833322f53fd8f2d563398f90b8061d9f1.1777196334.e4138b88ff1794d0cb9057f7e5205a56.83d726b2d86fe5e2e20936ea1e3e4c9a.9cb77fa40245fcd7f604fa45a2a40390&signature=d81a8213a54f13ced9301401920872ecd050738e3477b8323699246410594ca2|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=0a65cf211c355cf643343bac6305b809197b00cac67a84743913fc102e1e0e89.1777196052.f5bb7cea59188ab73b0a590cb8d99942.2a0d7cdbe9d2864d3acbad91fed2c349.16fefa377c783a81be61877df13015f0&signature=e1f3d58ff5386704f29fd2dd0774ab67a96ff7093aa74bef5ffd63bde65df8d3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=923fb63e9480a608d5dae557ebb67042375b9575a1d491c47fd1d4bfbea6cda0.1777196335.65b54940a98d3e8c38710db988c9a222.cf559270b0dfa05e6538d63fcbe1f167.269a0c9d94a3ffa677d54e0645e50b1c&signature=1a860a52eea6e57b283b4e2f9b9af80c3e2cff986e5d5403ed60fa4ba278fd5f|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=10b2d4ad153be56441538eab54d80bc53855037ed593af048caea5f6aa03c938.1777196053.79a6173ffdecfa67d911e2183e99b23e.23dfef7a8e7c5adccfd9d42baae788df.ad0837f258377610fa4800b28640e5cd&signature=4323185b87596584324226c4a9757ed36b6c8c14a3a252b7bb09bdba759a6c6b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=4bec4763787d265eaa47639a145c8d3a383b1835e39114cf7c381699d1df7555.1777196336.7de809bfd7886bd4d7a71fa58b9407e8.8025aa8f5503018084e784f5e94be386.8d1596ff66c67e759f60f02c7e8c7623&signature=a0b99aa1a9ff34a7047d2cee01c11cc34b2b8e885b4edd5556dbc090529cf2a8|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=1775f781c7391fcfd7d6b92b2a6a4087559f614097305fed826f574237a50b2c.1777196054.3930ebf904f051bb9f7298ef2af76f08.23a89fd9ef113bc8ee929aa4d42610b2.51ce191862c9e07d4952b8e7602771e6&signature=874b37fd1a77ce8a5ae961322c53d141dfd8648cbadff0e9b2ae4ac084e1be08|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=29337656b06381ba29913612c917e47f63b4f13b32637ae6132a3fed4a779c1a.1777196336.bbf7a58af47b52abfaee4f7196e39bc8.ca035b46c79dedcc4488d71bb4385e53.d033d9ea203e30b51b86cd5d77f23050&signature=d598c31a280709623cd2cb276f966ba1fd3963ff85f08cffed23d64ec9dd636a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=501fc13c9d7e8c56d33678d95ac1408829c2f859d06e1aa9a8a7a08799a8d9a0.1777196054.a200f978fe9e1b3def344e42b644d126.8f9ce6da34ac66d55162861960907303.35c804551cd3945b005b9e38cce6320f&signature=d519c6c59c0b0566f21d054ff64e9a7033d813305b411fdc0a85dd4a02dc6bf9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=6dd5247355f2cf9ab5bc6ae40d520fc9015efb2bb3b6b50ad6d164e3f099a73a.1777196337.2f05a387da059fc11f2ff3662bee9dce.5c08011b14dae41fa26c872e35ed6d26.9b6dbdf2f5c6921f6cfb0ba0ff66e6fb&signature=18e52f25c5c4a5809a520a6dc7e99986c43ed09189d2f57afc92f517ff79323a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=b21b9237a955a930991da969a17188fba53452dc8c2b317a7daa1d9b293a3f82.1777196055.fb4cc4b4778d61e4e84873bea0bad09e.485eb6c67d3178e32d5355a0b343dd8a.a0ee4d5f8f9cca6eb7640aa98529a1f2&signature=3124615344434df34b7111de2aaae588640e98be7a2e989ca05986d9028f69b6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=7da026b07e735d2f5177b4e61f4ed31f1d1cc02b30519a074b917986de425ddb.1777196337.6f9a32e5e908dbd128830f18d24a4c38.ad2814011f0045c356ed9213957ba64e.22466755eec42f1ebcc9d36383919186&signature=d2e9b80f26a01f02d660cf90b6a0f607c7a5678423af9c083a71a78bfce0001b|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=f4e5177e2b4d9f9b79fa56b035bb95d0a4b1d1ccc8c6bb490311e49178ad3d3e.1777196056.be2de4042bdd057adb0a158b4d132116.1301b6e64b621275e26f7e7fc5375927.252fd133340c58c704b282d314d5a5bc&signature=84b645fb0f394c9bb69f2f93902bcc590a208b84139110f483707b044ec555d9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=6f2af4e303e8b247a6b5a5835cce98d757e1f89f5c46ca43a9df183455684103.1777196338.5a805d7050af5b494e1ef28e59a9fb41.b6d1215335aba5bb0b4c6f214c596748.371d2a19c326f64cb8c9a793df7274db&signature=62347cb14f4942101cd7a17a601792230179aa886ae29abda318198d7c15439c|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Chennai Super Kings vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=deb7272d1b9278867cfc9f85640e5d24a8ad3669ff4a90fda8bc12724f9583f9.1777196056.dcd610973f9ece8cad21eb3d0192c282.9d6f8287dc501bf3663ddc0b001f162f.9887479ba406b93edc9a068688e14b4f&signature=7dcf863367b81e0d0a889fd0253afe756d06b18df0f8bb1e5f811054b7ffd832|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=acee82e7863a7b8561a5755287540501256756d6daaf3f4ab312a6ab8e88ed8c.1777196339.44eff5964d4259a76a3634b772e2bda0.fab130802d8debeebbefc8e1bce5acce.7a80da4c9a7e6e610cb468e7f1110946&signature=2532f747273067d3f1bbdc029732d302951088eb9a86caa9db1826708e7aca64|x-forwarded-for:77.238.79.111
 
