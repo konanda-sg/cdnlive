@@ -1,10 +1,9 @@
-name: Update Stream99 Playlist
+name: Update Live TV Playlist
 
 on:
   # Allows you to trigger it manually from the Actions tab
   workflow_dispatch: 
-  # Runs automatically every 3 hours. 
-  # (Cron format: Minute Hour Day Month DayOfWeek)
+  # Runs automatically every 20 minutes
   schedule:
     - cron: '*/20 * * * *'    
 
@@ -19,6 +18,9 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
+      with:
+        # Fetch depth 0 ensures we get the full git history for a clean rebase
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -41,6 +43,14 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add live_tv_channels.m3u
-        # The '|| true' prevents the workflow from failing if no changes were made
-        git commit -m "Auto-update live_tv_channels.m3u" || true
-        git push
+        
+        # Check if there are actually changes to commit to avoid empty commit errors
+        if git diff-index --quiet HEAD --; then
+          echo "No changes to playlist, skipping commit."
+        else
+          git commit -m "Auto-update live_tv_channels.m3u"
+          
+          # Pull remote changes and rebase BEFORE pushing to prevent rejection errors
+          git pull --rebase origin main
+          git push origin main
+        fi
