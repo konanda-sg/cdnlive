@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Chelyabinsk vs Ural (Match Premier)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/36276.png" group-title="Soccer",[Soccer] Chelyabinsk vs Ural (Match Premier)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=0e3bebc8faaf8a3a5207ec87172748c39eea48665c3e4b3b016ad4b7d9c87a4d.1777191457.2fadcbcb6c961afa0185351a33a5d824.6f304c7e11e3f05e36ffed036cf16077.8782d72a19e67a188c0390ab36dfc00c&signature=599ef647dcb4818d50630c32ae093cf623932d2c3f19d650920f075d4bf85761
+
