@@ -57,7 +57,7 @@ def build_playlist():
             else route.continue_()
         )
         
-        with open("playlist.m3u", "w", encoding="utf-8") as f:
+        with open("liveevents.m3u", "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             channel_id = 1
             
