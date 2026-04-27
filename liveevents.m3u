@@ -3,101 +3,11 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=07d802ed666553fb6cc201391235fd1371ab92325dfbc9b3ad23d061f358a4ee.1777329781.7af0cc3cc4c71376a0d6538b037d22a8.d655bda9d5454826aac7ccbe54fdd616.09554652e4497d3ef0edc6897fc97c70&signature=b2d3deeecf9eec1aa4b5eda4907814b53dc3297edfe0207f899d482d36a67ff9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=88471d5e88502773258f530c79f834318669157a7009276bd6ed34ceca335118.1777333487.5d829b110793adb505b7a9ef27246842.3a3f66452085e0f56b8f2f3927103b0b.794c9e28b71c6abe22000622eebae07e&signature=f3ccdffe8c0321b1509b948a3646616ece7ecc82e49dba24b78a7e60c33c2fc4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Huracán vs Argentinos Juniors (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7629.png" group-title="Soccer",[Soccer] Huracán vs Argentinos Juniors (ESPN Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=8d146ea783a2c1b9e0f2c511960400c0cee788a942947cc58eb9de871cb23e9d.1777329783.bb1884643529f41c32607565f3eafa29.f64fb3c7c6e8375d06c346be07ad0519.23380f0abdcf08d9132770112835c41a&signature=80daf932d6c1b341c1bef8a5e2a92381221c153e0f36327c274335bf6a14b4eb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=7d7cb949ac4c4637ee7dc5d63274db9f48d608eca5af41f242a322e6029427fd.1777329784.30414738f96316e052dd873375d63391.0ed4b05f63c89bb87c659adfc5ee28df.f8282792d6f3641e094e006d8a3bf06a&signature=8fe664540d1ccb2c5952d79daf1eae8a5ed1ce4901a6fc58616964ca683b99ec|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=e36632e96dc2af5275aa851409ec324e7bf671cc99caf827657eceb637c17117.1777329784.76e25bc8f3147cb65b4bf6db3f577720.d7a7438a69550bc4d7a7be8719b57679.7d0e081758c105d505f855a865760f76&signature=da97cdd31e6d7d665238882398081fc5536353c105dc124fb5317a7c6a92725c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=c6f0f0cbdc48c7a4af8d82afe087e2b591d2c27b74242e700eef27d5dbcd8b99.1777329785.dc26069632fb082a6af1fa6fa544e147.280928cd17452f144c862ff98844e959.7272c4e0713777ec54a2e52b7ff6de88&signature=8a3dfb5faac76bad6b91f1086ba6139aa58f38ef768f9bc129306752deb4f3af|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=6bdbab83a3e862a329769587cf8dd35aad1a33c10fa47c020b13303cafce484f.1777329786.625ba4734fbb59fb4f4dda37c9043606.21ac53f98d264dae1ed666c607455d4b.046a0d15b02e94c32a8e3a6829a4221e&signature=4bba83f592b6a0ff478c8c521f586e332544664369d9cc3a9388784bbd7b0425|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4021f6021b869245cc63759c01cb56f0af1c64c7cbfb505ec787900ae8eb0937.1777329787.4daadfdc8c52a9367adafee29fdc7a6d.261faa84b3e5648b6fc85ea999cb4c65.97647cdc84ab779afd79e17321d471bd&signature=f10c5f519df5261ab34c41a8f8e46a6d1afd5545ef856870ae0ce94101d549cf|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=884d93f29455cb22f01aad4054fccfef37a7afde22fb1ae00516ee65676bc6e9.1777329788.afdd8f29c92ab5026d7f7fc7052be78a.fce4ac9c4e3dc78443136c1b3d30d9a8.c1971ebe4dc2db0aca7519eacf66bc21&signature=a041c003e0d90b110bd9542f6fed50e0c8c57f499bcb147e9b46ad8b0ef85d7a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=b0bd2e1f2fff6d6d7d3b08fe96d7c2ae83b6de7ea07f50aa672d06d2395ab81a.1777329788.cd7a0ff049e0978a32179a0146f5c4db.1bb528e62cb69abb38df1dbef92740e0.c068a299f2463d509097f3f9a16d6e74&signature=5239655c09840555c11521a05e36aaf88081768ee15c7ba0781ea10af522ebec|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=96419a20fdb130d2373c55596788faf67b9341dce1737f18da5d4cf11adc995e.1777329789.194d3b046e54b5fa9839427ca5064d73.8b0ab77f4a531c5d00a49a6a1043d1ba.e7ae524372a0f42415c417390be77265&signature=d9658d54d820ccfed078ba16443661ff0285bb841b02487c9b0aa396c554188c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=21ce3328d18d4243c78488521eeef30aa7e3d1d933e1e862be93429a577f18fc.1777329790.b257be9c12f3bad74e28dd5bccc1cc69.aa59e0083d5b59c14b9bae48ee4688e8.0e2151b639648d2b5d8fbe6979e6dc94&signature=e2c78a08100d24011e209bb5f5e6bf69fa46d4d1f861bd1db6a5e03c31c1dfd2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=0f5f63d081569d9fd1dc763881bf1862f78cece1ee298047a1989b69f286880e.1777329791.16bd3ee2b810a8c1ae9f9537ccda07ef.a756964a5a3735c640b15a5e04366b28.e87de56be482c41e1fa560956f3e9d27&signature=44c502c45070f08a9c0563d3262fa62604f85bc6f28a8024c9b1f79df54065b6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=7ce22084462d28e806c1177e4f66ea7d4bcedc91af80c5073e85e78d54484b75.1777329792.b16bf0bba421f5d2d31bec26b5804daa.1f24647bc27915ccc3d9b5c4bf489df8.7c33fd31dc6f0fc0fbe0e9c2970eee27&signature=7e1e9a693e8a4637475d0622bb91e48cc01fe166056bc0c742718d208e064dae|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=4082f09ca83e6aa716dd18f679f57e1316fb03ef35dc81e0cb5e280997b43470.1777329792.2b1839435033d32b9029ecffcf2b743b.ef68cec2f923cbaf8d8dfc9922214c37.faf4738c0c97bf8084af5e260981a91d&signature=3e26521fe703a2bbdc57867339eec4436271f57bbb46ae76d992a8f4ff63330b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=74ffefc3f8cc43fe6ba2a3595cf4a51eb5089bb750b4b6a4afd19871ead17ddb.1777329793.1ea84ab7b0e0cb241016e8b801ea76a8.84e3cd4e8f4837bf798785e99571fdd2.85bf4e48eb645984d195f0c8b1dac3ce&signature=a31a12ba4df6bbbef5b971ba1915aff8a432a58f9e0b3391357ed5c183532f3a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=231a0f11947e3203e7057500ca8a4176e5961d0db4571e68000ab8b4098180af.1777329794.a1e803a0feb02079e5258fdf9dc804d9.73356cff7b7cd7b061df67978ea9814b.b5314037eae445e0f95fd62e70a2020c&signature=f63f5207aa3088a7f349182ef3b50240e267e7b51debbf9948635a3435ce977b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Royal Challengers Bangalore vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=d144f5e0e0af2979ee3b063c0e7d9de73dfe5a0d1d7982b353b657b21e920be5.1777329795.f2f3a344eece8c60ed004e8e46c9a916.e17072a446c843a2742db66e8ab03ea6.52d8d1b9bb6703ce6bb1db3ff3d49fd8&signature=385df1128fd06e3fee9a4ccde55e0fa1057685ee85767debf268cdd8c2e8f233|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=5915da46a9a331ebdeaf4bbff145cc9b4524a55b47c36a185e833284d8e70d53.1777333488.07ffb7341127baf5d4af558246fff736.f2de8bdbd962745372037618caa13584.33dc2d68342e645a96d0f38c4c599792&signature=43f5fa89d265884fce880a038f81849a6ed235b3cb27747941931eb8ddb6ea9f|x-forwarded-for:77.238.79.111
 
