@@ -1,205 +1,169 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Al Hilal vs Damac (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Hilal vs Damac (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Lanús vs LDU Quito (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3218.png" group-title="Soccer",[Soccer] Lanús vs LDU Quito (beIN SPORTS)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=09f72bc4bc5dbc7dbd0e2c96599e88d73b120fbfe24f534d25eb03dc0dfa6452.1777406296.7ede60b8abd1086cfbeb2fc2d5aea886.b1c1fa6e35c4f19decbdc8057be9f940.42c9c992e942c31f3e428b04b64f4513&signature=c896504872c8ebf22a8c33543302c066eaf5e0f7e29cecb115e547ed44cab1cd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=bee60d6d56268b6a6efc69472f83ae459701b6a29ed58e9e219ff0807018238a.1777410357.84b940f3edb2bb7ce11c1b21c8382ff9.df0e1b82a47a717a0feb4650035bb28e.1fbbc491e267003be9c3b540b5870224&signature=a7901ae1ed4111038814673cc3c1b8626bb8f146ae1d046cf9220e694f9bc424|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Al Hilal vs Damac (FOX Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Hilal vs Damac (FOX Deportes)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=8dcf137ee3d9050af2b58d40baf714e6b836769e96a6b7e73c96015edc9c65ef.1777406297.8e2f0e95759d71fb52f7f58afd26170e.27304b2c1be5aca9758681644cc0afa2.bda8919a618d4e8791c5ab1c46cd2abf&signature=5aec8e3e43515c27386e3a23ca9a15788a2d242799ea75a72ee26af18da498d8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Al Hilal vs Damac (TNT Sports 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Hilal vs Damac (TNT Sports 9)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Lanús vs LDU Quito (TNT Sports 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3218.png" group-title="Soccer",[Soccer] Lanús vs LDU Quito (TNT Sports 9)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=34000881c48e32d9aad90be2b995d02876da0ae599af54e37f631070f0a3f91a.1777406298.34962193d260c65b3caae245874ad03d.432aceac6647e9cf164aea737ec651dd.f555549ed65167ca810196e8e2334346&signature=f71f31ae3baf7681db1557edb1a0fa7881ef34f06ed912210eb0c0549707ead4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=9ab00fe4ef81d93145ef5cdbdf03544fea2ed6ec549494eff9c39a3d47b1465f.1777410358.3735a76f22f403e7a26a265fc17e3f66.70eae653c7648459a2648a3837f426bb.f543298c1b1b8dff3ff77cdc7371badc&signature=48460d0c0ce2ae05eb34824178e6ceeee3af705f05961dfa29124b1626e73489|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Al Hilal vs Damac (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Hilal vs Damac (DAZN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Lanús vs LDU Quito (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3218.png" group-title="Soccer",[Soccer] Lanús vs LDU Quito (beIN SPORTS N)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-2/playlist.m3u8?token=44bc9d5df921c7e5153fcf75e994c558bdc1c740c9776639698cd0b7c6cc668d.1777406299.b9abc300a8ed05c43cb3998588854ee7.cc10f434f6b0f55366fdb4d3bec3cf0c.117c4fd14496fea5ea9e1dd49fa9b3f1&signature=0f3c62976623377c320597c1d6f612b767cc6d1154096595b0a85cd455a0b1ff|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=b051dcf73f2664325c6dd454f5c159539db0e89f4151b2c10de167997dab7915.1777410359.21ef38b02c038e595f50d7e7c112aff1.f5d64a24bc540b1f58e1c50a6598af2b.c0ab00a1d1578e530123d56305d9e9eb&signature=f528f08ab078c5f1e12653b726a4d668087577bb4678f3718f7621229005b295|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Al Hilal vs Damac (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Hilal vs Damac (SportDigital Fussball)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Lanús vs LDU Quito (Vamos Spain)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3218.png" group-title="Soccer",[Soccer] Lanús vs LDU Quito (Vamos Spain)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=vamos+spain&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=842fe91a308c1773e635e3d3998662b4bf8f15e969847b55b8bf816d93c8eb33.1777406299.e34b15b1db6f2ff72c039e3eb20b8012.d4f5b0ebd2e20a52ce427f4b2371b2dc.5a44598421bdd2ab70a67a90f31ea026&signature=bc895345acb50a1ac49848859185af776a9bc55493423148049a009a410ab5f7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-vamos-spain/playlist.m3u8?token=14d5674f9588866dd05414bd51fd7b7d15c8e747331d9563ec96b54b5241d2fe.1777410359.de2988505dfeb047ae38dcc4e7727c02.ba715bafc8157cef92e905bc0b3db66f.b5bef7fdfacd074f66fd62a8ff1d7754&signature=65175c2ac838021f0d0b8e9f7e80fbba935597a169402de86072cd2ea6be72b2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Al Hilal vs Damac (Sport TV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Hilal vs Damac (Sport TV 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Lanús vs LDU Quito (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3218.png" group-title="Soccer",[Soccer] Lanús vs LDU Quito (Max Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=a335df03c07bc7c0a047650906d5ed5a9bf5da07fd8cf527ca9644eafe9c0640.1777406300.6fa954f31d5baca82b21bb2887b1d425.b61e93d2de2b292c67c35d47549a8ad1.fd48cf20e0f7e17b984d54a626610ea7&signature=1cff6c1cbd91550aa6c1a54fc27e98320679d24964d5bd2e5a132ac1e1b4344c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=9c68c38aa7c362dd99662eb9b4813f2bec963a5f2eee2dcb8a1bb85faf7825e1.1777410359.1659effe3f79230178b01c1ab4e96661.9fb32fc0e5b3aefb56d846c5525f022c.65e5341cea88b1bc9d2e163c9aa2232c&signature=53efda398f1abb0ee118e9a5f2c4768ee479664002899345e051a05f6fa7a0bb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Al Hilal vs Damac (Cosmote Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Hilal vs Damac (Cosmote Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Lanús vs LDU Quito (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3218.png" group-title="Soccer",[Soccer] Lanús vs LDU Quito (FOX Sports)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-3/playlist.m3u8?token=ea91184f9e2ae8ac517caa74ae2ab70b6b3127f26132753ddfaf23b629caa135.1777406301.987887a42c20ab000451c69f5bdbb30d.926abb44e1ffdf9a0c2fe0220487c3e6.53b6223f81dabbd70c44b3cd456fcc15&signature=3219f9566354aec055f0f833ed589b9d9b8cf079a1f08fb6c02488cf613a20ab|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=9260b230ad24c5f987b041143fc123ff501b84c57c15eb37ebfdb31d931f6251.1777410360.e6d5f2fbdf5b92a290341c661d466842.a31483d399112c46965e4fdf7aa711d1.a623f1eb32793dececf7007dfd1b72ce&signature=605c2778675eeebd11bbcf449fae6359005ca116aedccb771af16cdd06c473a9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Southampton vs Ipswich Town (beIN SPORTS MENA 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (beIN SPORTS MENA 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Lanús vs LDU Quito (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3218.png" group-title="Soccer",[Soccer] Lanús vs LDU Quito (ESPN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=359e6b8803d465f8c76b4d9b146b19c55e279443d74cc3cebf69ac6418d7f955.1777406301.72ed2d70a309870547718b1c0888d820.16fba5bdc3d4dfab3d75910164f17eb0.e8c5d006305078e85d2449172cfea95d&signature=b57e919cd630e9dfc4f164d5d797f0ea5d92d765c8d2c9f388cc22b91860eef5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=2b30c7f82a976925050aa3a75dd486dcef8e8fc19d8fe2ef28c8e0e2daf76c12.1777410360.f9ff9de56f7c895d5fce9b9cad49aebe.5a47d4ca271cb1baedaf6a2737bb3aa2.2d8aec07f52624f4caa1af8a5fc0a837&signature=f2770c1816f6d02073bafc60af1f861cd67d983af78105f17b6ee998f69488bc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Southampton vs Ipswich Town (Sky Sports Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (Sky Sports Football)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+football&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+football&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Lanús vs LDU Quito (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3218.png" group-title="Soccer",[Soccer] Lanús vs LDU Quito (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-football/playlist.m3u8?token=35849bea82b89d81e0cd4841c0857eea92d99aae7c4ca3b5d9a914e31d789503.1777406302.e7f735467ea518119da6f0da5916097b.172ddbf4a6d8b19608750e4a48f8b8e5.abfecc095ee294eea4fee7c83d8e9b61&signature=1f872757e03a36097ec408d03f4644f5b7ee259d3d2f43e26625a04e3bc18260|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=f196f385f54567d0fd3f61629535c59f35d6ceeb66e8912cf3715cbfd0be1077.1777410361.868334fd7a0bebdd3d12a9fa001f4cca.53ad64243b6e3f4312ae6da698274663.cd202eccc440238cd29ec5fc4fa05961&signature=0267a5f5fb6d7aca291d799e56ebb802b80fd2009a8c444da72c99fd354d0714|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Southampton vs Ipswich Town (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=68953774aca4c57bf2725fe4ca832c1a17de5368c36f76ffa4f02b0edd220e44.1777406303.0a7c8e3ec27ee0422d310eaa7bd5f2b4.60ad910f3906e8229f22aa898e86ebe8.d5e6f2cfbbe81bcaff4ce19725665564&signature=c0164d3bc5e095e01581ea5988f4ed1e651456287a4fff7558421c35ef48568a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Southampton vs Ipswich Town (beIN SPORTS MAX 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (beIN SPORTS MAX 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+6&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+6&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-6/playlist.m3u8?token=168684bb726be0309dd4765b54d742dcc810b31afc2a26cb5fe2def4d36b55cc.1777406303.ff4027742c3509d8068092dc3cb89396.344184b3b99b12db7ead2385eee4b269.3a2a8a1139a0947c9e7a13409a55f2c9&signature=3dc4396633d6a62bf9716b68a1e1d9c8f6db749e8730a44c9bf5d0722f079aaf|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Southampton vs Ipswich Town (Sport TV 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (Sport TV 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+6&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+6&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-6/playlist.m3u8?token=48a0fc43ed774eaf315fb031878f1e46285b751ba5c68db00525a1bbfc53d20b.1777406304.5ce957bc789ba1454c3038d17b38e1d9.a0c9148a3e2568775e9a2f8ae43a85e9.a87b9146c1cdd57bd94c2c61d2074fed&signature=f2313ef1093aa14f6f054a2823c7e842f4d7c5740737e3c51a232540e3d46d24|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Southampton vs Ipswich Town (Cosmote Sport 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (Cosmote Sport 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+7&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+7&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-7/playlist.m3u8?token=565cde257c043a0de4e783c9cb28ed6f043f38698ba1b29ddcb4ce3ae8cd36d8.1777406305.214fb35b185531937b2c9aeebd11c82a.4a9f1f615292bc6182592d454c47e602.2dbfc1b891373e97773463ac5a4d7986&signature=e712b2a56e93908e4de1489b6f040d68d7086f71f4b434deb9b3bd1c472284ac|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Southampton vs Ipswich Town (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (Diema Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=8dc488191942039f2a8838bbd87ae5b2e27aeb546099f128f0ec113863f8875f.1777406305.3180e3dee95f9e691b8a4f532eeb7020.43f8b34e40e55f8905a24a9bdf13322d.174aa5ba335586c8a893106d8f9dfec6&signature=7eff7c90d29bdf462443d06b847f9a734c53306ae1ec5ac8f715adaed24196ce|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Southampton vs Ipswich Town (Arena Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (Arena Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-2/playlist.m3u8?token=2057339a3c9cfb30f3c57a79925a3f912d3c884a4a87900b3e150d26c5a2d779.1777406306.bfd45e7db8f8ed79b26d62aa7b9dbad3.f9224d3fd1bf8a7e09a85e25a1b2775c.baced747c9b7066f6b70935cd4c1b5d0&signature=a042abbef0528b37f620b5960c8141ec4effaaa13bc69c8b32e10c7100ce4a0f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Southampton vs Ipswich Town (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (ESPN 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=f297440c31ded2e19510247790f8cde5fdbb077bcbceffb457384f25e750e198.1777406307.676a03e55a8016f56f3401ad20c5b807.ea60c607ddb3f42d65428fb2eb4ef410.eeb84c93b4655557e115ec80447d2446&signature=fdea924ef91b82f10b11d351b4aebef30ffec67257cc172c967779a49c9978c3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Southampton vs Ipswich Town (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=e133eaf345ce41d20a56068be07e40b568f45802d4204113f48d4cf66dd8608f.1777406307.bd8af3004d20615e832496e1136cb633.b533758840b8b2fd160f7ec96b0cfa5f.45c4d3d716fdd49c5982354a81db0cc4&signature=27d86d919e31788802e5d44fc1a1283c866ce59371aec90038c1880ddacf8eb6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Southampton vs Ipswich Town (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/45.png" group-title="Soccer",[Soccer] Southampton vs Ipswich Town (beIN SPORTS 2)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Lanús vs LDU Quito (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3218.png" group-title="Soccer",[Soccer] Lanús vs LDU Quito (beIN SPORTS 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=8d7b9493cf2565ac08e6b6825657df5d990eaedb08dfbca46b0e7ad3a241322c.1777406308.a45b5549dcab919e212f6fab7cae1972.38c059250e0c7e6b71a143692a04f3f2.b74868c24df5af8cea76ccccc8f68875&signature=9dab5abf5051778a082d0552b1c20de9b7d6eeddfbde859ca4f375dde4c6747e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=554ef4b2dd673d3de69d54e01731a922238d497053775da1c2a11917ced97f4f.1777410361.ea28a7b00598e2f729f86fada2616aba.e3a1e915040382f19f2d7c8af53438b6.b49b8a0b1b45747445f73b63b598ac31&signature=6f2b60bc5eaec2e0e47c64059f3ceaed5e1e04db6e8e82ca9d419378358c43c4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Libertad vs Independiente del Valle (beIN SPORTS MENA 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5996.png" group-title="Soccer",[Soccer] Libertad vs Independiente del Valle (beIN SPORTS MENA 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=691e81c6f8c93385310647ef43e7ececc0a3f31c6cef7b216f6888b18fd350ba.1777410361.818a5bdb87420de6af50792d07525b2e.7df9000501ce3c71ea3e28fae80a822e.2f216d702d17d907601bf54b5280aa5f&signature=a64c70e6a4e9f02b1dad0525f9523e57c72510c4fc49019601751277028d3605|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Libertad vs Independiente del Valle (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5996.png" group-title="Soccer",[Soccer] Libertad vs Independiente del Valle (ESPN 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn-3/playlist.m3u8?token=d04eeef00895f39e374c48ffd0133568a3d40a19d7d0ebf49e8db57511bdbb81.1777410362.31b22fa9718f5398a9e2ddec4a849f91.b90f1aa7a713d33ea537f7442576b5f3.600b6f6999c192e14bd9ee2a2e97c181&signature=1598b47134916562dbabd3687ff9d70241685dff5c317bc9df3adc0b255718df|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Libertad vs Independiente del Valle (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5996.png" group-title="Soccer",[Soccer] Libertad vs Independiente del Valle (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=d869e7925eec0e5c3de1720554b9f0b8418d6c9d0132ad436bc126f6cc61ccbc.1777410362.38d26ed755faa50ef9a8881b1371ad61.71412dc0e78a66c258196ac030c0d298.a857d9cb871321364050cefe7eb53668&signature=c903408190fc4b5634c241f6cab0e3c5e88470dcb8c2c725018999090c37dcc8|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=e5ad29ddbd672bf0e583cd81e373b883da8b05c87f6b3f7e7d9363fceb8b89fe.1777406309.c853a3d9a504b976743b980d2addf4f7.1863961910a8e4b57eb321ce88b8a5ac.73dc0b73cb323370fd88f893cc507d80&signature=165b6b8bc232e924d205c5bc2f5c1dd5a5dbb5c37ec7d9efeb4370fb0d4fbd7b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=71ce3401302cfe7dda5558a401d47a7abe46d9d206feabdf19f4c7f571333ed9.1777410363.a6a1b9adf119407309ea7fda1c7ecc43.8d72f8ca50ef7b57b3b7f9c542edacbf.e6786017285a61a3c41408068a917e34&signature=7ab191db994bb0e359986accaa5f18a48827d24961c3cf02b930d31966f0c3db|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d2d1b3bfb69a844945f4131238ed5650a42bec6fbf0f2615ffa6f42564726d74.1777406309.6cd399eba271d3ebd2e535caf0759892.0684702682c40a63124babb521665039.c1fd9b3b5dccc1170860d386e49f10fa&signature=4439db5df966844f99c9c7c977fdfdc1527a9bd45b32c9cc4f9cbbf25dc9d253|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=03cab91adc787deaa8bb222e34ef57ddc090bd73713eb41e5e6cb1531db8c6ac.1777410363.c47989702a5640cc19647a2df934a122.378f1b9d0efced2b3327fdaa45d99120.a2aca6c69cc613633f72d312a76fe887&signature=3f017567c3be92ec2bd575a6d4311924a2dc3afc6c68408804085e54c18f27c8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=318cc00c7bcdfbd8d10fc61fada18caebcad70b57b4bf34ea6bd80ced73b3114.1777406310.8a9d7f02ffa16538e26a47ab6244aacc.58306d1de9a0775f48fc66177f1d77c6.1cc787939d41bacc7edb88f22596b2c8&signature=a3ef2149e6bfa13a753f0980b116aecf0e2360c5bcd41efad9777a99c39ca263|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=f711988ff366d0de6170fed54482e0c769dcc1349238106b533f14af4cdcc73d.1777410363.8e15473c5b06394683dbdcc807e14f23.0fc6c5875de54aa5e49ffb8b3d78dd93.fd61f794bdc61b3c5fadc4e4076058a3&signature=d0b084a27f81a4a8ca7f744b3c503614081c9baa15c592f3422de87c89075550|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=2d67547fdfc3dcd67c00554e8777783e81eeab5301377d3e6b6459e44686b0cb.1777406311.5d846b61d25e4510896068d265ee838a.6d78ff301bbd189ad59a1e2ea2898161.4d2d4fd9dda45092bac5d6f3df888e7e&signature=82669397987fad2551e518a9fbfb50476cb8869d863d883034a20fef177a18a3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=4c09c4517bcd53edb94e865c6a006448f280c506bac256f4321ac706af814f03.1777410364.0b237753b8bf3310900058d545b19180.ecf177e7fd3d67cafda75866e8656d9d.36c957ba77f947b15b04750cdc41b043&signature=cdd15b37d4b5030f355cb5f56685cb3ac88bc37851034f21400e971f4c24602f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=b329f8f81dfd6ba68ea19bc8d4a2976cb902b0facec70c3928f4c499172fe9c7.1777406311.1ec529249677ccff0dced8f5dbf4a14f.591bceabc0d9b46d336f217efa590ff2.e61f9976ab7ae39d808f7f4a1efa4302&signature=841c8a54eb33eb2473dd8cc476269f3e8d4b458b4b39877c996b1209091a2368|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=2760d7dab9ab7196060a2a4b00ef05b22645a87505f2685027a9d3c8aaafccee.1777410364.9b371a3df047ccb2bb3087793f1e33f0.60b7b60ce07a98b05e517fa67e324c00.3f4c9edd7de2280b6802ada35fbe30ff&signature=9516704f6a905ee397d6d39dfbe533c346a169742a035ac9560506ca20615a43|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=f47340ca7994f48e70369b149d53f3dd81c955df22c4b907253e0078a94fd08c.1777406312.b3b043b7def4ec95d57300d2a4c74b12.8fce8ebd29d6a28bf7e34664717c47d5.d872a7b9d8163cfb3ccf2d6ce0286fbf&signature=e3ffd36a530632495adb7f9fbfb714c4f918486c9cdb578a04878b71df42c6e5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=6b756ca961a21d613eb5afdd9bdbb77b967737fe5df2e1bdbdccafbe49707a1a.1777410365.9f1c2ac9ec6a082b706737fed71bc143.dfb417b3401810e785c62e2ab736f578.20abaeb88d810ea0764c4eb36f265b8c&signature=02d154157c82e92c2d88ef8d8862c1d4e8845f908becb2d80e23cceef1191a92|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=54c9e10affec0b5bd4026a5718a15155d2f734cf7e67d29ce27c5c76b5ce5de0.1777406313.e78a5cbbaf262805b23ccef40958d8c8.d37e75ab297bab27ec3b029026d01714.91a53829dfee9f64f952095c54014600&signature=3f95bde2cd7390d5972acf835bc41c4c300709526cdf7631bf4e1873afa70a69|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=5b7acd7dcf626ffae8809b97d7c39a29746eb40db954eeef82d5566b74b14810.1777410365.92d2ea9e3411597287457051fddb1991.edda85e783c8c136fef6af2dddef2973.61098f4e96ed9c0cf8f037c1dbb3b06c&signature=7d59c5536669f55aadaef679f32d384c8d092752657e6ea4222883b354032a63|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8c50d97fff2da073e1c06a96e8c3bc92d7fed354b9d20fb188c7ebb4615c525d.1777406313.b6e8858cc66a010c9b6cb208b85ec1f0.0de4c35a41c3491040621479b2b3d7aa.ac849935599c957adefabab9457b8e84&signature=2e357bc2ab05b72e62009a7be2728681500ec2193f99a05cb1465b5fbeb2f7e1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=589058b0cc33925008469e8093c9929005c39527a0222f9b94a72b794c15ec0e.1777410366.1daaa43ea0782bb3825ed76be09d68f5.d9642e4b03f72b4c55a9db4931d42b57.8a36fdb9422eeb3218393673bff29561&signature=7e09fe7d16f1ac364b8acbd1792c2f71c9ff3089d11aeb71dd67c96e038d8189|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=18dd54b883932db6142cda1e5cdd434c6a2ca181d41125aa4f58b2a8b5e613dc.1777406314.4c0cc77aa9c71998e257b18c2d455f4a.732596e13cb8b72a34e131c3c5e5aae9.c5c7663472ba2ec88417fb53c9a0b76e&signature=802f03b8a58a3aa8b1cd564639f10540df1a1752514f0136d876cb5774ca3caf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=dc756a176294ee77847b5d3c84f23fce3d93fe40076064d3f109deef1ef84719.1777410366.536dfe824a84d2f96b43a7f272a11b72.167e0aac64f713ddae9eca7e2d7dad27.312766fc7483bdb0892baf3cea23f269&signature=bf07ae6628738724c17d6d5e93b0d142a5f15aaafc57a2ee86350d2c4c9aea76|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1380d08a82bb21691de1d4090b1732035248ec6badd497901f9ac1c2e998bb3e.1777406315.eaee699e3f6e8905078eab506554aa77.ac8e8bf19425570f178fba22ed529b98.cfc71700eec2b83dd6d5bb0175808f28&signature=a9101dc2340660b013e154570a058fc3172fa6212c49f931760908e965bc2b46|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1b4b2164c6433d9bc1f234de2c7b964460cbb34b8ec9e028eff458eafca7e558.1777410366.36f4e89351d58d53a9ac32ab28c0c602.8e1c94203b40846a9b06c1ea4da267fb.342a8821e74f0b55f3ff6b2ad48772de&signature=4b45e2d63bb1e32ff88d990d8cdff0c7828446c1aeb83d82c45ae2da0a5d0ea8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=aaa290cf023e204b0dd0b33ae693ea96496fa19f7100bf4e2f2ec00d968ef188.1777406315.7a3a35e2c58e3006a8bc484336dcd3a0.9c34529cf5d996b9abe4a36a87b4a8bf.53acdf63df0254399ec3bd73b55ccb8c&signature=2c00e9ea4711404e01791c8197a3e26c520dba0e51c628cfa8f230d9774f42cf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=e02fe10331a005f1a7c212b3f937823c5a50a3fa9250f224a9afc67577fed990.1777410367.023aa756c1549471793b14b2db00d58f.f3c4640cc26b31d9429743b0926ff3db.8e497cadf423f8c0bb8dfd0279a4d756&signature=1b0dd120e8fd4aff5c73d4198872a7c54d9b2c3caac30e3670d9a0dab4a2dcfa|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=709c6750de97d18510e401fa2140dd246517a05dbe00d4b9aad1cfe829ec5d3a.1777406316.655ac08b5c32c3d6fbd1a6a032446633.e85a46321997eb70af99c4829204e157.3dddd1dca0910e393babb26f28f5d4d0&signature=85c39355c169491721dc90f75bbaa3f97bb69240a2923605d8c205a999db0305|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=bd93b8a4f90bfce95823575dcc6bd785b1c6f3f15385098a499535d47c9b322d.1777410367.48dded9b1d1e545eed73f2c3d634dea2.79b95c7911cdd911a4562a159d745ace.5c84cf09ca8b6c9474d111c83fdaf714&signature=7a7a62ac69fb59ab4926ad669762b3b721d31f55a2c9940c2798b40fd0524209|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=a9221dbe31f273dc85c9dbdbdc15f5d97ef8f67bca77c82cd7818a594ffcab9e.1777406316.c6aec967e5f8fa8d0207437211b7d673.70aa1f5732ad3fac19a60c8dd0fb5d62.4d6dfe5ad9b17b80990ee8f9b5b99723&signature=6743498b0353693c3c04817b250421bf451d9067dd5cd1806fc44be37d464c46|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=13591dd4af24c23184d007a5bf569d0681a101d6b7ad9fa65ebfa80d1b49c609.1777410368.96781b0c1f52cc8f866ebeedaf824feb.7c701fe5ae2bef7b1ca7d32f92f3186a.35a64447985d6c366718553d27f1fdde&signature=6298315d2db1500ad0b4aa891d52bb80ff35db80db3c23850b1ca89cc5bce516|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=c50cb7fca09e9d232313fd506a70b52bc56470be462e7f75107e8c0a909655ba.1777406317.dd802efe4b23c31034bcc8a0392b75c1.44611a231e2aa2f04c3b8db2e8699907.e73ce0f7f21ae1d9aec6b3dde4138188&signature=7a681611fd90244adf6b44944114846be2b2363b0b2c03cc1b566b218d2b6195|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=8eb7c36060b7a887a5b7333db81b93a65e9cf3d04d6a8bea8ed7e510ae31cbe4.1777410368.b0cb4e8a538f7bc5b49cd48e3ccd3262.6aee1b6240421eca70d6ca3f37d4a101.429ae6a65b09de79b1603b0b89aeb031&signature=b60754a38264a266b872c4126be158801ee930ddf198a6c073f556406fee91a6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=990bff0111f20306b7f684e52b5741a09e714acce5837c52da345b65b5c69584.1777406318.2e808be29a0266f50a68915568c7498c.ee5773f170b7a2ea659751e32d4e075a.0601fa1d8bf0ff01b61bf0b7a55b8931&signature=23151af32b80b485dcd2c07a63afead4a7c2a8afc4915eaff16dbb7653f48014|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=51e98f9b3939ed865ee0ce415e3f768d1088c3883ec811680558d796662f1057.1777410368.950f48fa28ac84aaf801958ba097c178.a178ea8e0390b512fa3bd3d0f6a86893.da78d8aa0a90d14a0811a7058a5b8e26&signature=21fa389ca16dcf6ec44f0163ab349cc73a0d7766eb0b171d527250a7d635f065|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Rajasthan Royals vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=465df99b21dba3d1e472f4c614075711fa505a10c3d3a3e5f7d9e20376c9f9a4.1777406318.70db815bc72154351dfa31f0baab7b37.72ddf7f96d26cc307235fb3e2904d077.a3d19daee94849c4910d2b0c8bf42020&signature=937fc6f5d24e0b61a5e22799c4fc8c5bd4b9567209416a822b34dd1c922ad9c4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8dd7b2b8e5d7b54273a55ebf68652e41621c755f459a71d41b43d6b9fd1d6f14.1777410369.85ea795e9569db9314e428c5e1549684.d52f986e24ba70d643143288c883a25b.2c3a3d2ba506074faa905d0c511e959f&signature=a865a10a05f7d8299cfa4da83e58c93db063f6314612e41f057b5aa7e43db78a|x-forwarded-for:77.238.79.111
 
