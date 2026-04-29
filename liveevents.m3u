@@ -3,131 +3,191 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=e44c081589a4e5f6e612258fa5e7cdd9f337a397ae9c98c3f17d827ba33e7175.1777475161.b0bf6d6082ec50af14803ffcf18b253c.481219f80894c72d69ce3e1647a9a606.a72079fd3f8577b5ee54b81a4e1bcdd6&signature=170ac8b09d82d3b7788e1f370eee01477a8e70163043f410047a65aa4e4141bd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=22535685a44339c129c5876083126739df1d5c3e527dc1e18c40f4c50d57e6dd.1777481701.b7c4ecb0f744e7ccd5632a5d114aa13d.cbfa30b165744293bb502b7241af9345.848f21b4b099572f4cbbec6a668d12bf&signature=9f543f7cf9f144e29f43ba7edc8c89234899caf1066819daa98bc4c414b7fe1a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Al Riyadh vs Al Quadisiya (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Riyadh vs Al Quadisiya (TNT Sports 7)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=7dc9dabc1630fca825b9eb7b27a4bf7d43a8e7d8378eb2bf60eaeedbdfe1d859.1777475162.044ca3504cc401dd6493f885ad5cd6cc.c434346cee81796d0efd436156ebafae.101c4e85b5d820425d5a35f64f090f62&signature=236ad5bf3f095d0ba2071edd3fcd12040e6fbd3287ca07d6533f5f1b42208775|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=41ced352c5f145f1c483c48e387c9acaedab61aacfd34fba2fc0736fe9f18994.1777481702.b6cd718c49dee6168da89a1abf4bac76.a3ed39c590e4256b3e6938247fde4e9a.fccadb66dec85ef28c7d75169529e21c&signature=b9eb94c5e35a1d6b74a5f58e87d9190afbe2fe7c8fc2712cc95055a8f9c87b9b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (TNT Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (TNT Sports 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Al Taawon vs Al Ittihad (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Taawon vs Al Ittihad (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-4/playlist.m3u8?token=d9b510055e60ccbd63487c54010d2759001b32ca32fa29cc1fa4759627c1d5ab.1777475162.59c5e523088d14feb4c98fee75ef6da4.c9ace021fd388cc230ba7947b979a729.4167790d87d1834834d7708690378b98&signature=2193afeecab4193652656f645d60aa99b74d556d52ce080e27ed6bb2f674c54b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=919ca37c8f73e12eaf7de892b1ee8174cda7464d579cbdead8fc8771775ed5c1.1777481703.ef523badc8bcf5d48d8d1c0c4dd5cefd.4153f697b5f360ddcb1fb2e08b3c70a7.c0abe81339bc2ad25ed946e3458db48e&signature=e79abc1806a278c08b450c301071c7bed78802dee0ae3c8aaea91b653f1e656d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Al Taawon vs Al Ittihad (FOX Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Taawon vs Al Ittihad (FOX Deportes)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=6ace89e573291390c796b1b49fdc860aeb98c8d00df171b0d0e8762da8a0cf01.1777475162.a8d69bd883749aee7654d1770a22f15d.4d90494b82086720040a5fdc082bca48.143654f064be240188f42d58124b84c7&signature=07bfe260237427671ba0e87def1a2422b4b6fd804dcb8ce65779b94ba8bd4735|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=b2f902bb7879d2eb94161b18785ce80c615d11255116deeb58b5d0174b31ce8f.1777481703.bf76d12ebef55f7f03be1bd7d5044c4d.ebc7c38a0f0367e92cd9523d85b80fa5.0669b63abbe7f0e24f9d3aab550262ba&signature=93c82d7ae84f1eab3a7198c17be1953fa08d406bca39103c8e62461b7cb78b7b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Al Taawon vs Al Ittihad (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Taawon vs Al Ittihad (DAZN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=adfedf95a882a5ddcd8e4b71965795e7ba7aa8daf830c6687282307a4782d6c4.1777475163.3830434508a77ee3f632d5ad68859539.edb9243a9d84d32ae99a332d262169f2.1ba43d9bef250b251006105ac0de508d&signature=7b2e13ceb073c1f67953b28137e3f27d452313c867ecb7af3873fa48ae6d6a5f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-2/playlist.m3u8?token=6555840f567cb36cd9affa9499ab0fb124bfca9e91f4452bd57665e9eb03304b.1777481704.672c992ba1f826a24d5542e834ce007c.55327219e18a0690238c48529777f3b2.9ea67856a9bb003936c20b05b62fa0d1&signature=53f9b147fd0d30f02425a2cfb71e8b780119f347ebb4029bc46a6dd2fd4757f1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Al Taawon vs Al Ittihad (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Taawon vs Al Ittihad (Sport TV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=b957e58791676a12fd200bbed5241095abcb2ea84ce0f92446936d8ba1fb536f.1777475163.d0f931d350917b4c7d34ddb3f5cdef8e.05a0a6811d840145caeeb6ba8728cfcc.47605a67a0f393c636151ca054a41749&signature=27a84798a2188c97f50aa700443051d189234581e08893f0999ff24a446f2d3e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=214dfd4d546e4778a114f79d2f53ec930d4a11a19bc60e22c108ce3926bc9bd0.1777481705.42e698dee66eff254a24518e9aa8a154.87e3912dac4c6d90955df93d88565cbf.8ea68ca3457c1dd6665a6e39cb82e8b4&signature=6edfdb427d46f32f17b273ed0c40884b1b0f2e6562fac7803b8a46ff023c9f08|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Al Taawon vs Al Ittihad (Cosmote Sport 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Taawon vs Al Ittihad (Cosmote Sport 8)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+8&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=13b086ba582a68f50834e933e12abbe945e8ae906c7a599808a8a905bcf6767e.1777475164.83d491bfe984c3f56f7442556f2b40e2.95157a1b5275239a4281e7f9517f3749.f412f5d43bf369f1280aaa4e76450e39&signature=ef974554b35bbb0460060ea151270835a5b1660a350accf1acb3b96011fcad0a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-8/playlist.m3u8?token=9511c0076114bc1ef1518fd947af9e061a93a7ede667c882c43fbda858049c02.1777481705.47053f2e1a46d77e5a6fd7e1692079a7.dbe9137749def8695fd42b57bb4dde86.4cd5d10d3cd0b904af9cce108af29f17&signature=cc34fc343ed7ed46224550e8e68c7044bb736caad2080dad75b1027d072eef91|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Al Taawon vs Al Ittihad (Sport Klub 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Taawon vs Al Ittihad (Sport Klub 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=8ffaa8b07ae4a008810179e627ca7946eabcc3a5008469b0304b5a2692f152ba.1777475164.a2606570a19836bf60c1cad8a0973744.c9f81241f53dc3585019fad78e8914e0.d174bf7be38840c288875edc2b4617ba&signature=d6269db4bc7b745539984736258c17914a96e759f4c274e59e6046742720865b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=fd99b609b1c10dbc4ec2e6de02b60b577901f20f8a196086fcb74b2b63679e42.1777481706.1658b138324151fcd25d72c02488f605.1d3bef06c2e8365f013d5257a7b01241.d9eb56be23ed82053658af0dccfe9c42&signature=5d3a0773b0fc7c4cb56b0a8c298cb0935161d0c4c499e15bc53fc8bee2b7716c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Al Taawon vs Al Ittihad (Prima Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Taawon vs Al Ittihad (Prima Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+4&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=e2ab9ab77bcb8ddf5213b671a505ccf1c6b6a56930b7ad7ff1120a75c9533146.1777475165.5eaf6c97e870394e93537daafc740002.0129d6a151ec4201cef01782107aae50.b646c30bb6a2e967490739f3f1453237&signature=ab472e3f94c60db393f5d2d551814ed9af234b9241fb75841c17cf7f37f058e1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-4/playlist.m3u8?token=e7d0b5b4457ec8d50a0e4a1c619b5316e1372a87a859327b4adc102efe1adb79.1777481707.c22352f09a1e5d46a11334adfda7df8c.9018297ba5076b3c8e7272f6048be825.2b11c78f066ea36270832b672b0ae38e&signature=8247d2088395b2dd1d0d7f5c0be90a816a439c8d3ec769a6f2f18e7b0ca7d5ff|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Grafičar vs Vojvodina (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Grafičar vs Vojvodina (Arena 3 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=970fe135a4713a852d92ff9e8065aa652463bc432031b7745e23c1a13a4d0467.1777475165.bb0a797d3d1739fc804f2cb24e3d8170.d604772fd2e31255d006a6bc3abac9bf.6a53bfc20b0fe9c66a106ccd1cb3fd61&signature=4a22a6e9234e574275f14560722707151a6cba05d44000c87a69c5380893201a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=0cbfc4462a9c994d1a74655d7890b6fb68e4826f817cbc2426f0fe184b866ec4.1777481707.8621c827d8404edf4d230162cd921a42.72501a91d1b45a63b5608858d4907861.c28cf4d85f1de9f467bc7535224ce902&signature=b96134511385a2443771c9c03603a6fba64e439e8d58c1b09afe4dcf1853338a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Den Bosch vs Almere City (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2963.png" group-title="Soccer",[Soccer] Den Bosch vs Almere City (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=c53974ab080e7671a58fdd41857dd8571883ccd1a3499f36d7a0d0afe74ead94.1777475166.73afa5ddb91d6a71df60e0797359b8d6.ba471dc85e457289500075ae54899936.d7740a48e91c249787a7b03f2308d817&signature=82b969e8d71581a467cb7fcd366399f8c70b23e63d9082d829d31fb793365d7d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=805e4c6e053f56f2e91c6cd790f9bf367bd7e4c7eee206b0341a65a9b6f14967.1777481708.f0a51043ad554c5b4aa6d4a71940c420.c7e8449b003ea3de6f06e70afcb44654.f8c9f13f8c29ec8be52eea3632c18fcc&signature=f15a30725fcf9900d6a43fc940fac9b8a8df6d385276bc1aab1fedfbda5c1585|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Siwelele vs Kaizer Chiefs (SuperSport PSL)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Siwelele vs Kaizer Chiefs (SuperSport PSL)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=c115460ffc5c8543664f0644f907b24016e1f3960583fa1327ddbd7348dbb70e.1777475166.ff590b5c4621743812f7a035258e01e5.5a5b37a3b0561652743da36fe96e83e1.3a5cf5d41de9f9be9611bc0f0c6675ef&signature=96f514491de974d1173382f15c9a3739191a6497ef19347adf44e7bc4620a5a4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=252b94e22fe781f03390ca4537d0f62e7e29a266e9dee602e60f609ba0ba6f1b.1777481709.e278d4da8ac06390c193eedd5b7fc6c6.cd4f7dfa30fe899f178ae7df42469aa5.ceda7021501c2a8369d3ae5a11905752&signature=08a08a1a275156b00eadfeacd19dcafa01498362a674cc372fecb2708d2dc79d|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (TNT Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (TNT Sports 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-4/playlist.m3u8?token=6c105024eb5e824821845512ef5c2be4833d5962397dd00a7bd4f37ea0f9c375.1777475167.babb407f5735248657e54dd64bcead5f.0f8fe1c33e77e4ce51224879a2c6e91d.2f7b45e33224de7054e04d0b4577e220&signature=4f31f3e94d64b1f6a68a52dc689d12c24fc16eb8c5b66abfd6462824912caeee|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-4/playlist.m3u8?token=d3eb435937ba83c526a5c354657db0d810222aa27ff179b362b818610c2dc6f4.1777481709.4cb7e66957fac75a7d4e4b54cc0fccb1.bd50379a4db0ad87736854a670df3799.ce3fee4c3ff8adc898d817e11db18357&signature=30fe7892ffb2c92b7458959f433255e23f449a8e5af968572443fe123a013018|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=9f09f39b00831505fbd0e59c2b98ded76ae904fe31f955a165c68057bcd92c74.1777475167.f6a45778462b9f78ba2cf9d14c69a88c.e80b28f71e86c27d0448b32e27a78f12.9f7922eba5ba048594509d7e5e56437b&signature=fe4a582d003fe49f8296693cb0d5e071d9e0ae2d53e63691ded4359c3e7dd93e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=d25f8135bd685c56f9fae2da070f27dc442cd280655a6e6004b6f3d725ea04a7.1777481710.1486b9e305a25adc41e32ae952fc62d1.efb219b5d6b74fab14f76722cb903d2d.0d4b7d6fef588746742f7663cf55561b&signature=40ae9fd9ce67ad10d6abf9c86d36d470b2a01c00aaca94af8c1b18c6cd0707dc|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=0834f0655f8e4011c67e0db8d28782bdc9f1ecc3c570369f74d785e0231686d9.1777475168.e8c33a63e39e38b48d54f434cecb781f.23c62ebb8d9eea40c4547d346e24feae.dc7e77a79b2360039e76f28fcbc61d5b&signature=bb2cbf00a4049c4236cd1c08890c08f2c9334c9159cb0360f88ae60fc5e1225d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=2f255478721a6ba87258d4b6e2aff5d7947fa6b721d40f10429ccb64feedb62a.1777481710.a8061a5bc0d098e9c86e031a956b67b5.a4daca5c4cf8b7d0c8bfe87bb3bd5fd7.c884bbb242ff30047b791d83c51b6f08&signature=40884cf7b898500fe4af3fa9db763983d7188a4efa2283e48be25591a9ef48c6|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=34011c22f7bb147e0a11e22b60b7af88743c466bc41c10e0fc2a328a9ee1d39c.1777475168.9a2b726ab472ac0ee115dd281f02658e.2b58a2f1e679f7af680c7ecf2a849bdf.bbbc577f4becb66ccc7d6ddc07fb110f&signature=e507c6aa5cb46d5cc94c1df5cc647195998eaf1a6d34233a0051005ea5b6a449|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=09ffcf740d3b027e1376843728cf8aef9346a193064aa3afd16bb983f5b6b783.1777481711.7181b69e916ddca4f38f5eeac09dd696.b574a38d3ff3be02350b0692d722a4c3.2559dea54af91817ab8ae28c437014d7&signature=2adfd84b2a3904958aceff28061cbfa6d96523185456c83004ca49b73bb5676c|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=eb3ab0cb6b02078edd84936f5f94db0f1dc9011256459dc230ba638dfd0093a9.1777475169.571e9bb308ade5c17dea645bb41494f1.186ca43dab3ce1b5c553e612d442eab2.00cc6e9a6a4978f589333b9afe219af3&signature=6298647faab5480333b811d2527f25871af6731bf2458c7673c077b854739abc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=36f8b2cc1880f3498fca774029361ddc621f42715a1df9281ba96643c01d2f82.1777481712.bb6233516cf887780b04f485d70849a8.dbc191f8c215c8d7793959fbdf87ff93.8d51770b098bcb3c327cec811d8be5e0&signature=56bfeac2271f61a344e741f01342728f5180ae8d42823728690bdec2d0cc0ccf|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=c8fdb7e664b6472de004bcfeff46175370c58b1b40f2477b8371cba80ebde2dd.1777475169.cb9cab534d29a78b682d5bcdf9e0990b.0ff38f60ca3f853e71ad353993a0d837.314a78a1904ca88c53746ffe9d23273c&signature=960f80e326954e7551dfef0ade4b1ed134ccbba4651badab70ba43cc2f9613e0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=a6fa3e7ae55145bd60c35a12103cf17eb6dcecf7dc2bd2bfdcb44da37261e7f7.1777481712.2a1b76093e5b29653130ffd02b86ff5e.b15b3dda58e12374b91f5f72910c82dd.133d12a51b9b5b482c5e11ca2e9f87d5&signature=5698918ebcb49c3d9cefdd13e101c4d90f9a975af7a0c86916a9cb3aa3a09f31|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=b28628dfdcc366b4e2facb464fac5a39825ffb3b6372da35be1ac00f17f69143.1777475170.5c9a234335f9347b890ece7d80b62389.0dcc1d26fda951e26fb75a9e056e95b0.3dcbf5f390b019aa469fef68d77ac271&signature=beb764240575f3f6657927ee207bb5be673d4d52a97e207c66c00a66cf454e9e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=b05c89b2b802a250acc6358d90fb438fa7c2cbf044554b178bf12d2e2bcfd0cb.1777481713.c2ed2089a720970482f801e3eba3b4c2.4c96131e988fc214e56d0dc2d9425c2d.d214da5d8289484104aee42aef576ea4&signature=9d479b20c495284a2dc9091a60393dc0cc9d15384dc44c2f3042eb210422cc9e|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=6e22ea6f1276caa856808e6e9a50de7ce30d0550cf78937c8c5ed33601574099.1777475170.38963b93d7e2f28cbbe0f5ed311fec98.ba3584070fb170432de72211e6df1931.76eb980a67d95ed1ab0473e7d27a2ebb&signature=1ad19bcfcf0aae72dc9a17a9aa2cf1fb2d0d514afb7306ff2759a611d2b21cf3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=91cb94695251b6c062709e3947709a8fed59f8904e21bb8efa28ef29e02773ee.1777481714.3f6de8fae109beca850a2bd4e1b665c9.5e24905bdc74582e5ec0b17929baa642.8a890445ca44d9e508ee74efd50241fb&signature=c25af33a903a384993484cd825c1d3be5e37f0fd6cd23239ad690f5593fdc4c5|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=8157c75fff357dac22b719511781e91ba4b43fc2a1414e83d08ab2f2a6c1adf6.1777475171.c44cf296043cdca0136558cbc5ff025d.d4d3bb6e9c3686b1d440afefaf37f790.841ffe645f09e75c222ae0578fe7012c&signature=7646ae00aeb02f77aa4d1316c2e4da54c2d194bddff9b691be77066ffd243e26|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=13b475f627b4d844aba0b02dd8fc009d24875991462fb0fd61de3e7ccdc7dd2a.1777481714.c783bb33321677f269e7ee8ef7dfdad2.abf4e9b7a429332f34967f7c0946c9bd.00841c047cc8fc70505a0651bb7ef54d&signature=469ae7242c8139c62c299e32b0459cf69c979ed9295dab4025a33017291e8371|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=d2f4e3a300bdd4d8630e9b0d5c1892ff439c0d7ceaa85d316f3217fa33ab2f57.1777475171.decc8f4b142a09f850358d1819b26bf6.64d222e44abd49c9d8ff02b7b45dfd3c.103e947234fe3ed28630f52b4da47095&signature=c9c7aa8f513f40d3a54976ec80cab4ab2116247cbd5178434c85ef4b7d984d45|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=1aa3e3ebd5a36f94c8c9b2c29e7abe0af13084722719878856b060a3ba6e4a6e.1777481715.adf3340206a1b149253955948aa27f5e.2138a74193d3db8025323067bb5472ab.cdef248b3af469cb825e2b9c1614d257&signature=99e0b05b4e0f0a746880aeab8830736d9fea2f4fb039159e636055239cf9259e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (TNT Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (TNT Sports 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+4&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-4/playlist.m3u8?token=c450dc41f3dcd6de8e6d4f79189d1ffd03152c4cb03ddc466571344af882c262.1777481716.4f12f56605099de0e347972a9805a2f0.02be7f69e0f54e88d2b9f15095643f5f.ce99cece22a278b7bf55121598c21f15&signature=313043a59cbf58ba03e99c093a683d88f53c41535ea2a16f31d8b52bad832446|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 2nd T20 : Bangladesh vs New Zealand vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=c300dcdc202701892ef2ef9067ef003e7ac0bb6a144b7115d92508fb67f8b914.1777481716.685ca8a8028f3be992afe55fda3cf889.9e85e8bb2a26d7c9fc00b2f05f6e6e68.5580f7c7dbc36bedf43875f5df63b40c&signature=3a9a8dae1a7d2d6c196f5acda262e396a85626d9246d50ad2857483c906d4419|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=9d888dc671d71397e48aa0b5e7ddc1ada2cb63791a60c93772c3637e840c9658.1777481717.d478c9664824de0bad4ed4fcc7d039cc.b9438539d27a8efc5e1f7680b71fad52.252f7899e82a08f8a3f818206401b110&signature=89bb651ddb2d4d8a4d9b05743b0aa4ace2e62603c0e49ded2568ffa5bbc576a0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=eb90b7528b013d254a4ca9ca8b3ee0a0a01ff01531bca3a6d65117eff71c1770.1777481718.fe7731881a0c70cb1b923a78f8c32b7c.b03c8294dbe4a6d4ca842e9106762841.83dd0bb340233a84eeda8908af9e4efd&signature=9b6ce38b4a301d2b86adebc7aec320ca5beda4e4ce7ba1b3f6121eaee69504d7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=3c3cf69f11afda79cef33ecd1954e2ca2eb43ac39be5ee43632212399aff6774.1777481718.5b5c35574e18b159b3489298abd0873d.cc2d858f639a8067264aa22176cf94a4.b2880b1d76fce788e92430a56c6d6aaf&signature=d3b49f1cba6a30c4d62dcf1a370c8aa24f2c84369687a5bb4ec9d4e85dc6dcf5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=7b29f3daa4f5e67b020eb3263f3ef521954b9fc8970bcfbc0f3db70725547588.1777481719.85ad34c12976bcdd3c13d8b9964e18e5.0d0fe4869caad6c084d2b2f00b01de6e.976931982e80558889454afca26051e4&signature=37c4cb37eaf90e2daac8441cd1fc9511909484a2490d38039b28e065822aba82|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=af57ca8ebda3a73d8cf56e73ba01dabad1f9c62b8be6ed3ae8b6b41951da32b9.1777481720.18a67824e5baaff7f2657100f927c6a9.7ecf774878da508a3318b5feae7d03b9.426a351700d4dfd3244dff34bbadaae3&signature=2788e9541524c8e10586057600994f109e6ff8b67cb0c0c4f7d3dbf44ab8d6e0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=383cc64b651ee2634e475b1cdab019be5a3379cecc8d03af34cba55dd35df3d6.1777481720.bd0b77cf3eb6047092fb7d7e0899f24b.01853c5dba72cbd1a29167109f1dd8ef.82caac2483b77e6791e66a57e60ef1de&signature=6999a54914573e7a490bf20c36f7d81e0f312636f51ee75d425552309e1fe8d5|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=20b6b8e3600656cd59ce640494425d64ea9a9d2d8bd78d60a4de7c61fc69e2f3.1777481721.edbbcab7acccbd40276923da871e7981.cf4fdd004db4d6c886a8b85b24fd8704.8d55fc8b187f11c9fba26fb0c252dc05&signature=895f09c5d949b501d181712141c42f648a7818437d36ce094723a77627dfb5cc|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Pakistan Super League : Mumbai Indians vs Sunrisers Hyderabad vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=d41987994b70e813d2b8a77bc7aaa642485b5a8116ebbad805a8a8528d284298.1777481722.7136de5d5a34066aee519f54fc27edfa.a2f37b5e1e75ed48c77c0e824e599885.b107abc1bc9e9b2ef20a0ff288ba8ca0&signature=5f2c22bd5688169687814f76b9122f141e50855b30c801cad39b10eb53b54746|x-forwarded-for:77.238.79.111
 
