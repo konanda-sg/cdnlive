@@ -1,169 +1,181 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Kongsvinger vs Egersund (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/672.png" group-title="Soccer",[Soccer] Kongsvinger vs Egersund (Sky Sport Bundesliga 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=92acb4da3b9d3726e16a517df622495e007b389de2c96d64c53020e41d68b06e.1777649775.969b0fcdaf65a67aa7734556e90d2a4f.f28509e3bdc2ea16aa310e77e68ca9e2.b6601e89b4309089ded8a03578577abf&signature=3e638d450cf6b21451b9525451044198e10431ff0322e67bda65566f82251d11|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Rizespor vs Konyaspor (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Rizespor vs Konyaspor (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/tr-bein-sports-1/playlist.m3u8?token=322cfa85b4c43abecf53fa29c6dea128f5beba3b2790498585b015d445c1bc6c.1777649776.52a68c2d8a1af428961453c2643abe08.06e273a084ece0154d103975daa41b3d.ce9c449c7ed2534640a2b924b6a8d5ae&signature=fb70b4562b4a217e25f348a667b401f50d22f7b4f6431977baa38d4211dd0abc|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Boluspor vs Serik Belediyespor (TRT Spor)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6414.png" group-title="Soccer",[Soccer] Boluspor vs Serik Belediyespor (TRT Spor)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/tr-trt-spor/playlist.m3u8?token=ececb0dfb7fa8084ff6c3da62778bf9deb8170705fa8b58971a10c0b57d7d8ef.1777649776.0bdbc981c5ad3232f6940eb6a31ee28d.d852c1b52c40de7600e9cc08e0b1d804.ce0412be1a1048cccdd954de802caf5a&signature=e6c466592092fbc0da8e0964601d6b57cc9a8b2d6a3791942a4b7f3da6b760d9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] FC Andorra vs Albacete (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] FC Andorra vs Albacete (LaLiga TV Hypermotion 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=b9d970955655a23d2f7981383075ae8efb9b231dcc2bd22f01d9158da98d0eeb.1777649777.d5c9287005549eb72aa169080a835877.acd5373c4972ba02744c81721c6328cf.4e5eaacbd49fa483acf481026d201a7b&signature=9b6b4af3b28c33cd9efd9257e1356563453727f2054c2cefea0981682c7b7850|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Marítimo vs Leixões (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3007.png" group-title="Soccer",[Soccer] Marítimo vs Leixões (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=0218cdaa69550c76e7109ffa00fc6a5f657413686469258ae2d500f9f8f80d4c.1777649777.30022023a3946d4e90291121304c92f4.08f13a2b0434eb25078659549a7f8ed4.4017aea14b9e51b429ec2ce423210a02&signature=1c59047900e516a006f753c88e677ae20540e93f738a5f172250d07b7a8abd61|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Septemvri Sofia vs Montana (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/201203.png" group-title="Soccer",[Soccer] Septemvri Sofia vs Montana (Diema Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=a1c3aa84834be800cba067b0013e2cdf6b8ebde84dba47aa0e04144f60385124.1777649777.4671305ce50a55caf9628fbc5f38dd38.4b45b8fe8cb1bfd4ec5adf21ea03f3b0.6ec9529c3c7e0b61d627f01b4ebd2e30&signature=9f905d778ecab5669d5bbd81b49994b5121e0ce246568bcfe3d718765a5a7a43|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Septemvri Sofia vs Montana (Sport Klub 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/201203.png" group-title="Soccer",[Soccer] Septemvri Sofia vs Montana (Sport Klub 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=37a8dba9f6cc16b8cc6e2d33bc0c386ce41a138550439c623dfb1ac5dc053c32.1777649778.2048a529ee618a78ae5cb1b8373581e8.943d963a339afba299d9f53bdf08c32a.79802eca8dcd7222c5b9335215d9a178&signature=2d5868ff93b1aacfa3cec7a7fb1434737b9786ef19b0db1beb9033dae1eecbf6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Korona Kielce vs Piast Gliwice (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5065.png" group-title="Soccer",[Soccer] Korona Kielce vs Piast Gliwice (Canal Sport 3)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Korona Kielce vs Piast Gliwice (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5065.png" group-title="Soccer",[Soccer] Korona Kielce vs Piast Gliwice (Canal Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-3/playlist.m3u8?token=4705ad63c582bf3b532e5140ea819a65cc4e27646cd34a6853b867cfe7314c59.1777649778.892aa0b06a0a5bf1ac2dd76656426570.72b88ccd6700ac543db6e063813aea02.024b1298dcb9c49b6606c775b44ca938&signature=c1d6f4031010ba1e11dc9b5367f19059a23e3eb613a4352601f1a4cc90877892|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-3/playlist.m3u8?token=08cf997ede49a39e2d7118cc483137582cf4a2e865b2dd3dc5f68a8f4a0ba818.1777653457.a1f971b9785c04fb9917c6a10c0ab4ed.67c20970751512f8aeacd9e7eb082d5f.288d15839d0282310fdb31f22c32ad54&signature=225737c4624ce2f611ac5d8983cf645a880eb2e6f0dfca57bfb4efc297a8f2bd|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Korona Kielce vs Piast Gliwice (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5065.png" group-title="Soccer",[Soccer] Korona Kielce vs Piast Gliwice (Arena Sport 3)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Korona Kielce vs Piast Gliwice (Arena Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5065.png" group-title="Soccer",[Soccer] Korona Kielce vs Piast Gliwice (Arena Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+3&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-3/playlist.m3u8?token=d8547125abcb83f8a852333c591c2d25ce2c5335db05f991039eaf4855fdc80d.1777649778.0f58998b8e4f40c57ff9f8f2f5ccfaf8.47bdb4a6afdd801e8d9b26ccfed2e8c3.16c493b88778836ab724765c8e8654ad&signature=3cb8e2f6864cd00e1db06a01604022e27eb21c43b3325be2c53068d4bd6ceaa9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-3/playlist.m3u8?token=eb52079578259f8218a145ecedf75237eab16101f2f6c819f02193bc5d1a1071.1777653458.4cbce425c1abeed49c6ed25b6fc32f7d.931067d59cd9e20e97d32a9f9a4b1da0.d37a2d67c50aff58a8e33a3968a49947&signature=051b445b8065cf329c9d0bd03517c87c73b25a5ee0ad4adee3184e3d1d23094c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Deportivo La Coruña vs Leganés (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2832.png" group-title="Soccer",[Soccer] Deportivo La Coruña vs Leganés (LaLiga TV Hypermotion 1)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Deportivo La Coruña vs Leganés (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2832.png" group-title="Soccer",[Soccer] Deportivo La Coruña vs Leganés (LaLiga TV Hypermotion 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=ef39d5c9aa52c1f45c58eafc52d32defe33d89ffb56b3bbdffb68785c52b1e8d.1777649779.f732f7472d6a264b06d909a05222a3bd.5954949a4dfc16c2c32ae25894258cd8.4e3b618e1a4d0ff4e411866d862b66a7&signature=bac053955e412ce68386339c55e1ea20ab1814df127cd83ec82075c091d8f438|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=f79ca8d4a34a1adb117d50dcc797622267c0451ae05dbff20cf04d2a68d3828f.1777653459.e34c89768257e132d16109336ef2ced3.d3acd41ab489a0b8d4266afa3ee547a3.2ee92b6b39b9b6e7145a041c575a6d3d&signature=f4b022ec989c23afbd1a214d1de06d98c8b430bfa1575eef80e2c99fff3afbc8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Dobrudzha 1919 vs Lokomotiv Sofia 1929 (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5242.png" group-title="Soccer",[Soccer] Dobrudzha 1919 vs Lokomotiv Sofia 1929 (Diema Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=1396e6df096ee1fa2bc6ea2dc17bcf3b899970b83547e3dc1b71d043d5850b73.1777653460.85608105a6a57ae09ab646ac4a217128.830b6a65cd3d903bdf6a3d5ac4ef6c92.438d93e2301c9bae176a5ddb5316263a&signature=1b5b4c1466ae9f10b6482da6275e07d0b611900f62555f8d26acad26f9022b8b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Gaziantep FK vs Beşiktaş (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5138.png" group-title="Soccer",[Soccer] Gaziantep FK vs Beşiktaş (beIN SPORTS 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-2/playlist.m3u8?token=d9b0540976205dc31d911a64cdd2cc8a18adf994e18074ac24009d196e1cdcd0.1777653460.85bc56bd240530a558f38cfcdef9836a.24c7d91fe22b872c777582915d6cfd4e.74baf5c339d4ebc4f23bd1b60c5b6d49&signature=eb72a69ed15b62b1e452f19fe03b1eec56434b3add92105e2a4773382ee8681d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Gaziantep FK vs Beşiktaş (beIN SPORTS MAX 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5138.png" group-title="Soccer",[Soccer] Gaziantep FK vs Beşiktaş (beIN SPORTS MAX 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-4/playlist.m3u8?token=9b1fbafedce082ad7247739176311a0ffa5fb9b9d6a2cbed7cac85494ec91f5f.1777653461.6447bbe594b33571140542be0cec711e.c93a358b5295306325844e62c5525c70.bb6a473d06d2a44d0fa3a4ae1bef2239&signature=b5c75d995d9d2a9f9ffdcee54de6bdec01ccd509bf6805e11ba3f3b2f309b341|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Gaziantep FK vs Beşiktaş (Sport TV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5138.png" group-title="Soccer",[Soccer] Gaziantep FK vs Beşiktaş (Sport TV 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=82d61c1437c734f1881584761c1c45c714a33748a7c88542a58c40e707d9c4f7.1777653461.f5821e9d2425eadc91bdf387054ae6a4.133263f4bf8930be09c49c788f40a687.66b186161a790b592b33fe902a34a752&signature=6dc6a7869cb3880b3e3d9c0322e87b826c107914435fec176c07a44ff886a54c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Gaziantep FK vs Beşiktaş (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5138.png" group-title="Soccer",[Soccer] Gaziantep FK vs Beşiktaş (Prima Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=f8f14b4096b30ea1f3a14b6b7e431fb3235b0853ae18e242e25b978efd19525b.1777653462.1ee84b63dd0e2dc2e6e5c01a74c3cce4.f4e7a14a4d440dc2eedecdfc7da3d8f3.959d8cab7a3fa08d883bef72e4c39ff6&signature=1f5e391ffd60973e834b55514fef6fa3ae58b9ef5ed3add92a9394d0ea158a23|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Gaziantep FK vs Beşiktaş (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5138.png" group-title="Soccer",[Soccer] Gaziantep FK vs Beşiktaş (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/tr-bein-sports-1/playlist.m3u8?token=49dabd3b33d91034e59032a8d43b2c8a3c9b658140889595ed51d2b97abeb356.1777653463.64e7e6777e3257cb39781dce9e34a499.aada69e1a42909be9743e745e85281a9.c44c6fde0a7bd9d1bac7ea1561e0ebed&signature=52a8fe96f6a10f93e89060629ba167e0456ff28653db963caa28c371634b57d2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Manisa BBSK vs Sakaryaspor (TRT Spor)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/202391.png" group-title="Soccer",[Soccer] Manisa BBSK vs Sakaryaspor (TRT Spor)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/tr-trt-spor/playlist.m3u8?token=60851761fce493f31e36b4f02f1b526ffe0f832dacac7ce05a2d14fb73a27f86.1777653463.54046ab950f6af0a3754cd316283b44c.974cb6cde1e5c59b074ac0b4f9d877c7.572307e3011e6fba8a1fe429960ef526&signature=d0c885a810a968d8111fedd0112f35f4d02af36b53d0d00ac91d9222bc3b405f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Csikszereda vs FCSB (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/283972.png" group-title="Soccer",[Soccer] Csikszereda vs FCSB (Digi Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=46d68425c941d03aa10c2249e25df8fd7b7f769a34838b2b9c56502820daee03.1777653464.b3c80f5683cc530a8274c29f3a28ff12.38a47f80fba64fe4547726ac69b21231.1ddbd1b1cf938be7abe8bf4f9e455e8b&signature=4081f7bffa212df058fc831510e72ddc8900adb8fada5afada68ed8585913b41|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Csikszereda vs FCSB (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/283972.png" group-title="Soccer",[Soccer] Csikszereda vs FCSB (Prima Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=7aca12db213623e614fe81a81aec81278ab05cc69e7c51407a1dcc0af7d0cbd3.1777653464.66fd4324757896222bde4b7fdc532253.3a6916a890999eefb2681fb89fe2bdec.286bbafce0b4456c1fdd93f406b4d923&signature=d9c5c1a7746ef424c7cda98bf5320013585ce71e091e080ac5525d7ecee8ee89|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=56c61296b037fda4dbf823301bc8174446c184cc7ba17d15a6def234e0c91bdd.1777649779.33f10e581f3bcc50474806c5591c2984.d69795fe287df1b8487a2314601539f2.181ac87905ff5a980101e098fc9348c6&signature=8050e054b963e6ce259d8434758ea081f2d10e1cda4c3e8bcd02a0738d96fad0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=47a3ba7fa87ea1fae8ee9f25fb3d743427a6838b7ed416456285991831306f8e.1777653465.6ed30452b1c1a1a6dfe1f97365c74a42.10ec4a2cc5e70a94569e6d33888e6500.033dadcd84fcdaa569b020f68c6488a3&signature=406c3718f3f89fe384dcc246b9e6193f2dd32c029c8c54a86f79d13269c0adee|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=3630d7b40c6ab9bb7e0cc8623bda18b231a27b33b9a365f9c3c0db5531118cff.1777649780.2c6decbd2a208871f462200137655257.8c4e8b97be57384cbecb61ddb6c7a408.1685c58adcb39e693d728cc5c97c42a3&signature=410991777aef09056dbcb5777404d572c8c0fc6194e7b763ae6e68008b6e4c80|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=11c351d7cfadaeb75b5f15aaa33be28efeb2e105cace6ab6ad5a8dee1a532eba.1777653466.cb9e4d684e1025a924bde70720ed5235.b6ad577e13c8b29dbb37b4ee3b8224af.176120ea60390f85387adbb61b709d7b&signature=21e99060994f322ea4b5a6e904b90f7900d8ab0c91c61c929e250fc5d5a50732|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=9298b4008739ae4dd3479936205940a19e94af5f03e53a241376188460b1ae93.1777649780.bf63845719429fca0631cf7fcaf9c79c.4c4af5ceb4bcff560200744c7057bf5a.462c3ec83deee0229acf5f004f82147c&signature=10de915e32f32eb9bff9d9702208b23eefd79ec07e2fc4ec9a24e37e90f7a331|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=cfb4b2387bbf47f1f1bcd85f7ad700463ee0b6eb9464465e7517f8c634a6f673.1777653466.fd6b7170c31976a712feb52eff62849f.a172d5e6c3d72707ede35c5717c4cc9f.5c0298d4d8d98b56762456db74a2816e&signature=adf82d78827b8c394ba65025f2bd01450667f6535c554eb222108950c3076883|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=42fe8ebc7fdec7d0d52224c81f7a5736b9b007a687df7c322c74bcf70b274a9c.1777649780.d3043c0eb2c384f3c46a026157534960.8dd585c413be27ee2fb8ab6b2e2e4491.942e8c8aa84b44b7c384b215df1bfe70&signature=71cefd1783375b2b890b0a75166a3f4fc7cc09b8e5a0becfa1dc467b1b3c4197|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=583eba931317843a95481989af38e7db5e3ecfd85f35188c75746949a02a3171.1777653467.e82042d65b108f2a0ca7ea2ed4b4dcad.14c9b46f625d54dad79c98d6f01d6f98.9c13d23baaa97e3cd92548c4a9885c01&signature=e89f4ffb4de00175dfe8ae535aba51e0c98fb4ce9fee7a05ad0593d739410c43|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=b88fed6359c89c1af481e4a6c89b21e29b4537d41ca139fbb9052b188612f228.1777649781.a59493dc84c488ee984db373e56b441c.c14a379986c69b4c9f2a7972e01f90c4.89618044f2a8e963540b4d6e0de3fa80&signature=c8cfec01e489c3e54fbc50e3f111c67d7eea6769888547c25ceeda0f804f203a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=d959067439e8830e5b1409e3b839634365e7e3cceb47d830c707711e3f4fa780.1777653467.1fdeea4e3969750963c16c494db2bedb.642f73b1fc3bd88b887b56a1a170e3a4.6ee23ac152ca4a3a9034222207b94d0b&signature=ad7a1c853fd4c4161cd2232611a0173a719f089b12f08091b807dc58944ab84c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=0a006219037e039b270723478ef5941a959bdb5f925f57876ae5504c2e209d44.1777649781.1fe4f2f4eebb136e6e7e72facdc0a368.5ec4cd6681f4ec2b46941271501c0d9e.c4541e7390435d88ab827a0691d6ff0f&signature=3b4c9377880696fe72c5df736b7754145cba886352238293dab815f5147e0f49|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=3892e9a54441497446b91b1e83865eef047106029fc916a27cdac398c7b83b6d.1777653468.064c4f85ec296afc30d2a2312a92c58e.30c886c73a20f12603afcaa41734c6f7.b94914472831adede4377a88de334733&signature=73c890051341c297499fdf88c388e692379fd2398338c9af08383cc382ede80b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Hub Premier 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Hub Premier 4)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Hub Premier 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Hub Premier 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+4&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+4&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-4/playlist.m3u8?token=30b6a298e30202b06548bc1bcf87a959dce388092bfa023600e7a090946519ab.1777649781.31318cec3834d0c963e7c815a1275168.ff19b65eb9aa74e05d31b9a65acc70d0.6648ec94f516ff960f4a2c16aefe75cd&signature=c6db19f637f50e48b3cb79254550e36eb9148583faeef02192e7b4f8ba059b2a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-4/playlist.m3u8?token=881e42dfc942fbb6b0a8f3fe928dc2e3798fa48f89d23ac87f6c7a1db8053f42.1777653468.412d558651b6396f5409f0fe45a9b27a.082b1dd060f82de467c3bf5628fbc4f9.669b774bf9d8e6165911603f5247f679&signature=8bb635504bc23a4528fd72bd59e720cd338efbf0ce00a6f04e7943f680b338fa|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=e944953d308cef05d7a0ed3c749c640a28a1ed3fb8b104a0ef3ed77aed88ed6e.1777649782.bd828a785f54052c13a552f353b58b70.5a1d10620588c5fc2b4b0d423ad3f0cc.80c0123c3fd9719b74f1483618bb5e43&signature=e17925fad052206c2c4253ac29ee519a37cbf4cfc2af442b9ef737da492a13c3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=525324fa0a3d79b22c719db704b95812221339d39e766fe57ac72130016e8898.1777653469.471c5d29a7573f666ec695fc6bf8f487.45ef375a23af8ebd2d4d4374237259f9.991b218328dea01063f1b6d568522ec7&signature=bcaa45558e6f5c39d2cbf114b815f539cf5f7a99af8c3c8b7237911fcbcd90a1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=e68ea69d8eb596286793d0790f75d8d20eb0fa99e43787496ab08ec573c1d96f.1777649782.c42e9caefabc953c11ae8b00890a652c.22a1017278c154758c5131e0dd1854e5.0fa33b9cbb291e55ff92774c7ba47cb5&signature=30e6e93b346c7cc089de67d4746588ff0b0318872b389de7f73df3cbefbca432|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8464c7346d6d91be9b2c1e2fef55a2d882259a625e73b0f2cd69d67c90442f7a.1777653470.84117bfb36abfcc3c94ab4f1ed29d5e2.8ca67eda6532a23c6a19c38b09023351.14720488453d5ac6dab068327ac43be7&signature=1b28b60006f946784e1c2bb89e3d718f342d9442ba6ba7c78f98275a0c76bc14|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=b91b1fbc02572f381baa835ad7b2e7170190649b3d6004e29891e47643e25387.1777649782.fe595c15e76328c8a375c9295ed735c8.8ac02dea42b795dec53c54b323bea001.58b4a261674a81281d9a9399320431f1&signature=a2f28cee03b7d1fc47d76ec4a289f12b5ddf367858c237d43d45879c5ecbad72|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=433666c03d726fa279fc83edb020fe4e4bb66a9e831f39e0dd080dcf4546fb8b.1777653470.b47ac5b31894134e39ba0a0c553df49b.f8eaed88665464f736393718e2a2bd41.2166601aa9498ea822f3c1e55b11e82f&signature=c5ae0143296e6701f709fb3bf2cd29bb6df00c62e861d73a2c9e6448765cdb11|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=20f476a208186ede52be10d2d51c3cd70d13daf2684f3def36a6467c1e4e7439.1777649783.5a47909355215e2dd6bdb405ba6d9a18.9b3d2601a71017ad8fd48842757dc9fc.bcda6c1c7147ac8a3f7ae10a0701aeea&signature=3781006f70a5a1e356e422bdcde9627cf2a75a7d7bf0c8b8b5ba4bd527284dea|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=a736c85dfec57b4e2408483e3ec46b5adef11563259c172e944efcc822fa6d5b.1777653471.ac4e836098c51df6ee97dfc2a72b4bbb.c47dbeecfa4d3f3cfb68d99deee45fe9.639ba1fab0cc008b543a3191b5f6f8bc&signature=f17b40d0e1acc3d4ab48d414c91caf929c562ef92254a49891d54f34496e2ca6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=a146d2374b9b298915b9b52f50b8b2b786de444036cc534acbcedc82c50dee48.1777649783.886d3ddc99d9944f3e8389f249ad4e41.92586f347088daadac64406f2f0f9120.f546d581e504df0d7d349bed4e26b0dc&signature=3ed950b501225be3e26e231326bf633f9a1e84f0475c7338b65884f7ec31a864|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=350dbac8eeb12244d373b91d36de422096ae1c1a07e862f91ae4109acbf18e56.1777653471.2cee730832bf533aa0cc147f1d8f6833.edaf9a35eaaec2340ec3e36c0eee9830.0fbcc30915961e358f936c5b95295999&signature=ef3193bed6509dc5b68061415a9ad08820a01fe0897ad6bdb11e89e0c77ac9e0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=b82a71f0d3d9243fca41d288f4d5f0ed9ab2eacac1b5ff8a2b8b2492db6577f4.1777649784.08e5eb9125db20c7826eab638f7f4bb2.be794a70b62be2ced96e1e42e896d868.05016ea3497e7a8a08c63e067e474fe4&signature=6776358252f5ce4efdd3524cf4742fc596123021d4af5aabc5d7268d75e90da8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=4904c96de239495525f89417926ae69cf0684f87c5d060f0498c5e3014e818a3.1777653472.d50046dbd36f40d8ccf6737d7c2f4719.aa50eb906f7880790d7da4c56fff9784.036b84b3952b2e4c19fc94ff9e8a2198&signature=a7833c0791cfdbe572a0f1f9e5ddda96be6454fc466227702f17209231b595db|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=ddcf65d5392069e0dd475a18f2325a50f8069c3ca1a7a4ff30d4fe2735ff4600.1777649784.2cf3b498d194300e74daef16adb9e8c7.86aca56dcc972c5d7afd5008b9bd69fe.3ebc5751992a922e158514cfd86a2bf2&signature=71b14404ed2efa57cbe4e03646f98126f0ab2eb2a9b470ea6c95ee06d28d6587|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=6b66c7d3c6f823c2165a14eb0ba9fc1daf761ad68481c29d8a188c7bcbe6d33b.1777653472.6bfa3754e6b99b7a331a1042e0f2f9cc.55f497015a0724812487dd7cfec58b4e.168fc05e5f842b4a01e2207d957a4221&signature=7868f2943741187d828a7fa4148ce217b0f6e001edcc1d2fe95dbd7a602c9018|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=7f19170faf133519e83e10af0c135f22010da649ae6f2282390990756eb33839.1777649784.e02dbb4e9b112a43a9d7b29e12f9b956.7fb1946bb76c09b0e731e37f7a8c06b0.15acd87ab0d08fec41f8025a33a3b722&signature=d8be60d2fd934827fe9a65a8c35335ca8c5ba39921b7466cad35bf89f33bd888|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=293a2974df8a5939559120111f4f42ee2e790a10b6c746c5ec6dc0dcb152264b.1777653473.f5e7a82ac9aa6b4aa3da7f228f702a8d.04f5ed380679a3ca4f070ebc71bb822f.06b04f395e58f82af7067831c51aab05&signature=8f6a7774cca6cd15035686c5e86339e9cc44a6138c8df06b9b3817c1f6fdee50|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Hub Premier 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Hub Premier 4)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Hub Premier 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Hub Premier 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+4&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+4&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-4/playlist.m3u8?token=6a4da8fc0fd2a48acfa0ede684220d3eef229d2e240818d87ce462a40b40c401.1777649785.ef146bb30a28104632c32a3363a54363.27d5efda6782dcd849fff982ccb677f6.9f39127793385e5e0be3143cefcfcb38&signature=4d00f38d78e4419777fb39373f7bfeb32b45c760ef452f56dd3c08e293c68ae0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-4/playlist.m3u8?token=151bfa0f2a1c3be0af76678d81ddd8044331339aa2fd8e6f0c955c12156b83a6.1777653473.98c6bfa99609b649b3898f3e0958c18f.d0a8cdf86ff224f1062f66fdf7448162.2955a77cac2bd8811154bc5ca4a7e654&signature=bbc97d987f594cbc21f8298c29cc4b66cf78a62b201de8054233dcb9c129f8c8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=ee90b5ce2f8da8f1cf6a2f122c4f528987da72eff16e7083028b7ab18476cdf5.1777649785.028f77c11f180032e47bab16b1d3c033.4004f9c579327d92e289cf6db33b6c17.eed2bdb893df0c3869619239fd3ec825&signature=3cd712385859deec7265c1c1a777625def87ce9b45475b23ba27cd649a4f05dc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=dcf575d3281ddcea5326487d0e7a0a3a66320582bcd42bcac943e0e0fd59dff3.1777653474.3f550cd4a685b73435f7fbc19dedce3d.a6d28e5f96adc498233b0abebc7897ac.a75b5122f99328e2f30c6db1c4c0f9ca&signature=9234f8d22904066631fa7c655d4c6eb3ff748a8c2a16fe60b74962fb1af28351|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Delhi Capitals vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=dc386016720b238527b99f8cf0689d1fe03eb154e81d78cb39bd2009f8b5d46b.1777649785.4e33113d13821ad40bdd0c4873589844.59b1f739dfb72dedc9491bb13c9d966f.4c2653780c345badf1f0530ea726e4c8&signature=73403782f68db143abc6e6a7e83f173dc4aeaf003ce8b60aeedea87d19e26a9c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=574c5ff284aab99cbe7ab3f3e57e0893c60f88759447f20a98fb738345717877.1777653475.2639e1539ca4bb34c1e66e693c0af48d.9a0deeb2f3399e5d61dc4687ae3e8b91.84a2f61c2fefc7036c6c5945c3d10104&signature=a4cd839717534245e8adc621f780de5750c704aa2968c7140f080b593ee97f93|x-forwarded-for:77.238.79.111
 
