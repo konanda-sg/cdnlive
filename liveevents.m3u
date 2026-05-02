@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Once Caldas vs Atlético Nacional (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6118.png" group-title="Soccer",[Soccer] Once Caldas vs Atlético Nacional (Win Futbol)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=0c1169748a256f825960bd2c7c92afb285608e031474adf566a24751d2af01a5.1777677005.bd8a534b31653321d7bc1196811e0fcd.fcbad7cc2c3d6e5c233e9dcc93193591.1c44083df8e23c28ebcfdc7ef4afd6e5&signature=32d6d366e1ccdd41e65a30f0a1b69e5f09b335fb1bc40ec74da79afbfb8e507c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="WWE.2" tvg-name="[WWE] WWE Friday Night SmackDown vs  (USA Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (USA Network)
+#EXTINF:-1 tvg-chno="1" tvg-id="WWE.1" tvg-name="[WWE] WWE Friday Night SmackDown vs  (USA Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (USA Network)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=7d797bb815b983e1344a054e87b73ec53350298cb4e4f8f93569a5cfa9c65184.1777677006.7405a005bd6501e058259cfb70e8c0fc.cac2009e2958b7c6b71257457ac928cd.48bfcf8471119f06049c39ec99462d7f&signature=d76e2a35cce5d5beba266da4da94ae48921b05b1cf5118ec093482303eac2b56|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=9620a46caa936e135332e973a162b0647a8d4d17218b9355b4010ed5e6fff105.1777693999.b010fa3dd0ba493461acaa5eb741c6db.a5993d17fe96fbccf5e26fdefb314b1f.53893b2c20cb1d9c95ba787768c67a39&signature=d9e129494e51a7354378454277ee6a0e4883af75552506eb2d2d92bc199ffbac|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="WWE.3" tvg-name="[WWE] WWE Friday Night SmackDown vs  (Stan Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (Stan Sport 5)
+#EXTINF:-1 tvg-chno="2" tvg-id="WWE.2" tvg-name="[WWE] WWE Friday Night SmackDown vs  (Stan Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (Stan Sport 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+5&code=au&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+5&code=au&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-5/playlist.m3u8?token=fbc3bea3ff448634ae6ecf24a5e0f860fe87072a491c41397cd8863bd110111c.1777677007.0d176821ddf54d5de3d0d04fb5ffc2e1.8d3ce9a2ca3a42781e6163257f2c517c.6cc52368a19341a538d6b13e44a51c36&signature=8ad85903587b2701ccac697121b0d2f08697f6acce27d42459cf91d940a5c06e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-5/playlist.m3u8?token=e5230221fed30fee2f28ab1777d10537aed2df036bb4db99c190aa73f2d5b323.1777694000.4ccb69eae6491b8c9fcc6f8a9e4353ab.5d85cfcd6c1e4a5ef80326e0ddd721e3.3300ec32804e7158119666a160c8ea95&signature=13d8c262592099ec8dcb1f6ff2d8e0b3e10246e12977c98df0882cb5ff62f140|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="WWE.4" tvg-name="[WWE] WWE Friday Night SmackDown vs  (Sport 5 Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (Sport 5 Plus)
+#EXTINF:-1 tvg-chno="3" tvg-id="WWE.3" tvg-name="[WWE] WWE Friday Night SmackDown vs  (Sport 5 Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (Sport 5 Plus)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-plus/playlist.m3u8?token=13bf25bcf7a36056ac409f18b21a4a2145b68c8de6010d22416ffbcb42878ce0.1777677008.9381ebd38f22a9f3410d1ff505ce1c1b.8e8b38ced5ef9026226e6ea78c6a2a48.8327aefc2da8023177fad5cda6726a39&signature=e50a942f552ff360630af992668b73dd288ade0d3592e6bbebed060d4f876d48|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-plus/playlist.m3u8?token=d7fc8da5e8547935468b36cfc7416d8b431a29b78670f523735f94efdef92c99.1777694001.01130c83354adfafcc481320025294eb.2802d48da7515cd59b0d4429783a6440.b20ea2a46abca0bfbb0c92dd6845ee42&signature=4ff94f1059cb78ed6c407dfb68328cab416fadd8712a61454327ba2e149590ab|x-forwarded-for:77.238.79.111
 
