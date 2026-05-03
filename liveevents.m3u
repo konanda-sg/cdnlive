@@ -1,217 +1,235 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Rio Ave vs Gil Vicente (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3036.png" group-title="Soccer",[Soccer] Rio Ave vs Gil Vicente (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=88655372f6dca0d325d99048bdbb0aecc0cd1941e8390ab918c4e3b35b81f5ba.1777843488.fef7a3d824a69affff8e64a9f6c65831.127b4cdf3035d77c0609f2e9d9dd50ad.25be514d11f468831a9aea26767bc23c&signature=a14582a12f3d2b30f144fe879a862c435b3d6fa5cb5f75db84066006afb8056c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Rio Ave vs Gil Vicente (Cosmote Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3036.png" group-title="Soccer",[Soccer] Rio Ave vs Gil Vicente (Cosmote Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-3/playlist.m3u8?token=644dd1caeea483ccc6be2164de58154b4befb73a9349814ed3a82f70dc4f0edd.1777843488.63fcd54f442b87700c8c5a6dc26ec681.e68a62944aad0cd3ffdd5959d1915399.866e76e4f88446c674be30f2bc31ab8e&signature=5d8d5ca4a1f76a03939bad7fb22053f8d630977275d4e19b3724daf922fcc455|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Rio Ave vs Gil Vicente (Sport Klub 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3036.png" group-title="Soccer",[Soccer] Rio Ave vs Gil Vicente (Sport Klub 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-3/playlist.m3u8?token=f37e20d9aa975b7536d3ec70f752c3a3e4112d1cceba72c312866d781958082e.1777843489.ced758a9a0b3473dfb65a83f0737132b.b57cae2bbdc49f355761a80f3ff6e4c2.ef2636c91b7d5c0858836a95e2a4f6a8&signature=58d7e88c838f6959c88b992f7e3c34aa32c17e7103552a9ca7b142b8a262ea84|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Alianza vs Millonarios (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/504899.png" group-title="Soccer",[Soccer] Alianza vs Millonarios (Win Futbol)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Alianza vs Millonarios (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/504899.png" group-title="Soccer",[Soccer] Alianza vs Millonarios (Win Futbol)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=5d494b0ab03dd65ba6405778911f654d9a668f63ac5efece3a6726102f66acc1.1777843489.f1687dd0d9b1bfd6042f458506f0d15b.3344bada8137fe8e0b09d7c834c22e5f.4f2e161a58a8d13e27208548d5ec251f&signature=e6f10a4281a1111ab1bee250f04707ec307655a7c2204cddcddd8484ffe9dca0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=f0df37137227f35194c998cdfaaef515db7f276b204c498999fea67c7d5a3c28.1777846217.6ee2c14f1db0536ab31d16c23fbbb12b.634b5ced31456366aead8f9171f5abc3.a2abae20f03436fc1596e100c378ceae&signature=c10f9e76eca17ebaa5ab3d6c17764ed58b8c8744b24dd6fdccc7df3570477d69|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Deportes Tolima vs Deportivo Cali (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6111.png" group-title="Soccer",[Soccer] Deportes Tolima vs Deportivo Cali (Win Futbol)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Deportes Tolima vs Deportivo Cali (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6111.png" group-title="Soccer",[Soccer] Deportes Tolima vs Deportivo Cali (Win Futbol)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=e401db4d79258bd0cb88dcf482b1e0409f9d0c16eaa8742603adf34ddf911f95.1777843490.286e7d10a37aedd465993201a2cd7f3b.fa1fcf07f383cfc9ee5294d7191db02a.57daa42f1d8256b98a943b621e7adfa3&signature=584dc567f4097a86c80ea6af96733f9eb59cc38b4c067bcde97f1a3ee8bace3f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=7e7f17699a069d30fe572a106af2a6a700f4784d53e604eafab186d3e73e8c8a.1777846220.c1c6d345e119021a3ea878d785019d88.3ca68d97076d3ff75bde3eb57d4aab28.b52bd01a906a244a204148f9ba02cc6c&signature=9177e928908f0db00bf374d927cab9dd2e66ad76e98101c015237d6e7a3f22c3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Fortaleza CEIF vs Atlético Bucaramanga (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/89368.png" group-title="Soccer",[Soccer] Fortaleza CEIF vs Atlético Bucaramanga (Win Futbol)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Fortaleza CEIF vs Atlético Bucaramanga (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/89368.png" group-title="Soccer",[Soccer] Fortaleza CEIF vs Atlético Bucaramanga (Win Futbol)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=fadb80ae675c6f1b1f9f29976564811d862e2d953f82449aad483963d5da86e4.1777843490.e6b7ca1074490186b63ceaaf54efa8c3.9f02be2852826e7c479dbdd8833db9cf.55b69b3c7c75e9f9e0ecddfc15165ae0&signature=0c509c4fe80dc1cbaa02a74031caab37ef263f6c02b796a1773d853e0a3547f5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=a6fe2c5e570f4fdbc79d35740ca1ce0b5a5ddd2ae2d2c19ca3d7c03a2e67133a.1777846220.94e70ed55d0666e485c13d815e9884bd.277cdef99e267ef918556f542133182c.3a3cc572e57213eabee85488a02b767e&signature=0957dc6b341496dfe03e73ef146c0bf4a7adac4da3efdbf118ba48faf87067fb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Medellín vs Rionegro Águilas (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Medellín vs Rionegro Águilas (Win Futbol)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Medellín vs Rionegro Águilas (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Medellín vs Rionegro Águilas (Win Futbol)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=d29c379ee7c2b92b7f2c120baa0f0913823e13008d48e0107d942bae6e1623d7.1777843491.b9b36ca92eb47d085231b81917cc2fbe.88a2378ff3962cc41d4017675cb1dfc3.2afda6adb6b1e3eeffe78a90c0248ff7&signature=f518e7d78474366855dff1a8663bb8515ca1fb87bac18d52c3cb07906cfc88bb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=b5b0f33478b24ec06f9f8b1d073cde9ee7c2fc65ce4b8232f78d236550b89115.1777846221.3a69eb7948a25a908899317c3b719a8f.f4bf69dbb8cc30df4ec376892709ed55.f887e8ef9a4f007aed4d8149a2875c19&signature=93338c102f3aa32db1e9b280efd48d670272183db1242356eaf283d9d760f7f7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Santa Fe vs Inter Bogotá (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Inter Bogotá (Win Futbol)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Santa Fe vs Inter Bogotá (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Inter Bogotá (Win Futbol)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=1382e07c34721aad67e2273c4b3daedb22d0c2f96af6227cd4c1a9f1b9e7b5af.1777843491.76ace82a1f4465b3f9d2df132b8a0f09.68e694d108f1489fa5bb4e21c9a01d09.4a1312cd873a3d8da7a6ee53a14bbb85&signature=8592425e74619cd4aa34d991afdbbb337633e0cffef107efc4f48ff619aff92e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=78e65c5915febc141867e6bae537635907e0ac2d58ba4a0723ebd579b090097f.1777846222.d66b3a444239a7567f3b26e18fa13e08.c5ec581151714dfa639b7536dc454fcf.910bf17e5bc6f6f02c07eb868c95f74b&signature=3024c427d48de26342eb7dfadfd37289cfceb23b50bbfe3b50e514a8eb26a6f0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Alianza Atlético vs Sport Huancayo (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Alianza Atlético vs Sport Huancayo (TNT Sports 7)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Alianza Atlético vs Sport Huancayo (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Alianza Atlético vs Sport Huancayo (TNT Sports 7)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=b9ec64a328d1b7d8af993d39836d16eed4a3a548976ab1e872ba59b89542e77c.1777843492.ccd03d0a6d90bb20777867c69b40306a.3ba42a77516276fd62810bfa2ec1db52.4e4b5d0854b4e55e08f91337def41045&signature=c712c68f844de097ac9cd7e9bf3a3ad42783bd622393f21bcd3cb205569e2e31|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=d9de3eb340796c8fdf13f6f4d13403b562f3be3980d200a85732b5f8608d73c5.1777846223.29b776dcf6df06b533c8d409185b76cb.a1def38cf48f6747686839cdbb6bd42b.643d1a1e8d611f5ed727bc200af3c0dc&signature=5134fc413f837d5b8e56ed73b341bfa1f7d2331ba16f96c78516d352fe197384|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] River Plate vs Atlético Tucumán (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (SportDigital Fussball)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] River Plate vs Atlético Tucumán (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (SportDigital Fussball)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=6c48f6b3b59f4cc562f54a5d00cb2417c1d692cea91f8d541b828a80a7aa696f.1777843492.38d8c4b0d5b4903bfb6ea3b6bbc6aaca.c2d0a9c2adae73a2a024d4323323e6a8.88fed23ade0bce3846589fc21a9722a0&signature=cb982d9b55c99d3aa27e5a1f8a1c6f55aee8c9646b563d3f45097e61b5f20ad2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=d00f6ccb115b8fe0e9bed6860c9978dd155326f2331499eb6d752ee4b7e55b01.1777846224.d8bdc954329e85bcc51a21e3744361a9.aaa862b2eb7bfe3d4770babe8db572dc.ba622e95a1d78c34f678e677bf747cd1&signature=9b845bdbbba15021eff34b95fdcfdc6325b1a2de5eb17f28ab40f0e5dee1fec6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] River Plate vs Atlético Tucumán (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (Sport TV 2)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] River Plate vs Atlético Tucumán (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (Sport TV 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=e6003839bbf693daedc6d53209afa671eb7e5bf3d97594b2c8e3548b11e4a852.1777843492.18a76577740bddb814e50844ad6a5572.c93012838486227d26ee7f5fc38fde55.b7a586c71fc7ac7ef6c6ee6c12a72127&signature=d2e2deb3504588c19295a4780658dcd14d43606db170459826b3c96b72014416|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=d3c808b0d594c715395f527258d7ac16ad19a4c3488b4f06935db787a329ae55.1777846225.9da69aceca9566b833d1900762217ba8.b412ccae12759c35babd41fa87d27f95.5bbeccf2c0fbaff385f97ce65f66fc40&signature=6d953d1d793ce2f54056cd54df5df0b5c297714ff67424426f4da1f59e18d728|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] River Plate vs Atlético Tucumán (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (Arena 2 Premium)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] River Plate vs Atlético Tucumán (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (Arena 2 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=f628f844fb6ed2598ec3435a683fb7ae19b0c1f1b296d5359b2cb042b9bbccb7.1777843493.f84664df5312eb7a66967c58760a131b.ed4bd05f1a469fccb4d8b21f79cfefdf.f430bb12bdd1fb13571bc6c016ce6d91&signature=d45559d0597f948710c1052949c9699af6eed7e77bf496bad1126813a572cc11|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=6b8f7c78f1b6cf3edbfe0e78efeb7ff30eea8350a6c35dde46738e46bee9e5f4.1777846226.cd30d4e771093466566e678032278b66.66ed39ee4423cfff70405942ceb00c92.885c4a80c93886ee67ee7ea223b8072e&signature=75df1b7995d1274cde13bdaca3d1dc9f6da6e62e7216574a2c83fc829dd1e583|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] River Plate vs Atlético Tucumán (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (ESPN Premium)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] River Plate vs Atlético Tucumán (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (ESPN Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=e1fae2ce2ed622bc645e9cd36c358350ed9fc8487820e64eaf41d96802e16a37.1777843493.a8092b7009c474afaf7e82a1e4e7fa07.58259307c5dc6ea8aadfc761dd1d63e8.da953eef2bb7dc286c541b0acbf24365&signature=d5ce29d9d02a3e208b09fd48f623d219f20c4adbbf104c00f3d59425a3d4f778|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=cc5c142d9362708b62bf0dab7928a82ebb1d82a504916c3b86e1659594a07414.1777846227.65b4ca4ec908b6a754566d56c83b63fc.7806de8ebee71d5c9a89a63f25845a7c.71d89aa51e31d15e5026f30708090246&signature=e592df6d3206bf5e541a1e08941fb5bb66b81d78c2a6bc3964f6f7cae7bd8ae4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] River Plate vs Atlético Tucumán (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (Sport 2)
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] River Plate vs Atlético Tucumán (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=8c5df2730993016fed26c3e241983a7e909071f52cb0c9def94ce2327c8d6ba1.1777843494.974d60f51b52407a3a0aace175c04cd4.c4a76c71800b9efd4cd2050f88e400bb.1eb2cf4fb82291185ed24ac8c46def8b&signature=a37760ae0f2bc520fd9b1565b8a290a0be3b2e54e429a5fa517d965b805a18ff|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=1592b190455cb0946a8601d9b921c7fe9ff0e9b31bce66ec2303c9a548633f0b.1777846227.0178dc6ffdd998c3c8be563a057ce390.9522bf31d8abd603af689b5c183f396e.7ff63035b38a9a6bced7d7ed9758e6f5&signature=c2336ce48849cc5a238f3a5093abb06d33d1dee614196b889e5540d2f6808b88|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Internacional vs Fluminense (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1966.png" group-title="Soccer",[Soccer] Internacional vs Fluminense (Canal 11)
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Internacional vs Fluminense (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1966.png" group-title="Soccer",[Soccer] Internacional vs Fluminense (Canal 11)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=7c333c8385ae223f40e35a7a15c359260a76de63096d8c1a12b06626b416ab8b.1777843494.f143479ca62cedbf678a1c381f363245.93ed34321fb894a753fe2bea631c383e.0f4743a5a3805ec24d488ab769f2c7e9&signature=f8fc66b23e62dd3afe28fdf191eea2f29ac7f4151292eb72b9dbe58b59888301|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=389bed200f06d7bd7dcb97bd97d5a572db9243d999f5e1b5a15626dc6fd0823e.1777846228.27493a52beb8eda78fb573dd91fd4bfe.4b21887b5f7cb1537a3e6d4a84e29c2e.62b9c9cdf0016e4af4c7f732d3b8bf01&signature=39e4d318492386b99fbdb6f8c6ca588261479bae4489ea234d466b07d47194d0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Internacional vs Fluminense (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1966.png" group-title="Soccer",[Soccer] Internacional vs Fluminense (Arena 1 Premium)
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Internacional vs Fluminense (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1966.png" group-title="Soccer",[Soccer] Internacional vs Fluminense (Arena 1 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=00bed401a620f85cb3e2b8b0611b6ebbd4ff8e3d427ec03515fadb9463099c64.1777843495.f0c362efda40a099077a5fab63e85353.570d71fee955631c29484c1b5beee3c2.2ac58105c975c12196e005f6f3089f80&signature=23302b47a74d18b762be5a21e4537eb1b5d8decec3ab548a8c1b1815ca78848b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=f8d014bb215e91345361eb6c74c5f22b297b92e65c438021c9b6383ac210deba.1777846229.075e475f14b23b214eda643e25cea393.a1898c8b60f1c46b45279a9e3847b348.839345a0349973cef854ca7baae9ce3c&signature=595f435b0e05f6dcf64cf5a92e028e5437c57656dc981fe69f5338f43939d9d9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Internacional vs Fluminense (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1966.png" group-title="Soccer",[Soccer] Internacional vs Fluminense (SporTV 1)
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Internacional vs Fluminense (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1966.png" group-title="Soccer",[Soccer] Internacional vs Fluminense (SporTV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=2f2e8b1b0fd430aa4728e211a603e9559ab52601eda2f5e9932ff054df1d4175.1777843495.be57eb46dc23f331340945e76f123e06.166509923e6a6ed8b68e884171645eed.a0f0d856f2cf1da2afefbea9ce7f4315&signature=bdb49949700c96df3815bb34f7198035890189d8bb77d2ba8ed6754b8ab17f8d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=507b8adf38ca2d1719db62b0b7cd9ab10efe03c7bd1b95569f07845ce039bd52.1777846230.6476e021f3b481e0bcf56ef87644cf73.5144db6512bd27d3ecc3c2b035245fe1.10b67f77dcb02c6d1f98fb8ccffb4225&signature=236d79f238f800b0ab68eab689f23d338fd4e62111486c5b6e2a12591fca8302|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Colo-Colo vs Coquimbo Unido (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colo-Colo vs Coquimbo Unido (TNT Sports)
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Colo-Colo vs Coquimbo Unido (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colo-Colo vs Coquimbo Unido (TNT Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=33f6d467f17018e94a8a04e2bdb187bc2de6fa5be667535224f259f0e4de65bf.1777843496.e6310783e5abb52af0e3d6b0479d3fb3.b7433c91d364c3f8897d748bc249d09c.a8c4e9fdde34f38ba051028763be363d&signature=e78ac4c76efd098f99baec132cc3607b24c014d2b9c5a5c6476e99fce998d1bb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=4739192cf816e499023756fa830fff307273ae5a887a921ce5fe62f5509acde7.1777846231.6c83a39fc6fe477734450f01183f0585.4c0b85a86114d6b42d00471d68f7a7bf.eff2957fa74d880bbf197404b13fbbfb&signature=1b9f68cae419ca5b96716863cead86a718269da689cdf5da38a8ef0dc0b6bedb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] América de Cali vs Deportivo Pereira (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6102.png" group-title="Soccer",[Soccer] América de Cali vs Deportivo Pereira (Win Futbol)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=7309a403869438aa45a250e16617474745866cd61116f503fcbed9dd347a5951.1777846232.6291e0e54303637963d038effccbcded.169c070d5c38c1965c893aa62e1dc170.94994d8004dede9f6c16a1176b5ede8c&signature=dfcfe7d2329d42de1d29ff5e3374a0b96ededccc7fd79d587570eaaa869ed8ae|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Junior vs Deportivo Pasto (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Junior vs Deportivo Pasto (Win Futbol)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=3b63078c8cde07ad4ed5c689082a0abf1b63f22b60ddcf52b5d8b432a2842fe4.1777846233.b3671e4b4ecc837726a722543495e5e3.7ab0e83f1d1a0c70c1041710dabef644.416f2b06ec1c1492d66a4a75254851cf&signature=735af8bb43d78a9cc9e06d9904ba03e73666a4f5d903c51f1b3c25f1062bf30c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] América vs Pumas UNAM (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1939.png" group-title="Soccer",[Soccer] América vs Pumas UNAM (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=2e363038b6f8a0f7ae75e463ee65bc35015ce18fcb484e5f9dc0144299b2bcb2.1777846233.6d3ae1974c9289582d1e5a260e880f53.5d50fc74c21906efab73e576a9b37efb.9fea263b61ed6b7af5ee8009945c5a6e&signature=b797b2623ee0734433f0086d616867f306287ff17965f70b59b2b3b4e9b6cec4|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] América vs Pumas UNAM (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1939.png" group-title="Soccer",[Soccer] América vs Pumas UNAM (Univision)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=10685a1275d6b1db20be4c26ec690456f7b8bf5ebaaa106532f922790c584168.1777846234.8c5cbc80711d9b7e0d8c832b452089ab.bc6e66b980293c58690009091c68a180.7d56da559be22c30f2f80d912b341db8&signature=cb4b72ad283a2b6df05da62900e00909a692199c2a7be1a127f7e39f55e70e53|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] América vs Pumas UNAM (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1939.png" group-title="Soccer",[Soccer] América vs Pumas UNAM (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/mx-tudn/playlist.m3u8?token=5d4027a7c592231e4701087421255c52d4c89d27a8dc7f4c777f983696662810.1777846235.ed01203205644a6403fd3601ff5dfc02.d452eb990e466b768b98bb60a246f290.831b48742cee06183b739c5fe747f56f&signature=ed78c26b0c122dfb91eac7fd140313c9c90316657dda33651210e18a903054f3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Melgar vs UTC Cajamarca (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2308.png" group-title="Soccer",[Soccer] Melgar vs UTC Cajamarca (TNT Sports 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=dd921a9e93467cca90a5f942412aeb042888d788244dd822ba9bafca7df9280e.1777846236.82cbe33cf6a8d711928999a217594b94.bc22280049ded18733ebed5bea81445f.9d8a6135ca3e49c7fb69b8fec83d94b5&signature=2a583dcfe9b0389e4f5c50f73e3f65044f6f0876d249eeab1855585b8487b13f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=25dc9796add72c52a2a826bf70d5e6392939c60327d5ac256abb2d6b8f7b2f03.1777843496.5026d2559c9c2e17766ab080affbd957.873173064645390f8a55b0e58bfc9b59.5ef91220a096e059d5a6360e9baa3831&signature=32b05dc077e26930b2460c5f98fb28309a4eeec636baaae980e63fbb3a4782c7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=0b960d532887af0523f29f68657aa91935c2e5597b954ed50add5633b11ee842.1777846237.fb0a3100202a054949cd0f04b26d6b2d.753a0628ea3ec97a0ac567d91cf466c4.416581bf3631c091044abb0760fe4c83&signature=f7eb75b21ed6332515ed9a4515ed19f40cb079f7705af8c45cab68d40f077653|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=0d261ceae6197205bb419e2b7eb3605fa2b92ca2eab358c6d8a128048be8b230.1777843497.14e777576fa955c89ca8d6e0f3969aea.ac8b988101ac1f41c5ce30f306eb6de8.f8af659725ed93fd4e2089b5c4c5006f&signature=dab05069cd6a24fb3c84a86d32305e781a32aeead0520493fbe457f3f76b82d5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=6e4afa7d60e1b5283d03c1d5fd98bade8fe17ce9cf643b637413341fd4a3c1bf.1777846238.da2ba81c07c50dda8ad58664d7421994.91c91e7e6da9358aaa3869bc72a797ba.a91e46bd1f1aa5ee970507a239eb3879&signature=6981bfaebbc4b999e00a7104d4b82609bae46e76293680c927e67915a9cac1e9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=df7b2b1471590f649d81bbeee43c06e01a93a3bc7d71f5e3688554b24a25133e.1777843497.8e96d385d243b1c9c850adafc00a4165.a16643f44f77defd60061897cb795b35.f13d3ee67adfa7eee9e77ce3fbc993c3&signature=bb20472e2c9c1a71c11b0e95a2b73bddd718ad06c5b1ff6781bea772d8470dca|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=2aa153097d757728478013b8cc983a6e9369c72864d37bc8cc390f74d3a7065b.1777846239.7c3de63d41928264ab94f15ea1785688.37cf38d37f752fd6e1cd98f61590d0a3.790eca044260cfc07aa2c75bc37624ea&signature=d8df4ad140efc0a72e6c37e58f5411ba3d2d155d7eea2d79eece1cbf37bba4b6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=b2163b47c99e348566d7f1468b0498fe585f23d4fbed21459c72ed377d194799.1777843497.d6fdff7e4764b6a9443276acdbf84648.c74db23653de60a008c8ddfed9c16b43.824797c2092b18be9ec36f6674ae7f4a&signature=11158c14899c04cdef674ace551c13374b17d9e77fdd9f74785df6211ff366de|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=731f995b9147882a9f39d3f8eb18b5ea593de093ebbaee18650c66442cdcc026.1777846240.6a977c5ce0b112d2193a8e206a79ab2b.838276faf4d76cd84bcffc54ca82b18f.e8a37f54e900ceb63182b8aa3943607d&signature=cee09d15afad5924cba0be0f35e50df5b23ec6e9fb8a644c8f42958a4e8c3c88|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=931eaa6c37d3b07b10c873c959422e96487abb62c6a4d4295a6a00f13c3a6dda.1777843498.f48b7539f99fbf779eac880f533c0278.f0a64a211e2f9b2d1dc2c42e5ac0f274.40ca641e744e8d1dfd3d67203083838c&signature=d3c5c7ff65d0cf69307dbf56858253f60786687e123ee29daff33fdd0900ad4f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=d08e6775130c6b7eb15b4d8de8bedb952770a03037c1179bcc52524d983f7308.1777846240.000e51f2a44faae0749dd606f79bfd83.734c604d7201a6bac2081e056f15749a.9817ae1d3c90212cb53036082e21349f&signature=ecb136c158fd676557566ee210d937fb1ecc4014237685db7a8d32460e822cf9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=ded9d75f35d8dafb4e6c8f4b30172f7fa2edaa55c723dcefb04703873398bbb8.1777843498.631471b9b20bcff7e0973e71fe4e4b64.027f3e05fc04211f424cedbd0509a87c.b38ff20164586dad26491ca847da116f&signature=bb7bd5626c8187fa3295af5ced6a0c3a655b574282a9c200b638e972e4c85053|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=f3b3fb840d39b011e4f8785cb38eb7b70117c4510b2fcb634e5af13197a93bef.1777846241.1f753c3c7e186979a930de6ea9970604.de11404e88f9d3f50cb7ae58b76d2fed.8e8a4c54870279a7e832951c83629db0&signature=24be558c5f28a6fa31ec390ca4185f408134a6b7de237b66465ef29c3ce8b95e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Hub Premier 5)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Hub Premier 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=bc882e8d56380233bfe2b04eda4d79f90e03cc417c61c98ca9fed90e83c7b4b5.1777843499.105f971fefd17016492da0a5e595b157.f12c76157b17e2c4e0f7b9d28b680408.9b250e5fcc8c97d147c9a70a2698b9ec&signature=4311a47601db964e6893fe20e48b0ac8249f7ea2c269505f60be334fdab4b4b2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=0296716a74fda247821849e3674db88a5e02d1b14250070066c74a985d555361.1777846242.0677d865251a5dc08d0814aa469f4c5e.696166afb0ff361cdbdc0165f488460c.c795fc90edd0cac4bfeacce1e8d4d71b&signature=2a85b0ffef2c99193087fdcfef63a88847858b93779c6e370e8d5913c171b5f8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sport 4)
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=3860fd2bad13a1615f81faeb59be5b036af1928a29ecce529381cf61ae418c68.1777843499.66331283e02d53e02dda7edc16592fc6.56ce6e5845504e6119cdebcc08d1f208.4f3e19b150e903fcc6edca3706466b12&signature=1e8d9c534195b87d626502ab4dfa735787b2d177a69ee927e8ae1d1a1f7793a1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=09cc5ca98d3fa19ee2c211f9f356d4e8d586bd811735c3b5e70f4750acb9e9e2.1777846243.d5d62226001bfba98f81b2be8429e745.ae085e5c3b3f5ef9055c78053890aac0.d245104eafbc674ad70aabada85df625&signature=5471c0e4f9a47c148e6210ae7d58afc0cc65db7839bb77449e4d5052a5880967|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=4f320f7cb68d856450a308486c419385c1385c1357f66903abc4bf64f816c85e.1777843500.25d7d60090d28c07b28e5765f441e6ea.35183c04cc7e1e096e21cbd30a94269d.06903e109e0f934d137941f062b4b08b&signature=ac8798c22a72b4b86b3ad724e624a4e8245a2976432acbcf10c30616a2db13c9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=ff4dc81288debe31cf74f15793fc93834c656c289ec3fefdfc6122d5df199098.1777846244.8bdb070da15a7bf917d995242f295e06.12b2f0a3cdeb31419dd22b00d1882057.ab782a2fb1f1aa95e16f9b867f4f0b1f&signature=83183d727efdcb156a205879944b7ff7c1d249083f7989b3cde9ba99fd98eec9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=75ab8fa476a7692084f245a8758f58f66f81763732b6cbe098c39fbcfa23e210.1777843500.4d633bce2cb17f11530c96e124049c65.eb694e867515f96833f628abe6e0e9fc.1dcbbbf6d1667e0d9ab095d78304c2b9&signature=c7b15e06b74e854db5799ff80902646f52e74269340052e524498a04ddf5a657|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=54a1fb97441ccbb4c7f6605bfcb19eac608f8f85dcc77b0f151d741ec2f0109f.1777846245.c876a4a3c16f188497d06010de7803fc.bc7a05d01ab3eb496a9d8093f94ea50d.2f86d0075a8e1b3fbca24c6e4ef561ac&signature=bb33ba8c355a1fa15064570f5235f0aef78df24c5c8b265b583296625508c1d2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=46602a6254bf74742534d052c6a6fb45006c5a89207f5cb07cdde8c1732796f8.1777843501.7769759074f0650999ad4aa83220586f.0464c985b75042787189cf79cda8952e.a018c9d5beb5120c29b992af2d9adcd8&signature=a367a52b6859a0c2540317e30fbbe84c96b2529f67efb35352fffe41bef1f7b5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=c682173473b1a28b5f5180ae2111f0a816ede9f09903bff94f1d790405613520.1777846245.60414655bea38c6ee1f7bd4de44b4f99.f21d2293d15493abfeefe31830475691.273cb913e8467be5f0388b360fdae7bb&signature=858f28f19121cee00e62c6b3f76f05ee991e0827d75fa2d2fbc82da389ded6c4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=701f5fac1b7f1540cac21084727b0f0a3a23842dac0c370f88c031c77c20acd0.1777843501.36f2a664c22920af7cdbab7c7f192601.24c331d4bd6304e844f8e31456c685a3.ea15d0c7dfae337ffe0860340b663cd8&signature=7e8247f8782a2c82586a17b58e2fae8917ee514831e5af34fba7b5430f7894c6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=fb2111db61f608f9c702d6e90b39262cd4034fe7f233c1acd0d5665e8a09d3e8.1777846246.f54775acf32ec588933f390c434438d5.df9f38d93ad7425d6de171ea8f79f37e.a97b6c43bdb6944b8b519947db914445&signature=09727464ea5b6d6c4627b4faf24963aef713dc35ef4a790f94d0cacf021a60f2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=fdde595e57d9a7a85092ce89839021882ec4e9de14e735545dfcd93f15dd8be8.1777843502.4bbd1bd504f9a9cbfbec16b50bb15615.336257b1ee51510092ad0e6cbcb8067c.7eae65f73704b1e8b0231eb3036a5224&signature=f87a4098cd2823dbeb97daced2b6080b58d9aff9290a352fd2f109be96cad23d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=6057fdb2728ee776190e770509568f3d48155adf9d4e285ec697b4710b378d81.1777846247.50a3cf144ae11c91ffcd6caf59bd8b65.01a05d0a22a4b367f1530bd00f254743.76d3c6f2de434758258b17be17b8b24f&signature=9be33c789a6d082d5e4625d331e24ee8d8d513aa312c07b4e14631062d4e7a86|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=1bd8cf88569323e3b6743c641c1483319da0718ae26f7cbcf7ce45121b970bbc.1777843502.7298354e0f476153a7537129c1f1cd67.507ce6c97a5e22fad2b026c26b85b527.9949d9749e0090566a1e36f5480bb9a4&signature=3445f361a64922250152ba8c555c8ee8032cec6d6076ea1b62ee9a40ae6ae3d8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f37425b1de2fdd49fdbcc4b7118c95644accb8c089ff300cbf4cd11ad7e0dfd4.1777846248.619cc91521919888d376d68ffef2c51a.ce3c36a4041334da43692c46e9eb89a1.7cd59938b590cde2b2490f849f98ffeb&signature=98685804409b2580c833b86b3640849360598c81c0cca82913fe81ffc8008c78|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=6cf315520a666bf23144af502df876562efd93ce0ee5b8537b15fa45d381c9cd.1777843503.91f63e67a0727873e2ee1206bd1046f7.de687ca0d101477cf5eb658c6d130ef5.ce48e1dc4e63d45f40a20006a89aef29&signature=1b59223a4740ff3e634f39999b06686b7a521ac8b8e1b84a17a81a47c2fad37f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=5c96af364a1884afeb0d62c1bf3940e713438fff2d06d98025032c8406a075b4.1777846249.fc81fe9b744eceb485761af5968fc749.20aacc4795ddc401cea4e9b47fdcc5e1.0e4ceeb9cfff520d11f26ad5f878b8b1&signature=2668fa086ccc4b3299bd0992679de0692945f7b1df04c25d516efcb1d6e0fdb1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Hub Premier 5)
+#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Hub Premier 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=a68e222120b959469f4de1983678478a8bfd6223a491d70a914ce709b7293fa3.1777843503.864b77d008ff1fe0a91a6480c23ca905.22f5b3ceb5895afb0197d6513d2c14db.2d342a794a58648b4843fc9a622026ab&signature=46e2a70e4ca68aedeb13371c583adefd9b2ebfd8a55ccab7d1dd0af51f21ca9b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=cb6744a2b42c6e283d1cbb52abe224fb7915477a83e41619b8b2931a7b3b35f8.1777846250.37b558385a16d27f1d7929eef8be3503.2ffee06afc61220071d646c6487243e1.b1625dcfbaf26daefc77143f577f40fc&signature=a06fd9b77b5581255a82a50d1e7a8196aeaff2c251cf72479cca0ba7936a32c5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sport 4)
+#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (Sky Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+4&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=16f496533d62fdf29c6729bcc309f78791b644b560d0c91ff8bc45debe7409bb.1777843504.78b20f77400bfbc1bcb78a143757fa77.ffb64bdbc6bb53a3d509b478f4994e63.08bbb40c483b7debd54960780ddbccb9&signature=bd58c44dda42736fc47b3c876c21c736bd472278540fe143875d50a22557b908|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-4/playlist.m3u8?token=7b63820041d6487dc865eb695150eee95b650c9216955f8add0e30d1f5b39a82.1777846251.e1a41b0fee5de7a0a520a5363cb8ce30.868f149192dc007d15632229a77d6edf.b0bf6d9ab18436755a123eab3c2bde63&signature=72c773e7e6487f58d6d6cf82a7b705abd8ef1858bfa238f1b7bba469682840ee|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Kings XI Punjab vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8e978b2f9022f9e45442df46ca7548c2791961899b595d7fe7596ccdf323519e.1777843504.330b46c880a7ec431e94957f3789ea61.632199f02ba03c14ff7ebcb9885ef49b.56017a16767e22a8b17d929727263a78&signature=1468e7385819777bc73e649128e3d94cee4b85dc76c98fd72963506caf93b859|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=3fb57a275f36250fe5af1e2476ffdb4a3049d8da2d4d2cbbb9731acf0b139cc8.1777846251.3975035dcfd03b090a33de917e40bdea.c52825c0bfde130aed8ac3110de92183.9c0391c1fc4849733289f705c0016b72&signature=0d515a769c77c21571bc62e929a35f3f5613b3312a680973dccc1258afe6bae3|x-forwarded-for:77.238.79.111
 
