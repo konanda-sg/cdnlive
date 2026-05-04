@@ -1,109 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] River Plate vs Atlético Tucumán (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (SportDigital Fussball)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=e62857c3793c358c674e3469b25411aa9fcf3f8fbb50df7c8faa6eb65c2493bc.1777849536.ec2eff3e7f7daeb8c8f6ebdcca9c9784.bf4d6cfed6f89d300d9f076543418a47.e32cfc9b1c504645590f1679f63122a7&signature=35392b0d81a9c6ae41ed47b86da1abe8bd577b2f41afd6c78c09b242b98d41b6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] River Plate vs Atlético Tucumán (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (Sport TV 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=a4101ceac4100c00a8e2286743218fc29ae5f2fcdc2a4ba376f28d6f02b687ba.1777849537.8f1fb500adc7fa0ed0f1802b845f0f06.7615389134f2b89fb78c01f8d6a90c8a.33b7ae1b3b2118ebb05256bdae2fba9d&signature=5ebddf8f907b0723ee1208ce4ae11256f98b284b24803d01713baa01ed680b71|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] River Plate vs Atlético Tucumán (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (Arena 2 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=f95415c01446fa6383e0b35bd458d0ed3ba6733a4128abdff968a74143afca49.1777849538.e5c33545f124066f11e47b0404f2f2f5.e774d596279880b21209837de98327df.ab96fec1d279472ef97eaf5167ffe1d3&signature=453a75ae74c0fec5ca3c868ea23ef7db65b018f17d35c6d56fa56544eeda6133|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] River Plate vs Atlético Tucumán (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (ESPN Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=de6106a6768773bd65f65725917245b9d4cd0818eee2194f6c94c562c84a902f.1777849538.378d0e5f16c2ec140b918a8b7e8bd38d.60117716e68b27930e234fa58ca8bdf3.3afebb579f06af57e802a1af02398ad5&signature=250adefcd319dc83bc859e50049454f46b98d411b99cf28353e3db0a7dbd570e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] River Plate vs Atlético Tucumán (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs Atlético Tucumán (Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=ef0b84e255c709681e0fd2f831e2155819796e52f143399fd7b64b1bf78c2e57.1777849538.c6f016ae9f945fdb230e5e582c29f8d2.6fe6e544e7c3c6d2af3990bb1fad8975.617fcdf8c6c147ebec32d9991ee098fc&signature=1ad5391ef03de2e609ab95d7ca0bfbd2b55dd6b234aca234fa04ff30bd3ef9ea|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Internacional vs Fluminense (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1966.png" group-title="Soccer",[Soccer] Internacional vs Fluminense (Canal 11)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=6ba63c63f8d9b2c14d38c708cdf569e3aa8031fb592186591a5108987cbd90d9.1777849539.fde9a07764ebcc73b10f83c13b46bd6f.7129821468cc5b309967dcaa9b704a96.e19b29cf08c5735ef2fbb2992551a6cd&signature=99256409461df87d3c1e6a3764e5c40b0330aa6c7fc5472538f92d18745fdd19|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Internacional vs Fluminense (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1966.png" group-title="Soccer",[Soccer] Internacional vs Fluminense (Arena 1 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=e550bbfaf3457e72d4c8ec9b39f71a1a9ade997e6db66ab48e8a634842711239.1777849539.d8742c6b08a2bbb919281846eed2613e.1ade770122b97a890a381360ece4677d.af0bdfa2165979853a0544fe8c2bb1aa&signature=533446b4cc05e47aa10309086a389bb83a267f2ab035a749cf6dd4869c879201|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Internacional vs Fluminense (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1966.png" group-title="Soccer",[Soccer] Internacional vs Fluminense (SporTV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=7bb4452d24a58c43a654ac62974f56de3f49d3d49ad36908786a75cbe07b34d8.1777849540.3673a49e008882ac23acf318f705bac4.c03692b9ee4f8a780e0e614a04a281da.0829b80414d43814ec5c7744dc5c896d&signature=58f2eb3f21a21370f71ebd6b615de6c5b9918a0710052cb73456d597a1e8fa62|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Colo-Colo vs Coquimbo Unido (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Colo-Colo vs Coquimbo Unido (TNT Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cl-tnt-sports/playlist.m3u8?token=d0d7e456af3610a6114b48fb406c81f73e49473d0243b0ff0397fe4f878e30e1.1777849540.883cdce914d383a9da0b267300d31999.6716d5124e9c9c0c3b4c4c71e50be7be.3188c0908d62af57c2275f44da2be8c9&signature=504d83fd565a9c2b3f573d4cb7cb719bb71ee907cb30e66e2020e062cbad9a74|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] América de Cali vs Deportivo Pereira (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6102.png" group-title="Soccer",[Soccer] América de Cali vs Deportivo Pereira (Win Futbol)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] América de Cali vs Deportivo Pereira (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6102.png" group-title="Soccer",[Soccer] América de Cali vs Deportivo Pereira (Win Futbol)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=488ad9f7cefb1e852e7a092df169935dbb4f74993c0a6faaccca9444610fc9fb.1777849540.f68dd4540ea897fc02cb386b02fc0297.ab479ac6722b0a50efc47acf5b1840f1.c6f89978af8b4a74bb756b1f1eb513d2&signature=d69ea5b2a6498e1ac3111784da2c42a217dfb5dabab969d731884b1786e2ba7d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=b05d38c84c66d09def26cf1bb56ffdd76d6acc3852312ba8ce5681599756659e.1777853142.c772f2ed8218b693a9440ac3216ea176.911cadcabfd5aa6bdba98da02693942d.712f256343bab57f16f953bbda409473&signature=468fe72335cb1884ff074fa67f101db16b2a9bd785a5b2399e5c99a12662603f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Junior vs Deportivo Pasto (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Junior vs Deportivo Pasto (Win Futbol)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Junior vs Deportivo Pasto (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Junior vs Deportivo Pasto (Win Futbol)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=2a7c0358f4d52301d17258220e28a0cd148fe274b32828e1d22d623b5a7115cb.1777849541.471c8f2c6586d13bff79d01c97ca879c.0215db58792421ac9f070d9822f31928.20c4ecb31a3b344d9244ddc271e76848&signature=28c5629ac36b5883727a2b6e5566f0f132c3de495347e48e7fd69438a6263cdf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=78986a3995ff48776088351eac25d1b10ec51ab7f5b8c7cedbfcb323eef69452.1777853143.da116601e6eaad793ee1a7f84c647fe8.4014bc9039283edcfb160ec96674d448.c4809361d9424623641b87b5d13137c5&signature=fca8c4f8c890695c8230e6986c0233ac2fba34e83065aad7e526ff12b6000ef3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] América vs Pumas UNAM (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1939.png" group-title="Soccer",[Soccer] América vs Pumas UNAM (TUDN)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] América vs Pumas UNAM (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1939.png" group-title="Soccer",[Soccer] América vs Pumas UNAM (TUDN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=0606c37476ede6047cd03e20edbac71748b1001769533c8d4ff0eadc74bb2723.1777849541.ca768335150a7995b749d4df43c206da.42dcd6c18d2c397a425acafecf255d80.ebcdc73c8be997f3b7a55688f2dad144&signature=7962780607e42fab956adaf7b4e71748572e518fd0367a7bd1fa724d4dc4e972|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=f5d1ec1befdf2b15c479926346016956acd6bcf624ae04c6e708f37bdb21365f.1777853144.6be3915e5bbafa364d172ce6c75146b2.a3f8c5d07a52da0d66d0df81b0462c39.eaac232f138a07cdf11312614ff8eb2b&signature=baf10ca176e7217a722bb00aa852fe79801e1a51a851be74e10ec956b7bd8041|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] América vs Pumas UNAM (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1939.png" group-title="Soccer",[Soccer] América vs Pumas UNAM (Univision)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] América vs Pumas UNAM (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1939.png" group-title="Soccer",[Soccer] América vs Pumas UNAM (Univision)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=b34c72291d4373f16565e0943afc98425d9fde878ecfb1c454ae57da35fb0abc.1777849542.ef3be0577a908100448e4097c66408c5.29fe700f7a6ae0d474609afc209ec4ba.ea5da838a0600ffec4683562c5ad5173&signature=7ea2d5a474cc422c8e52f43f07e8357835df46374571d907444aef786aab514c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=b28bfe7366d741ba30be2b1cab067d995adce48312a3a41a5129ed5156fd6f1c.1777853145.457262be63af4c2dec78dea8e1e5fbc7.00652647dd03fd69ff4e3a67629242b9.8c218d52d422a92fd94770a85767592d&signature=c7756271af8a6f6b9d759e55ff96a93a036b51997a123a5581790df4698e0e8d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] América vs Pumas UNAM (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1939.png" group-title="Soccer",[Soccer] América vs Pumas UNAM (TUDN)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] América vs Pumas UNAM (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1939.png" group-title="Soccer",[Soccer] América vs Pumas UNAM (TUDN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-tudn/playlist.m3u8?token=e2a3836fef54ba1587b25a5d44f97ae67426b2f3dde51bc96d5bed142789c8f0.1777849542.a60a7d6ad870d438dd7cd1e4b948498c.88982e3c361da92ccb70f39302e20866.5cdb1a51aa7bc87afc14ec8b456196ae&signature=5ad7b6e3c2b20700ed6ba916f845f7655d29164d45baeb20df1233ca7fc3fac7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-tudn/playlist.m3u8?token=ff4d8495d2abb0deb1b2daa8dd9927da4c00b1a8d1bfd90f0c9560ed1200ee98.1777853145.c811fc215baf644793718098228c5dd3.fb16261ac07d86ced45927748caf4a18.b1838da580311c6c615eef78703a1a15&signature=20df505c7bbd27209f8d58c4d687f837796591921184b38d386bbecd6ffc4aae|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Melgar vs UTC Cajamarca (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2308.png" group-title="Soccer",[Soccer] Melgar vs UTC Cajamarca (TNT Sports 7)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Melgar vs UTC Cajamarca (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2308.png" group-title="Soccer",[Soccer] Melgar vs UTC Cajamarca (TNT Sports 7)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=90d445931b3476a92c1a5465fdec0e0f83883f10ccb0a7fb426236592b0c8274.1777849542.e44df19db2dcbdf59a3f83ae4532c1b8.e99aab3fcbd681078092b7b001686acc.b2187f1554bbef5fcadaa254d5f46ec0&signature=aadb988bb483166682fd76d17e43336848798ccb8cc74823a6014df0a8bf6b7b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=139ba891ee4c4166af0b0eb3bf2f4c9be8d8f904269010c5ebb170179c1980f9.1777853146.55c70d81f8b4aa8cddc9c2779e8126a9.07ef3be9e965aad797d767f2e1cb60c6.ea503ae4d65bc1a8fb740f1bf16c284d&signature=7e98343dc3930d5eb8c6587671ef61254aa2872446bdf361a20e1dfedd4fc339|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Mirassol vs Corinthians (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/21982.png" group-title="Soccer",[Soccer] Mirassol vs Corinthians (Viaplay Sports 2)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Mirassol vs Corinthians (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/21982.png" group-title="Soccer",[Soccer] Mirassol vs Corinthians (Viaplay Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=ba7cedf7ff0dfb10cbe60a7cebfc75a98027c15f3ba1a58e2039f3985bfa8832.1777849543.e7d5a87436d01351e984fdced2317997.2277e826f9b78646832b3d4009795580.ea8413b257e0ca52254da439190a6136&signature=1958293b1771347a845db7323b762c060e18c7baf47316064271ef9fb59b07b7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=2519c14dbde34aa37c0b321f92568994496f2d8f70117d5bce39bae996e56a68.1777853146.776f1dfeb7725048772d21855aa68822.2049c9fa1281150bc3ff56f5261189ac.93aec667920308f6971e1342761dbf72&signature=0090bdb359087da4d5a748da893272442c5c9d7f35f2b81264c3546620c37253|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Mirassol vs Corinthians (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/21982.png" group-title="Soccer",[Soccer] Mirassol vs Corinthians (Premier Sports 2)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Mirassol vs Corinthians (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/21982.png" group-title="Soccer",[Soccer] Mirassol vs Corinthians (Premier Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=52f2f1d026d86dc7749d3ba582b9a538093fc2b68f4ad8d9d529ca927ff87cc9.1777849543.dc9da1e2120bfc7ac5fe86c0052d2efd.5441073399d2bad32096847856213ce3.7dba5b3f028c1c55b7ce9055ad67899e&signature=8064e2af6f1ff2d6ebc3bddba28deb66d0c4ada0c3bd71d805271f1e245e327d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=2c62c9d806e811802f0d468422808683e55c9f6da8213299dedbf07d9f839323.1777853147.be13cec5d4a834ef1eb408c319571ed7.458e2f62f5d02152d7ce1665bc7571e2.a9a2f9514100e71575b55c3d243dead2&signature=ef420f907e822c9744c7f32d8809966868e26cebd72744e43835d1ec06b1c8c4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Mirassol vs Corinthians (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/21982.png" group-title="Soccer",[Soccer] Mirassol vs Corinthians (Canal 11)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Mirassol vs Corinthians (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/21982.png" group-title="Soccer",[Soccer] Mirassol vs Corinthians (Canal 11)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=bd212c5025361039f0d96e5cf9370f235e773e7b59a3c6b49ab1e526ff2e29c9.1777849544.3396961361f6549ca1facbfe9b45d7fe.ea3f4f12070e68616cb5ba6d092ac722.8cab5d775061ff9123a71753141a86e5&signature=8a29ef1eca08c4a6b5e8b68b8671d934368d7cdca96ab5fa92238764d57c562a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=2e45057970994e594f140a688ee555ecad5328731d79b7210d828c9ffab6449a.1777853148.08d72fdf5ff331956ae6b949a32ac2ad.b75a17b25ca50e09419825b142982743.8373e508cbc42710c16629f737166371&signature=c94cb7e6078753b8e361058ef10e556ce7d87fb1149cf4eaa30352f122bf85fd|x-forwarded-for:77.238.79.111
 
