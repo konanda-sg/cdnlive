@@ -1,1 +1,295 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Bravo vs Brinje (Sport Klub 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261800.png" group-title="Soccer",[Soccer] Bravo vs Brinje (Sport Klub 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-3/playlist.m3u8?token=744eb327acd92b79f5ca1b057ae818349204c423dadf54edc97a3fd3d86e8502.1777900390.00e17fcf082b690a3c98e88866625306.b9258350df14ed83bad998acc66b8cc4.7b7d2ef7ed295e7e957a59d9df6a1a2a&signature=a9d941cc7dcb2d9e5087eacca2cddf3fb8be56eaeeca6acbb2ef8a071a87ee99|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Ural vs Shinnik (Match Premier)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7529.png" group-title="Soccer",[Soccer] Ural vs Shinnik (Match Premier)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=64e35e6c9b60a94bf15a919b87d3566a7c0e2b53151c5be3d91efefadaae3725.1777900391.3720c09abb0c7bc8b54861e7844a75bd.22bf66a95addfe605e54430b9958c103.618e960cc2115195f9243d0a577565dd&signature=e510cbaf4b38e7e5f7abc6ad074a86ceeff5f5495293edcc5edc9c84edf8062b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Chelsea vs Nottingham Forest (NBC)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (NBC)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-nbc/playlist.m3u8?token=d6380b5679937f2f7323d3f6e8fb6f879f3f672f24858d752d7815c77e994ad0.1777900391.f3306e2eeb5d874179140e65a8477140.0294306e844d25560123c5baf9b786a6.42174ff35ad0442e62625dbf182ad150&signature=1b8a49a7f7425ce756abb92da801217e49a4c42917bd22b4622e8c12a04fb06f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Chelsea vs Nottingham Forest (USA Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (USA Network)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=78ed4d9694a918d6e2dae3b5dea12d5e76291d0ffb996976e7f12a3bab6296ba.1777900392.0fe02b6d7b04f97bf37d794c4b846acb.a7515652b20f5134b05d098028fe5bb2.808e1295f78a547f01c292a30f1a43f4&signature=50c5b93d43c6a570e44e39b428557e6e389630e5c4624b27d75a6230bd5fe57a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Astro Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Astro Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+premier+league&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+premier+league&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-premier-league/playlist.m3u8?token=0852b17c76186bd40382ea7a8d320d2c2b6f1df9c685eb2cb63dc36279261dd1.1777900393.cb5dc4a6831e5b5bbfd02264a6a23084.c28b9b81a68e63d02367a1cb7b3370e4.b3b69ec1b4bb726dc35e87bc7dac905b&signature=1e7bc6d8f81d640e436fa49d6df0d769a1dbbf746ed8db644292fdf7a09c6561|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Astro Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Astro Grandstand)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+grandstand&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+grandstand&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-grandstand/playlist.m3u8?token=e9d7c774eef62f9de6958bf66bb391587e09d7d7708fc02705a7b23399ca3bd9.1777900393.e3a8336a8f52793e65de35448e409e12.3097e5bca93eb73ee4b27b874b2a9fb4.7e247596248546fde79fcec69b056680&signature=cd6b691fc58afdd38beb20a9c8688905222f3c4a4b627e0d72f5c2755d69977d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Chelsea vs Nottingham Forest (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (beIN SPORTS MENA 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=7eba44daa82d88a719fee73bd82ce3bfd44fb98abe12ca3993c3af383f233f3f.1777900394.60971e8f27826af16ec24c316d02fda2.eb1c03c035f14d9af6d2b02bfc0fd910.475fca7b9a8c5c46d7d989a4c25ec48d&signature=c9a973c8c94d1d12b6db826817c74012358c48fe48af69a477fbbdee69706cec|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Chelsea vs Nottingham Forest (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (TNT Sports 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=6f71986412de6a38cdae1503a627a8be9446f3091a546bf165e8f9255248d93a.1777900395.6061ed97b5baac40b59c14e89dffb938.0b39d944e9fe82fb80a9ca01be50ef4e.7e41cc755d84956a7841789d24f23263&signature=6b0871e241e3f1080066fd77df7e27f26b7c2b12e3f3f0bc3ae622c4732eb67d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=bf098472389a486ae93fefa65018c31a6e7820926ad157335aeee13ad58ace65.1777900395.f3c5d29c1a4d5a180db8ac5182d89372.9cdae0aedd3263a74b498badca0759ec.fc5e539f66e5d3d52bbf857398cf8bf2&signature=ddf1c9f6435435f75873fceb24ae10d07a5755d38a7e069bbc80ed1c3660a025|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Sky Sports Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Sky Sports Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+premier+league&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+premier+league&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-premier-league/playlist.m3u8?token=1041c7a60b5f588c921bcef6ad115da4bc5524d336a7f754a40914743a17aec9.1777900396.4299af082f2ba2e9983551679fbb7e82.539cb5f1a14f834d25a7fe07b7c05f27.3313c5ea99639e610fe889b327c16a73&signature=ff567bfb033356d692757ddff42534e0cfeef6eaac61a05b83e60aa65b3873b7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Hub Premier 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=03c3e69232ea2f32039742de61e729ce024e17750e90a3af4d7b6b7de2a0bf49.1777900397.940244b55fa2ac24e92b16ff0cc6ab66.579adcf9ae3abc67b0d85e8da11e02e3.8c04ca0ef720f46881cdf711e6a3da6d&signature=71f3671a4e6c69f6bae769e09d570332a306dc63025bdd34c6db08f54446fa4e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Sky Sport 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Sky Sport 8)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+8&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+8&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-8/playlist.m3u8?token=04a50e5a28c23d25724e4721c35a4f15aab9daa8f695039f9e47e6d986f3bf54.1777900397.8d26a1b52d481eb37be2782a5da35379.b0b3c318a335a8c1178393cdbcd4f10c.c5bfb084782dca1dc59d9595edc601d6&signature=bb2d5b5af26262fc95e809e8b1d7fac259c1fa8e23b644c1029e0c7c28e63a23|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Canal Sport 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-canal-sport-3/playlist.m3u8?token=280933fcfe2433063a4e728ccf6ab0808535abea5ca33c1ee9d014b97afc3799.1777900398.09f06bf2263194e245ba5701eff0ec24.732f65bd89d6fa1db1b76e27e2dcc2a2.2a6eb458d8a8cf769bb1bc71a851dd67&signature=657a95e059570a3cb255c4c1e050cd6e560bf50ffd2fe7f9abdadec6628d6851|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Chelsea vs Nottingham Forest (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (SuperSport Maximo 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=c949ec7b132e123f271e5d6664d146ccc61abe85c60abf4858e64eafc35cb43d.1777900399.3b63e5ba7726136bde5b1f7a8eee1f98.5b94777fe106c293a4b67b976c425c8c.6101a4223da1ebb74a49e846aaed0d9e&signature=133f09e3282a47ebf898ffc910a8fe8fca4881027d12f48b1bc26033245a8066|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Chelsea vs Nottingham Forest (SuperSport Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (SuperSport Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-premier-league/playlist.m3u8?token=b56f5470f4a3b2c44a86399c776dce946fa7ca11acac44b3350c937be01da25c.1777900399.b75a504a216395b82045f8e585c543e2.1c2451fcf1dac1b2d2e03cbe9d81eea7.eb9441b948e7e58495879ab5f015cb05&signature=a66e04454bf33d90d9139c0823790c4487438619994e77df5f8aee2310c902a6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Canal Foot)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Canal Foot)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-canal-foot/playlist.m3u8?token=6014c68db5f9368b85c73b2ddd4e4781ca182fad1b21df6170051836c0a128f0.1777900400.85419d39071b5fd4da0c8468f5cc1382.aa4cd8171d8a55e1d1d8ecbd4536e605.511ff1983781ada2cac9121a89b27e35&signature=a34c801a4804649c35c109205e5007d2dbe1f2ae1b85aa24525ff579c18ced0d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Chelsea vs Nottingham Forest (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/es-dazn-1/playlist.m3u8?token=92b9443ccbdabdfcc4fa8fe23ce46195b999718993f5e484e7dab9917d543b9c.1777900401.610d1895ceac5268b07e0bced9acb3e4.e22caa67c986ea8ef264d04e503edd87.e7fd03d35493aea8c454700d307a1bed&signature=787588903ec8015464a5dce257d9d7d95174807b406e4ecb5242db2eae8aeb7e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Sky Sport Uno)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Sky Sport Uno)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-uno/playlist.m3u8?token=f24089f1ba3793129902b97615e60a78478e135ccbcbffbdf4fe60e70db47b65.1777900401.d4942c77121d8db7060c42900fce8eb9.4889eb032e06856aadc1eb3d17522075.268e89457267c82fad21dfb1561e489d&signature=6a45580bd7cffde6770842140dedaadd585cf07c2a23bd5210ad27b94b2fc411|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Sky Sport Calcio)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=a9a034894cf5c8cd014ef8f4aab43a9a62645d9e3d53ee89a8b28331f2bd4a17.1777900402.93cc284445554dcf6f32847f5fa42b25.310f560c5e7cec5fde2c00f076093b05.1320cd059af0c98061f54d2975aca51f&signature=e4961391ae6369774311c15ac4df139e23068f2efb735146f6146ab0145f84c3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Sky Sport Top Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Sky Sport Top Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-top-event/playlist.m3u8?token=561aeabb43e64c08a0ffcedbef4b1e46aacc0b3e39872bbc7f9d23a68c5b3ef6.1777900402.8c6a6e50b81ef4d1682db062e3dc2af6.de4fe73736fe9fee7fb6aa93ccb2ade3.2c1118ee5b99fab96ab04360547a06a8&signature=e689c85457f4046479880f74b07fa98d77f35ca50c8e00e1922a2395b3848b75|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Sky Sport Bundesliga 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Sky Sport Bundesliga 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=169791f00e488a9d38b15e5790453aded3ea588dfc5c0160f7fd0ffa9b0f9a66.1777900403.3849305952b47bdc26a0d75ad3522a7b.73fa27708f434be59cfed23b6c6bd724.919ea6ccd9640858410539a067114119&signature=6b3bc20540233e7037a1eff345db67598be2dd0ffa6e2f378c5e759fb1d86630|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Chelsea vs Nottingham Forest (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (DAZN 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=657d7d89b60f0f1d5b2c4af2b9cacb0fe5c548f4dd1da46ab13ff46325b1fff0.1777900404.c67e97c0c64970aded5ee8bebc4696c4.42416592583833ca63de983840e361b7.06e50922584ae5a08950590ada1f3c25&signature=467d1517255d90e9b6e22b1e25cd50652cf17a4991f6c83081a7d8d58c00a86a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Nova Sports Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Nova Sports Premier League)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+premier+league&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+premier+league&code=gr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-premier-league/playlist.m3u8?token=c37e72ca6d415c3ea20801d648fbcbd414b6a5246a5932046ff0127bb53ff68c.1777900404.5192a6ffd03e60043f0fdb6018396c7c.d55aac4579dc12aae5a5fb72e817638a.8cfc85a528724e73a47e7dab10325a3b&signature=f31cf093841aca4925467926d3e2a453745f5521edb3b0710fa2cdcf84e4a259|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Diema Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Diema Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+2&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-2/playlist.m3u8?token=34a1ff5654478b956a4ba285542f292504475bfef7873be2c407484035845061.1777900405.d3d0b908e001e14e31472aca9dbf41fa.0b863282224a12bc262fcd0b3e841eed.162545753e527785804f479b6c84c5df&signature=175f0b38424b5011390fceac358cbe840f4435086ab782cac006b34585074174|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Cytavision Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=5b22329988b5c852cf8233b180b6613295783469bb90258f0d4c4eb9dcf6b2cf.1777900406.d07fcc7df0253118ee6dd91a3e62268c.4882945160882c155c99071602723ade.50f85184ac155f75bc6ab09711e0400e&signature=4be10ca86e5940a715fdbd822002a8221ef837c0dbbf8e0aa7364465928eb151|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Arena 1 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=5e87d993a2350640d905047d2a4d98be09037d4c017486a1f54386320b669cf9.1777900406.773859a62dcacb1e3b0418c8dacbc5a9.505b50155da67b2b6cf494c340c237dd.51a937ffe70db98c68976a6a5fbbfdee&signature=916375bce795c6c3e0d7018fc70982f20bd1bc007780995339a4d3621d61fcd6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Arena Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=dbd2963f679e9cfea3975d605b5da0325f6097c954969c4862f2dbdbe2b170a0.1777900407.139bbcb28a6bb1dbb57655381f5b402e.8b5c5af1970d99b08e291f3625e163f0.705aff3ba666aacb1976e21b09c33522&signature=638d777d176b34e75d23c29bdd4752fb6395347eb7a28faa15ec57d4cf9722d6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Canal Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Canal Sport)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport&code=cz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/cz-canal-sport/playlist.m3u8?token=9e84b432d7e3a520b810d2552e1ff11e42efadf90e6aa41cdc8638fafda3840a.1777900408.5dd7341ca6735fd37a3644cb55f78705.39824479b77791dd73547f384f22695b.2bf180dd0b7bd5573e4b5596966fa450&signature=069f2bcf3e497cd8f59dabc491e59abca52079cbd9855372ced4211455a9827b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Chelsea vs Nottingham Forest (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (beIN SPORTS 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=tr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/tr-bein-sports-3/playlist.m3u8?token=aaefe8c1588110adde478b903c1f748dea6e776b7ca52a5fdd191f46f937c916.1777900408.0ac0a952cf9794bcba7fcc59cb62d036.5b0986b3215d57508c0e494f1732e43d.c60ecddeb8f622651da509c711470a68&signature=4b72c456d7fcfac0cec0a9d6beecfac3a5666fb74ac133b1b4306c55e12d4b3e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Chelsea vs Nottingham Forest (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=d73f62dd729987a8a4f0ab4152e22e09810d6ff425e2000d1bb610fe714a9964.1777900409.c241fce81b70ea52bbda2f6e03bf967d.89ef0d7f321b0d7f817a4ab9ec3af225.e203c7953401b161934584467829bd16&signature=e4e81bb71df72ea7ff9eebe4e10ed48616ab9a8b3f61755e7636e0bad92a328d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Chelsea vs Nottingham Forest (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/38.png" group-title="Soccer",[Soccer] Chelsea vs Nottingham Forest (beIN SPORTS 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=d1dc233b7fe9ed75704b0c248d5e5ae1f5fd3b1c560185001f13f5c6be318442.1777900410.047b5229a8d190792d97d93e6abf1a4a.17c3127fc92b2e8ba143abf97de70f30.2ad1051cc5bc06db442ccf44efd2a52b&signature=7f26c88b0d8cd0858e0d466201af36560f942c04847834a4b6da3cecdcc65500|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=155a8b6da076259da9369da238a5ffe7be535b6493ca6d1c68cfacb2e8aef2bd.1777900410.c4be68d409ba3e83ce93095cfbde9f8c.844c955d2d6e15327c5dde8dff342b7a.dcc9c3c697cfed42828f7e0e6d9ff401&signature=c846ceabf7c232d656b114cd277aba5bbcb064e3e4b9e671aec913e96442c7eb|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=10f83631315bc417fea2bb3a7d067af8949de7048fb86abbd84e2349c1f93f41.1777900411.915c5e6272eb7146435c667760d2b9ac.8a1c6660c789ec878d2dfd1e75be2a12.e919a832a506d1f9c70c7b65d9214d36&signature=3c563b26d5f31e4f7595e84ec0eb32b196d0fd365bbf2116c2860f118cd35ac3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=9fa70859e829cfdcd4e6e226adbfdbdcd8ee69430584d571164821d893e31dd1.1777900412.115529273f2d8f2066a7816331414fb1.cbf47f1758c5bcfedde9898021959dbc.129fdbf7d8c7f5d2093d7ef8fcf7182d&signature=c55afde222009c07a7b336fddbfbd9ab2c09855017f8f5cb6aabec9cee5069a0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=2e0327d853b5ab96a1dbb6d1b3984e030f0f8350ff850e3b5eb773442ae9af79.1777900412.e2556dd18625fcb89fea0f1bcad8f219.251e77f027e17560eb99b6c78d680b3b.a796ca18f3b39f38a4d61ccfdf6e3b74&signature=c46871ee955a7a0f848d493c6232941ee2a3483281f738055dbd9b177ce62372|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=470b5efe6d66056551739bec597a60f380b514b8d69ec58717229b0c846d6d58.1777900413.849da1e392ed85324560dd60e701bdb9.4f8f02e011de9061e0f24e15f7c4c83c.8376f16afe59066a05a8db4672806532&signature=fdb1c296fde0fdbaef24fb8f4c1434724dd9ccbbe43efcacbed3e2e5eb47a468|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=506998f2ba76d91cc86a6a1fa878745f12bad83044abb0a3bff4939fa1735378.1777900414.a159fe4b1d5784cfdc90f3aa45a221e7.4e6875ab54c44d3f64d1454e1f5b7e2f.1d2d118fbe212b42b0e51e141ee97a1c&signature=1d16c263d1321a2d7161592c83996af35fa52631883b5107f13be58a2799882f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Stan Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Stan Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-2/playlist.m3u8?token=4c0fc99615be60130a0031792e8487a59f20c3e64ea8d169f0f312c28880be0d.1777900414.ba432052699102d8a721a1d0e027c527.660d012b9db12ea860055b4455cb17c2.aec3bc876c261d9bcff4b9212e708725&signature=700f9f2a45f2f6800089a8bbd56d25d9415e84963b648bf0bd7a4ad6f0b59d06|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=5ee545ce9361e8f64ecbbd678f7635cefe8631dc592b3f319ad2fe2e397a143d.1777900415.faa3b5c92bcd29cb00c2dc96ef5e3ff3.14c36714efe5307e8d0e6aabc1a687f0.02e56f76f063726cc657b5d2219fb300&signature=3616b6e568b8eb18d0c171d9acaff354d4db6a5d65941e9dba212518e410a7ec|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=20fc44d626a5ba058d3e0c71bc2b517298c8ab271ae79ad0f1ca74ae46bb739b.1777900416.7985070fd090b84cb5d752e9099d6872.6dda61312a32e2afe740ac04f8cddce2.5aa1131194770b9cf9a9141e9bb48953&signature=b096ad1931dc65417962f8abe9b882750784e0741f94e4d2f4ec20fcfef7c07b|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=26ceacb63e644020c58450be4e25f76aff46b3d40d874b99b66f17a5b156a7f6.1777900416.da0ba87319f920be295562180844c4bc.ff08470cdb2aad67970c8ad73012ec4c.9a90f9c0e49972556f726d4ef8c97bae&signature=b662a03e26adcae3d5b84e0f9df87817488d4804d4c3ebbabc8c28cdefd067ef|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=7272aff831eb5ccc874c5f4baf9172e2cd7d12b9e319b3a64e106f086b34777e.1777900417.d092cae907380f3d5d567eb97d335dd8.96963172d6f7f45ad3a8ca81d8451638.4a47cd427ce9c687d833d1a7243a4658&signature=25f6885e634c2c9857d58eb5b0fed3f8784c213f6bd83f48c123a1d755e5bfba|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="43" tvg-id="Cricket.43" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=5f786297ca90b7fd9743bf8c3923e6054353db665c0664715ede6fc597e21582.1777900418.724c4115ac4b0f763575595bd524e637.4fb9f75a7fb649c66269c5c8c6767ba1.0644dc3e34205a59669328fe75560ae8&signature=334bc0aeda152d661800bc9d2f1f6de3fd0a50e253416dbeba38c82ab8214305|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="44" tvg-id="Cricket.44" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=965f4c0d98c8fe030c761da1a7d832b4a49407b235499119e88c157644799c1e.1777900418.bfc553f7562e6f7c3e1bf17e4fdb477d.8a7735c237f5e650f41bdc5fb56e7d5f.9b705de095dc8ebabaacc3b0128ff7c2&signature=e51385a25fa12b546ee2c5fc03960083bc0d9d7fca69a03e594924b253739c5a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="45" tvg-id="Cricket.45" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=e66eed9b8a97193ec5dcdc52869344cb09c5d48b94901e9ed5bf9e716cccae0d.1777900419.701ebfb2d5b07ec64a69a3428ec695a2.1aaa3af5588adc83c937e588e7afeb60.0f560e60747dfd2cbb4d3be983accdad&signature=4637d91708ae09eb82041bdd6454b14c1bf6c9365ba73df9b75dc0ad04e582b1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="46" tvg-id="Cricket.46" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4c790dff1d880a0c7739644e5d61d38418eca3facff484c6899fca6ebef492fb.1777900420.3d31b1c42b7896137531312a1d2ce4e5.d1040970261be56afeba2b13bd08b333.ecad76b55dcf33fb6dd75f05750cfbce&signature=ee0a6deb44262092313631911c9ff1e057e11010b44beb2ff05a0b4dc56096c2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="47" tvg-id="Cricket.47" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Stan Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Stan Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-2/playlist.m3u8?token=8d63beda49d2228f1af9533e8952c638375c2b9b47601a0d8aa036a6f8ae882d.1777900420.e1ab55b6b489d4f9e619afcd550ae394.bfbdf1f8240c8fb2e6db34ab1ab09311.79ea9d60ceab1e8c4da0023f2a293e1a&signature=4182a58c4913b9687f1a58d45351cc346423a05c1203754d7e148f2db8ffa341|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="48" tvg-id="Cricket.48" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=2d559571b49fcb68ee2f0aa8747d6b2158b1e41d151a04f63d8c2e98cf033d56.1777900421.6c63bb90dcfe71cb2ba27fd534d8121c.b0304a37c00055cfb217ed5ed77e7167.8eb94460f9a0d60122801bdffb4c658f&signature=82a0da92d1bc65e196b1184785e8b76f105e7260c69ca10fdcd1b6c72572484a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="49" tvg-id="Cricket.49" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=8b7fcb2de356564bda4e1bdc85b1197f42ff330ef1e4c4a21365d12aaaf5c36f.1777900421.126ec5ea376d44b9012f4bc58a39ce0e.cb08c30b8510cfbc5a4d934021b442a1.a22610bfc2533c5586958a2abcdba30c&signature=d4b529326541796f1f7bc509ab71231ac9c80d9b960f940f0ab6abdf9c93b7fd|x-forwarded-for:77.238.79.111
+
