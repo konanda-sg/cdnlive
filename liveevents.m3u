@@ -3,113 +3,17 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=d7ad3c326bc7b8e171a609106fabfefde2c5787ee6a584e238ac615a5be6c126.1777934148.d3d065441beff6535507e5a73c4fb2dc.f2894d2583f4dde950301a6a97752726.494c429dea5c66f28c40d5f25ff9d670&signature=53219f00f0596eddb24028479b017ec38f01cc8ff939f72d655adb82eab8dc09|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=342330109b4e211fbd1c94ec51493231dea2bc200b3c94cd06413c4ee5f9ed3e.1777937454.8420b926ab1cfef726bdfedb0d331afd.9f3b214ed7c2ffdb4d9a665c59d76837.cf29d4e906c9ff6b8f285991be3ef476&signature=f62fe13a1205d5c9b5fcfc0c5df8dbabfac2cd222b170ad0751dae72cfa4deab|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=46e9f95000ca415d28f74dbe2f164ede8c09e43bea5c790a2e9585d300aa70f6.1777934149.23c562499213de51d22fc579b2553ede.5b8e0a90ce084450b02eec40cb3b152f.f89889d2e55dafbb4ec61decb6f00b09&signature=9f0d1d61406012ac1c35f330e13cd1252bff783b9d7b3d1af32615d64aee0eb1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=093eb033d1feb31d20a5c0dceee4b1ed3f4f69417f5455c509cc2ee2b9e9cfdb.1777937455.e70d700bc59570fde9b431fc7f3df2a6.d551a804ae04abc76312feb930132500.757ad9960e3ec265efd9b6e92b98ba09&signature=cd8d633e41cb27c94a6f36861ba59b8dccb9130e02d2bad7d9e929ce01f3c717|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=8378fe19deb8ce33116f2c36967382f56e0f39a349245796aa371af4f3fba3ed.1777934149.42dbdf6ec0b5a32bc80a74c8ad3d88ea.d516cd56a2a77f0a99e430b856608afb.cda7a33fe5810f27e4dcb41b2d5fb936&signature=b391ae0e36af0c04934feae742c73fd5b89cf15541e17a8985c79d9131ed26cc|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=13b9abf911403d6d1a01bece234fd8b9a53c88f2096f4921f379c1bd3b9525d5.1777934150.822f07d1c2e79c7a10cf4d77df500354.f14392e70ea3f57e2d916033b86c6141.c7a4432b35f77b82edd6db5fda90b16b&signature=8a157766102e3c1b203d1a4147913ef9169da6629224292ffbf3ba25c9b11f81|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=71e861644f3fd9055cbc0ff063e8f44756c30a3219aa8a3f5d042cdf7105edd3.1777934150.9e663a5308e6452754a15ffe8296e0b6.9a4cbfa9d7f73b9ae121955a512d2efd.81594f34d0679cbf0d7a968d529d2292&signature=f151f17269692e0dd8d16087f51bf379ce59661b4779d35ad4d6a9c79717ee39|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=7d20b0f3c372c2be8124d6dfb3c15842805fef458521bf057b4bd3453a5976df.1777934151.172c1da29350ae7c570ab563e81f65ce.f5d99ba1ddc58bb3e4ffec3ffe494a83.ed7b343d271b2de0db24306cd7536cba&signature=775842766712b9d3dd3a37cfe9367d03a1f1d3fb0dead463c1fefd7139887755|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=fe677826819e95798a8b2b81489e9f5aefee96d1e3df040610c28dc2c2f0e887.1777934151.1008eb66c99d6a7dfc1218e464df1845.4a2e5f0fdf37facf76fe8867a63b801e.5ad471bf2c0aa5da6068787090da4e83&signature=e78ce4061b8bd40bdbe2cbdcc0d01910f1f63176c0a63645d8f3c839ca0a1fcc|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Stan Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Stan Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-2/playlist.m3u8?token=84513ce445593976f43b4be34f1b1180dcf4a99eae431ef7b66f959ed60eca48.1777934152.43a4c211787cc1169b59f316a867a6b0.732f7c83a110259f2bf05a51e1a90207.ad92e811c579b542e6626eaedce9eead&signature=c0560f4a2e9cb288260276fced2f96caaf1fa97743be6693badd2399a064f28e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=c22458b4a871ee3d47011fb1ea24289f5e3325ef46b0c34355f641432a9e3ea6.1777934153.074597b02b62a78e96af0139a49df396.c9dab3ea964f4a84453097a6df0b8160.0483843fbe3b45ebd2310b920737aaaf&signature=ab2068a9baef3fb13854d8b70ffcc5d53134c0f4ea6a97f826a315e575a731e2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=ba8738db36a10e977617c9c878a734b066af556f929f00d3ea35df49cb2b941e.1777934153.eca4b540b28b50cde62bd731ffadd030.f4d9cf78b81aa205cbd1afe62dc70b36.661f9837df403f34757fa582e74922d7&signature=16848494671f043941b1b2ada753011307eddd101199093304bc723b583c065a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=0d478f4400a55d26d7e999a21ec2ce75ac05ead9fd4f89a3a8830c58dd481072.1777934154.fef7e8db9f71150c84ac5242a7e62df3.9bf9fafdcf142981f67796c72376f126.6c5a58f0690ab1e37d5fe90789f50dc8&signature=a8248805642c2009fe6b8c301a1b022f64c077de0094b9ac4bda6062a0a2fe92|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=3a3d9e833ad47f5b81fa912fba295fc38e6a55393f9ca5093ec470f43e4805df.1777934154.f9f426e16c14ca883610dab92c13faf0.a1f9b121269bcaa6de0b5f59c6415d38.1ea632a2bb9c1ecf99637f5545754ba8&signature=7321ad9d3439e537103f9a91142ef4ff6557abd9c6a931bfc2bf0d8bc54e1cf3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=a181f1fc70e8f88cc01265740550c2ce58012bf82a25212809b5b5ca7da2e0e6.1777934155.0422c36cb694663fbc4307ed972e30ae.49056ac675ec4e57ab5e08eff240ecca.8fc9b5bb0a40f661e79f726a39b1b1e6&signature=b7a841aae61eacd093d8002beb7323390f338b86dab5d718c572cc95c102097f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=6a4e5e609964637788b23ea065f05065436bd32bf86d56439eb4e58f749cbe85.1777934155.6b0948373a6fe604e1fab40b0a701652.a487cfae6b8721cf981c8e818d4536d2.91f95a69b6f808d66a20b9314316b2b1&signature=332aa5612e6b35257ce563708eaaef014cbc90e6880cfd8e30e84707cef227a3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=8a58504ac9f059e8d34b92b970ed425d7cea1dbe3690ab3155faf61d198a2cde.1777934156.059a087607df4d0e89b8dc9996424e91.ec0980fc5acffb8473c2ece580e6d5f7.f404d1cd73460179af834200aadd5e33&signature=5a3094beed96dd0c73108a707a2043e338a6dcae5bc33061bacc8f0fbe50b6e7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=5503585c6753b616855b67c82980b446dc5b1ac13323f592f84377b51e088455.1777934156.47037718f6eb04d33a8ea5d88dc2c539.09f6ea13bede06dee39f94a5116d77cc.52359ec408f9605bdea5a32b2a279bec&signature=8efeb7fb69732edeae25a1161e0980dba7a8e495a607c38c8cc4859ea82c2ce6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Stan Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Stan Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-2/playlist.m3u8?token=eb3040ecb58dcb73eb1f3f5592b9da86c5a672794d0014cbe98a6a996bb67e7d.1777934157.68d496d18c1d8a154f89ad8af118c6a8.1caa5be941fa4719a97e9470206adbf8.7370daab127411cf2d6664f5ad841fc0&signature=b45a98dc15f82ad4eff9a17f73e036255e38145714d469f05eb01fa04f948aab|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=1d87158bd5c2f78098ca6617ab216d771a32dd19703d8a8ee9d129600901700b.1777934157.863b3825293bc4a2d3472393874fe0a0.984454ba7130c2facc313b8a662e6f01.627a152ce86e115eb71e2401e786de9b&signature=016fac307605f7b6e2732057c38e97803a0ede6d6f8f68adaeb8b7e45c645254|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Mumbai Indians vs Lucknow Super Giants vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=a1ad2ca8a8c9e26a8653e12d9a471a568c73371bc61b33ecb864f1bc2f53a26d.1777934158.9c7567576c49f4ccb2d31d4c847c4a06.39aba58318ae6d40137883266a362014.7e24f24277ca7b858d8025e0e005af21&signature=fe259bcd72687eb375a8ae6cb07314d439e2b9f72cf694bc249af65e564c7020|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=04805b03c0c03b556a75ab3147c0914a6d497cbc8594bf8a7c140b522452d0c7.1777937456.a35e533a36fb87ecb244be99ea5791ce.05e82e2f4f950136f8fd336f65ee3778.a55e085af69c074dd6ddce1c286dea9d&signature=4831e1111f907649cdd8d2a1ea0a02900615e63d8ab0493cbec12a22dc9f6a7f|x-forwarded-for:77.238.79.111
 
