@@ -1,319 +1,193 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Arsenal vs Atlético Madrid (CBS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (CBS)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Rosario Central vs Libertad (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs Libertad (beIN SPORTS N)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-cbs/playlist.m3u8?token=95e983cc98419ebe992d0b0aaaa9a95390add4104ce6d00662710b1d4b18727a.1778011405.1fc6342b24fd6771b264b9d7dbcecf40.e5e0b8cd7a25bb8227de13b33a857596.f7fd8160a93e0283e28cf7666af051b8&signature=eeffa86985394a89209eae1be20cff6906b2bfea160f1f511023fa02ecc8bb04|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=084f3b081e752352bf978ca589adfc2f39e2907924885e86e306e615c15094be.1778015866.3ddf8df52c39d3c08b7668cf8f57dbfe.6d7d2212dc2ff1d812c3849ad419ca9d.b8137eb74782b80b81e08dfe0e387d44&signature=5aa7280beffaee3748a81c228e5a92923dd743bb8309f964bd6af663970ce530|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Arsenal vs Atlético Madrid (CBS Sports Golazo)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (CBS Sports Golazo)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+golazo&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+golazo&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Rosario Central vs Libertad (Sport TV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs Libertad (Sport TV 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-golazo/playlist.m3u8?token=d0dd1031106b57461c7faa91c397a053eb871d7f305ba9883110661b66a7fd8f.1778011406.7c45a3b480fe391fc31706287b61a211.432137330beed6c3dff5fc0a6d63c90e.6910bf13ba21136c74e4182f32c47878&signature=cbc7c4c2d23ba1a28ef6a30f24369ab5935beebed5a136598bfbd61aa4f83f7d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=95d693768edefe1fc0773abf61160ab2e49bd832f74a24416c086e742f38fd40.1778015868.b6c20295145dd0e26538e9b8a7e676db.d040b8776b396ea834d369d5548818e9.0f1cb50590a418a3d7b94f05a1f5ccae&signature=5a1b6a6b5f651acc121d16b2af65710b336f272995b4fd9674cb7e9acad32bce|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Arsenal vs Atlético Madrid (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (TUDN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Rosario Central vs Libertad (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs Libertad (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=987170149b84a59a39ecb0e758c6902da5079f39e5a1812c5153a1e46fcd4536.1778011407.c1da3a406c84f82d31b8593f94e591a5.56d65d789beb6917a2d3fe8dc646849e.d5b9a41cd3bae0e7c7d2a20ed1df6c29&signature=f33e4740d02b48c91ee6873b592140b179e6231c68fa0fb9569d6c5555111db6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=ec624129ae38282880b36fb8eae8382e3b8c8aa6b6f51256ebd54671c7af5c91.1778015869.70f6d02f48e0c6dfd4b184015a194831.5147c238fa00d2b38dfbfaf92b7801b5.a0966331ca2adb58d57fc2f8162b34e7&signature=8b56bfdc1ed8d014fc9be0995a27a2de39d8db965cb0c2551b3646fde48692bb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Univision)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Rosario Central vs Libertad (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs Libertad (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=4da966e313e40d6b918c0b83f272abbd12f1967a04157556a7c029978b653b2b.1778011408.617feda76997e49e6dd1999b4a4fd70f.c69f09eced8b8fe9d4dedc06effc2cd1.6a112ff4c29c0a7064c754c8b1350df3&signature=2b4f33add312410f98debfcb82a42188b61a47d0b4759bc5c309742258697c14|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=b3d1cf1543d8591c186a7daf75d822d05df6b375679f1cee789e874a30bae866.1778015870.f735ad0aabda2bfa2617280e93c23b3e.f13d2d42f25b276a72d8ea3e02e17991.c8b9bee26d7f90a4165272e52e3c16d0&signature=aaa37a6dc738d56887f4e7a84a027ae8d964a509ae5c60933a684aea3f8778bb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Arsenal vs Atlético Madrid (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Rosario Central vs Libertad (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs Libertad (beIN SPORTS 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=4a3c1c8d5522f954dd51113ce0988f568ee273217634a230fa76a0d081cb38af.1778011408.dac88419bb05b1f12954948a806ee802.7f40fae41f8e98ddf6a1260a95f06ef6.f16c0ae3a431654c95d68d6f4add9b54&signature=57e9b8f2bdbf7ab5cb7c1c36866a89b67cfd1dc5c43360017acd93b72e7ae805|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=d3d59789f70338aa44c2068417a194d6922d3828bb7b833388a698195d1e9ea4.1778015870.f7912d85598a53b1381ed1101fc964b6.562f5c6db32e17503e57e08826c47b2f.8b3e841b282eb43a6e421ccc46a2cc81&signature=147f42ae7b57d56a5be0e9745c4ef0c21469bd2b35785f83a36ba1c327bbfd8c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Arsenal vs Atlético Madrid (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (beIN SPORTS MENA 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (beIN SPORTS)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=49d8a831875a2e94e1fc904f00beb4e223a7ac7d64252042b3135c3dd7fcd859.1778011409.94d0486ccf69c6c297dec94e3ff4e911.5fba09f063b40ff5e7680062b17c93ea.b83a370756fa175b1490798ca509829e&signature=065db698dd736faf60dfd588e03d7ac576c8c4e803b83a41e44e6f6ffb9aa42a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=39a6a1f227b0534340a336e078b264337ae42d302b094bf6127dcc9c30b9ccb3.1778015871.de3aecbbbe445543512954f79565f3a9.6f1e1406c702e02f12d41757a182449d.c1a42503d29bf92a97f605e7f1394a6d&signature=324475a0ae6ad5334a6ecb1bc61ecec2bece393059b00099125f678027f834cc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Premier Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=3bb1ad349224db7d423eaed7a9d34fc6a3da8973c9493df04a56f6cb6a492c00.1778011409.47d86503c27dd586115d5693f3b8b2d8.03c62cb96d19015f59882ad0a32285be.11f6295883eda8ffed6bd1d616badbea&signature=8979766620fe7ed2522077ea653b1b7305f7b2532af0f3140e0b139cebb3d962|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=05793043aa2a6b4206024d9499441d6398cec0cc6c6b7756695115f1e3d8a607.1778015872.88b55697108e454ed6b8903fc1ab6d0a.04fc9efe6bfb66c6ac45a280081aeb20.d169c973ec3406fca05e45e4888417f4&signature=a09ccc3c38b529cca03c981712bbc680fb7597bb2a2fe5bbad66e4e3785516f0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Arsenal vs Atlético Madrid (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (TNT Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (ESPN 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=6f7c36df9816c68a7f16bd73f26fc36977727e072942571a035c510afd4e90e7.1778011410.a6a031cd2e402b3bfa5f55f2b719d959.65ff7b9e44fcda58494597405bf1b559.d9b374d993d4e55e5cebce8dca0a6238&signature=55a438b69c246debb618e81a1276a91667aadd004181f817247301251552ddac|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn-3/playlist.m3u8?token=2ed7b50040f2c34c4d15c5bff80ed91b5f95fb15cdc0d07158f083f72d5c6852.1778015877.80445e07c9504e7e40f78e58e005a340.54ae73bcc07e37e70caf2be2417dedd4.327d2de9da610123bc17d2eb015d5697&signature=5cf2106fdc119de2e6d328ee84bb831b7ef721a54d44ae34db975ad25404b15b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Arsenal vs Atlético Madrid (SuperSport Grandstand)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (SuperSport Grandstand)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+grandstand&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Polsat Sport)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-grandstand/playlist.m3u8?token=d6e3e71f86c13236ff3d4012f3ce128be02b6ce82a946e0c67799a6859bd9a9c.1778011411.751e48a9d0506d6b8f6e052d9e9a6990.59fb6a7631f101c812a9d1fc42505f21.bed7c7839d695b73b2c85706bd42fe9b&signature=eae9e67512fcb9adc451f72068a94634b817cdf311cf0fa395a73b5e4e70ce91|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=052c5dab779ff2fce3ddfba2cdc00592be16c86efb5c5666f68f1b8e0a683170.1778015877.eda68c791d606983e58e7ac580c19724.143d849c2a24b9d80c15b2712614056e.a04fe658f34404f781f719864a035dcb&signature=1317f066744b8a0850ae52ae4190913675ba6086cc1ec38e6952caae76987f72|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Arsenal vs Atlético Madrid (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (SuperSport Maximo 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Max Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=c7cfe302f5a3eee27e3dd84b82eae13db7dc04da99a639889146292592081763.1778011411.954ba1db23b4b34c23a397908b57a36c.83bc185c863aaf9a6b010f68f770ee48.946c34daebd0a9b95257dda02a40b430&signature=04430036b1d1f0f5352facd69d7d05f335db0b0e4aba457b394d64069ce8e080|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=1becb0b5b7271a73ab18ac13cb647f005bf54186ed8c84d3781f3f3b3d1d3b40.1778015878.98a981800805259f8b69970085653446.0514ce8eb5621884c19aa9d937edded3.1103e649172e5341467b5e6ecafd9aab&signature=2051bc193e8a69e3acff2cd3b733cd7cbb02c27e7021e859a4e6da40a95d6a62|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Arsenal vs Atlético Madrid (SuperSport Premier League)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (SuperSport Premier League)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+premier+league&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Arena 2 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-premier-league/playlist.m3u8?token=39cbaa1d046f2d704568355fdd7503a48c4edf67ee1b739054a0c25b0951738e.1778011412.e5c92d4977e95a852c9f756485780e13.4f9a20583237c131c94be1e946f77548.5ad90bcc4a3d993687e41ceedd4d019d&signature=8f2dd45ab924683b6aa7717ff85fa5cce96043db98ebaef446a6a4daaf9aa57d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=77744f7d17e191d4308590ba3bf3292097eb852c51b5912ad906eaf2e45f8880.1778015879.f8d26c0fb606e70579de542a29e781bf.2864b0a992c6f2b5f0462a0c347abc25.e47a74d851715999be75e643c9215ba4&signature=ac43056838a9997ca2f26da8449640f7891ac9ae7cfdce8c836a70bde9fee22f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Canal Foot)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Canal Foot)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+foot&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-canal-foot/playlist.m3u8?token=429268b66fe26780f571c20bb95257800294f2c655e803f6c93b3a77952ab675.1778011413.9dedeba1ab99efdac07a7f7c4fc66056.2c35ef8aefffaae3185ec7d36e373bcd.8c4950074779df8a0a0a6378987bbc20&signature=5d900425eedd8d50f79a4415e58d4634b0ca337fc5c8453e9027f3e0cacf7936|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Arsenal vs Atlético Madrid (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (M Liga de Campeones 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=cc19d7b24f71dea30e37d960f77a03a451de671e0e3216444c8ca19ce631955d.1778011413.713e4b111017bc74a6fbee880de783ed.cd1b1e60fa505d4407f752bbf583bdc4.ea182bbe97912dee049b58a030c18a2e&signature=202c7179e6daa3c837bea54d56c9419e9d868006d83b1eb06e25c09aa9a85b38|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Sky Sport Uno)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Sky Sport Uno)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-uno/playlist.m3u8?token=aa763b4ab014e4fa526483046c29c8a883bbb440a95632e0ac6d4f4e366b08a2.1778011414.bf4e80840dc90bbc6f736304a6555993.6bae26ab9ed49f2913879b18b86ce428.44eeb7f1b212f4db42aec645a77b7b97&signature=9fd1c856d8b22458463167e6155e143a81af87cc6ffb17ce51d72ab462bba571|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Sky Sport Bundesliga 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Sky Sport Bundesliga 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=a2eeee8819b0d2803e4d2f0c6c8501a46bc50dea819a2c2927eafa85d3b4033d.1778011415.e2c312c678e270040ca0a16af4bf8781.e0c4c9c94c154ac8d5b43791981dcf83.ded9fb39b7be1b7a9abfc02348823c58&signature=a6c99ac1d83628a58623044cdddea5ca6824a387747574a1620b6206a861aa48|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Sky Sport Bundesliga 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=25abaa1affb50f0c734c95a61eb8c48ba6675dcec7e51e1e24e0acdd614b4a03.1778011415.09136f907ada0aa89dcde7a86121b6bb.bc59ec6401a3d1306cb294a914d7b79a.552df36d803d665a86d6177d62c8fa32&signature=f0f9e066159031c6ac2a1977d952b8ac6a7bfd4bec371732320013be6d2721bb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Sport TV 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Sport TV 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+5&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-5/playlist.m3u8?token=09df34ecc542aa6e4b0797cdc0a29eb507db312396493c4555f2455292573686.1778011416.df844f3cdfaff558424eddb48e400aa3.9f9b3012101b75a9c8db07e83fb6410a.b49fa7cbaa2709b9d50118a20ffd1a3d&signature=5437e0a294fe7f04e8f6d4b55251e83aca60a7abb0f98dfd7f72511d4dfe4cd3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Ziggo Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=bd5de96be4bc57c8a662762da1563b703e785192f5f5216f4f19830244f3d868.1778011416.265ced6534bf2bde3c1055170ffa4884.3a88916c7896c88e239a7d9834cb6c67.de7fa9f04503bc50de4223bfd34920d6&signature=0bdca90e6459a9acf221f9d12cd92612f56d39ffaa20482c1f8b655f0070931e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Cosmote Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Cosmote Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-1/playlist.m3u8?token=707f58bdb40aa254f161b64fac98fc5e9afe3fbad5e596bc9e36e19ceccf623c.1778011417.ad3165eb69a3e7a5aace0e5167854484.ca64c119c7f2fa54b5089ea5610ae481.429cceffe36495c09fcd6cbf13173837&signature=197bfde5993578a9dfbbaea585e5f2076c4bf8e56f0c5890d7997622e1abd47a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Arsenal vs Atlético Madrid (TV3 Puls)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (TV3 Puls)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv3+puls&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv3+puls&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv3-puls/playlist.m3u8?token=faa8c768d79d21a6f90c634c05b23bd8b872e7bef764968c14a2f8c27fe2b4a0.1778011418.c32183049fb8e6e5eaf67b9c03a81734.d10f78e2561feb9107142e05f583cd02.6cbea7017bea06d393d85e651d872368&signature=e4935605f25638aa8c2e8fe9a4a500cf72c57b1a78a6e29fe5079a0dee21ee1e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/at-sky-sport-1/playlist.m3u8?token=efac7078a670d7a7b65fed5409c2543313d82e5b51cd0aa073bfb47cbe41d319.1778011418.1be76b9316ea310ca9027ffe83498d0f.0c2c26cd6dda55dd3e2ffc40d3ce4556.69e61667a43c6f5323abbfed830c5c1f&signature=ea5bd3e469ec362731141585756e59936620120f8a9fc6174e79cb674c28128e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Max Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Max Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-3/playlist.m3u8?token=7bc57e133ff6b1904d32d7cbf791e8ac755912e0eac7c5d36dff07919f82738b.1778011419.9198f576dbbf452ba2133b5a1aab4616.2e4bf74714fbce3a5d2635450ff9808d.160e571f972fee06b31e5eade44162f2&signature=9df43355e3b0287c7a7949c1b965f6fc2f5dbd1a39af20eff7b9150d8b12f4a1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Cytavision Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Cytavision Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-3/playlist.m3u8?token=4b838f99d4ffd96bbafc7325237e2cd42f30977d976f77c039b12bc9d4a602f2.1778011420.8ec919c917473b0df57b004020a879c2.3597ed908d0147f0518d9d4c2ae2e906.ce6b609c342eb1d772ed6c38077e7c39&signature=1aa5a95ff1581c0320fca9e53b29e03968ec7c55af87dfbbe09d43654a16925f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Arena 1 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=d005f56fc7b3316eebb5f4109005716a3800cbba674f2f5e3462de15e8c188b3.1778011420.0d3bddce0c8577836a29dc28fb31b58b.bc72d62cf606f3f5c9d339d9a5bc204b.eee8c1ec3fb9167d26660b54b85775ac&signature=edc3ec198a8db6e450cffa2e974ac77961be2142fb5f9c48e6ee293f3466bd8c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Arena Sport 1)
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Arena Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=f66b0561daf509f8d7909a25a9b5235c975ca98ee2f8e11b17dd0a26466743cc.1778011421.9ca50c65bf0220f9faf3cf5a6fb84f6f.515b05e3e53ec05a13dd755ce0202df3.742cf496c028d1174cb0523e82cacdf7&signature=f5b09f8f8b89892e5be388d39a92fe6ae9a33b2c2c396c292a68e51fe79ff810|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=8ca128e8b98709bc2fc9f0c64101527d504de4a57be84c19a7ca6cd0a4aaf949.1778015880.1adfaf6fef6ba8f1fa4f41c464ffa22d.8532e74d6db6206945ded51b604f70b5.d7e6f3220e5d78a302cda4d68c0b2c76&signature=a154caf189ffd88791e784df78e43e90a01a8ff886742dcabcac0392776b75fa|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Nova Sport 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Nova Sport 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+6&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+6&code=cz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (FOX Sports 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-6/playlist.m3u8?token=f5ceae532d32de3bd09ef28eb739f2971d780bc2486397ee72bbc5342628a7ae.1778011421.21d03dead28ec9494a11949bf5ecf8e4.0923365cbf8fe819347a3e44fd2aa234.9639cb12373ea5560c4cf99ea8947629&signature=c327b2e8c4e31943a98a205ae7d48a7cb91acb523f42ee6d7a2a2ca94d0a75a6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=44781dc4a8f7e6b42584ee4b83d2cf6c5499bc5c48f0a732dee4a042fd4aa244.1778015881.ce8627975ac09fb041ad82606309e069.73bb90606186ea6972eda60170b86dbb.05a5f2266dd6acbac8ecd976a6925e22&signature=0d5a480e7d4c1569ade004d3fce72162f5a0abd2b134b908a55b4dced630ffe3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Arsenal vs Atlético Madrid (TNT)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (TNT)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (ESPN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-tnt/playlist.m3u8?token=d561aefd02ca25540ff98dae1b265f3138c44645a65709c391b006257e07fec7.1778011422.02206e6824927fda383899668f43db5d.6a4da2000baede0583a777fd685264d0.66c0c098018b9bbe18b6538ad46dd613&signature=f7c0467f09926d673a80df54550967a59dfd36e73bdb79d8a0cc551b7dac8c17|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=bbb5bb1bea8eccf58211e43f00ab92718d9b9166079a6b571661e279b182da18.1778015881.c22cd3deb98d3f064d28fa874ddc4865.b5122b3cd24d2599e36500f04c4e5240.82365e924073f17d4af52d46d2e3b56b&signature=afe3fc8d80e0701878a5bd927b849dec97f3ffeff5483f0cdf45b74f34a398b6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Arsenal vs Atlético Madrid (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=7123e6c9a773a4bf421535252211790123e67a701d4735059353660fb974fd0e.1778011423.50f2804f573eadb02b74ffc17ebb678b.767cbe9fc9833e4acac6cca7f35a83d3.87f968665f9ea3cb41b42e241cc58da2&signature=c088b49b89c64c204bb2a00bcc07a00211e669ecb8cb13babd8d29cf5ccb1a14|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=80a6930ce980126619eca866f19ac3544da4dd468e4886e70ca9f4f688d7fa5e.1778015882.2b76b1d8508b8ac873846f48ab12bf4a.da9a5a44e5817f25bf383e015cd916f2.35cec261b389b9e236406b8be21e36c2&signature=c867717ffd2fbd07ad4923c378f0cff46622095fe28f486c8e8a83c5c7d7cc0e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Arsenal vs Atlético Madrid (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (FOX Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (beIN SPORTS 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=e696610156b49cc0eac12968b017aa2b89935670af5f03c23fda9bfe84bbcea6.1778011423.f519834d2b6c9f4b24fe7fa465edb2a5.80a90b4e5a9170a63d35b1563a8eed7a.0e9d9367f9e627015603a1aa13c8a612&signature=1b526bd0ae3c90b9d50108cf8d9045d8b201003d6ca6675b616eaf50b1f1605a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=b95fcf1b802e1ef1e4a42f79b35400f7d067727ee0982abf20c720fa9fb44a17.1778015883.b5d285dcea95daa19d97d72a8b6abbce.57548098c765c3aa9f044bc4cc8c8135.b65419b72a3e6e9ea694b2ace3130c75&signature=90a4bc68cbafeeffcb8b48bd9034790cc210020cbd83d68d7fab79e4a209ca60|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Digi Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=bb2a50f356b1beea293f62848ffabe8735be68ad67146f6354dac17ef3f91ed5.1778011424.bddf36f2328c0350395a2d3f2ae03c06.f2a1170205690ecd66ffe3c2b091b19e.d7f1d9eec30c458bcd944a06071f9503&signature=b3cf4eec26eff7ac8772c22d532f6be0784c6a402535796fb81eba46a5ae0c3f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Prima Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=8a219ea3ac1075672498d716ee7c1ccac6e7859a3955293ca5e4e8c272c818ad.1778011425.8f62a7952ab4c247d2e1429f613a027f.003146c05561fecfc2300c4dcb8f5511.b5c3745291c5b3a6ad706618d2c381d8&signature=693abd28ff64ec7fa87e0870ad4b222c5d071631f087253b0af2f9f823f315db|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Arsenal vs Atlético Madrid (TRT 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (TRT 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+1&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=trt+1&code=tr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/tr-trt-1/playlist.m3u8?token=0cdde3c9faa1d396d3626938901123479865e6cdd7b0c3a1b66b7f7280063c7c.1778011425.90fe493f88cd8cf6ca18fa0350201b5c.843f5d0e2070d9c8166f3c73d49de384.70234e15988be5f659072e59e5507580&signature=0cd903c73456a96766da41e846a96c6094b5fd40aaf663d67560628508c7502c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Sport 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=fc0947fffcff4d167020325ee99ae0b14e8e69e569ede1e42313751d92b133c6.1778011426.daade0b83542bffc88ea166652d8209d.065be94e6e1bd595770a2895a9dad6a9.5c3788ce6b599f2a2439572452d94adf&signature=f144a4491ccb98ba03f3a3964f083da186434dac3f8b384850a26f72005903d2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Arsenal vs Atlético Madrid (Sport 5 Live)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (Sport 5 Live)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=af57a59e89b4bbf3d2c8e9d2d82e58474915437f956266bf89a8169cdcf13224.1778011427.3862dbc4747757dd7df67e90de8ab955.e05ab6b77c91479b9c296e4dad462058.cfdfcdea238184e534a58d726366b2c1&signature=64c2779fcb4ce8e288b055c085fcc133050b5009cdf84627b521a4e224fad228|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Arsenal vs Atlético Madrid (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=3e2ed0b9d989271756fe190c12030565487c4063488878936ed06420ab4b89af.1778011427.63133d43725a4f5336424d328c3d86b0.646f6a92b3dc64c6f8249df0d9a18e0a.7acc0fd052808fa05eaea4894983068c&signature=2fc2aa7367a4224a603e70506830132fc6268525825d68ce7607ad711f5149e2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Arsenal vs Atlético Madrid (SONY TEN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (SONY TEN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+2&code=in&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/in-sony-ten-2/playlist.m3u8?token=83a5e73a95fdca7f4be634ded8dcea639149e4ac75340ae2d466ed4b18ccf890.1778011428.5122749f7ab24eedd7df7952717849cb.413a6aa53d708470a60fc2ae7c4111fb.5d2231569644052426fa0892e47887bf&signature=fc53d6e427be2508c0fb7a9a759f1c0ff629ad0bf14de0e380279f54edbe662f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Arsenal vs Atlético Madrid (SONY TEN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/42.png" group-title="Soccer",[Soccer] Arsenal vs Atlético Madrid (SONY TEN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+3&code=in&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+3&code=in&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/in-sony-ten-3/playlist.m3u8?token=317a3bd7f00a4b2e919fe0b92810ef3998a9c31e13649b98d35544b6d9151988.1778011429.339634151f7e3126d7dae14a72b1897c.8ba50c387851c3be0eaf8ece56f3f132.19f4999bbf40f417dadb58831738f163&signature=8e20ed5236b68e68b93f58e21540417c5bfc25acaa9a6eff75a724fcc8658e9b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=acbb52b9ab25db75f4a6dbd27fa9ebebd9f0423735fa8c9580bdc3b5ba34e1d8.1778011429.5a2f28a1b5fc4b2d09ffc111b4398216.7e9e50af8e55f4b82201470070c1ae03.3bed8fdf6c42d2914a0707eeb7b269e3&signature=85f070252549bdea0ecc453ef4c72e8c3cfa629891fbab5386cbb57faae2421a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=a93a95e74e6414aefd01e796aa6c1490597256989627f341f4894fc78380a2d7.1778015884.40eae045e3145670e3ef204077e1dbde.98a1c1c16daa158707d454c6f9a74ef0.a148fb15226e1b4c19847f1d5ba7d9f7&signature=01be1529434394c13b3447d50430afa18256f2a29882f7f8ec2bb2b92a68729b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=2f2ee230367ec3650d79dec2dafee38d917511edeaad53a2567425124188dfb5.1778011430.6b32881e63dc2f0c96d964fbccb69257.e9d289b1d1ab541f979bbec870147bb2.09ed740a9314f826962b4dd6bb2cc179&signature=3e8f3a8178ed44508ea79307798a23d3f0c18c6304226303e7ec48ae6139e5b7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=0466feab0136b1862993aab1424a93d4e84ac8bbaef9e6604a227d0178dd03f2.1778015884.9dbc51296e2da26d25f1f77a230594d9.0f483ce92030716113faad302bb1c61d.a3605875cdb768bdf246fbecf564ad46&signature=9adb82061620ce9cd4674da3fb147d91e340cbe718017d063d5f05fcdf7b6f9e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=53e9c15538ad4639d64c554574b00f365694201b2e585b755180f510d4d3c0de.1778011430.3ec17dfb6bcdad124187908d1939bd2d.5bd7833e1a8ebe71b9bceba60685816f.9626c4d19c340d2bfcba8a616b5bd5fb&signature=46322992f105eb70c5f36b2f1fffb58140767f281e3ead38810b71c7d9323938|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=eda9665e6ab41d4de70e8afde4a67bb630d43b7d514efa1c12125c57c2cbfaac.1778015885.0e1d26ddaddab5b0d94a24f47499250d.7115c9a6f65a41242135a6d8810267b4.bcb3ae42c9ce69c9a85d64ffdbc6f81d&signature=0255cd0696ec101555e1354ffa1e7f0a2d2a745973d4788b457449da6ecf7595|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=d3e351e8b947973784ba89cdd4ccf1ca465788c478aa0f1f2d0b0af83e7b15c8.1778011431.ece65ea0f65b40b8d70c81bbe5cfd607.214fd8da953fd4488a39bbba3ab527e9.c7f00e7e8e9bedeca1ff4f4e32d04ebf&signature=fe1c65ef00077e2300576fa24b610188416819656ce50f9d9699af5c2d806002|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=51379164234e56b021b4d5aab63e54f579b7bce439598c0694006e7508238a3f.1778015886.359c9b21789f49e447711d71940c9d3c.2a43d3cafabe7a63b9554322e3cd9a62.a7eee9c48ba9e7a4407ef94e71b85cb7&signature=9eb91186f674281abda5b71d5be309f8c5497fcf83a1223eafeefa716804903e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=b08ee5255794ddaa3a6a24c7dc7e9abbeec134a6a038f727d87dfc8a38445ca9.1778011432.a19ed6e35537e559b7d85ef6a6c0c6b0.4569adf68e9dcf22d741e7062d554b24.46e47296f067771b7f5a9d3aaad59264&signature=c96e1001f146e0f2ecbe874304c930d597b05d661aea6edd3c4311351eced7d2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=1f942246fee1ddb49ba9f74862408dc848d9926bf8d83f14f1f1b770da00f19c.1778015887.f3d857c7d59254458798adcf252ec74e.9dc1facb174ad566613fd5be41950204.9a896a3b7241b1c36a28f2d68be281fc&signature=8b034561b1c330d3cefe2095ab746680e6d1fb001d76587f1b58100874d52a9f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Cricket.43" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=e2eb1d2feb4801cdf967fee06260d6e77e4ba328c9f2171eee58c5e1ae9563d7.1778011432.530e3c927ea73cbb67f8944079af26f0.56af51f2a48b35c316f1175464dc910c.e9731c19a7aad1c7671c14c37fabc405&signature=ef525ef95a2a913a15f82aa6cb9362580881a00a5b76d13ed2807de92381cf9a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=4401957104785319cc1fc1a5fc2881d43f16f7cd5292bceedbeb7f7b3ec16884.1778015888.5349ad3bcb332c2e5c5d35a6270ebef8.a960de3b42b5fe52fc6c5403f4005e51.238b012d3352ebeb5e0fcaa44d9ab50f&signature=8cfffda7ee048ec9962f7a73d5c21769248d57551f578e5603263c3eae485594|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="44" tvg-id="Cricket.44" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=49f1032406ffaf8bcda784125aa65e170718c70e1761e89163b712e7cae14336.1778011433.f5454d2537879a94a7bd63be3ff532d0.f2a5e532814f926b13fabd4e92a05ad5.00c91de070af9d3bb07a76dc21089f81&signature=9e8b643231aaf8b4c033fe6a3e2bf1b5388e192f70e46497681f8d00927880ef|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=f60c560d852a9b991eced548e82c6c32090328e11a88f4625be3925477164871.1778015889.fb8232e65bc4f955026af8a6f6ed7db2.dfdfd11f9b74607cfe2fcf511dbfaa7b.f88e0966dcdcfca711a0c8826f87767b&signature=160ee0639520c2cf863e9a3c4f504f634fdc09d2ceee77c32a6f6e29d04e4c50|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="45" tvg-id="Cricket.45" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=4bbb6ea44e241fbf079487cd124108160ad0df1232e42e84ad1b92067f118240.1778011433.040dad045963994331535429a35da04f.b1b6b5770608dccd69853c76cb38276c.8e0188fc09103aa65b822af498e8f6d8&signature=f1456a1dd9177ad4e3095722de34d50799403c760e5ba05ac02b050d1df25c02|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=3faf7b8bf2f4a66161d952d8b02012032795657359b0c9214c7e2897807b9474.1778015889.57f0e70925f664760c6e031921fbf2f9.4f6e14adfccf5716f451159dc3f8b3f9.4b20526b08e4ca64ff8f518ee7b93c2a&signature=6fcd8418c5e0f53cf789714657a55db85288f9ca1a56e12612c10a410116159d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="46" tvg-id="Cricket.46" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=5e4eae28747ef2fc72b206d292a8ab5f3b99cb4ef88a1ccf7592dfb275a7719d.1778011434.6bf88a1f8e23d456152d763e1fd25970.ff4cf9de92c0326c685bc0ced9d1d1b0.8080f8ac1bb00a5f5702cf45790dd263&signature=3473eb26d31e4fb636655ec8d285f5abe0eb30cd259eaa37b289cc6bf980458c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=ff7cbf5908216f1507d095223d7dc055ab45f36498f711b81026e50f62106380.1778015890.f4b1fb65dc41900b5d0a931863b1bc91.3336a6dfc9112271f599659efca9ba97.d9b3a08ba6c9a613306dae08be3d07e4&signature=af14ba98619d6cd3dfb6550bd8e542cd274e146b5a9c36b8001be1ba747b58cc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="47" tvg-id="Cricket.47" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=1ae079cd0cbb0749f06ea36b92f6a05ed02bdb5a5d221ff30abee4cd72a85fa9.1778011435.6b29bc1465caeb094422981f820d4d83.0a77c19db7ae4c3d144f1697c9a05036.9195f73852639cbd2dabb2706dc6a283&signature=795ebd3147123d82c3bdbcda892469d96573f443c69eb89c99a0b2da7b1af686|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=49807090efd8f070230e6e5141c484249ef7f1550fd70d2f04bcbade3a6a662e.1778015891.5c5a95e9ad7a9c124b6f082d42c47385.81041a3941b374020eaba02f0ec2fb75.d3b42d7945aaa717bef63e51608a3c12&signature=db15a11bbb8e4d80c2e11970745f19a2818247a8577770cf2e03bfb08cd11a8c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="48" tvg-id="Cricket.48" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=8c23078ef0e12dd0d8c8e368abefa143f63629af9e62ebb16cd50601cf804252.1778011435.f7abce606f243c6b9e07a9ec76cda104.3c64845de9ae514d9ee3e3a1d1caa4fa.28660a9d489414bfea9cabe1fc2821e8&signature=a0bf7aac26b2a3a602dfcfc159c532ec460b7ed36f6fc90f8ea8c46c322ba6c9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=c18645709f7799428c59b12193c82d95fbf05c8606b03b070be56f8502f7e0ee.1778015892.7bfc9c98a8604ec5bb9bab2df28229c3.5df95168a1dff45f2acc06a606afcdef.c973b6677f068e572b3b37e174389ecc&signature=764792d87efe6c3a392fdb9339c9b83bb2376cfb3c066b9c3202a979a07b51d3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="49" tvg-id="Cricket.49" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=905edbd005d17f6753884189b352e400392474c35d200516b73c5a150da39cf4.1778011436.e9f7b3011d23ee2d8919fc9dbc17f17c.d22d2c880a22ef1e798bc5ab2b548f09.9df9131df06819d0913f51c31beccd46&signature=2eb13ccfc05533c3548246c6e72bfa771126fd0df745d721c7606e569a923849|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=3d352ec64b95face9c3807ee53e1f0a8c9671a56b9ee0f8298bf1acbfb5ad022.1778015892.9b9a28e070661d24763ad4b3ba4d8625.d475aab736187db1ee73b4eca474780c.40739c45a38fc322ab5e8acbff7e6b43&signature=c8a0ee4f46130a9a48729ef74089b74f392a42397fef95cb1d6d9b9ef28cc4fc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="50" tvg-id="Cricket.50" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=c6130ebf39576cc43372a4fc93c41fb65f2cff976b318988f16c906ca5264adc.1778011437.e52edb5252145f5b5cb63a78663227e6.c7373a59a587607f991ed916e4486bcf.cbb76ddd8e74c81dfa9b03dfe17e58e8&signature=edb5d0dbafa1a79f3803a3daf216529c27a1feff45e443162fb6a366126ead50|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=367f25fdb2a18452ec48479e404515fc7af19ce0c1301d81fc06984d0125b679.1778015893.8a1b3724fb8f04ded837e46f2167058b.ac7a2f687ee2c23b59484a53b614cc30.52e31a810df068f72ec3f5bbc17eef3f&signature=d813b5ffe844088e0f6904f746196b9ee07cef403b73729debb3d2e4b378b653|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="51" tvg-id="Cricket.51" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=be78cdc2524d2e3c8cb71dc5cb561b2ab0cdd7552efa1be152f655641edcbe7e.1778011437.8dfca868ac5dd4f8411caebc17cdad57.9f5f8ad8a0e91852bf68af199f0fbc6f.8290aae57cffb9f9a852e30a395388e0&signature=bd364d34887aa2dc2175f87e8d382ce1ef6ccf3a9693bef4bd13be37adf24760|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=e82ffa04fc6276f239dd257c343a2c7985b29913b3d82de717e859261f01cbdb.1778015894.18d03c6940c5712325a85a608e8f1a00.0b55b038753b1626bc36ea0360332cdb.7fd91e2b067023bbb2b835afa6ad9f07&signature=ca4c689db7773da96b2afcb31693608fa5888474161f916ec1333afce1d94d5f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="52" tvg-id="Cricket.52" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=d97ccdfecfb46f56e85b3530cc29bc58ceef772212babcc8d0f5c8f735208a9d.1778011438.cbcb0533dc24c5df0d897bd82fa456e6.5041ddde8c2a16f7daadf09b51b3b1a2.90fb9f8f880233c4a49faab9c8429b24&signature=a2299a23467c40d610f2c028b80fbb87477fe47f21a58fa310c5c3e238e0d575|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=9dc29f005687921859c9558f2ab4573ab9b8815b43b05ecd9770225dacbd9210.1778015895.17cba1566cbd043c314873399c593f71.6c60bd3a5565a44fa5a6e00188be1365.5d719d2b66d032c92187556ba1a44055&signature=8b37fc26d7875e25e0e466cf56145c1d879ab5f202dc38b359f08d0ffc9710e5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="53" tvg-id="Cricket.53" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Delhi Capitals vs Chennai Super Kings vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=352115f4ad8e0ff97dc4fb139ecd6b8b0fd2219defad21e9f10183bc05e542c7.1778011438.d4835cf97e579cf51ea7abd0bc98d9cc.e65da104c345a73c744804a206527a47.069b2324d39b991423d6a16826fea992&signature=3ade69ba5d0181982d46f5c13164ff40cba3001efe14f5adb1e0b240d7190dd4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=fc267fd83682c9ed205a21452a5c87143aa8e677a33b540dba35eeb436edb2f1.1778015896.f167e7bdf2559c723aa512e39cc22fda.798480bedb89a5df45a58f5b897e3e83.535eef1728ff377c3379db4fe6d5df77&signature=1a0876f9734ea6a7add3362112c6a792408f720b591b746e09d609e83d149e7f|x-forwarded-for:77.238.79.111
 
