@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn/playlist.m3u8?token=d917ec4e824b0f56a47d2e9a19a0904dd0eeddc620c87a7c24549a1dcdf09026.1777943708.d62f6e964ee8835a83bcffddea69440c.aaccdc390cb59f06f620fc82ba7da6c7.bd533f4a0323ce1f8dad4d149629718b&signature=675bd96f836bfbaabfe972c91e7756a2ec81b42f92ae912470003d6912889efe|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Estudiantes Río Cuarto vs Instituto (ESPN Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=6c172d1d35d486fed0fed79a17dace8ae5a7de762aa3695cf6eb931d0a4262d3.1777943710.262a3fb0b3adcde28df0bdbaab264e86.78f33f39c71ebb1bfdcdb5378ebff1dc.56f676430d1cc089a3e3523a12c037c8&signature=8d16689bfa5ad6351cd1a76c6be6e22fade6572730e88f40c17c6b7ad4feb3bb|x-forwarded-for:77.238.79.111
-
