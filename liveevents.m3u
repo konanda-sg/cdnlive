@@ -3,191 +3,161 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=cedf7fae7dce5be8d54754e074ecadc54538205e10387c497d653ff543b6dd3b.1778107518.241ab0d3a45112cfb4f62cc842d8c1f6.25e054ca7909f111f4a424ee9e3c1958.3a1afee1dc401ddc5396d1ba255f4635&signature=77bb2e448cd27ef9a5fc0ec52a9f193eb17fd0daf928248b3cb662cdc63424bb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=805fe0e9b65f7b8bef695a5e59410f36842589b9e01f7ad5483bd817cfb194b9.1778110996.c14cd6d4dcf7f07ddf7fea9249670e3f.8ec91cae8d23d58b9d7bb500251a2cb8.7d25172dd5f0567cce2bfbec4bfe46e1&signature=e4f00a3bc916643be5cd53e8682c9772c311b4c19f89681f7490783bc54cf378|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Cusco vs Estudiantes (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (beIN SPORTS MENA 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=d2b821c2c6bf0cd011318b904b04c2b74dae0df0acb3107fb70933671798658a.1778107519.e3d640f3e4b31274528396553c193751.46b1520bf857f7363d04d2c5489c8bf6.1c6c5899a0a19949c2b977b4d9e7515d&signature=a62ebee03dfc181fb039100d1e1129df27012b26018037bf300e636d50506919|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=09b2e2aef3dc45f2fb42d60a3ac7797654422d739f75dc1ce3f226d8a72e5bf9.1778110997.b822f2fbf8d45d4bffb4c4be609cf030.ecdc39c652ed394dbfa30edf9617c136.56c98b3aa16caf8c5eb3d2cb549bdd11&signature=f97f87b42cd9cd6a2373f19fb4fca1aa965c4f80bd975b9eff81f751ae2c6770|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Cusco vs Estudiantes (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (beIN SPORTS N)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=7855e26dd8916f71348370e044dd86511d2d64f5d65bcc92287fdeffb497dc7d.1778107520.9f4df5d218b33894a88a3593e3ceac80.6807fb4b2c9428b17f4e015ef20ce5cd.6fb795666431a09c3602aef40c1de72c&signature=7bcf8235a6dee2273dec6cb80971009c5ce9996194dd393c4dcbb6d2e25a1aa5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=ba83c765dbcad47a21078f70c0eadc0c8327ceb6d13cb53e7c44e9b3ac722b91.1778110998.2761e917f415692240bb2346baf7570f.74d51281b0913e7757e920faa79a441e.f5384471197d9201e2020fe4a08a2597&signature=70255ef587b02a3c55ab1ecf516d38bdcff14a719bf3a4034b66d31f30477a4b|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Cusco vs Estudiantes (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=ebac86385664e6b51a17d8a9210831d3f6de837be12b3f24c0868d9cec41ecb8.1778107520.ed489838a201cfeca9b57ef3575f2b55.ee17721f4d8a3240a20ec0cc04c6ba04.d17841efbad8ac51e50ca713a658388b&signature=7d1d33273d3873a1ebfea663bbf55b07ec4cfb6a654eaaf9f7bed1337cd14e34|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=4994e3fc2af195de5922a638545946ebaaf5c1ac2bd56cb71d5cb9701a237d37.1778110998.808d731291abd555a880a54f8ffe59fe.4a96dc3fab113b229d54ee7e4642ab82.9e94214765ee5fcac1547923c5f4cd21&signature=b1f4654ec8ccae6080be143944d16d4b7e999b9b499ccf5471add0f8b1f84142|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Cusco vs Estudiantes (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (Arena 2 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=2e8d555edffd24824c1a1560fd0175e8892579e6cfbe2bfcd175802c0c2a56db.1778107521.d7daf2932b826e8548a3fc6c1ca32bbb.33f68a3b1f3c76086e72ae1c6062e2cb.e38cf9dd5fedf47c6dc16a4157d81832&signature=858654224720e974035721682154cf27980843026942e534a02bcdaa9e16e5fe|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=e6c713ae749fdc014684384ffb48b2e4c28ce3141b392f359fc5e96bcfcb10a1.1778110999.86e94b38695d3a04c3a742a28d87a274.9697f5ba470db288ada6482ed9d3ef34.56b26b71ca73d8d7018563cd5b6905d9&signature=caeabb8386cda657c862cbcd92fb4c2d4db97b85d6b1149c69132ec990f182aa|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Cusco vs Estudiantes (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (Arena Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=9c555c7cd80f2bc56fbc3bb860bd9a7276cafdcc37531ee5dd3e7441912a32ee.1778107521.35e0e19dff5dab3f277ecce9ec94eaac.839554a78206dbd06b0f211b202efe0c.1637dd04ab0d391a5bbe156a1e0bb55f&signature=4f5936912773f4afb16b5694692d70aa9fb430c1f070cc4670783ea02d1398a2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=c933a2387e10d36c20dcd5eb55bfb170e1a46dbc554fd6ad60f5f3854b10604d.1778111000.d6cef73e72cde90cd1a3938490e5b089.f9be3f2a3a4d8cac96f8c2e346958c73.91b96ea6b2bacd4cf590608f03bc7911&signature=ce9c64a6c93c0edc47caf822ac6a103ae5210ff0ca1f0d619f82d39cd0e7b611|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Cusco vs Estudiantes (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (ESPN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=c564be619bf1ce4f91c5e34e04ce99f8e29460b7577f29ed501ed835c329ea74.1778107522.85d4e0322f44784ff0b7dfa4c1bd3747.0082e80d0f17b86ceef8464913b6baa3.af0ecdecb48969f579efb3543bf70a1e&signature=5071b92cac9ff82a526d353197e3e76beef89e216c770e9e3caf8a7ff72b81d4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=72ff9667cad9f678870ad43f8d903db7074185aebbfad4bfef78eae2a139ae9d.1778111000.2da40e90c224e254065150293021310b.30ba88b7854f9e2ecc4e511abc965072.33b4b1e0882aa45a062704269c45cde5&signature=81a68a6a3f150ee5bb01d4d2263563d9f776437c9d656b17ccbe8aa5d3651f13|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Cusco vs Estudiantes (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (FOX Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=51d4b941404976f3d5af8eb2d9dcc46ef6aeecb4eb000f035bc6771a44c98698.1778107523.37f61071ae1cfb62a93e11655fab0b46.816120a5dfd3d4fddcc3e9222c0ccb93.4b0a542a3ca199f8a6a17a5b0cd7e1f5&signature=0a3217082132011387194cb943544d58ba60f2ae64035e03773f499635273be4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=d2659484cb91a5e24f870fd3323710e8bf8508c27acf5323c9d8710c48950a95.1778111001.80ab67967b86eb234ea5fc1baa35e8e4.58c32e2c6d3a0b809bb8ef665b6f125f.0dfd3ca66c255c38daeca385321b360c&signature=41d308cac590fd566afec15486067005de88a22eeaa1eb4eae4baee849201d12|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Cusco vs Estudiantes (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (ESPN 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=38f4e37640fda15ea78338100dcac40ef0516e16580cac1eafddea86c962319f.1778107523.cb824e9459715285df9b7abc325712d3.f0596b464609492c707fd4b1fb48b865.2a89750e9a5843e915e095d23193612b&signature=75c56d74f9258da83087db4da72206b43e42cc411704cd7c4465231fac8ae567|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=17208facd9d69b11ed909b519308d5a1978b1d017857eac8d9411dbe443fa375.1778111002.de339a66c2327b36a4c7daecea004323.d3c2ab5cbe18d475b31acc5ba7cbf728.a32bd8028bffae838fc8faf8dcea41ec&signature=3ff73eb5c3dc5328915819da35200acb6c364973d6bb89c5ce66db68ef44591d|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Cusco vs Estudiantes (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Cusco vs Estudiantes (Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=5919fe08c0a40f7126650e9d4f580cc1b0e1671edbe724ff2236e5b2bbf23429.1778107524.81ffbfc2a7cdc06bd6cb5b90cf3b306c.dbc3ffa793ee8f49a9244cd034c84258.470055d69630a30b89e8b6569f0e50b0&signature=fdf960ddc7574b12166a178299c598a360680f02807c19bd6e3c5da8764719e5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=e3c2990551f458fd60c6c5d9afe571b53bbdeb5d41f2cce716fa3640bb67f813.1778111003.240e4566415b94f478d4413c25357bbc.41304ca7aa35ef2e73cac3d8acd64a57.715931b61999cd4f179961b0f4bbd2c7&signature=ccb7f0f73878a2cfb4df81dfc8c5a3e9623d0536e6d575c7b7b937f004bb9844|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Deportivo La Guaira vs Bolívar (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Bolívar (ESPN 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=474f3c724288137ec46230baef83e971f47de835650b66aa9299e6a57f7e8ae7.1778107524.dccef2e32adcfa68e24e4753ef9c0f54.1de3ba176ac27ad815a3cae2bd219729.f4e1a5b09246ac57234922e7eafe40b8&signature=f44b05a99e8a384755a008fe4a9f53672fe1cdf43f6607c44a817b233c424dba|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=8107cbb569d012e0248400f45f164080014107adafaab649009bf54bb6b83814.1778111003.d1f214f2a8e2e47201b0d81790c6bbe6.a83fa784ea3dbd5b11813bb2386196bc.0109d17b05e8dfb3d5f88d6bada018f6&signature=a4d58219970f96b7d397e839b70a4063bc6c7352c10e0a158a616da8df3f0682|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Deportivo La Guaira vs Bolívar (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Bolívar (FOX Sports 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=fa573c1de5e198fc25b0ea329105911c96f1cbae2597f3ec115ebcb8cbe8a8fe.1778107525.64cb7c57b456834904535c71d77e1f9f.a2e93cd9647e2fc9fc130067976f32b9.fa58880d10ced5fe698e8719433e5857&signature=b964446ff3655b37f46c44ceef2dba5a98a7822f667767bf1cdd607cc3610c5d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=5776e58a64b9d195cfb3e05127f5392f4af47e33b3da633ea784156f4af6c9d5.1778111004.d2c8b821849ca127814ddea46251a1e2.748dc243a1823fcb3a636e7196fec2b0.d8c20be170e9ddeaf246822f5d813aeb&signature=fa9fd971824d1fd92f70de750f2060bdc49b7493521ec256b8a2c5cc3857225a|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Deportivo La Guaira vs Bolívar (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Bolívar (Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=959a3e81d97b5fbc2970249c56b66008b2ac4cb643ce0f6d2f96195604a5e368.1778107525.657564978ce735e4f9f0a6b6e9a41149.3da433659a061b245d827e164cdb5684.7bbfa70cb7e8fccf01939d6aef5b2af8&signature=2dde066e5e7c3e045f6b63e9cccd110aa060c6d17de6de6784a9818e9e415b6a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=3e56df2d7966448c4c68276da79319a2c92226b3f5ff65432a8bc331b075fb2f.1778111005.7b405f27914ce400ce4e66875702d6f3.c4cb4b2750fdf9b9d0873f0c680c3d66.c2a212c15bd634e48ec9e7a28163375a&signature=e4e856b9ea8e569b16ad8eaa645a1849990a721fa2a4ca2e8dc16a141acea559|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Deportivo La Guaira vs Bolívar (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo La Guaira vs Bolívar (beIN SPORTS 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=aaf2a101cb0d60f4d513cf94d7e37ed80a5078f3a643165a7a4e883f293ef0ce.1778107526.efbe77cbdaa80d400d9395b198666e7b.bf2e3fe01b35bf3e0d8ab9f44c2d3bb7.a1102bfb4cf5a531a8181dbd8852cc06&signature=c2bf6bd69164bfb4e42581b67829e17c4a671faf119d7fdc2661f939e2dd6bb2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=4f369c9706f79ba3654cd77434c79b0d3b17ef15725108a4bb328d77b4c4979f.1778111005.5f4352bd1c9a766ef45e976518ce5594.8a35dd57357b51fb28c539d5a63120cf.765a2b93d350fd0b00231dd5b4084adf&signature=47bef6d76805a0022a97ce8947ad0d0619704c0b78a46af0981bd97678c50fce|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Santa Fe vs Corinthians (Sport TV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Corinthians (Sport TV 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=d44aeaa6c4da0b6810edf1dc588771b1cdbfee2ecae01565ecff4fc54e9574d9.1778107527.d652ec2250ea5b180600cc98c56b2bfb.299d26bcf8fc4fd04c8ae3e49e0f6b9a.c67add81b90614f610b80b03766a8e21&signature=7b907fd4b4edd5ace13058a032eb7a9cd75f470becba3603cc7d428c5de99c08|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=db3e9559ceecd33fe2c901b1dc2a06ccb64825dd88a9a99cb42242d08cf1a202.1778111006.887a73d9eeb34598f0a481403970b0bb.84a65319abdd374b40d2488f17b44a5c.c6ffa9c15c33cea593be754818627d1d&signature=ed4c77d940ebd6d80b27f3d5de8a7fa8359a82fbd7751c9731e0718ba8c13417|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Santa Fe vs Corinthians (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Corinthians (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=7dff696778016d12a0ea68fdbf1fa9f9b57e2c329637a6a6facc451bbc93707e.1778107527.93986d82f3d53e2ffd0a253146bbf59a.1c187c9fb000bce72f379270fa6d13e4.196dae20b0449b21ec05dce3d630829f&signature=0379bff9d2c5b718d71df159756f9b7a7d4751b1d731c724f0faea61ebba3ef3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=f4229dae8ec22ea21ba2cd81c2523421795499bd1b256d53a5c65f5738badc10.1778111007.31ee64153042e221cfab17aaf7ffb632.f3607d2fe95544e9d8374b24be45d6c3.b36550d5cb64e7b412f0b2d67ca338f5&signature=f0ad350de755f6780cdcf2ec89b33468daeded975de48e6bad2f066d430ca17b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Santa Fe vs Corinthians (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Corinthians (Max Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=62a3db06eadf9d6ec8c25fabffa5479b6105c54ab338312b6d7a1fa33049cd93.1778107528.c0230d5b38b8309180af6fe185f2895f.99ba9f249aea83ad8ee675715f7cbc5b.5901c4ca1aed1ec039e43641b5e8b3da&signature=5b53697ba2b90e9097c0731eb3e6be95471a9fae23a34e2faa27289c388ba20f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=af9e24a2758421b32518adf22a6967c9667c7f1e3f2f37903597f20522d33f35.1778111007.a89c7b70e09a2a6f77b75405b8ddad02.a294a1f1c823691ab0c0456c866af72e.358f4d279cf7e83efc3ec2a7e64452ce&signature=90c9b0fccad2c961a63e6f0bfa99c92c2efe18826916acd07f7e8f37a5de0aa9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Santa Fe vs Corinthians (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Corinthians (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=12c43a5de8578ed680628cbcbd21c1fd018da9b47c3432c5a89aa244f39490ab.1778107528.694d78fd2d73dd200e6a1c8808318032.2ef621f735e216309c539fb5dd1410ac.5d593a79761e237c9bf53d6a012acd58&signature=8ad05bc0ee80d72540a3d6bd6aba93e765f24e534e3c8b73d5b0a1e80c3738d5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=af7b9f4e1ed723fbd7e0925c08442d4d32600bea6672b922487a52e7e62bd31a.1778111008.c249c6c083eef399f4f26eb06ba53a00.90712ca93db47b2569754df8062df073.b4a82706b40093c7cdd9896a21373c90&signature=f73bd9201a158c0f29cfceac8bcfc6d8f01cad7b00d467ba39405f57c99e4480|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Santa Fe vs Corinthians (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Corinthians (ESPN 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=fbfac3ff99c5acdaa6e25b7866d7e4ab7354b9635a8f167b8b7ac8525a2b8116.1778107529.0a644ee891b600e566381b5ac25015b3.79f2f8fb04b918578768a678c683f974.a1100a1eccf20b73a81d701656d01831&signature=c6915fc5f4a4e1f37bea62ec74873d0f3e8f086f8bc98a014a1222e1c85e4c44|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=f2239fb032d4bdee97457a2d2eeb34c0f7fa20c867bf51a87c71023b4f355d3d.1778111009.f5e00643db6fc93062f726e978fdd94d.e6020a13fd00e0aa2f2d0a6b284fd0a2.00a250b714664c125fe2b6778b5032c2&signature=e8eec46211162b0c59f12f085adbbd33b80926e2603649d1be47d8ad13c70530|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Santa Fe vs Corinthians (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Corinthians (Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=07ad1a2759edfacfaff9992ff31880a11bb81899851fdbc278020ba105b2cf4a.1778107529.03799fe62df16a3582d497b9b3a4665e.bf4747943d8347f91b3a5497e33bc613.07845f02f122a582e1a1f1ea35f5259d&signature=0d596fe2bf0e309d9664d64a2edd9bcdb2612307f77253a612e7cce5f3e89923|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=c0955ed06b5db43d554d57b52a9c8b824de132a3fcf530eb8ccbda4899c63eaa.1778111009.7baeecc7419ae887added0b066d05342.eefdbd9271accdd707eed58a187b6c42.5a68f269fb590e071a98299c43eb2b06&signature=f42e3777b858692825ed73697c8ae4e9e81144157193cf19f03d6d65e3bfb801|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Santa Fe vs Corinthians (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs Corinthians (beIN SPORTS 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-2/playlist.m3u8?token=674ec4a88beb9caa572408c93d844d30dbe82c6662ab9f88d0d151ba2b5d190c.1778107530.600d105dc5e7916fc9e40cd64151e3e0.89421eee9be6086d56e21b2bcea3ebc9.4a49e5d49ff806bd49a4f829dfd3ea31&signature=516c25c27d42182a794e52aa46b182603920c0c9db77d71847684471deece1f3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=d6dab771d073391212cb17b4ecd7069b7f83c357b1b38ee6ef93ca5bbb743fe2.1778111010.5322a4a5ba162c36ace416bf4ee3d941.0faecaeabbfbfd2f8f18fae1453c9e79.30342d176d5663326ef511afc6c982fe&signature=8d819d1f894a4950e55dda5ae6db714d476129744cf96bb2fc03f3c490eba38f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Independiente Rivadavia vs Fluminense (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente Rivadavia vs Fluminense (Arena 2 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=27ae9ca2dd3d2bd84506db80d986e03260b26f511db48b4526e15d567096083a.1778107530.7ac9371a2bf5dd2db3e2a72432f82c92.0046cb9b38940c290b516fba5aee44e2.84fd64e513cb4c221674769595c30e37&signature=6701538bc0972fcd806e62ec83927a51f9246ae3f8b99f1d0c7fcab36b33de8a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=52ba9a0cfa77e151c00962f3c60047431383f30af33d15657dcdc7e47d1d0e01.1778111011.dfb6249cd4bc196f21cf14fc983eb47f.14492ff7942e1b97201c7e8d3e31d0d4.1fcd17bf2e8333e4948e4a2e5901cbb6&signature=5c536539257f2b4b201f253c09dbeb053fc37ceca82768dc4207297f2e28b999|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Cricket.23" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Independiente Rivadavia vs Fluminense (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente Rivadavia vs Fluminense (Arena Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=0142a496d46e4dd6900de953c1c4f4ff2ec07a6be48928d91ff70b1cd3d872bd.1778107531.899b3e1fb2cbc7fb1bf8c772d6d73ea3.c511aba33bc31b41adc15ad973f67e5d.777e43eb03db83a684a199d62ac8b65f&signature=f792b25d217a1d65640aff46145352ce4bb598920a6e0f6cc401425b177b4a1c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=be5dd2cb3400c3051a44e9f482cd6e7406a36251856f31dfe81a042f9a8e07b1.1778111012.1e32bd2ce6ad931b13f8c777d9e52e52.ef4df0d3312f489c73dfb1be9cfad75b.2e424d250979932461ccf372b6e8bf9b&signature=38f3559a7301d506132ec97c5f1f6a6cf89784ae6dacbaa9c327bd059f3e28d1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Cricket.24" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Independiente Rivadavia vs Fluminense (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente Rivadavia vs Fluminense (ESPN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=18765bac31a02bc738efd3b4140eb05d3a6051b7a11b2f09c9007118595212aa.1778107532.6f1aac055f3156d1d104c5c2c5f4a08e.45c41c8634b09871f20a1fa268fcfe92.00e840f5ffc382f9fca7f3e7897a1cd0&signature=f3c39707b3f453d746c69cd69402c64c960f366fc661a1220e4de8c1e4198596|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=01c4be17bb735b8ad2f625dc5834ee79bb91fa235b0f9b1cb5994015ed58f1f9.1778111012.11ebe296a3c28b5d410e90cace3e8f92.a7a259f4743818eee779adbdc2fcb493.8295006aec32be1de7fb5183a4f597e9&signature=474986b9a5aca156e6e89b6fe1cb3f8ae62348f6376c866fa83caaad762f5a42|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Cricket.25" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Independiente Rivadavia vs Fluminense (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente Rivadavia vs Fluminense (FOX Sports)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=47c1c1b781b683666e3e7d59180c542afa52a93aea47eac4b5f1bdd9dac45d17.1778107532.518d8ac439390ab59d0d7afaaa232628.716e2a09eb32b149a40a0b9b078830ba.d65d522f5e434aaf66703beee9d488a8&signature=3dfdd1dd44a2c7dbc89f2d4c74080d4ec9c01e5ad443d090fd6b65a252e8fa3d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=95fbdf4a70a1e0d430800f83dec9e30b8f6e022d8511fadcfdb7ccf79a57155c.1778111013.801791197520289ed026c777c29f5c8a.efbb2b0619215e42ca416a135696d40a.8e97f486edd565038fdb0f614518db50&signature=6db66c0e1942950d72cd0cbb12d1f1e664b4427a079e94f51304c0a0284cb2ec|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cricket.26" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Independiente Rivadavia vs Fluminense (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente Rivadavia vs Fluminense (Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=37ac8c316d6be92643fe4deecdcce6c58e3223655acbcc3c6eab0cc07261d92c.1778107533.600f19dc966b9fcb33a30e3e74650e11.ed64eff4a57e5e721e00f5cbf3afb953.3c5c8757a8a99dd61c2c407ccb13bf88&signature=40df7cc0975fe1e888b37f9a2e1882af7978920858106a74767dc38796972192|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=f02d8725ee65ee3da276f9bebc03594bbe31c30cdfc4190685faead3f51bedd8.1778111014.55576aeb2efe79421f66214cee1b7786.7cc5b68cefd377034d11f051e21415e4.fa2227291dfb311bb333b8ea0d4ce72c&signature=f4db3facd7a0dde9ffba31111f64d73dc7e889a64a456133e16c5ff7ef7e7e6b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Independiente Rivadavia vs Fluminense (beIN SPORTS 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Independiente Rivadavia vs Fluminense (beIN SPORTS 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=d7f2f4f45a822710bb9d70a3eef39d69cea444137ec25c1ff23b8c49eb860970.1778107533.85876f6ed5cddd1eb7c54015f68b4465.cfadd7c5b259ea6f8a2d76c804b5cfbc.39e393d36dcb40fe5878c442df98b23e&signature=7302e4a553e45bd54680e916c28a28fa9b5e958179592d89735592b0233b141c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=193888480df56ff17a98f5c042a19e357387961fbaf7db859ee14750f7184ed6.1778107534.b23757066daeed92881ba45837c38cdc.916507b8a30578a88aa0f8dbb0a6239a.a1aab3191d4f1312c6874b0d409b913b&signature=90c6ee64b58ac269d93068bfa37ab1756ad2b9683ff85d30ac3cc7e5660fa824|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=5c71de6f6e0806c81da5a02f2d2811a523924693ef3956d228654cd013fae36a.1778107534.95538379305b051445ec3e53bfa3e5f7.8926b84fbe082daa4e99002defbfb112.b5091551c6b891ae1ef913b611e4d1e9&signature=8d72d754a2b17f7fd792d1514610fd8a5ed339e624fd57e1763ef8b5d68c8b53|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Hub Premier 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-2/playlist.m3u8?token=b44113634935b170520c870bb28d9fd4b1106a929a01478e53c63712f5c9f07b.1778107535.29f31f099be6eca0137528491c2a5db6.753360fe87988fe35243b76497fb5eb3.66bae1e8869ca84bae5db71e0d436166&signature=62a1633f795bcf44d1a06f77ae09751ab081119f51b1765693d5284f7f164e51|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (Sky Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=bb802d3ff682be8e86ad3cf3e3c38005b3fbd0492ed78dc3a717b44e582bca65.1778107535.2675860c0eeb35192e36a701c2158c8a.74a0e17b6f8adaad63eaeb53898d89fc.30172222b6fcbdf35b6022666e700b35&signature=db447dad7f50324a7a3aec6ba4b8eda763e6cf670a5bfd89f5c10ee9cf80233d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Sunrisers Hyderabad vs Kings XI Punjab vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=521fd29ac80cdeffbd427ae4ab305edb86177908673fa3f233e4a5a5a0609e93.1778107536.fb3419a994209d09c3965ad64694e760.f45d40df321bb00669dbafb520930a24.dc3fa89fcf0be85717acdba6e71795a4&signature=aa199f18db63c9a2cfbcc73983037b6f46f37c571f0bd634d56366b7f078469d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-4/playlist.m3u8?token=e30799cb07f65c010741e31377f666b24b78ebb2388f3ef058fa3e0f9f602a64.1778111014.3421d3f46c1651c694cbde187dfc658c.7553e069181722d10c474849f12bf59c.a285db75c1feb93d65d21e7980135ef9&signature=a8de43e5945909d5dafc79816b36009fbc2b8df8dda507de9ee792258c4c725f|x-forwarded-for:77.238.79.111
 
