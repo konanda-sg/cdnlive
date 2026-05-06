@@ -1,181 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Rosario Central vs Libertad (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs Libertad (beIN SPORTS N)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=7429d44576e07642590ca67bd962e71f553cc727e596a93d8b27939f090d1fd8.1778022803.0f41b31791629a562298c14eaa7ef4f1.9973f91392f37c6f5c44274413a8d6f4.c1a6a3a48c8ff996f94d62b8722a5637&signature=d54e6e229cbfcf8e9b78e66282c24f86154de869cb05d49ce0b11bfb097d032c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Rosario Central vs Libertad (Sport TV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs Libertad (Sport TV 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=69c2bb8ac22e14b243b8de5d0c9e50cd9ce24631ff85e12c3555f52f102cc827.1778022804.6f8a32727a5ec5c8ef9a6b327101ab20.8a118c0223992fa0bcc337dc8b06b30c.83eed766113a555dbf986e396ca07e68&signature=cb956ff6d3073fbe5b18e12400a80963421f744acfa04f7de61ba7374b187a2d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Rosario Central vs Libertad (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs Libertad (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=b8a0c364a7a450b6244c3d70fa9883fffcc97672a867248b741858b354c47cca.1778022805.1de0ac6b5404757f842f5ffead64f595.7ddc1fbe3a18c6e3260b1e327092a262.c0dcb5a153e26ec5fdf422910a7faa32&signature=e37fc08fd4e7c493b0b407a387232fc522b4960ad4f1d7fe4f7ff0ae0dbd3ca8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Rosario Central vs Libertad (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs Libertad (Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-1/playlist.m3u8?token=c04291627d37551d4b88ae2cf932d721202e0d01776788d6a1e3ee529bcbfc86.1778022806.f740da3ce3d09cb3b9fd757234fca2b0.0da421e962e0d64cd86cc86502e0ce9b.b3985fdd1e0a3517d09d3348cdfe1ce1&signature=cfe5237b7c74bb8ddbe70078ab3d2adf30e372aabbb48f89b9cb642c2e04d709|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Rosario Central vs Libertad (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3217.png" group-title="Soccer",[Soccer] Rosario Central vs Libertad (beIN SPORTS 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=15becfce39b85e745359b99008b985a253c5ba091882ffa42f27bc6a05129f29.1778022806.b7eb420c5d80cddce0e8e11b3d27e865.74452ac94a557593cfd5eb2edf614134.8eb88ffce5513462cda99c6455057984&signature=eae1b4c2fd8ed2705b245eb3743bdb773de1d51a59cc1c88f821cf1df279a59d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (beIN SPORTS)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=b963cab3c5f2bc2d5c56605744e8498cdaa46e16fb4ce421b3cea0af7b373c59.1778022807.57b4e6cf8793d0f85dd142cb778688d8.53fcf08c7ca664d1aa13296da9127a69.fe55ba1d77ea650f47ff00fd325e74d0&signature=170320b800a9caea8295f624a658d7daffe21e522d715e10beed53865c65ee9b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=2d0d420fe2b2e0fc1100a8174a732d5476e226b36b99a1e40197e8b1199e4fad.1778022808.b69158be34bd46c5ade99f9d7bcc1dc9.3d83b6f199594a9aad960fbef6b4df67.3c5fd10bde1b1e301f14c27150473dac&signature=10ce1d2a03906b538cde5e8e4bd26db72817f0b1bebdbe7b803283b9b998fd76|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=a77c0a8039136622a87983cc81d749839a1d905183448478ac4fa12680c3e8a2.1778022809.58fd1b0dab9eb89af83f3e58c79efcf9.a099e1f06c8dfd0e7b2712009673916c.353152babff061b435e4329a30d0aee3&signature=a67d3d13c342f72d959eed4cd5d4a4101c4f5568588e402b92ff591c9e19f6a6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (ESPN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-espn-3/playlist.m3u8?token=7e8c256f718b2d1d98de758c21807aa33d1faf19209ed14772f0458f5fc6d24c.1778022810.808ff28006c6f66fe0083fb7e07256d9.a58a61dd5b6f13e8a0ca69d038ace871.cfd748a2326c517b7352f73536389b56&signature=98de09d2b634373663f278de2a6a1f756b37696480ab4f9b765f52367ab6c489|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Polsat Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=11fdab1759298a99847d58ddcf7c87d0b5dd23cfb0021b73d77d9adb9a0a86a2.1778022810.44ce6ca4c2d726e3768a9c01dcde1806.956ef27b057c612314db853c7702c610.a16449e45d462af373cb63a89b7d28fe&signature=3626930aebdcbc8f73559efb37ccdb9917302c34d8e892d8720ab35ef6a53722|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Max Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=9979f0147dd8f51fbcc3edf8f3e43e317c22a4b55b9cdab5b5e4cb86803130c4.1778022811.05e10f51bc101b9bc4e814186866a379.e9a58698f6ba2502d91b9263b009071b.228d029fad34222f094e2df675fee638&signature=824e9a4f5badf10fa0c92ad6b48629145918774d84471e5f7af883b04d19dbc8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Arena 2 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=2ac3f8188a3d25bc9d18b7ca7c62bdd7d981c5e119142b5883d7e1480802576e.1778022812.599e8e2a726432fd56ac49b8d8649f8b.9f36f0877b0d9f6becab2676193bd08d.083ee4312e88fef717f9b30242da602a&signature=48a779a7082a3ea57549765947c6b76b8a7cf3614d05ef85b3fdc4ed131e5e3f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Arena Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=7a053143ec78b0502f593fb4e78be83187b072706ef53822434b4c454e797967.1778022813.881421af829fb569e5cf7662e64dc187.dc39b4b8da4d65a66acb4fc7f71111e4.1313c07fdcea061554b1245e8abb5a13&signature=77bd601717d1e496d705d05dac1d5d43b99ae808f77c6c70da6044c7c5fc8ee1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (FOX Sports 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=d1d36e09734b25eeb0474d5ed23678c3dd472ae6986c46a28b3e76f96a11b7ed.1778022814.faf9f1aa1bb50f5e410261888664c6f4.c0f186989bdd3d5ab8ac708b43dcd26e.b453216656f2715cc904edd4161e5eae&signature=a9772774ca5b4519215f358912dc246d623131074b064c8ebe37788abcaab64d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (ESPN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=2216f096df743571ff9896ee7e2fc3834e3c3bd76282a5de6f7ce42f8e14fdc5.1778022814.9842d80094fe9fe03a8bfdb9eee5856c.8eb4f7a716602342829bbaac50f0d5bf.6fc2b1ded8c51696a88caca8804a4c6b&signature=83e1d2fb12fa3dbaf0648377f834515e5de1a3bbbd56bb7ec094c39640712650|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=b028c87869584eaee32ec18324bf7c154ff5813e73cc94a319840babd16be8c2.1778022815.872a5a6ad81eb8d7002199bf30b0365a.ac8448fa3d6f654a9a58dc28fcd83ed4.bb3981e3f0c03709c4bf2f6971620b21&signature=f0aec17750e112aab6aecac45287a26314bd0d23d662207476c8522765fdee55|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Sporting Cristal vs Palmeiras (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2302.png" group-title="Soccer",[Soccer] Sporting Cristal vs Palmeiras (beIN SPORTS 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=5e4d4726954f1d6db4a32fc1d54b0cc095f367a6e5e6386d93eaaec107acd25b.1778022816.92f3b61fd5a513cf3e0a434ace62e9b8.aa37e62a50d8914e4786f64ea6b3d630.44eadcf23ac39b138784bf6786659469&signature=77d5fe825f54a63d0770b573c85eb53efbad704ef56a05572d5d843bd6f38b31|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] UCV vs Independiente del Valle (beIN SPORTS XTRA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] UCV vs Independiente del Valle (beIN SPORTS XTRA)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] UCV vs Independiente del Valle (beIN SPORTS XTRA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] UCV vs Independiente del Valle (beIN SPORTS XTRA)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-xtra/playlist.m3u8?token=7690c9d37f725c2f0316750765a8271bdd1e18b86cbb999942c10beafed4e643.1778022817.3fc90591e6f3f7906e132c6f691f16b4.70ef1d2c069d93d7837cc0a493154ea0.741743ca8967c54ac21c87700dca1837&signature=8f3e2b1b5e798e83e6fa82996b1790bedbb97a24d50b863bf2383622a373c24a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-xtra/playlist.m3u8?token=719d23013d54f4e391dd483aae728b4988edf8a4d3dd94ee615a678479b9b5b3.1778025962.6d426c99606229c73824d53b3dfb140b.1ccb1c4a5f2a317ba88057f4451cca05.8aeda077e388408d3c98d0bbd7554dbc&signature=778adb632cb451c6e24bb07a16d1eee8d086e2e1a5cabc0d7a9793a8e3d805df|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] UCV vs Independiente del Valle (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] UCV vs Independiente del Valle (ESPN 4)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] UCV vs Independiente del Valle (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] UCV vs Independiente del Valle (ESPN 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=21ce5bb8706d9908baa9ac81e0525b3171745f0818e84395b35fa1c3038b8f9c.1778022818.9640246ed4e4ad209c8670b411031bd3.4c79adcc8d2629b18f72721eae260bbc.6079f88cd20e049c3cce64e4b3edc3bd&signature=730fe595e4114383a2f51d75b17f3c3fce1c0f34cb817bee3e076deaaaffb466|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=ebc27a2518891d6b34f1b5488f9f2fcdfd680fbb85ca235e765f80801aa9dd4b.1778025963.6cb803f2751e7d1ef615ab1923979fb4.26b157e4509cc105761488192386f09d.e8ee49851c95d1d14d22321e83d9d2dd&signature=e6f8652e00cf90327825dc12610e8c9adacdf3a278d0063cf7f189ec1519861d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] UCV vs Independiente del Valle (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] UCV vs Independiente del Valle (FOX Sports 3)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] UCV vs Independiente del Valle (FOX Sports 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] UCV vs Independiente del Valle (FOX Sports 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+3&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=b3b63a9de3db6ce775df0a3f5ead90ce0c6807c7b920adc5b6c5bc91a8688615.1778022819.299e653433c8410e299f5566933ccec8.b3f6384e36e238f6b56bd9f94474779e.801ba8c011b49d36e38cd594f0917893&signature=5937f6f5aadd0e0a49bb23e4c5f0f7f77302cc2842b10a89fcea2de82716060a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-3/playlist.m3u8?token=5bf6a52768c14b998ae882aea2ba62c9f818f5a54e609c1e2215c69c0ef9ca86.1778025964.77a0bed4f36550166ff2dcc0507bd655.fa7329b6b796c1d7782914875953d3ab.490245b4287d9e970900eb001c8a4288&signature=608238811c0df811ba6f0964d292aae6ae17559ca4233969d80e25170bd694df|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] UCV vs Independiente del Valle (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] UCV vs Independiente del Valle (Sport 3)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] UCV vs Independiente del Valle (Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] UCV vs Independiente del Valle (Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=7280308c72a7ca8b6c8e89c288b23930945a8956cb32a94bdd7d89aa9af90bd0.1778022820.e2494cc4ef06417107f0823b0e307b55.92b2a867f0b588a2dfc05429bcefc956.16e1e9621786651ec105fd8405dc6d72&signature=ddabd568d4a394ed58538c820a17eb7a54cd5b60aa5f9d8e406853bd720248d3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-3/playlist.m3u8?token=8c67e3465456695daeb619f5bd4ded757c50b4ebca89acfb9882d41f210d4b9b.1778025965.de33164f6c7378cc1ee6272c8429a707.70faabc665341005f3903cc91e818b85.72c675aaad934b520fd5e09ef512028c&signature=0b623451e7853e358fa336e579d5a8f05fa6cc85394206fac6c4835643756734|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Barcelona vs Boca Juniors (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (beIN SPORTS)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Barcelona vs Boca Juniors (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (beIN SPORTS)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=c95fd97c6495ceabc9bf25195be27e48f08d990d08cb1a64a6e6b1c28bc4989b.1778022820.614c8a5aa503fdd0e5200f1b64de4336.311faa3f6dee8bb78678effbf7a544ab.f6559325c396a5d481483d2e5a02f473&signature=41aaa929fdb4b8ffb2678722f1e648494a7a7c6177ee1dd445166c43d2dd6a02|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=69802d26e7613f458d006d5ee32ad4bcab7bfb0b85b0b18bc33979d792d18e01.1778025966.f8ad81e578e18c7d5464bd8e1f1edd67.d4cf1cd2d7e915cf12459ed4fdc11698.feccee8d67204a7f5e31bb820a3958eb&signature=0d8ecc805e912059d6b1d6bbba05e95bd444c72f8873333f400e17ac3684feaa|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Barcelona vs Boca Juniors (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (beIN SPORTS N)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Barcelona vs Boca Juniors (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (beIN SPORTS N)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=01e0f35d6548c693d2401350ee8fea27c14e451f0938a1a533845f9e028289c2.1778022821.6aaa7512da66d2a1d789a62413a62880.6498fb8793df6fa1ed70983545f1c827.10fef29368e9dc1bd57a67ab17798daa&signature=402c319f177f68fed41b909149272f27658b4b406db0cb9bca56cece56c7c107|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=251d0584b8f00646a9ad4fc8dd04f651e5a370d431aed26880bc079ab0f81809.1778025967.244ff9cc3bda66544acf0b323a14a0d0.c22600a2142154bed2be90878b0824d6.1a00f3e33efada6973e4fff33a1e3f7f&signature=b1608fb98f981503cb516ffa31523f6e93e596b88a1a30e83747576ad7d08ae0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Barcelona vs Boca Juniors (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (Sport TV 1)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Barcelona vs Boca Juniors (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (Sport TV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=876f493d92deacf20636c68255fe9c8ec30376b4f176bbbb7f61a145b6773126.1778022822.4cb662d93f8ddad2d0ab52397ade81fd.0d7bfdcac4a6c4bb1e62368a683691e8.041f8d84a93a97ab63e504333a1f8ee2&signature=075dff20ae1d63f6491c56f4dcbd9705e7d43698e47c5aa87d816f9323b456cf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=1299bdafcf2e8ebed59cd2fb180c19d941635527d5ab98bb4eed477350eb6375.1778025968.f0d19b6ead19be9aec3e6494956a6f1c.ae6571460aa0384f12cb4d6b06b73c09.7195f111081ae0cc4acbed3fe5c2601f&signature=446e49d1c4ce5d24080bcb3ad43e8714e9490c07a22679c08ef0c80e7aff66c9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Barcelona vs Boca Juniors (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (Arena 2 Premium)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Barcelona vs Boca Juniors (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (Arena 2 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=79961d1386d23eaae0687cf9446fc572227240efad3066aa8db69b1bd3a14103.1778022823.8bd26f5593ef504bc76c92a5ef5e4eb9.12b575cdbd66fff17502c96ef8c8e203.187581dc0a48b11b02ee4639851c6005&signature=98c92c12aff3f76c5a2749f3662de243187d05497a8b7a67f7befbdd1b184f47|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=753ab7d95948cf1c4f48b555f56f1b60691d4196a344d8eef3b09f0881365ece.1778025969.98785f5db74670f95276e91efb62ed74.3e1329e6f90051fe6991be570cc5e9cd.db2c3eb97fdd33b56d65d4897e5f1bbd&signature=570038614655d86a029f5be1dd406a02b6af26c02a72ac01a8a4a622398944bf|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Barcelona vs Boca Juniors (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (Arena Sport 1)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Barcelona vs Boca Juniors (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (Arena Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=4579b34b36d57fb018026c817febd8cf3b6ddfddb960d1c694fe9cc9b3ee5f77.1778022824.256346468aaee07e0dacde78d75d250f.f3f0fbaf70b018d4ecf417fce48314a7.7a6f76f0ce4a445fc2d73eae7510022c&signature=32f1e007b6e5ac7c8174df8e779bd13f42d66a186d6727492f7961a2d43a9334|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=9adc25d105a7358ca2c73e292de7b18313a5ec49ed1c0c36ff4d5ef9a207ef07.1778025970.72eb40dcf69443a912ff07ba2247935c.4b2b1d9fe5513845cafc46501dc5bb62.fdb7a3d6dd82ed82e994e8eb86a2028d&signature=7bac215a400717a1b0e8e7219c4037dd584ccd4bc8701680ecb9dcaec2b0a248|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Barcelona vs Boca Juniors (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (FOX Sports)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Barcelona vs Boca Juniors (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (FOX Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=36aeacee1d7156d7ad8a2f64269807f9fa7f2d4beea9402607324049a90ad831.1778022824.b617a9a933b28efe42f0f8c7edb18177.04a8a1fd249e1ff72e26d2068ea373ce.a9e0d858591cb210243ee922336f1013&signature=68e2cbf68105204a4f66292c529f4ce3f9dcf77fa5f3615ecdfcce40d28abe1a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=1f2c6916eec87d4bf70c54623e06b5d57bb2122ef360a899f421724d379f0a9e.1778025971.88ed78d2e21e49964c941c5cf3ce009d.4f12da72a479eb64ef461c1a179b55bc.5a0495e834c1624a68e2d96ff46a3a20&signature=c34d3233591cda3329a7630c6c5c8b4cf253f5edeb264f79ca1d438639472b3b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Barcelona vs Boca Juniors (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (ESPN 2)
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Barcelona vs Boca Juniors (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (ESPN 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=d9551d6f203ea087b490617f126941ec98c80a0c7db25872a7a89efcb74113d4.1778022825.2faa2e31fbfa151d0285f00b58865fee.e9d5d371790e40acb35f0d95de3aa671.4599bd0ceb922c00dd0351976eb991d4&signature=87c6067ec1eee5e5ddc7aaf8e8eec0db087b60ff51f1d9f1c9974ecf00449463|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-2/playlist.m3u8?token=bd081ce1510340096de24bb51f86b63d167e0fe020d725e4c30cc6e63d5f201e.1778025972.54e4991a98292fe3e4852add11d3c4a2.59f5a2b54744068b056b546e2baee02d.41c33fbf4e7dcdca88e35e85ef3f69b0&signature=027dcecdecbac1d7684c465f8e26f1ebab6073f5e97edb45d6f8e7a6285aa118|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Barcelona vs Boca Juniors (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (Sport 4)
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Barcelona vs Boca Juniors (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=0728e351359fd5432caca795d2edfa6d300d02d67774023dbaca1aba8bf83aa9.1778022826.10af7c8115edd0afb4db642686fb7b20.4b06077152599e15866ad3fb253473e2.e638a944864aa81da67d50fe8a6aaf28&signature=6be5a7d6b93ac50c4dc3a7d3fa09f26b4fb1cb64cce6a0d8cdc8ad98d0042f08|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=67480767458ff53329cda3479d03878769395b7ef8be1605bf83e9044a985c73.1778025972.75916a8bff0eb53c142765830db41084.288b13a62814906a3c846df4893e45b9.df6624d6cd9c5cd549020b3a504f8803&signature=35b581176bddfd6841f8c17d41ecf5747bccdebb43078bc1225c74f89e92565c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Barcelona vs Boca Juniors (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (beIN SPORTS 1)
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Barcelona vs Boca Juniors (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Barcelona vs Boca Juniors (beIN SPORTS 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=7d861daf7b5521387222ecf55fcee401769cfca1960187a5a8a47a78c398e9f1.1778022827.693c9caf8c53000142fd692b99d4c787.1c2d87f21925f3a71d365a10159fe915.b292154318aab83715a09c5e1f4be687&signature=43241b893efd65d4c06d975107cf1483baf863ede98b14ee5e08db12471e149b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=409f36bce03bd47ecfae81d37b7a24adca24125ed7b266619a256c501abf9fae.1778025973.7f9f50a862b9412c71c2cedae2f06631.5b7cb70ca7a7bea363574226aa9bce04.25979ba66b8b704f8efec132b6750cf4&signature=85b06d0caf125a62dacb16201af32a1ab68497725e74b4cb286c46590996b2ae|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Always Ready vs Lanús (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Always Ready vs Lanús (beIN SPORTS MENA 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=5a5866722cd289c16118122cdc39b54516a317f0cc1a1f5a627920d8a1f5bce4.1778025974.af4d2f127b9de8f8f3e577270e403371.d32996e29da229188ff0865b12b4e8b9.d8800bfe3b7c95222d73522509b4b3fb&signature=1566b85a642a88bf492f2bee33ecd90927fb2608e2f762713c5d695f53253d09|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Always Ready vs Lanús (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Always Ready vs Lanús (FOX Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=bed69de1dffa070722287c73ccdf8030782c997e36b9c9fd5decc6b0411ed553.1778025975.bdac66e815a16ec1c325528a6a483a4c.cdeeffaa993c960752415a2832e253eb.e1e21108089d65d34736ccfc715ff876&signature=3d9fb2dbe80c93f11a6fc84f514757f8bd530d74c7103d3838b80faa21b60ce1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Always Ready vs Lanús (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Always Ready vs Lanús (Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=3a8b174ffafad393a4691e32be71788b58201633e62bff4bc5ff853e05f2f9d9.1778025976.4d18b56aa7e021f7040a3453ac60ae11.8173feb0b9d2405117192e8076b44f46.7b38d149cea07c3f9279f371957e33b4&signature=30beb926622a5e41706641ebb4942bacafed7192f05470aa3b18bbc33d2f47ef|x-forwarded-for:77.238.79.111
 
