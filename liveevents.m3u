@@ -1,565 +1,445 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Red Star vs Montpellier (beIN SPORTS MAX 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/52874.png" group-title="Soccer",[Soccer] Red Star vs Montpellier (beIN SPORTS MAX 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-5/playlist.m3u8?token=bb9f17246b5fe2f7e1108cf0cc7f204334ed3b2ea825912f6884ba4df3db0519.1778356349.c6348ed574d7178b9b8099fdae12927d.a9dbe658c89248a530d532b6979fb3d9.2e9d1b589d4f7bb8d266729f083b17a3&signature=fabb08946305fefb18c45358aef46c1bd4de55c0a15ffc06f68e9017d0f17db7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Annecy vs Rodez (beIN SPORTS MAX 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/210894.png" group-title="Soccer",[Soccer] Annecy vs Rodez (beIN SPORTS MAX 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+7&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+7&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-7/playlist.m3u8?token=6d05aba88dc68072fbbc2e9c64f1dc32d3665b39a7ad9963dd07c349365b5396.1778356350.549ea81003a5a8b669013c59de50527d.a282f4b7bc4d70528de45071652b0af2.9aac2438e101bd0a4ae8eac6f4ad1443&signature=d39e490161a2ce33bf3bae697dd129fcc511f6e03be6e7844b289fb6ac376a81|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Saint-Étienne vs Amiens SC (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1678.png" group-title="Soccer",[Soccer] Saint-Étienne vs Amiens SC (beIN SPORTS)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=19e8beace150a34176fb8c0f9a121bdee1a95feb0c5512e030221701a3c28291.1778356351.c3d96836ead8cd03e1254e704fb0127a.56481aafefbfe7372717282a58fe7e47.ce2ad84d70329c62b6780065675b1596&signature=8bcc71e54edfc04717cddd3897ba8b8e63847628fc66dd4c0099b27c56cac825|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Saint-Étienne vs Amiens SC (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1678.png" group-title="Soccer",[Soccer] Saint-Étienne vs Amiens SC (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-1/playlist.m3u8?token=64fd283324956f116703bdb673b78cc81ededd8654cfb17d800e15119c704071.1778356351.b824e1ec6c226680f0bc3fdb92fc0f60.2437debadf28773df12349c8d91c90d2.7ef046ab92815237f3c951aec630e381&signature=16be47a812da110ad01d1ecf098889eec7f433e2a06996fdf0f78f16c33e193b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Saint-Étienne vs Amiens SC (Sport 5 Gold)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1678.png" group-title="Soccer",[Soccer] Saint-Étienne vs Amiens SC (Sport 5 Gold)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+gold&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+gold&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-gold/playlist.m3u8?token=fe404a46fe83b66c208df787be28b0d7bbc2b9ddfe22905f9244fdfd53aa2171.1778356352.a0c81f0b3ace551a0549b90ef9110266.6bfad13fb9139d71b8410474baa789f7.a652d41a2e07520da56f121ca7f81fbb&signature=44e524b5b7b747839cc8b978de679198703efdbf10bb18188ee44e2573aa8d5b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Saint-Étienne vs Amiens SC (beIN SPORTS 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1678.png" group-title="Soccer",[Soccer] Saint-Étienne vs Amiens SC (beIN SPORTS 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-4/playlist.m3u8?token=69f5393f21116cdd09f471cf9f09c0ec47bf6ed028214d2bf1aa34e42737185e.1778356352.163a0128a298f65368f5441a04a9d3d6.383bf64f85fc6d047882fa1b8fd5ea85.ec1a6b2b82c448c87ce1f2a757745299&signature=fe9cdb730e740dac14c00b82bc0e4cc6683871f2137e972a4d7e47c75c2482a1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Bastia vs Le Mans (beIN SPORTS MAX 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1655.png" group-title="Soccer",[Soccer] Bastia vs Le Mans (beIN SPORTS MAX 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-4/playlist.m3u8?token=539f16ca0d4e9d8a1f05d202797bff3d35af76fb163a0c6c2c6533d981c8a337.1778356353.7c5d6b512997e2128df7b5c78558b644.d992ea090426212d51b06e26fa5e0d0d.7af0be4601e9b4c1db43c575a78dc05f&signature=140c1b7840399fe14e52d48bef36919b0b6e6e5a1d5a81c94b1a4685bec9e761|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Bastia vs Le Mans (beIN SPORTS 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1655.png" group-title="Soccer",[Soccer] Bastia vs Le Mans (beIN SPORTS 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+5&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+5&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-5/playlist.m3u8?token=de8a1bc9220d1955f8ef23bdc81addaeb727eb933ecc8b5319e76cc198d4c6c6.1778356354.82641c121e6b88f258ad8cb8df425f48.e781000b045e342e9f233655389ca89e.c877db59c6de8c0dd61ba122cdefa189&signature=7d6b9495d4edb51a9788a6adb84bfa930328359797ca2bad7a7dbc8d8322a21b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Reims vs Pau (beIN SPORTS MAX 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1682.png" group-title="Soccer",[Soccer] Reims vs Pau (beIN SPORTS MAX 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+6&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+6&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-6/playlist.m3u8?token=5bf6981c0c909310abaebd72182ff6ed6bf28f40aec8f80e76527c45f1649f62.1778356354.8e783e6a97826f0112cffcba288cad45.ff93551724c11a4b2005c50361a93bca.5c3ff4a4ca7b250c19efe0461514d4d4&signature=b976d958ec2d44aa3307d6b260de548afa9caaec2eb9355636cd6af0d4958eac|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Grenoble Foot 38 vs Troyes (Nova Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1671.png" group-title="Soccer",[Soccer] Grenoble Foot 38 vs Troyes (Nova Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+2&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+2&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-2/playlist.m3u8?token=991135b5406b9c2053a96bdbe7c0deae1b9ca8abd728e31daa5a7ac4cb336d84.1778356355.6a27259ffaafb4885f120219b7dd1da6.001e9ff124ada5e7563ac18b1088002b.aac7b2f9041f512f41a65691ca94c962&signature=8e5eb711b011060fb1df112d83922961afa14ee2a6ce0a468acdbc75324ed933|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Deportivo Moquegua vs ADT (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Deportivo Moquegua vs ADT (TNT Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=9b9697055bb9f6eefea87627eb5fec9d7a5619a9b4bc5a8eff0654ef9942c437.1778356355.f543f463f969cd1f413370b08e1aa65e.c648c0860042f9662be36ff0763f8af1.6d3014cf02536b62d319b33fc9f55c1f&signature=249f82b8a42aae6b8d6ff96492e64c064a4bafe75a5aefcd298cf665fa583eef|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] De Graafschap vs Almere City (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2949.png" group-title="Soccer",[Soccer] De Graafschap vs Almere City (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=9426296b262f4f2a8f9e4f5b488c723e370b5663425df3120c0af1edb6f135fb.1778356356.6585527a73e07c64b9dabcd63a11f163.a77255e8c58234f28bc71321bcdb81c8.35fcf82fd5c799cd99896214a92b94c3&signature=66d4878234d2666c19ce93e66581e929dc230b9023a45823c1e1097e8dca3bd1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Universitatea Cluj vs Rapid Bucureşti (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7734.png" group-title="Soccer",[Soccer] Universitatea Cluj vs Rapid Bucureşti (Digi Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=0a3ca3f496fda3288b93540104357106f510fff7a767f23082b5b7e45ecae28e.1778356356.b12d117f3d05bff70b103d816067273b.bfdb20a7b017d878dda217ea2dbd948f.bd49d0b622bfa6d936d12a78533a08d2&signature=b8b309e91011a33f741dd172f8339cacd4867929fa708020d7541d895c497ba3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Universitatea Cluj vs Rapid Bucureşti (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/7734.png" group-title="Soccer",[Soccer] Universitatea Cluj vs Rapid Bucureşti (Prima Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=4bc5a38307c30e3cdb77c337773b88d51a92b9644b318d78ee5a654d0cec64ff.1778356357.09322899c116c6f091faacf08e6d0699.5bfbad43934192eb27d1f8a2776d42a1.27a58e1ae0ddd958918dacf5714bfde7&signature=57f1927b53ce45fa7f9fcedd608cd542a3695fe73d59683bca3c0098a169b943|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Al-Fayha vs Al Quadisiya (TNT Sports 9)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/168094.png" group-title="Soccer",[Soccer] Al-Fayha vs Al Quadisiya (TNT Sports 9)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=7fdb258c54a1a2851881fdecff562424b763d5219e3eb198df6657efe46ce1c8.1778356358.052bbe1375d4d4a6a9b9348b85695035.c73c057849bd7fff0a397b11701d9f1d.0af418b9683588064a9d9fa29d8ab9f2&signature=e103e7ba7952caa8ce26fbc60a8f5bdd54f423fb352d3ba0203c2c30c01cb417|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Górnik Zabrze vs Zagłębie Lubin (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3110.png" group-title="Soccer",[Soccer] Górnik Zabrze vs Zagłębie Lubin (Canal Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-3/playlist.m3u8?token=982efbe54a406d83fb3c30bceb091664a235d272ba39ad82ddf47b9352129ddb.1778356358.adccb2997949874c5b5b8d33b98c1527.5879c67081d2941539200ff5c99f5229.5f2704f60608ea9705c7c8ab3aab97de&signature=33a7cdf250072541b33cef47d808ed9a3b0c45b7253f3c83763e9ddfb4ed2f35|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Nürnberg vs Schalke 04 (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2523.png" group-title="Soccer",[Soccer] Nürnberg vs Schalke 04 (beIN SPORTS 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-3/playlist.m3u8?token=45907955c5447bb6d49a6fc3fe3a938175ca3daad7c7efde532f7be062d7d132.1778356359.61c57d471f76ea70d859fc3be4dd311c.121eac0ba47ae7fd3fdaaa9993e37fe4.cf745d9dd30dfb297f6499f201b9d3c7&signature=155f9b3d596768bc4452f28ddac629b8fb9ea79f6bd0c69bb9dbe197662cf401|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Nürnberg vs Schalke 04 (Sky Sport Bundesliga 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2523.png" group-title="Soccer",[Soccer] Nürnberg vs Schalke 04 (Sky Sport Bundesliga 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+2&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+2&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-2/playlist.m3u8?token=8ae9952495d2e678adbd3922aa8e4a073e2dd994811a28f1b5b9a05a33cb740f.1778356359.931f8793ea85cce9eb96b3ea06732ae3.1a477679d188f7acbba201387aca9f57.7a83047c8673911b9366ecba8fd23630&signature=439a7ca4c1db76a052ff57107d87947fe60d8ec259982670212c048584781787|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Nürnberg vs Schalke 04 (Sky Sport Top Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2523.png" group-title="Soccer",[Soccer] Nürnberg vs Schalke 04 (Sky Sport Top Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+top+event&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-top-event/playlist.m3u8?token=fe1fa9290b68a068dd2a18d1d669d417c5fdde50ed075796d0f6831579ec14c7.1778356360.1e89e5c0d738391605709105a380ea07.10e6b1df04921abd68fd1650c5e35c3b.c23808b6bffee059533eb3a25387bd67&signature=7e9b3d7db9723b0bd8d09a0ea382272f5b568ca33abcd98689f205feb92d5b9a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Nürnberg vs Schalke 04 (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2523.png" group-title="Soccer",[Soccer] Nürnberg vs Schalke 04 (DAZN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-2/playlist.m3u8?token=3246f88e51abaf1fe66ada1f0d5517881ed867da585abe7b26af88f04da34e15.1778356360.539303bf799aa017737f571ad9e00ab5.ed3e41cfed33fdd9d8e4fcda5a9e9bda.d8198f537f31d973f89102f4311a2e0d&signature=4a0216f33fa9ebef07e75eb486fe91846b58d393d0d632a2fdf9df4323515fb4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Nürnberg vs Schalke 04 (Nova Sports Start)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2523.png" group-title="Soccer",[Soccer] Nürnberg vs Schalke 04 (Nova Sports Start)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-start/playlist.m3u8?token=c03109a39cc93f90b7dc087fbb7d9d01bbadea8195672cb8815567d9e087f2ff.1778356361.d02a21e287458ab1f51a7b5b58b011d7.cece578c9b12e232f4a9e5e88d6f3030.4e92891a401758a383e43b2f0e0d834b&signature=d8c71b99db6da3a32d9505c95223a68abe0e1187a8d1b4b25ef6bbe5daad4f76|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Nürnberg vs Schalke 04 (Nova Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2523.png" group-title="Soccer",[Soccer] Nürnberg vs Schalke 04 (Nova Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-nova-sport/playlist.m3u8?token=73ba8fb118436fbe7dd6e01df0ad6088aa4d5070c733d3d6298823035d8e2110.1778356361.d7aaa214bbc04a27ad677d6e6babdd1e.3a45b9c7b754a893055b7d8dfcc63a9d.fa134147c4a4a7157e2d466d1f527438&signature=a3018d8430621538f5b25ef636a9f2f0b00263852714c55d5b1e18993c027510|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Nürnberg vs Schalke 04 (Arena Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2523.png" group-title="Soccer",[Soccer] Nürnberg vs Schalke 04 (Arena Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-2/playlist.m3u8?token=f404eb67846d6a33547a48b2e60a48551cb6b2b59b1d56fb105f92ae339b93e5.1778356362.3dda2278f9145408f8f0275464c62ffa.f63da32e83826c05faa0d7a41dbef7dd.f355ebb8b946390926392430b00b084d&signature=68f8b6adf12df549778da108a46c652cebf0a01250da76c387b46b9f8279d898|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Nürnberg vs Schalke 04 (Viasat Vinter)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2523.png" group-title="Soccer",[Soccer] Nürnberg vs Schalke 04 (Viasat Vinter)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viasat+vinter&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viasat+vinter&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-9/playlist.m3u8?token=8788738162ed1a4a979825830a1e79b02f9fc9a63bb268a13ce421f68a9e2a05.1778356363.16fa8af2fb988fbe589ade08119c1787.77f7700c5f7fd71050640ae7225d7cfc.fc41ab61dc020a47bace64c15970ce09&signature=720ea9abaddf7cd901b32b22bf316552ba67ee6cf308fff4a8311c63c49e06e6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Posušje vs Velež (Arena Sport 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Posušje vs Velež (Arena Sport 8)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Posušje vs Velež (Arena Sport 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Posušje vs Velež (Arena Sport 8)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+8&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+8&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-8/playlist.m3u8?token=508c2e21cc4811ae3c3f4eb711b22dbe2f04e9564648333bf5db5587e124cb47.1778356363.7def03c0374278c54b80195393fbc4a3.db9c8bc233f120a033b225c234812659.072a6983363e1e4cd3957d60ba0a7a75&signature=575c6ac2a764d63977fe6d1a55e375e8e4bc135357dae9ad70a66cffbc1f60a8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-8/playlist.m3u8?token=11938392ffb28441ebff22d4e490460dcb7a033f72d5b716b46894c7721db2a9.1778359025.cedc455fcfb35d0f39e152bf96a64245.0e6ff67f76e28ef44d2c04aa1c14aed8.5392bbfe419ba3d53b34044223c93974&signature=45cf74b47231e240932737535c3f250fc8f931ed8959db5d28da544509d4c52a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Lecce vs Juventus (Astro Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Astro Football)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Lecce vs Juventus (Astro Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Astro Football)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+football&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+football&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-football/playlist.m3u8?token=0125beb3ea2c109f8c7100b1259b8354b878cdbbef86c02443dc8c915623f41d.1778356364.429478c4acc73d1aa0f93b81ea859b68.91c8e8a984e3c377a9ef90b6f463067d.f14511cdd6c2acb2c60947dcac706230&signature=53acccf1325091250e7a98dadf16142a7f14c498ebd91cfe806237f00b0f6add|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-football/playlist.m3u8?token=4deb388eef8607476bfeebfb96bc351d525a47875c4b246b8e06c104e2cb99d7.1778359027.f22d5c04524647a1187d7fcd602e1e36.8af886b454917d315446f02f7d98ca09.0f1a7eef4b7547121da767f0aa715f11&signature=fd883a633fbcc0fc9c5320cfdbe13b40778f073e623bbb400299b7c8a2431a83|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Lecce vs Juventus (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (TNT Sports 2)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Lecce vs Juventus (TNT Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (TNT Sports 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=664229a15d9abfca7406c43e797d3275b6b9556bf5f081708b4fa95ca4cd4d98.1778356364.410ace30142b5176707dbf44abeefc94.2f81d8cac36e12ff861a20c33d638903.420f2fbfa71a27113a6f9ef986aafddc&signature=7cb2c7b7c7fffd005de65969e27693d0904764d5a18f1cbf27f5b557e97f6042|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-2/playlist.m3u8?token=4e9edac68a7f9d5389e8fef69622713882faa761650ddfcc7069542e0a54deaa.1778359028.9bcd2bdfc39aadf555f0e0f40dd3bf4d.c1fa89cb013b95d6a0cf16077c7d174c.2654385612c0567b19d407a7ad868c36&signature=7f1e89b8b135d50b18e82ced10f7f026d20be8187092b0e3c842ba7328ba3458|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Lecce vs Juventus (SuperSport Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (SuperSport Football)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Lecce vs Juventus (SuperSport Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (SuperSport Football)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-football/playlist.m3u8?token=7e89ef86e0f870b3d75d7aed1d317079ca487c77465cbc3a039e0990081300e2.1778356365.891b15a51541665b557f6b3bc06f1aa4.1305d952584ff1e35a2e9f6068edb8b3.f8ac023dfc9a234de8295ca563c0181a&signature=878aaf97a01130bbd3f4f8f4af2da0bde2e2a2ae0cc0bc2c45b352bda97d96d8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-football/playlist.m3u8?token=32807ed1a4975d1f7b88f10838bc6da48904083d99f383176b0734f8d7b3ce90.1778359029.5e84db3333a348cc4b3593d78c86d3d5.e52f68844881ab13025d8cdb542070c0.a954c55623cb51ee0fbb47d66f9f0cd2&signature=f7b83e04732841f50961dab90e720b7fdf67bed2e92354b7574e38565ab99ddb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Lecce vs Juventus (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Sky Sport Calcio)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Lecce vs Juventus (Sky Sport Calcio)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Sky Sport Calcio)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=1db08ce4b01b08c10979835592a5fb5fbf0856146ed6a302866f154a2a5500e5.1778356365.ab46e2f3df2384f0ad25eedfccc90306.87ce51dffb17f618254d3ec08c15b723.961453e06c40816fb752acec67b51b12&signature=169c4b4b613ebbef506d74fc7cd86d0ba7a1b09bd90443621fa6f6a975ca1209|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/it-sky-sport-calcio/playlist.m3u8?token=c1bded2674344523663c97babbb36a214c4ac84a5eb8540734c95949938d7325.1778359030.3474e58a126b0fd0b169c932b6cd43e7.e76e2a09ab16b8ecef27f1f3e8959ab1.e38ff337f11d1521ec55191f11716055&signature=1540df266273850c3e195b0ddd0b9b80b061da47cd9b38c1c047ef58b1dab79e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Lecce vs Juventus (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Sport TV 1)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Lecce vs Juventus (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Sport TV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=e8aef85e9a99ca3f5e272b3eacf0a5446f0f7b26cf69cb894dbe4b0e32b90d3d.1778356366.76265c979298531dac64e95d0103bfb4.4f34ff56d041bfad6736701e9be87e54.ff21f8e6316b407b1f0366288afa4145&signature=144dceab23d80e499fa22c6ff1e80085a2850e28a05c46336207da99d5cc6bed|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=2d42c66a310ccb8f8e8a5d233630cd8d84d2de5c6ec472b2e7d1922f226dd69f.1778359031.d56ba805b6e417262c9017a7c9b7dad5.67ef3f7a4d73d91541cf6608e0d31753.42677c30bf289806b723d2507d6beec7&signature=8cb99af3bbe4f198a9fd9d6adda7f4ae071e75dc1dac771254eb0d9ef3b40303|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Lecce vs Juventus (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Sport TV 2)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Lecce vs Juventus (Sport TV 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Sport TV 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=5ba0f2fbbf1380bb8b52e464fa53539bf1ded447d9319ec5b10e8448a290bb8c.1778356367.01921100e44506454cce5dd8d0d0ae43.100d9c1fadbce332e9be8f58c4516c37.91b7fde31145ce0ae999350fbe7a81a3&signature=f9a74c91d2225171a16355b11b7986fc153fb391d5eb038a3297ca198ec271ab|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-2/playlist.m3u8?token=539d08f7b21a92d3b057fae9bcf91f07d2884651274c1a85f61b805edd550bd9.1778359032.d266ce71d12ca039aa747782041ff82f.c12ea50e396e68b50bd0ed378352d994.4bb9ed4bf7861a88393025d245404d49&signature=e900d1bcf20e477917ae3db49be50c130850a4b874b069092b22eec0f40e4f0f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Lecce vs Juventus (Ziggo Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Ziggo Sport 2)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Lecce vs Juventus (Ziggo Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Ziggo Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+2&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-2/playlist.m3u8?token=d5a828ffa7a9b4d331eed8dc4247c8fc440067249944842405a1444615de6e5e.1778356367.70bdf95123cc2399613b71ad2bbc2552.02096b1411c0c8294772d98012922f3b.d4ce560b0d4359e76d0b6ce921460fd5&signature=03ff5a2be3bb9e62805fc36937dfb591df9af0dbbafd46cec526ec99fd706ac5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-2/playlist.m3u8?token=8613ba2c1756ed1c697c3b594970dba7353234b0b5eb4b4c1c9f5de707d12928.1778359033.09a097f00f395e5acfe0b255277aaaa4.de360e7acb7fa0a9c080257e085086d9.252e8408c82379f934eb9c82c70eaafd&signature=920ed9f2231c3f87a891b0867e61de83b6d42feed5941e11299d38240e6c74c3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Lecce vs Juventus (Cosmote Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Cosmote Sport 2)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Lecce vs Juventus (Cosmote Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Cosmote Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-2/playlist.m3u8?token=40c21dd1d231cf8e7927964776c40b77177d9aace1e296882ca4b0940244342f.1778356368.89bc64a094ff709212f6d7ba259b8815.f70fc35580d79047e2f5e88749cd2405.28b3c3bdebbadf3d704bf0ec6e41c5b8&signature=cc0265440fb3a93a52db538d7a066beaaf46298d13fdecbc0701e667018a1b7c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-2/playlist.m3u8?token=c2732405bf1499ecb2a4d1b8bb34c422e1522a1eb97ba7ffe4843bb2edf00179.1778359034.ae37d8cf52eb22f1c80e37ff1fd7cd53.fdcaae2e25a03073da39fd0eb71b26b5.465dbd03440a41295e87e70be3d14c27&signature=afdc02e1dda4266929f39065a1120ec356dae8220e3c6046f53fa283c1543404|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Lecce vs Juventus (TV2 Sport X)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (TV2 Sport X)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Lecce vs Juventus (TV2 Sport X)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (TV2 Sport X)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport+x&code=dk&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport-x/playlist.m3u8?token=4a21a1ad9cb9dc0b5c0f08e8e06d63ff86b5d017d3f457b293ed66cf4cd222b5.1778356368.a1bbe322440d44c879bfe4092bfed688.f7b710cf222d68d778a0ae2c25ea6d80.652784d271e84f5694ace5b18ccce5d3&signature=def0d4ef8556b382cb83492ea3837ede25504046839da240f07878814a42b7b4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport-x/playlist.m3u8?token=befc64b07bcb475d0c957df8b6927a4ef376278e885904a5d31dbde526ba80dc.1778359035.79ca4b9c536758233ee8c922324e0524.f8bbdf4050b025afd8c89c1e15a7fe98.664c50b66629862bbe8721393462166a&signature=5e394d8e4c09d1b509726dcda3965d94714d560b7a95a2689adf0bc0edc14f74|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Lecce vs Juventus (Eleven Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Eleven Sports 1)
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Lecce vs Juventus (Eleven Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Eleven Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-1/playlist.m3u8?token=832301ec0b3d78e669a36ca10cc06bed2535dbde96a397dcd6f1e6e645925eba.1778356369.009231faa827c2dd0845a41784775c1a.599f9009e9dfb0887a5a3fe9e3a56b93.c48b4e3e391d456043b80cf8d7505d78&signature=c4427a35d6b99334d70509d75ca805b09d83d45d4373efa3d7854e72ec80be7d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-1/playlist.m3u8?token=3ad76184a2a9df8697007a6053e68cdc1661818d8b11e425572114111767d2ef.1778359036.6b09e815de25152f3cea1f030f6f622a.3840c83b582872d80f2932c0cda39e5e.f8c5a0f9da3633671913fac1ab662890&signature=9e2b5450af3d263c3d1b1a3a6108284eca3ea2eb37e7e5c2b89dd2b94774aa69|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Lecce vs Juventus (Match TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Match TV)
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Lecce vs Juventus (Match TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Match TV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-tv/playlist.m3u8?token=ce8d118980270d94a0ef73ea18dac9866c2f27a2847af63103263c58f0622542.1778356369.5c5dc8f7807862d12c32719003cf92bc.1de9e617bd4c7e7ad021bca4a2b41a87.e1c7ddfa1b1e1a21f6e6d590800496fb&signature=c4f21ace7783486bc79c39652bd46a7923a1144988ef9c6bb318393feb7efb37|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-tv/playlist.m3u8?token=31adc3ae7ee52985086ba505a0d7fcb9cfb002af8f2c217d5a8d475ebcc75f01.1778359037.4fc15f5b7a08b056890050ba64a59200.4b93dd9235cb22612e39386b61d6e117.20893ae8e19045bf7937c3af1a397f23&signature=f45fd040826152630b347623feb6bc2268ed884f014d40e25735da32c223c288|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Lecce vs Juventus (Match Football 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Match Football 1)
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Lecce vs Juventus (Match Football 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Match Football 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-1/playlist.m3u8?token=b06774877ae602dd92f9a67ffe15482611142905dfb850086e75e5311904263b.1778356370.9f10f8d8f02fc1f04d29470a96455aae.12c7ca26c0e197fe6cc8957af1774efb.57ce0140979d5a18dd7b1fcfdfb666a7&signature=6cacee6be686b3748c800bc40bd43775757c1a839c8e3675e157df3009537f13|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-1/playlist.m3u8?token=1bc967e2169f7075ca74eb7370a9ecc7fc3447b180429d5273e691f1341eb656.1778359038.5ac3f0f40610a0df2bdcaa8dc5f1f207.d113a60222ddfaa5ec9d55aaf74b6a60.d4e3e5a921ecc11886e6112333597908&signature=b48ba34ba9f1721354e6e4217edf9e32935b55daabd6bb272261c9629c4980e0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] Lecce vs Juventus (Max Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Max Sport 3)
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Lecce vs Juventus (Max Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Max Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-3/playlist.m3u8?token=a5903832b9027728b0af5a84398e9e0c58a6263f582f20acc98cb3a197d1e479.1778356371.a84b4b055f632d39c0f4a1b133dee964.918d382a1eaf25fd721534f90a034820.a7b3a9f0d9016a7c6319628e64eca491&signature=4ca6586e5620bb5b3cb6da3ac90ae6e3f1fe0fdf3e50deb5c93a656b553f1523|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-3/playlist.m3u8?token=7d074f52544c2681c1e11acaf32a4720cb77c385300509476bfb1e744e9d646f.1778359039.64637b946844d36c8983f23a7ede2f5d.933dd9aa60193ce6461c099886b4081f.ed76ee8412123a935b3ed1072e1c7a29&signature=ff86c7dc54fc625c009b2b8056a5f6be9136888560d5d4862848ea5fa853d9e1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] Lecce vs Juventus (Cytavision Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Cytavision Sports 4)
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Lecce vs Juventus (Cytavision Sports 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Cytavision Sports 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-4/playlist.m3u8?token=cdcdf5b923c90917429389664a3fa864a3fb4f9f96e2fecad37d2949e34a3a24.1778356371.25b60575ebce426c4f3c25df1ecb186b.11f00e83b3ef43c6694d0c15979317c9.9658bd32128b1d7ddd162c72d20971ec&signature=fbcf50c630cf244e0c3de261dd22f2940730dcbee0db9f014e712a5f7c8ccb1c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cy-cytavision-sports-4/playlist.m3u8?token=5c8649947ba2b1d5d705a6e6cba08da9b05a3a4313c887cbc78fa1e27612b262.1778359040.c40bb977f681b08eb78a1847dcb89ec7.b24cdf9c90feb9d4a733794b5e4a4a2c.8bdd05c176d096a24486f980bdb58f7e&signature=a1164f1a9e778c270d9827758e9d34627f3514dfd9d0bc93025812fe220433e6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.40" tvg-name="[Soccer] Lecce vs Juventus (Nova Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Nova Sport)
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Lecce vs Juventus (Nova Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Nova Sport)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-nova-sport/playlist.m3u8?token=56656bfc950d80acb58b4f98bed6d371159a9a81b2952b211259a0c6e52b5ef1.1778356372.eb4d6b6fd806b649e4e9997450bf07b8.bc3cb7cdde532ea90c369564e408a94d.721fe90a32644c7edea932285f4ae930&signature=a18fc0115fcf92f5739e3e96bf544ef43fd9e9d3ea68c010945d8cc0e3fc8353|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-nova-sport/playlist.m3u8?token=ddc503dcf5eaab4f7539da734cb2fe1f189a834a36923395c88d1aaef5dc47fb.1778359041.052fd8e1304b0991bf864d79f1c7077a.a3ddcfa72dddfcf1151e93a7e6134454.2cb026b9d351ba5a0a319ad129d3d996&signature=d86126fc704439765d3732c7e49480f14da37ba325a8d02a588b89034b226e66|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.41" tvg-name="[Soccer] Lecce vs Juventus (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Arena 3 Premium)
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Lecce vs Juventus (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Arena 3 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=c28699ff4536b7fbd6136430f05945770acae1f13b4c5b66a6c43923df8f0068.1778356372.0583176533e239fd8d899027f9e94c30.a7b9852240f1817921d1e1d2c3645fbe.1cb034fab67196937febcfe33124875b&signature=af133ddb474e83588cb330b15722ee16641d563565f139b5e9cec86d559015fa|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=242f357d5a3567b52cfcf2743f3a1ca84e8b9dd85c8b497fc7cf4a20046f8bad.1778359042.879aeec5d9f2556d1ad5e1650efeaee5.40fca1f2ecf78b94d79b165183d2321b.2874e8c5d4388d3b1a2b3fc11ff57cd4&signature=4bb8140c7f951f76ad1ebea5bb81fbf6b86740eee0f07ac994058a1bc1968013|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.42" tvg-name="[Soccer] Lecce vs Juventus (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Arena Sport 4)
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Lecce vs Juventus (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Arena Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-4/playlist.m3u8?token=979a8911667044f2ac4a1bcec0eb215f84f626afec2427fbada9205e96b6f7c4.1778356373.e33916ebb32cb5d19d8457dd38b2b189.f4611748096f97e17d6af489a375cff3.e3bb05ea2cdecad23e94fdfaf118c225&signature=4e8e38bf1e7436ae61d38deb4315b81ac98a3e902a7d0a396299c718a3911529|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-4/playlist.m3u8?token=dc43670e740422e13e33d53601c36afa5d49c21a635a5475aa0550b39be0479d.1778359043.2f71fdcaa131f9366dea99035d9a8857.131db7f78dd68f5fd1e9b388c178a9e5.4c2e63474d79724605b142344cbe36c3&signature=7d1a1c4ddc13fe13e93e01ddacb76b016739023f2f44f2bd9e397b74c64ba67e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.43" tvg-name="[Soccer] Lecce vs Juventus (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (TV4 Football)
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Lecce vs Juventus (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (TV4 Football)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=0a208a9cbd001f82a89288d76a77d31f6ccfcd31326a6473e01e5819dc56090c.1778356374.ff1f807861086cd6cc93f6aea907710d.69057ffb31751db0e9c957a29f17844d.25e1e97b2d57dd03f04a2075bfba58b2&signature=0f5bc141e6ba88200a8c779ab9c4fadde01e0bc1a43104cd744be25f8ce050ba|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=b67c2302fdaf5c404ba4973350447d2650732497accd4f135ac7bc06de9030d1.1778359044.cc3681d88cc893cdc332fbb3cccf8727.c4da98e1f8bcf39f0d5401f2ce27b035.934ae8a91ed01ddd160651614f666e6b&signature=88fa85a5ccdbe538371dfc6917737b37d9a62df0140ecab7f9dea27b0f2d3534|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.44" tvg-name="[Soccer] Lecce vs Juventus (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (ESPN)
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Lecce vs Juventus (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (ESPN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=6d995766abef3bdcf9f7483aaaa08d4136d1dc8bcc114b5678ae907e1266ccfd.1778356374.c9deef16ec00677c717bc39a63f9e271.2cf92f3ecb91d2ea276c62260252e54a.2ca0ef26d4a4e21c8dc1ce6a54fbeddd&signature=4d37a344f6a790930272d458501adb07b947a0445fb04563e617855c55fb939d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=978f4781951010e25a8b2f4203a8c9138cca731c082f92008d08d1f1304a1906.1778359045.58c51bf5b8d2942bc17ef23e20b9e1ce.2cd9a6a74849fd450833fe9e961a8de0.a39066e83ea5e9d443899b8b6e060fab&signature=131e7cdcb2d4511e41f87e9e03026e7f5be1db993ea2067a234b70a503b9f9c6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.45" tvg-name="[Soccer] Lecce vs Juventus (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (ESPN 2)
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Lecce vs Juventus (ESPN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (ESPN 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-2/playlist.m3u8?token=c714da30a845cfde6a34ac9e67df8c054f04b827e3d33cbdcff903509a23e6fc.1778356375.91544d04b1af3c6fa5bec4c6f28192c9.d15da765f3e705d2dd571be880f11e8c.26e5af7c2b6d02a1bede172b60f7483c&signature=e7694db15e282508ebc894a2cc929f4aeea1f27fe145baf0fc38d67ad18b79d8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-2/playlist.m3u8?token=9ad7272e384c430c9851168f9cdfe237d20cb1d2ba2deffa13252e75e0832537.1778359046.88fb72ff541d1e1e67c75d3d380a7892.17662fdd41c78755b0b436a23cbd8c1f.b424a2af2bb2726ba5b2feee4cdb93ee&signature=dcb50965612a1a4995290f48a006adcd2b1d70188f4311f893051d31612f9f35|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.46" tvg-name="[Soccer] Lecce vs Juventus (Digi Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Digi Sport 2)
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Lecce vs Juventus (Digi Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Digi Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+2&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=4507938554117126cb992cdf5f4dda4534ffe6791c8c02aa85fd3a3816f13920.1778356375.16ed7b1e1cc7ca2e4dc68acd1327c0e4.b29467de37cc271d826cca3de95eca55.dddce71dd9da1be626142d7c0cad46f0&signature=0abf5b8cb1cbe1427dba66724464b05f03129cbab854e23b57b17fb19b12b6b4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-2/playlist.m3u8?token=5e3d0db13c42b560b20e8abca17d110a2f843b7b1dd0ed41845c1ebb84f34e13.1778359047.720c424f3ac321ab00f1af9b3ed79e1a.6d6825e7e9b9e8efdbad8f654a4f82d8.ac0904baa3567861a8142404b14efd7a&signature=13471c8ec5e4000a55c2d483e4927f34637b62a526d9ba48bfe469ad88fe7999|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="47" tvg-id="Soccer.47" tvg-name="[Soccer] Lecce vs Juventus (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Prima Sport 2)
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Lecce vs Juventus (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2689.png" group-title="Soccer",[Soccer] Lecce vs Juventus (Prima Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=31b58a379165c9f490896b2bd25b995f503d53dcd0cea98bf4ea79fb04de4a9d.1778356376.43510723d261df3febe358064fff64ea.39c2922be5fbc95467e7ff6405bb5da0.a0aa1b50b39e214313194a950426a8df&signature=75de0884049ff1beb6ab279362f709320da132352c45b3240bfd0c0d683e13be|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=8a39bf4ad126c373e89e3a89be64011651152af3eec125fe19d5d6aa829b388b.1778359048.06ec72cebae9852c96b35cedfea0c25a.2c020d024653b54d82037baa9358d40a.3c78d183d6356fe66fdf2c71bd966a16&signature=cd98e6a3f3d2429811c438158e3159cff36c1176635ff5b54472f75165d782ca|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.48" tvg-name="[Soccer] Real Sociedad vs Real Betis (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (beIN SPORTS 1)
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Real Sociedad vs Real Betis (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (beIN SPORTS 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=2fd5736e57483115b7f4432229fdf09bcce1ec85d0bd59e8e738b46f31c98828.1778356377.6f54a9d4e8d50fe16622d35d324b1e9c.a3c32d931f9cb44fdae8f61d2a0849ed.1bb1da2ef5adfc6ee3d2a77de52b2dc3&signature=24f891dae635955d770827c0695ad2e03d8dfde7df7453a3282eb879c9dad0b3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=c248e28148f982bf4893447d42245f8a34984a1fc08a9794c9e011911d475f9f.1778359049.6102f38deb6d7f4c114eff5bc659d2b7.39c53eea5c3418a7119987f2cb3bd49e.08fb598d433f247343078ea8dc9edaf8&signature=ed36cf7effb4f8dfd641580a316f922b0ec8180c6af4aceb54bfa06d0b9c9341|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.49" tvg-name="[Soccer] Real Sociedad vs Real Betis (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (ESPN Deportes)
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Real Sociedad vs Real Betis (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (ESPN Deportes)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=f803b29133fc05943ff64eefe951fe34fb3942610e6b7b35f262c967906cd5df.1778356377.08b290cc843ffcf00188ded2056e17a7.fa4c5afc30fa01556a98c5b698f779bf.e6f914ce779554bf3bc94654d8bdf314&signature=ac6eda15c980a25da8838285c7eed9c1f5a965810f19b678a0b92cb8a2000113|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=fd45614b2a9a73a3295856b04b4bbfe5647b89880fee082b06a5f3bb60e4ff6d.1778359050.b6f6e01d8583442921391046ece5ed17.7635b9178561a2ce79a8cb16096a4b35.b7778b51c6654f6800b3161644899d9e&signature=d0ae7422fa48fed809678dc5229b3b21698869ae62c6339440502ebc05dfbddf|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.50" tvg-name="[Soccer] Real Sociedad vs Real Betis (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (beIN SPORTS MENA 1)
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Real Sociedad vs Real Betis (beIN SPORTS MENA 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (beIN SPORTS MENA 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=8c603bfbea97d2b260a1e100454d761efec09abe17df4cc8be686527e0a42b31.1778356378.d9f3f1b36e6c1e817f2063956ab78f4e.4c7f8c98a31c114d3631ef74722f6e38.034e2f9e548e2577352fab3b18cfade4&signature=0c571a1bf1852f250699b93ccc0175bd82fa4867ee0fea545733b596fc190904|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-1/playlist.m3u8?token=b7479e2cce275adad1704f4cd1288c6f9a892f3c292b71331f484915d2a70d6e.1778359051.24d16577b3310f1ae10207fb33bde421.ea59ccc5f8e3f8b051c0566db24c587c.daa547968afd5d79dc9d01599d6331f0&signature=3d1861e98f3f9f8c7704e119b1fc3d72d6962423132dcf1a86ec547a5b8ead17|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="51" tvg-id="Soccer.51" tvg-name="[Soccer] Real Sociedad vs Real Betis (SuperSport LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (SuperSport LaLiga)
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Real Sociedad vs Real Betis (SuperSport LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (SuperSport LaLiga)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=70cd0041242e8adfe11cd3e170b597cefa16a081ee049c144be21e040faa72eb.1778356378.6fa85a695e75a2481e8cc75d3c415fbd.85a0f4734bd9ca1810590b3524587a90.96ecd42c46047d92abb67c2aaf8ce629&signature=6d50d45cf1d9d1d59e0d83846c416c271c87d9b27e1b70c894932093c93d11b2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=18880124aadec0fcca4298af9743ece92c305a15aff6e1723d1813c157d08d29.1778359052.71b6dfa5745758fa7d7bb7caa0aeb6da.4a061a217b93c63df72f368167247f40.05fe6a82948b94e88b12ce0f7c7f5671&signature=3376f441defed082ee09e30c46d6f15515d4e3e76c5d9f0cd9b0c0e30b25399a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="52" tvg-id="Soccer.52" tvg-name="[Soccer] Real Sociedad vs Real Betis (beIN SPORTS MAX 10)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (beIN SPORTS MAX 10)
+#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Real Sociedad vs Real Betis (beIN SPORTS MAX 10)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (beIN SPORTS MAX 10)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+10&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+10&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-10/playlist.m3u8?token=7c5929778d9bcdbd12a44a0360bae8ef9a25ba286bfd050375c9912fb31425a5.1778356379.f0744a39a4892531240ffb2e62c1035b.659ae0065f4844439ba52264e5d016aa.bc3ce35e926f24d767629293f08e7919&signature=b2a0ffd5106dd4f30598db8e952aedb9f4e08401288e8b65b3f2888311c9aab8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-10/playlist.m3u8?token=54fd07160e33d856386f7660aa8d27396bb8dd13e3371b83830d3f896313bd14.1778359053.72d480cb8eca8e590baec7c9d8813578.955e85fba1d35730c2f3e57d4913bfeb.d62e386552a7c7cc7128b6c2c0e380e1&signature=476870a3d9fe71c2c3bb76884b31cd8fe3e6d41e071137563ff91144a9c004ea|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.53" tvg-name="[Soccer] Real Sociedad vs Real Betis (M LALIGA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (M LALIGA)
+#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Real Sociedad vs Real Betis (M LALIGA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (M LALIGA)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-laliga/playlist.m3u8?token=25f2bf40fea06ac1f8868e8f044b293230913bf36b977f7cb0197918fa6e5dbd.1778356379.9cd8c11623fb2b9e7b203c9e39cd202c.7907d7e1bd6e0a99ea6af783e582825f.3bdf4576cb94ec41ba0e934b5cdded2e&signature=f6e0adb53d982e1d3aece4ac9a07b072f66c89d910d7cda381dc89c8d938cc0a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-m-laliga/playlist.m3u8?token=2033efb144987be3d6be878f0f1a777c1b7b563ecf99afb448aa522f2918fc47.1778359054.491af3a0af44ddb55ef06b8ad44eadb7.dbaf5823fcd0fb05c654ca758477ee0d.00068991ac7a92935f39f9c137a0da47&signature=2b137c8b43251f7371bc446c9464f19a93ebb58c9663547a4f299670231167fb|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.54" tvg-name="[Soccer] Real Sociedad vs Real Betis (Teledeporte)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Teledeporte)
+#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Real Sociedad vs Real Betis (Teledeporte)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Teledeporte)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=teledeporte&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=teledeporte&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-teledeporte/playlist.m3u8?token=bcd9579afab4e29d60e65568ab4a530ffed6c0f80bace2176c1ac538d27dd0cd.1778356380.ed8507496999611bb10d85039c55d723.9962799345235da48132da356755d52d.6f5948fd908db7fdd20897182173757f&signature=e2ee373dbe5e7bcbeacfb6d0fa7255d3cb0637b50fb11a3d8273372be20e3892|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-teledeporte/playlist.m3u8?token=0d77f494318655a7a9904aba585ca1b8ed156cc48043a44348a2aa7aac95e327.1778359055.c85dc096fb8fd525d235c7c035329755.543fd09da1eb941be9863b9692df7cbb.bbd6bd7e8d62ee385ecaa6c61766c25f&signature=de1c65295ed671c5a50778b673844d4a2828e115a0aeef75f5bf8822ae1582ac|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="55" tvg-id="Soccer.55" tvg-name="[Soccer] Real Sociedad vs Real Betis (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Italia 1)
+#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Real Sociedad vs Real Betis (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Italia 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=1c4e2373e9375989f2a83bf371f4eaa6aa2d8a168df0b000b8470721f2ac3afd.1778356380.15cc1e8f6d20b917d3f200f95bacc00e.4d8d91ad0fe8d37f893c0940545a2f8e.f03db458ecb40b2e9d9c81cff4ea1aa1&signature=a0be289668ac96e0270fc6d9db1e76a3e0917dce2cf53d3c757334bc6594987c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=2a0d6b66dd9fda060b1245a27b338f1ba0b3f35881d8eef7ee0fa6512d4b1fcf.1778359056.3c01a6cf4530550b358837b29d957c6e.10d601646f421a45ac7ba43aa1151c90.fc515cd9a1e9c27dc171dcb1317cba44&signature=db8b1a6269f8fd97e86118d1a9f0ade613eec3a0b9c86fb3d987f7fc0f9227b7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="56" tvg-id="Soccer.56" tvg-name="[Soccer] Real Sociedad vs Real Betis (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (DAZN 2)
+#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Real Sociedad vs Real Betis (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (DAZN 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-2/playlist.m3u8?token=acd3f1e8673677b5169b2b8ae86202da58c5052a7a65cbda014c55a9f41162f6.1778356381.a9300c7076e92e808ef88ece1fb1f3d5.bb3eb394e4e65e2b25de60b683e01a48.52a96a2ee0fef69d52371e25cee04c2b&signature=ae2b054e46ae13f5b6d24c526bec9621df6148534b4a10dab055e07ad2b6f676|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-2/playlist.m3u8?token=f83ba987b2f5a4bd8a0cc562a957d5ce390f593feda730d28a784d97764d5057.1778359056.45ab6a70526c03c7d866f40cbcdf6709.b2dc3802d1dfab0ea7552ff707b06477.366c80f8ab46dc828c6fd7f2a97f3c3b&signature=4e8eae349796be2ac02a37e6a30d431133cda88abb41860d130cb296ee575b32|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="57" tvg-id="Soccer.57" tvg-name="[Soccer] Real Sociedad vs Real Betis (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (DAZN 1)
+#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Real Sociedad vs Real Betis (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (DAZN 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=b3028c9ed33e743707cc6cfc13b1d37ccbc1cac2fbee15499320666f6156d8be.1778356382.1149c4012cdf5dc5e6d3c5137c6e7f2f.f8baac738bb634a5e40c7642e1f06006.1d3c719e881b2196959ad5d07c94b6ef&signature=3c86e3bc1c208aa7fb0e8b9a662382fe876a929c6f62d5d0f5f15b33710660ee|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=85776cc9ef94907f40b3fbfc2cc9002f41f7ed7e2f3b0b893b5faa2d3645e95d.1778359057.e75d8e965df0de182411ee73cdab73b2.ad2ca8ec4c39a2102bec02d03b03ce7a.c2b61454e4c0f4449e814fbb1b91e0fa&signature=dab47d3032a7ce6c856d53fe9b2fbcffb696795e048432d177b7b6a8e3c30459|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="58" tvg-id="Soccer.58" tvg-name="[Soccer] Real Sociedad vs Real Betis (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Ziggo Sport 1)
+#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Real Sociedad vs Real Betis (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Ziggo Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=1f8e6df9103db15bd44fc7ecc895e00fef53603d1207dff5ec410d459ef8691f.1778356382.2cda418928c339d13b45a8c99fb46d8b.5b8a01acb74be4ff70d83e1b1867d91e.8763b3b55d5b0c306cd784cca30a2114&signature=785401a3c2d13cf74f242448505edf6f3dcd85d597022373ed1b84e795293285|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=f01ec09994aef79fb9fdc1c64c64a1b49b124fbd5710a4eb735e4dd3db863487.1778359058.6b7ecfeb2dcafdb2c0f2fee50121958a.b56c6f86f12a7c9d0de836323b64f5c9.72738228071671a4052ffba85ef5955d&signature=27ae60ed91d3a80054bbda79fe22ef0d5a8d30abc3774fbfb751583d130d0374|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="59" tvg-id="Soccer.59" tvg-name="[Soccer] Real Sociedad vs Real Betis (Nova Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Nova Sports 1)
+#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Real Sociedad vs Real Betis (Nova Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Nova Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-1/playlist.m3u8?token=6a6e7a2bac0fda6733a6bd032a593e01b873f533d13c8ab015143a882eba237b.1778356383.2bdd5aa55179dd9be0d014c77dd5051b.97a61ecdaacf010c42a038633c5d68d5.81375e737aaa962a5064eeab3f73ab3f&signature=2b1d8582fe5a0717c515e181816876b4c862c9555772e1564a725b08e334c815|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-1/playlist.m3u8?token=9b6bd38e392447b53e0b03335a864d47cb972d2ba7f8a39be053dfd370e35402.1778359059.481d17514b7248455f2f38adaccc79ec.6419be25d0eea4e9d7d85a2e4be71fc8.0c4b96c4211450e197c3eb99a2875d77&signature=d1df4b16e4f09a0021e9a0e46f6c9aa7d1d35a60c60fa143e0deec270b66a59a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.60" tvg-name="[Soccer] Real Sociedad vs Real Betis (Canal Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Canal Sport 1)
+#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Real Sociedad vs Real Betis (Canal Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Canal Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-1/playlist.m3u8?token=90cba03528284f9ad1ceef8d269f0ed892b7ce5e5145c5931e7fb1e96e92852b.1778356383.97f0de67c03d58c3612035290a0d27dd.4ed15d012c5661c117021c98deaabdf7.b4f1b7cabcff0be21fff3448e7995435&signature=4f764880c3d119444bd953e48a64f916be4805bd3467af0f40b8ab52fff364ba|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-1/playlist.m3u8?token=0d87574d472c0034b1360c310ef36403bad18da3fdf38afd028fbdaab5505b96.1778359060.ed7185bae1f52f1dfaabacd5fe52419a.135fcf5a775d1f003b082d29d3859ba7.bdc87d4aa143b260d0714160f78b0a98&signature=2d5d87accada8389e43635c18fcb29a78834e04a93c22a02caf90d7c5c4236c0|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="61" tvg-id="Soccer.61" tvg-name="[Soccer] Real Sociedad vs Real Betis (Match Football 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Match Football 2)
+#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Real Sociedad vs Real Betis (Match Football 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Match Football 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+2&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+2&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-2/playlist.m3u8?token=62b2cdb533a79ebf4123e857670183fd17abbcaca5461901a5c23d26d6d4657d.1778356384.3db2e4557e64563ca27fb9a1603843a9.9ca96f1cfc27409044e4c698330a8804.25a421ca520e1389f0598b05f48c5699&signature=82f177789834821da3a691a92441531ae24ba5d5f18faf2b0e6367861c09797e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-2/playlist.m3u8?token=b587fcfb10a7d5f7ca7b723c30694f9b16595f62f60203a233bc0c946c933b8b.1778359061.32a95d60dbdca00ca7010dba76d1b69a.540845150dfca378924d0b20c48ae879.2318508b3033b21c4f2022fabb83bb4f&signature=1cdae0895d5412284287ba0c2842807244e8028ce38de3d4ea1e691a391efedf|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="62" tvg-id="Soccer.62" tvg-name="[Soccer] Real Sociedad vs Real Betis (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Max Sport 4)
+#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] Real Sociedad vs Real Betis (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Max Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=e9aba53effae03e8427ee38f1aea9fe4162d874f8e21cdc67baafc8f71c9a73e.1778356384.42827f1f265dac8442f754e201028767.fc9bc014a0f2819a4a92aa629bf13d30.871eaf6e6d8ba20b7716984a1a75e556&signature=136a8e595f00c401b137601147c215e72d62b96e20208018761c9f8987e9eaa1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=1657429847e5e04d57ad6373f87b6825992db45a5e1d7077cf2299db20fa6a51.1778359062.90e52359119516bd5f3d7c6fd3654133.69a9bd6c9e819cbd6b45dda89a4411b4.221ee75f9b54f7540bde68b245aeb58a&signature=81b7774166d36f7629024cd55de82878a112a03c9c3e2e467b8b3f67074eeb18|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="63" tvg-id="Soccer.63" tvg-name="[Soccer] Real Sociedad vs Real Betis (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Arena Sport 1)
+#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] Real Sociedad vs Real Betis (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Arena Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=52a121a2d6fdbe8124a3722483449dbf46a48de693a2f43eeb84d158ed447038.1778356385.320cfb9989dece3035adc97f314324e4.14aaa35d9e91f6bbd7bd625c67305309.4474922e34aa6815a6c74e6a6ed4d710&signature=051f466bfcc3ad90d62d06f34a239c48d3623b6bd11a85feca52371c84395117|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=2f619efdbd8750f2222c2f556d7cf4524897e24b3d526a39bfd2dd5f8d6d2b8c.1778359063.3e8a3d1d4701aac3c5bf06b6d3b36718.94491836cb680e3c6abc60bd437ab75b.c196163705fdbe18dcea0f2164f7c663&signature=2b94d09341143f9a79bce9c78c799022c174287c3d104bf820f5ee1e3f8c0570|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.64" tvg-name="[Soccer] Real Sociedad vs Real Betis (Nova Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Nova Sport 4)
+#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.40" tvg-name="[Soccer] Real Sociedad vs Real Betis (Nova Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Nova Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-4/playlist.m3u8?token=1354af07a07ef7050377bf21820513978c00004d40999d2b716dec76ad05b146.1778356386.be4ac1f676a8809753fac4607335f4d5.76b6489249dab0f3296e6d24648b75f0.f18bf9ecbbddb2d0ef5432db5f17463f&signature=667dcc1bfd0124a07259aaea082b1e19d948a06f212365ac98744e3c308ef32b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-4/playlist.m3u8?token=09d983ad79b5209fc7ae55046c46612991dacb76d10f237f7105ab15555a5d3c.1778359064.5bc901e4395cbfbf75a168882a33179b.0a222bcfa0ccab25a2c1b1de095b8566.b51969cc45e672588f28770c5ca69450&signature=5a42e90fce22f61632138224b3e198f5803ca1b6aa914dce94aba2627472514c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="65" tvg-id="Soccer.65" tvg-name="[Soccer] Real Sociedad vs Real Betis (TV4 Sportkanalen)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (TV4 Sportkanalen)
+#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.41" tvg-name="[Soccer] Real Sociedad vs Real Betis (TV4 Sportkanalen)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (TV4 Sportkanalen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sportkanalen/playlist.m3u8?token=82116ee1e375e4b3d045769f41300c0643ebe8d8053d6d9fbc4629dfc0a50fc0.1778356386.0b36ebc850836b8b7c9856fe3ce450d4.8638f8dc6086fd1715f68e9d98e02c81.5097ee57f59b3bd548894af22e592916&signature=61daf0228f2afce9adfab05a225edd7a5ac82d618e8ccb726a536d264cbd294a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sportkanalen/playlist.m3u8?token=c5b3eb16e20e0bb23a417abc0316850ca4b7589615a17c6871a505a51f9d0512.1778359065.d776cca6a793ebd6b531233087bad23e.6548f2baec350c3a254429a1f896aacb.549284fcd42f357c5c7d7302dd583bab&signature=04ab5c78d3bbea150909fc6bc92af74d9b6d7dd2258c32f10d32ac0be5cc1f71|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="66" tvg-id="Soccer.66" tvg-name="[Soccer] Real Sociedad vs Real Betis (Digi Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Digi Sport 3)
+#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.42" tvg-name="[Soccer] Real Sociedad vs Real Betis (Digi Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Digi Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-3/playlist.m3u8?token=106c9e5756d3b0bb5cad8ef930af65fe7eab2333bd709856000e1afe7a0af043.1778356387.155c4dc6644bc3dc5a22baed9411f438.f00097d2da93cfb88b1495a1d504e979.ff29be09d6d920286fb74dd2061def09&signature=b77ef7dcdf8f8f2689ed03ea8a2b00753ea47ad4503d6931adb5d4ce4ceb2812|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-3/playlist.m3u8?token=63c670f2017978d17d9463d073e8de4acec8c4016c560ce88442fe2a8389d572.1778359067.195ae31391eb6464bdc6afdf22151b24.04b554f2de3722a92b06f1015a02fcc0.862cff492d8e059468f66caf2e6d9cdc&signature=4cc606c9e75dfaf12270dfbc7d942a13c9fbf6831bd327e39b6d480f18a849e3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="67" tvg-id="Soccer.67" tvg-name="[Soccer] Real Sociedad vs Real Betis (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Prima Sport 3)
+#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.43" tvg-name="[Soccer] Real Sociedad vs Real Betis (Prima Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (Prima Sport 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=fcb6ad03e0a3b4b0b67e039cc83daba575f4d5742f32dd1f0cef55126a4cea6d.1778356387.8fcc7d22fe8af522ad74bcafd7842b23.8fad4a30f9a847ce8b70ef994b0764ea.dfa53bf2317a2f13d3e90ba99b30a1b6&signature=895b0a35abedd477ddd64aba2a9f99eb6a50345aec45f92980f283bbe9e5fb1c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-3/playlist.m3u8?token=9b5bd9d46a79cca38e921d1435405c5685032f0f3838e808d84c65eeaeb81b7f.1778359067.8b8cae7ee26940d4facb7f9d23d76e14.5e4e4beefecdd63d2715422a32d739f9.c02ce22fbe680d4d126072b6458ab8f9&signature=33d4793a4ade927fb23cb8941eedff0597d3a51f066edbbaf517c897c36354a5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="68" tvg-id="Soccer.68" tvg-name="[Soccer] Real Sociedad vs Real Betis (beIN SPORTS 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (beIN SPORTS 8)
+#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.44" tvg-name="[Soccer] Real Sociedad vs Real Betis (beIN SPORTS 8)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2824.png" group-title="Soccer",[Soccer] Real Sociedad vs Real Betis (beIN SPORTS 8)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+8&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-8/playlist.m3u8?token=b1be91c3aa8b8971ac8ecd02e5162ee14c0abb8022ead90c7c4505763cb01296.1778356388.aa11e9949e057e88914b027a56655d15.10f5e1b38f666acb7b89404d1d8d7c4c.4eeefb122217b72e2b9566ddcc7ac4c9&signature=c1e715513acee2fd521a831697b88a9ddfef0fd936a5e475ffe10bea4f903ff3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-8/playlist.m3u8?token=15a5697a3270ec5ab624ff233a09f12e4aa88700f07a89104e2bc45621cac71b.1778359068.a304f2b0f5ed55f81ab2ab0e93be45bd.63d2e810fd2d720df7f1a0f5dd5d4e3a.3e1afab3df56d695d47c1fc3778442ca&signature=b7b554cc851c041d86621f8d85f6cd2d7c5b6216996dc90a5cbd418d25cbada7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="69" tvg-id="Soccer.69" tvg-name="[Soccer] Coritiba vs Internacional (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1982.png" group-title="Soccer",[Soccer] Coritiba vs Internacional (Match Football 3)
+#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.45" tvg-name="[Soccer] Coritiba vs Internacional (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1982.png" group-title="Soccer",[Soccer] Coritiba vs Internacional (Match Football 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=afefbd4080e5a1cb7084dc30d15f0ef0204498dec9be24434a0cb14ba2b6908f.1778356388.a0b5260589d6b1651d03851aef02dff5.934eca2a49a629b46562faaabd864dc2.2f8449c65214fc43297d9da40b4ab1a9&signature=a5521c269d137b1cf5bd3f2bb1b6608fcf309188a3e08d8234baa2dc9e48ac4b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=522028f2fbe0e8f0fdf5cb0e8090e760ffb18d509b099434531b60d973ae6721.1778359069.d269474495100aa3977415ff336ccaa7.975910076b60d00e8119dc92f16c3e16.17cd8a6995962e25aedbe1d0c6a2e6f8&signature=ef5814bd3cf4aeabbafe48c8d886118b7815a4665776f9baacd5cf86e2e8ea0e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="70" tvg-id="Soccer.70" tvg-name="[Soccer] Motherwell vs Hearts (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2346.png" group-title="Soccer",[Soccer] Motherwell vs Hearts (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.46" tvg-name="[Soccer] Motherwell vs Hearts (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2346.png" group-title="Soccer",[Soccer] Motherwell vs Hearts (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=5b39336d67e6a550a53ed769ae1a7d4c2ad273a1deef58ec16c58455871da727.1778356389.11f56c2eeb8e340e0b6d5b417e046366.33634eb3acdaad5975886b311b294312.85ea8a980b710d0d85b11a5c55be75a4&signature=37ff0fadee8ede767da2c4b885f68ea813e93ce3c98bd09158f7deb9b2cbdefd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=003d02600af9fad8bafaed7d67ec9ce81b22a78a150ca8bd17930aa2656d62b1.1778359070.bd77da916d87f24677acfea13badb1dd.6371bb29e98c12e33736a8a4180456b0.0a4ff7779d09fcb4744b8f08bbbbed86&signature=e800461732427af0a051a988ac3506c126599783d7e60a274bbd3fcbfb46a993|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="71" tvg-id="Soccer.71" tvg-name="[Soccer] Motherwell vs Hearts (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2346.png" group-title="Soccer",[Soccer] Motherwell vs Hearts (SportDigital Fussball)
+#EXTINF:-1 tvg-chno="47" tvg-id="Soccer.47" tvg-name="[Soccer] Motherwell vs Hearts (SportDigital Fussball)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2346.png" group-title="Soccer",[Soccer] Motherwell vs Hearts (SportDigital Fussball)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=ad93bf621090d8f5ac74cee9fc5bd45f8de642a7532e191f51867e10e7b6013a.1778356389.49ee8841d6201397841bb4d66ee37bed.bacba3457182173a366676487ead1b68.d790a97c04f5adb4ba44665f3f73e33c&signature=8b0246295dc40921a9c6c9e06db962ac0cba3ce5b908aa71c987c33c235f8de1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-sportdigital-fussball/playlist.m3u8?token=97f2c4ff3ec6b25ebbb8eadf9223dd029bef21ed48328e3220d4f92ec79ad1bf.1778359072.6dea3c7ad11ec74e5f83b441cb0f6cfb.7c2ae6fc2432a605b39f4eb5d9f74a5b.d23925356ff6dc3d326d20dbc405ac5a&signature=8a1d5a7e928d6ab07eea12016913dab9205f5a50d69ce9d5176c7753de37b3c3|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="72" tvg-id="Soccer.72" tvg-name="[Soccer] Motherwell vs Hearts (Sport TV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2346.png" group-title="Soccer",[Soccer] Motherwell vs Hearts (Sport TV 3)
+#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.48" tvg-name="[Soccer] Motherwell vs Hearts (Sport TV 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2346.png" group-title="Soccer",[Soccer] Motherwell vs Hearts (Sport TV 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=536988f3010a137b7d3ae534a83f8ac976d2fb17bb38318a254a9e6c7d75d182.1778356390.00dfd53ef5c839790970409e1c790e33.69ac393840bd3c93fbc2cd4df5f20ec3.3b8ac4cb36cb861cfded73358d9cc0bb&signature=9d4be32edcd8b794cbc6bceed45dc94ee094499095c0efa44a69760508458658|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-3/playlist.m3u8?token=7d927b76659e1372ec6cfffb043f0841792ef6bcf81d3636edef10bb66ea9d79.1778359073.c9a36e31a3d9ddee8ea50f5077fa76ec.051db1acdb16e753833236d1125f744e.fcb7194c83b2cc220f12ece7836e6fca&signature=1fe2ee0fe63c991acb9c01ccee3d8a9288331a93a39b27db2e73f395cf6623e4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="73" tvg-id="Soccer.73" tvg-name="[Soccer] Motherwell vs Hearts (Cosmote Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2346.png" group-title="Soccer",[Soccer] Motherwell vs Hearts (Cosmote Sport 1)
+#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.49" tvg-name="[Soccer] Motherwell vs Hearts (Cosmote Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2346.png" group-title="Soccer",[Soccer] Motherwell vs Hearts (Cosmote Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-1/playlist.m3u8?token=3840ed57b6d2997d482397a1146af853c91b9c4c031fefc6b04a1272437d3ce7.1778356391.fbf2201ad141ec1c876abdbefb45327d.5c8798746f61ffe2f8240f4a8c34db7e.c18f068c369049323c482dd9d9b3fcb9&signature=e1f99b8a58fed13c0ad37e671a6ec168f6e323e69205fe059035764ab7ba2b25|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gr-cosmote-sport-1/playlist.m3u8?token=7a10e599cf54aa84100c015492951309cfb3c7b46af23688879a3fc434e26b73.1778359073.707059504013a6a5ed7f31bd3a9bb7df.90e3d4b47708080e2d582a95948a1191.0bf55f6e0d3446a2687221143dfb98d1&signature=d7ca8acf14e963071f8f29a24adfa168afe2351621952537ef0c9eba038e7063|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="74" tvg-id="Soccer.74" tvg-name="[Soccer] Motherwell vs Hearts (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2346.png" group-title="Soccer",[Soccer] Motherwell vs Hearts (Arena Sport 1)
+#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.50" tvg-name="[Soccer] Motherwell vs Hearts (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2346.png" group-title="Soccer",[Soccer] Motherwell vs Hearts (Arena Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-1/playlist.m3u8?token=c626ea2fc4bc6e19430c2d98ebc43f49f36f36cd4d835744649cc147ee74bcfb.1778356391.dc36706942a08744779e0d58ea48d753.e64e3a274bdf46670b31e3cbb958d665.19439606135b4a0cbfae08a77f80449d&signature=7bb1765c9463ad8b1b7430b936e79ce7785f30b2ac79523826be856cd98f6635|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-1/playlist.m3u8?token=d215ea42f3fa5d22d221885b8ed9a43c136b7536adf3a196d8e6c4836c3c0e18.1778359074.2ec84a358dbe4ca164844108ac54477a.89f908ebff3e76840bac2e0c4c90621c.c05b2f0ef66e906be060c3f0680291c3&signature=a0dace180083caa76a4a69a046268c99460440a0584914d08d64b9eee4c93bfe|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="75" tvg-id="Soccer.75" tvg-name="[Soccer] Málaga vs Sporting Gijón (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Sporting Gijón (LaLiga TV Hypermotion 1)
+#EXTINF:-1 tvg-chno="51" tvg-id="Soccer.51" tvg-name="[Soccer] Málaga vs Sporting Gijón (LaLiga TV Hypermotion 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2830.png" group-title="Soccer",[Soccer] Málaga vs Sporting Gijón (LaLiga TV Hypermotion 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=7b4db36423611761063714555453e32c646a050789ba1d40ef397147c8defb3a.1778356392.e6a4fcf0bf4189f8dee5556a7bbf66bf.4f41e738ea0ea0e581e1af046fbd7dfc.41318a5b448eaac7a6d493ff3624f583&signature=6ba39c382d1b68422f97ad6e652601be02c8ffb2ffbaee8d837fa4ec67100059|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-laliga-tv-hypermotion-1/playlist.m3u8?token=bfd0978354ff8fe1a8076bfd1d2ac561b3eeec525c3091e90cd09f7556dc1296.1778359075.e9e11f6e86e4d40354a6b6f054f2829b.8e51023389297cb73c07854071e9fe92.5e5e18d96f09f2270327bb320ac51905&signature=e9a11ff401369767ea970c19bd07c2ebbd22042d1f4bb16a5eaa87a0b6adde08|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="76" tvg-id="Soccer.76" tvg-name="[Soccer] Atlético Grau vs Cienciano (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/282538.png" group-title="Soccer",[Soccer] Atlético Grau vs Cienciano (TNT Sports 7)
+#EXTINF:-1 tvg-chno="52" tvg-id="Soccer.52" tvg-name="[Soccer] Atlético Grau vs Cienciano (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/282538.png" group-title="Soccer",[Soccer] Atlético Grau vs Cienciano (TNT Sports 7)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=b2933cdf6956ec4bea611d05c91e88a859d7dc90720b555636dfdaeaf92a49a5.1778356392.00bfe2645524fbb09e31a161eecaad63.1bd976d1af9572e8b4e488de32775aad.40319a1a9cd891cc326ab9441c97599b&signature=111e4a5b9f8569470d35adb5f1a82443fe7c75b279965891fc8cd434f8b70458|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=f19aec976e32021cc240777376140703fd776c3473fb175140fd729e1e77371d.1778359076.4456ca44ac396daea1b47d26c99ab41f.f9218864ff08b0b4779624d320517873.3f992b48239cd7d045800e45535392cb&signature=8bf2e07a97929231de94ade9efb892f773c5f14e5db8c08ba6555a0c49827c63|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="77" tvg-id="Cricket.77" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.53" tvg-name="[Soccer] Fluminense vs Vitória (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Vitória (Canal 11)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=355c45ee97700f6658f213db90645fab46891ea1e1a47cb1889b9a7203928ae6.1778359077.18b0dbe76f6654084d890c2d01f23d83.d7735d1cba4b05ae049c945120228f42.ec7aaf4344050b8e6131056d66e2dbbf&signature=bb6c14682e6b4ea95b92d6e26728686d3b0d2ece2f91f354414e24d01a9001dd|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.54" tvg-name="[Soccer] Fluminense vs Vitória (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Vitória (Match Football 3)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=f2f2d9ecc5677bc0659f84374b25d9a220c0dda3903b30634b3006ade0d91e9c.1778359078.04fdde62595ca3d685014767560eb20b.a6ba9e8e6a255ea226b43f448ff11b73.7c60e7a73d4e9cecce56ed751b3c60ce&signature=d1ddcf627606b5ab9472aa8bcb7d57609431c492b62be0d5c5714547ebe5f7ee|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="55" tvg-id="Soccer.55" tvg-name="[Soccer] Fluminense vs Vitória (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Vitória (Arena 2 Premium)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=5387edd8a536c6b6b7bdd1f613a4d20180215fc1e9c8a09631af533ab2c0f31c.1778359079.1e53a43ead2ea472c95b0a0f33ba58f8.122f78c9ce565488aa27fde71fb6bc45.33a5dde13ad07013041883b0d2733073&signature=22c2276bba2f1ef5d44ff6bd2a800c8f62493a0e1d05e1252a3241da49839120|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="56" tvg-id="Soccer.56" tvg-name="[Soccer] Fluminense vs Vitória (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Vitória (SporTV 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=2a35975b767740d4de75c55d575d72a17efc57df687615015ffc26da6e573729.1778359080.3c11bf862ead7c78599040b05415993c.e065c1b245fd2ab7d2003aa51e0c477b.e5898400d0b36ae71477840dfa9af6da&signature=285d2fe95e3948a37e16088eb2ce0dff358b28f7db36aaf4c521cb4c0d6ea86a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="57" tvg-id="Cricket.57" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=ddcc6452625f8932a6887488bf15c068f6fb717b20c54dcd6f0283b100acb3f4.1778356393.af944fcc57f78ad0604040fc2439e026.feb1756cc048c94e16feced61e1304ce.688027bed912e11b3d65ae4731bf3cbd&signature=1b7f6473afeb946c264d7f3c6d2abc44cfcfffd4b55ac91a149f99e519ab0319|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=04cf6ec88ee4d57357f45409f87aa9ccbb6504b4522c7f3dac54341c39b8e53a.1778359081.628bf12849885b9f478d188e7ba1fd0a.c0453d69309eb1c031a98d2779b576cc.843ed197092f2723db977dd83cfeb9ad&signature=e9283491374b8ce26faa1812af40827e27403790c08ae7374f3b3810d621920b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="78" tvg-id="Cricket.78" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="58" tvg-id="Cricket.58" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=74de211bac5aa1ffcf2dd33c3934bd2355c1be9667573c447658e95c95f8b555.1778356393.d82c4a11c5f2603f09664587d82cae56.03a84590b3f31e0ab9551f4dbfb74f59.9cd8e17aafe82f743ce0acef8837bd1f&signature=7b60403f1d4f4758e53a55e59370c4b1753e6d65e0478581d3de252f3b54836f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=e346efdcca11c5b6c482116304c7d44aa0ea71cf43b3a2256486cdce4cbaeb76.1778359082.3180ab33b5e987c6e1deaa18a04d5391.5c9223f122997288a6bf021c2b500b22.1cca8588f9203cac48c65ca3c525ca00&signature=2bf1b57db6ad441f06b21ed057fbf02d636b1604cc7fb6038b4c108c7179ad50|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="79" tvg-id="Cricket.79" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="59" tvg-id="Cricket.59" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=397b786aeed9037d60b2375edfeeff1704a42202abe278d19dc23b136b3575a6.1778356394.329a6f852cf578e331706bd6abd8c577.f010b9e13e12a70f14a06c499d6b0079.12d440b7c3fe0c035cb07f946cc9ddfa&signature=5453df2dd3f1391705ab9c4585c7e75029ccb995c94d8867b2106d2d6e7fc9c4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=a63d9dcb02348a4b1ac1fdacc72f48c8588ea4bca7515e471506e159d55b8307.1778359083.ea3559bc44681dbc69f58828add50c5b.76da8b0d1c250865c6d80c97885e0b95.2a25aaef218a3158f86b3044da0bbc9f&signature=91d91bbda288a5b161aad0e42ef6bd0526e1b16d950be7f7d344075b910f1490|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="80" tvg-id="Cricket.80" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="60" tvg-id="Cricket.60" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=712a78068e31d5eec776fc0e771fda086c3b43b6b094d0e2ee6135be204b9ab7.1778356394.04b8025a7c88e5b0a21106c91f008d70.77dc050358c51a07ba1c26ace4b4d9cd.afeefa32aa063d5bad2eab2b0894bc95&signature=1b1bd1aaf4a611409ca991e27457d9ea7b89199f83cdca86eb56e0b6f2cec9e5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=dcb7fb6061fb3f930080676d3e6ac08eaeb52cdafb5cb2bf4727b8e31a8b5d78.1778359084.3ca29f902b138dcf01c48223d0baa3bf.6a277e364574b5f129bba78b6ef09e4c.53524df671c86b5348e655f200449c34&signature=51114c4864a0901b62b4c4b50a10dc097982703c3e2f4333288f170277e0cd6a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="81" tvg-id="Cricket.81" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="61" tvg-id="Cricket.61" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=5b9d904afdea113d0a4cbfc06a4cf6725d363687da97d0412f4318c1c9033543.1778356395.b146c9a1219b988809e09f6be287f2a8.d7980151033d3a1aaf574b0fd900d25f.49a5274ed1683b370a49f50c6dd18bd2&signature=4bd14aaf974aa86bca3a4ac47c8c0d6fe0712b3cb3d5232daf980aae5c70fe53|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=ed51abb0daad767bc73d14e99020453e49764ca6042af08c59e8455dc16e599b.1778359085.71da268906adb60b2622af321f77b3ce.cf2b5fde4cb07d53dfc3aa64c9939be1.c3f72964f01f9bdd44f1d5c3b01286d3&signature=8f4e5c5bf24084ec69628aa94674983f3eb3a167ee7c9b1b81d213581353f99c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="82" tvg-id="Cricket.82" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="62" tvg-id="Cricket.62" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=9ced6e3bc575f4c13f51c7e9cd484b70b443d3f9010c2b2fffed913846b8beca.1778356395.ae7a1a2e8f8199f3a9429527aeab9ebf.f0ae12f017a7cc228566fd3b8d534a84.9f7970fd0b2277d5ffbc3a58b9796f5d&signature=670420c07fe26e5b0428e3e246e6c8c44142538aa1426ad4c9d09f75898a6d76|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=175a384e651e2b6417c6f962adf996dc755de4fcd0b07932b65c361a97ceb4d0.1778359086.79cdd1372c7cb40eb1665cdd29af33ce.aaea8368051d1cef5e70847f33e7c71f.fc5182b4065a584cec195427229dcfdf&signature=0ea11ca6efe95a66e295a55bf43d18aae30a1f0490b9f3d23d85cf81bff2b694|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="83" tvg-id="Cricket.83" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)
+#EXTINF:-1 tvg-chno="63" tvg-id="Cricket.63" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=8f307b596105c38d0efef4570335cc40b4b11c1042b66d3af4fb8988064df539.1778356396.423596a8d834b87da84bb09c3307815f.0abbac64872650045abb70dfa3caa6a2.7e2c9afd73b2576cb02a7deee4f1e9d3&signature=ee77fb78e3fa1061308031cfb58b059dd38c98db1a9f07c95cbf303727120957|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=81b01c4be78f72dce90f5f9ec4965082f506f6c8e85899080035ca665356de32.1778359087.722a4ac71511ff621941385d5e315252.2f030e41694b966fd015667fa50d8363.7070210e18cf3482615dcd5301c55c40&signature=72218c80f4370e5c138e4289a42ee8e8f0e51ecf950480df41d4231d327f50f9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="84" tvg-id="Cricket.84" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="64" tvg-id="Cricket.64" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=3cc0045f5a0c51f3e8646bde555199c02efceb4803230b15b16511a8216730f4.1778356397.51259edbbbaf23ecd329748c0dde8d8f.77c4727dda09ff042696c87d90e45313.c59d6ef5c5ac16469000c6592e7d898f&signature=e8bc6549a640ec52462d6fac87f18efb77ecbbb26446c11ab4b629ed4e39b797|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=9075b0fb28e222efeae0c4cd23b31e85fd2e07049e64a8b69d1b567059ab1614.1778359088.e24aa36c93d0ba92860ae60a87f90c24.da1fec29f16a296a8805dce14fffc596.3bcf24f2d5b8d77df86b9c1b3cf4034b&signature=7a1573dcd6836e8744f3851dccab48ec687f5253958cf046796e9ef224113a37|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="85" tvg-id="Cricket.85" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="65" tvg-id="Cricket.65" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=f97ad683718653c53904e91ecb38e66d57a83329c768130bec9b68cb1b901f28.1778356397.3598475e3e56c7cf3d7afd9aa906f36e.7ebaf3978bfc7fbecaadbad6e49b7c03.1ca2718b012d200ac519fd9e182fdc1a&signature=4ed162f5665c54f83253b8316c58e1854098f78fbe91db22fc0f796183153ebf|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=454937bc50a22dbfb423180ab2f6182520a20a73ac29e8ca666d55a278d36899.1778359089.a3d731f5bf81130127ace1ae94aea5fa.62017e5aa78e93002d53d299d989dc8f.8708532703ac01832393b19d94e31355&signature=adaa22f02e6cee2470a70ccaca10f300bcf9c6e600a71d5906cd619002b9b64e|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="86" tvg-id="Cricket.86" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="66" tvg-id="Cricket.66" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=aa4c1aee83ad5bd38bfe71239ab5b69698b09d11ca9d1a209fe2f4d0002628d7.1778356398.97c85fbe18c37ca85061080a89fb27b6.72f17e44f14a88bca1bca8a505fad0fb.b4ee2ccb86aa90aacf6b72444a29ebd3&signature=d88b68526265066e7d228a2a1ec88033a0fc96a0f856594ec8b66dfbc1d620a7|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=dee60143a403f46a83175dae7b08951d95a8177a01ae191ad049f3641af3f0ba.1778359090.370be65467b4187fbd4b9de5e28cc177.e109db117527a807187f6480c396f046.129f9272a2d538e0f851f3c8388a11ad&signature=d0c697df15abc20426931f3efc91a4f989c84ad9be3bcb42c4c5ebbc7cd8c5c9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="87" tvg-id="Cricket.87" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="67" tvg-id="Cricket.67" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=f5dcfce9cc66ce12ca0b9b3da05227d328b796fe3773cf30c0adcba9eabd8ba7.1778356398.f59594cec5972748f9c237a061b0a83b.f86a6e307707e884582f93e9a2afca50.e8c384f5652e345d15a2fc2e07329979&signature=3d7f56da876521ac7d296936b45ea82c3a6e8c46ca6772b4a21fb6882058781a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=a7b08fa0ac8504511c82294e56db2280658a2ff4a58224d00ac67ead430bf6f7.1778359091.cd7b8776a471e1d2acfa13dd0cd76ed5.485ac87517915e03a7dce9ad7a19a03a.8b77d5b3428ccc69bc6f68ce03372e16&signature=df9deb4b4fac76dec68fa6b41bf19a040679c6c80e461f733055414de63b8fc1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="88" tvg-id="Cricket.88" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="68" tvg-id="Cricket.68" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=552e786e6bcbafbe17309a686c04a0b941fa6bdbb7a563284fe4e68d24e0016c.1778356399.365165cdbe76d28849097b87d1d6e44d.16236871fb1b598834efb6d7c1801695.b331f3ec14b53d4120baa43370109b6a&signature=7ee422da58a5adf87c24a4c21fc8f85a61258e2be565bcdb85c49af14c5e50ab|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=b942bac1bee0a5ff1cc57afd20c584952717a8be15f04e3dcbdfc50bb5961317.1778359092.ea298817913868a1f8d45e4d89b57fa3.31ec3fbedb29db553828483dbd0f43ea.5b5f1e2a85d59ac7995e3f4e499d5f01&signature=419bf0fa0a88c1347d890fa2d0d4e205863de1bb89e3a5c6aa76a791c81f4e6b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="89" tvg-id="Cricket.89" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="69" tvg-id="Cricket.69" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=df6cb2929ecaa96567c0c6f888805111c7bfbbd6596103b95fa9df3d49ca3ea5.1778356399.607001ecc41b3d612fed2ff9c72d0a17.3be58921e94e27800843e93fa55e7615.8d0de8d3ae0a80ad07a860f9bc5397bf&signature=e693609ce345ffe50b298a02be2d1413ed94b84823554117b04dee3956a508ac|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=24a548d4f2b52725085e3b3bcdf53689899e7bfc736722ce2aed93777b578a45.1778359093.0a4f9dc6fd6332b222f7229736a86b8d.940ab72e857587320f2d315e35cf2247.b95d1c72f8de7fd009235727e2a6d001&signature=c65835c77c66a495bce76abf66ef1ebf8cab2b9d65578e60746b8adee8835b8a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="90" tvg-id="Cricket.90" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="70" tvg-id="Cricket.70" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f7e28463c37f9cf531c6b214576b6e8adc904b83e0a5572ca45231bb4faa834c.1778356400.3715e4864b9c4091d1d648d7631990bc.069449e43e1ed72652ef3d07ee726a49.0a56efa329947cd01d452a45bba8dd37&signature=275aaf73f56ff1b82c015f862e2fd81656c4567e4033c8e1df0d7e4b01e498ff|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=4e2ce8e6ebe5e6a58c89a8b87527b979410d6f830f54e775dc17db9fdafd9c0e.1778359094.aabfc77c88d608e26d1e3f35310925e5.ec7c8f2db1a2cdb3734318ab6a5aeaec.08a97fc51dd92f41b0e4844df98b3621&signature=61c3cd594239f8ae7031235504d543c2b956a4f364095f679b78f79220c07693|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="91" tvg-id="Cricket.91" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="71" tvg-id="Cricket.71" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=a6c39e4ad8a51b21e961ba63bf37366af80e70aae274efc1f57dfbce3e3fc414.1778356400.ba04365fc40807eac9cb1adcacc0af15.6cd800b8c9ca4029915ea94898c29435.d9b527f83645a6c928fb8e20a4fb735e&signature=3834b1cbb751b2a2d64db121614ec632a809a7f1b148a3146f631e3cd58b22ed|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=b0dc7fbabf9d8d089a2bf8370ba2206d21861591a6fd67fe2ae26ce2efbc1626.1778359095.5e47d2b22e82ce1817bdb028f7d2b2cf.b90026a31b658bc27637346b17934c15.8e194d29f6550ce697c75a860abd8bf3&signature=b64be18e5c64226d51cb18bb64efcc71ff3e6649b654e13ac9bad1657cd501c9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="92" tvg-id="Cricket.92" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)
+#EXTINF:-1 tvg-chno="72" tvg-id="Cricket.72" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=7e462485e9dacc1e2e23dd50603560891fd2a9dfb25733f479c670ac2da0ded7.1778356401.f5ccdc755c64d3c66c3767c04a6a8d00.59e6eba003fed2325e19f11795d607e1.0e592142bd7e8c9b7be3b1543673df99&signature=3eb43249c83ed7f1a785a9c2cdda67e133e89528c97a7538d43e1a511c08d8fb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=7c62333c07c96f7d0b3c9d07a8c515f2d01e5e83d1ab9267d6123aec55ac4467.1778359096.5099305bedf998c598ae1bee618ea3d4.e9075edcdec52d60eb97841fd2a44c5e.11f8ac7195a0b3affdf425a6c2d975f8&signature=77008c96faa1b08ad50e2745d22525b4b676e8e3c0897cdcea17f9252a6a5837|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="93" tvg-id="Cricket.93" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="73" tvg-id="Cricket.73" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=47060c669dcaa800eadcc1a8b3dd557c08d139a87f6fded636991c4c6a41f3af.1778356402.5af9d3199d47c239f080d0c86fac4c62.0ff9e6798ee41fb9d7e38698ed3dfe6c.ed37578908a42db099156fe1190e54f3&signature=190e4a35eacbc037106983963f268ce10d49c13913785005eb4f62ffa06ee441|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=d6453afd8a6a5c9150f26a5f2ec0f13e277ea7fb93b6ca6a3d767224166f1cfc.1778359097.272eaace8acc7b97c9169d88aaa96bd3.fb2d17aa32148aadbeb32b9707676413.15b856333fb03ed4d997c9f2595eb43b&signature=83edff64300b2e36fae53401c368e0663c00f1e8eda670009e67ef64da6015b8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="94" tvg-id="Cricket.94" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="74" tvg-id="Cricket.74" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=019ebc45487baf1d52fb8b51277869a7b9b31059188c62cc400a6608ae52f7a4.1778356402.e0d058907372fa5eaaf2f162ba6019a6.745212b8efa21d6f327d47322b8d94d4.0e0e1c668dd5383473eb7acd3b896924&signature=4137f19fbf20479caaf3bfffa0575f5ef02906a6d72f349eeea41d6429acacaa|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=c69cf1e653d1f339e2b516297b41de98d320ad786047dc93e2f6ae987a57c06a.1778359098.7d33c4a85e140c2b3cd1ea7a9c7f9ca6.a4788d50ef745c23a749810d3c3cc805.7bde1bd602703a27d6de20f61c33b852&signature=7648f3b1068d03366663f4c7a86d04a57e38e58bddc79f732ecb87c1a2699996|x-forwarded-for:77.238.79.111
 
