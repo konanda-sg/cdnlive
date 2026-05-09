@@ -1,97 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Medellín vs Flamengo (Polsat Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Medellín vs Flamengo (Polsat Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport&code=pl&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Cricket.1" tvg-name="[Cricket] 1st Test D1 : Pakistan vs Bangladesh vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D1 : Pakistan vs Bangladesh vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-polsat-sport/playlist.m3u8?token=b53b9a2632eba3146760acaae94d72cacb26cfd56766ebcef54c920b11fe1df3.1778292482.06904f425c26504925cbab01eb096ee6.eaf2fffea8490eea8449301023b20609.de9201d382e48aea27b504e5122cebf6&signature=1ea487f76f5ebecb6e1153d34edbc73891c42ae89d816810b223f46ee671e4a6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=7a13dbe7fe42f6fbfe6f912c276e4109a8e20beffc193cfa090ff339043c60d3.1778304663.a8e5c257c792e0383cf935fd2b9bff5f.cc4d8a2b55b31c31bf5021519c519e50.707e4e24eb9d2843131f69138ccf9994&signature=b49cee5e0ad9353cd91155cb38986455ede3dc53c138514cf678f8b43e7eb41c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Medellín vs Flamengo (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Medellín vs Flamengo (Arena 2 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] 1st Test D1 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D1 : Pakistan vs Bangladesh vs  (Sky Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=0ada17d53bd3f546a5126af477bdf1134817fac7432991775e11d34559e856cf.1778292483.6f75eb75afcce636f7c017f7c0a8b9b8.47029f3a2cf6d18b33acec2b47effeb3.7e5876277c9a8ce437f5de07044f8d30&signature=dd05fc7bf1e97eb5f7b9172d44b69f3e22c8697fe3409cf313fd81992d6e70f9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=f89cae7a9da877df1bb096ad11672b15cbf5de0d5ded05daf8c1705598beea5b.1778304665.10e8b4613bbc1def0ec07a0f22e40218.3ae5a08c8f0749204125c80f7713a6df.967661d425d754a944551f0a09730e99&signature=e4b8e09dd053864ae82709125472c96e3073456c77403f72efa31e9192efb9de|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Medellín vs Flamengo (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Medellín vs Flamengo (Arena Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] 1st Test D1 : Pakistan vs Bangladesh vs  (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D1 : Pakistan vs Bangladesh vs  (Viaplay Sports 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=a7b73a6cedeb63ab2fc048c9a5bd08ccb0c45818eebba753b830a42dc703b570.1778292485.a9899ce2ff5ef1caf90a85b5d533e369.03db9d7d3643ca2d4f8001b0c913937d.2a5bb7435bccf522cc86733fb2781add&signature=1b8211f9648f3f41fb0735491ce6614cbffcd6544d1cbea5a7be6de880f58a48|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=97916c81bc52ba38b1a37ee00d06d0c5fa44036455d2ac901d638206e5698229.1778304665.4601ca4b6dc3fefc462f71f4c124b401.ebcf4937d8873d031796a18873636e69.2746ad6fb8ee77dd31ae15e991cff534&signature=973b277897d8c35798b74cfe5922674ec1d154bc8a8bc11cfb907da6a6d6b845|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Medellín vs Flamengo (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Medellín vs Flamengo (ESPN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] 1st Test D1 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D1 : Pakistan vs Bangladesh vs  (Sky Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=c1186f838a2069ae7f8debfc97e4a5245556f61b02f2d630e0e12b901c1de808.1778292486.862aac308699ca426f4b96058f10270d.72b812bd42bb31f470489eb5b89a2217.bae437705236fad65909021cde13e9e2&signature=da4e6ac7fd7e1ec43baa339ac9d4a0950deece80afad491db86b761f56f6438d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Medellín vs Flamengo (FOX Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Medellín vs Flamengo (FOX Sports)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports/playlist.m3u8?token=3e7d28129fda8e51813122dabcfe011d21a82d13b48c444738b00546cd0256dc.1778292488.59299a359416527f93ac7b6846f34a19.5298b7b06877b98678019fa869cbb676.178233e20d44ca887ce56df46bf9e9a7&signature=9a5a4ac85a84b2e1895729968f977f8eebd5421d3cf42f74d1178a12b29223c4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Medellín vs Flamengo (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Medellín vs Flamengo (ESPN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=mx&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/mx-espn-3/playlist.m3u8?token=e40ac98d3803abb7979bc7ac1c6825a19459b4548be1d311bc51855bcdb30e2b.1778292489.baf699e4051683bbe72834403ac15ede.edf1683078f700cc7d2d2022878f66de.be3aaf9238aa8c5b0a623836cb80626d&signature=39f17fc9ba3a4d32f9b1a01da0293ce0ea2619f58bfba2c2acdac545ac0a29dc|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Medellín vs Flamengo (Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Medellín vs Flamengo (Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-2/playlist.m3u8?token=d8e1b216cdd2e088ac17345512542e4db009ecf1071acda4ace2eedb586750be.1778292491.f6247f9abbf82ca4a379c1ce49be54bb.8017df1986621e127477c860109daf40.e6fd1eaf8102b749d474acd4c69dd7e3&signature=1005ae74b67767051e78242de09abde73196eac183b54dba40455eab56a06b92|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Medellín vs Flamengo (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Medellín vs Flamengo (beIN SPORTS 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-3/playlist.m3u8?token=f8f1d8a2f4dba5e43ed524079a3ea5a18484e272cf3c2f27fd3f2828cbf99beb.1778292492.f3e3f88013f8b70f1b49426432d8abda.afd7f817203cb3d66c430578a543be17.8a9555fff1f16eedc9aa3db5a34b79cd&signature=6f1a4923883eef402a243d25d6288a82b29e89cc92fb633fbc347aa37de8253b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Junior vs Cerro Porteño (beIN SPORTS)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Junior vs Cerro Porteño (beIN SPORTS)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=6aeb7b28c27b8a95e0e38e1534cbc5fdd783a2e666decc06021bf5c4efa6b9eb.1778292494.b482d21a2f43327aadcc879836d1e498.782f5e5806d1af50082e3f0a4ba49d05.e1bec15c6d0264704bf593e5037d4b7c&signature=5d762728667b3e8e149450a1f06a0864fed9d6acf25878098d97c251936bffbf|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Junior vs Cerro Porteño (beIN SPORTS MENA 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Junior vs Cerro Porteño (beIN SPORTS MENA 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=711e26305388689b1d5a20ce7f30e0696656f5e669af12532dcee6c3df4b76f2.1778292495.39330427c038c2f6fdaf545f11e6dcd7.e027d18eeaccd706fd05147cd00ffa66.076e6777fe0b28116b629a6ab36f3026&signature=e5be6b703e7e2f285148f5b4f278383a71fcf659386891a434d62bc99d8a3723|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Junior vs Cerro Porteño (beIN SPORTS N)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Junior vs Cerro Porteño (beIN SPORTS N)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-bein-sports-n/playlist.m3u8?token=943653c5157281b424ede86f7d7d74b6e1c534ebfd3654f5ef26cdafbaee46ed.1778292497.5dc166c6f2e9f1fe0ba9b06f52833a50.050c36ccac1cde2e4865f6d454b7d169.58e2c2826bab56ae7f1675cf6966fbbc&signature=607dfc80e5da716204d79482229e2a4016cd73a18e4930223c27ad1f167eb9a2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Junior vs Cerro Porteño (ESPN 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Junior vs Cerro Porteño (ESPN 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-3/playlist.m3u8?token=268af73d902c5035917259cd64fc50b8a8c9f5e17f918bdf5f09709150d5cc5d.1778292498.d72ab5f5eda2d60eb03f71ecb50c1659.921a6850aecf5ccbfee094a784ed433b.54b2842a9d9f814944b2e729aeffdcc6&signature=d1bc2b05a5cebcd6d8c386cbf32aa0746cc0bb7e221dceccfc746ae9d5b39232|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Junior vs Cerro Porteño (FOX Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Junior vs Cerro Porteño (FOX Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=d950bc5c954d99df11153641f06900429b6e3def529191fdbe3a9bca127d82bc.1778292499.66a6e4b27abb82adb14508178d8f7cbe.4d0a4cdb4e23998e3272a60e0ec7be94.660debbd3817257a7b7589fe1a6b23cb&signature=54cae5ca450314edb7116aadfbd79a6893b0d89015fe25cd7189e7370503dabb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="WWE.14" tvg-name="[WWE] WWE Friday Night SmackDown vs  (USA Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (USA Network)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=60c08a51f0ba37fe2e239a74f1b667076c1984933e6aa7199c60d34e8a417efb.1778292501.f78c043b0dc0d0cbd3de2bfd0c2f8139.43db0df0762c474ac519f84debf9101a.9cafc09ce0ea1f7df6a5a678f4c40b4e&signature=87c8017383f53d1f6e99c78594fd66f17033fb5a752400c683f672b8b5a87bd8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="WWE.15" tvg-name="[WWE] WWE Friday Night SmackDown vs  (Stan Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (Stan Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=stan+sport+2&code=au&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/au-stan-sport-2/playlist.m3u8?token=0c8a892514494005d7476de6172257da5610d56d453c1830f15c12f259b26dd2.1778292502.520d19005a63232b4be684fba78f558b.f2feb568bb2960075318e8652c731cfa.27792bba0e176396b3def470f636a33d&signature=a5de8cd32c2fdb3633d14aabb9b26666ed086094dcef7bcdc023cdd71fef742e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="WWE.16" tvg-name="[WWE] WWE Friday Night SmackDown vs  (Sport 5 Plus)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="WWE",[WWE] WWE Friday Night SmackDown vs  (Sport 5 Plus)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+plus&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-plus/playlist.m3u8?token=ffa7e1ac7f598ebd3512eaf07c0fd8f640dd76cd997b9cb7a2b9ef27c2394183.1778292504.d4f7a2c92a4f9c99a2001c9ceea8d654.61aa380732c3b44f62564a1258cf45f3.c0d028d63252f3254d2b6d229c4bb4d3&signature=39c56b5623d863ce5528c44980ebbc99f360053a05ac627b7952f52f637e1d03|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=e56c2c864b6bf18c448047ec97707b40c81bb622f455ea88efe876b75735c752.1778304666.caced380ed223bbffee68a0ffd1bb134.4a2e0d4b74f759f0615e15f5d93278cb.d25db40bf1bda172cd49478b11fc4fae&signature=fda89f5c8f6a698be6c4c54ae219903e4645d4eb11cccfaee4d388a3a057b254|x-forwarded-for:77.238.79.111
 
