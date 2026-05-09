@@ -1,133 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Fluminense vs Vitória (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Vitória (Canal 11)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Bahia vs Cruzeiro (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1955.png" group-title="Soccer",[Soccer] Bahia vs Cruzeiro (Canal 11)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=7203acbcdaeb49cce00c18d33d81dc7d46ef6f3227be2468e66b7a43804fa137.1778365457.6ab7ce72454aa64d8932ce76adb97589.69d202f8046ad41be8b9ac06af4580d6.887e8460d636826ebddd7dc92323f97c&signature=3a771ca24697795f2d495a76a15916365e85791c3c7d5ee157b1869009601e4c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=c8468f1f582b7cac689a7dda6e4f9f805f510f667372b38061d33d335a548063.1778369307.23ee11ca15c8d7e9ad4a743af96b7d6a.61e3f7fe9b4f4b9dacde0b242a3cc6bd.aa1b23c4fa3d1119e6bd942cef203883&signature=7c02a92af57317bb9ee6c6204a269d64fa3499037c7f6322df0c2a76d123a103|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Fluminense vs Vitória (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Vitória (Match Football 3)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Bahia vs Cruzeiro (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1955.png" group-title="Soccer",[Soccer] Bahia vs Cruzeiro (Match Football 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=893b6b2541d8919f00b068860e80058cfdecbe22c51deba986cfe9b92101ef7d.1778365459.e1aafe32d28c2c98181be212ba399404.c8ed5c375ef020940d008af7d0850c47.1d853787ca5ff5236ab80c846340c7c7&signature=2b165bab568c47ffe96ddaf322cb8769082335f65c90bf41a5abfaa88374556f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=e14dd64375d2140ee899d10ab2d84630e7b0dfc76a88f6d428137b5437f335a2.1778369309.62d431d95a9bc6fdbe7e51fbdc4928fd.5fcbc6f2b26ab152de2be638f3828a18.3eb295add181a9120b85f4d58d991e2d&signature=ecea6da34819d1f272f9267126541203d7885dc1307804039c4205d2ee28d230|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Fluminense vs Vitória (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Vitória (Arena 2 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=5b0e9e66b53422aab83369a0e9d2620a6b75484b17a6d4899b627dc5735b2da5.1778365460.e12e900810b9760f3c6d9f98201775a8.1b674c8b87854217cdd85f7f9635b71e.f8a6188688cc9cc93b7a5535793f4523&signature=fdf23f95d6000b83854d319de2fb9cc3f672129197fdf2cd08e6866cf193b884|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Fluminense vs Vitória (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1961.png" group-title="Soccer",[Soccer] Fluminense vs Vitória (SporTV 1)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Bahia vs Cruzeiro (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1955.png" group-title="Soccer",[Soccer] Bahia vs Cruzeiro (SporTV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=67138c0969c264bd5c15c020b8136ec5dde290073a3dcbc3ba166166bc065eda.1778365461.74b875d7c44d153246230606b4f11252.76789cae75ec6be6fe380f162ad4dfaa.6d617756154e9be462ac43f32912ad80&signature=e061434848f7d8b4ca4ef7b1f5455b1e309b4015cbca370e486d49937258fda5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=3d561828fc1faa09f2079695a1acca9f481df811ed3a4625e42544cdb750a4f8.1778365463.a22a62221ab4e958ab2dc02e8cdb4034.533f5c62c159eced1ec2a5709afd03ee.df8027afc12d8cb65315ad7220041b03&signature=90357df80f0a335bce62b7d3609edcd047503611f69ce3ed36d680dfefb2cc4a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=a18db13acd33f70f7acc271484b490b24d17e33d3cd1415a0a52e01ea0d73eac.1778365464.8bf8364378d68bafb6bd17a325a01925.2a72678abc179e212b49c907cb5be02c.03abad919477245453196af1974ba5f5&signature=d25451f1736158eaef10148bd9394fc721b8b6267e3a9a07e70b23aec82d72ee|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=f3db8eb6c61adb3244924b5f6b620f160b5da918fdc43636e9ca031f22260dd6.1778365465.834c36901fc29637a3f648a9c9702063.ae1bcb77297f28620bab3e7ba0f53282.575a7a0cfca1aaddbae798906d37bb89&signature=78fb78a237da4866fa8a11b0e1ee7c37eb7c91c7b048220400f35f19dcd48f7d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=2ec273406f4a8a168ebca4596d7ecf3238e785431d1c4e5e5e0e2b604df8fcab.1778365466.6b3cf834f9b28a4492778c61b37c31da.fee8eb864c516f1cfa1dc30fd9ab4aa6.7a08ec2d020b26177688d8f930c5ac64&signature=53491dfdecbf8856d924e1ff109582ffe434e31edb59d1b3bdb83d0276d51795|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=aa13bb0e9da5c1d1e8631ba62265ab360cbc2e1d0dcbf4632ee0255759e8866d.1778365468.7b53a904d1519cb9fb8370356adf0491.6016579563427b765cbd770ceef01352.fb51cf74406a922e9766d349f71d012d&signature=f4bc0c5307ba63a74b62049ac002ea49467e3201cfbdefdf266981bfe99dbf9b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=044c1f55e0ee7fae995d83ba175592df30f44808479f933002e4f6316172d900.1778365469.88f7f0f3f91e2f4ea1956ce0c9b49758.20cef48671f0927880fb026845bd6e43.2510b3b486987b091e2499b233c32eea&signature=e34fe6623f3fe292d0e658ca29c7de6db0a7f27c9322b860bfb3a0339aec9cc9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=25c606abb08a741f501d793c8f9f1187679bc08149a8ecc9285e136bb165ee7c.1778365470.ad953509ef5fa777ef2dd6f284f516c3.6672af650e27b2cd83a9180ec35e25cf.44a08b79471aa5ebdfbaaaddb2fe53ee&signature=0af1e5cab8b61004dadb9b91c495116daa9fe5c52a4c0bbe62a22d30b1d2b4bf|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=b52c698427110adfac6ffcb165accf503729c0848db6100950aa3ab6094c3aa8.1778365472.8c2a71417e35691aa4cf36b8b1e2d34d.178450b4c1218d9cecc85503fdc1c5ca.88ebae1dbab58fbc798af8ebb950d2c6&signature=53a41463c2a628522f5916db5a4e2a7826e9b9a54d530fecd29ae66a0ad89aa2|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=184a18bda8e1ef092630a1be83d7b879326b075e753aebfcc2174e84bf286dff.1778365473.10a22716bf8b3c3aeaab35e258dbe76b.f61db47f1f8705bf0bbcec4be4ac436a.92e5676a3c2408e726da9148094685f3&signature=4599f52ebc5346a3164b337b9a061155bb1841984fc0a2c5565183f4172eebeb|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=e159187d67a71069edb362e5fae6deec88cb578244245d620591ae3e79d156f7.1778365474.b5311fd207253052a9634765942bea38.6d12e87649e6fe2063c2fad1859c13bd.564c9be4132e012d59461d36a8a2e46d&signature=ea8e99b9baad5504e3825ec4056e2b8b2f35da4fbb46c80a6ffe9982fbe95248|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Willow 2 Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=6d5e63e6d729cdb53340ca4e9f8c6ad2dad3c9a78435707ce63862cac17beeaa.1778365476.8d72df7f316c0872f7d2eff6376a94ff.1b65a5f3937c0c7c5c94323bcf4d164c.1cf55ae465d7dbfa2f521670068f01af&signature=887d018b850abdf97445971dcaedc59654b60a40deb71b036d6a6fa6a5e809f8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Fox Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=94a1cad16b193be72f0114e0d9f077a1be1ce229624828ce860169e19e01aae2.1778365477.8c851a1068ed2ce1c12ca99fa675c512.a43b898131bd86be6a0301f59894585d.1e4d0f68a7c307a4458091ca100cec17&signature=dd1f53bfc52b38b8c08d3ce5ca072388f9e854633c51c82dd2b423c74a0b8d1a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Astro Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=47a0fe5497099ecbfa83a4e268cf1993b64b8e8f77c37c5674862989524d1f2f.1778365478.1d69ec4c62a68fc8d016012cb9897c8d.f5bed306a0bc74442609474dd3a0898d.65c540b28f1c37c99025a4816d9254ab&signature=8e6ae2ae2c91f8c52e567bf985777834ea0c8a7f27a002507542768cc5bd45b0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=f03c9ff9b4c28bff249ac66d7b5efe74803be75c1c6e19428ecbc16203935c1d.1778365479.12120dcd69eb18cf30a0cfaaae777cbf.032a43ef090dce28b6f2090dfc6dcb25.ea4e705beddcf23cc49a1ec3446da9f9&signature=e0240f22d96dfd931a399009c1ea55c3e6b86dd81eb98b0b5c4f9ba58b02d03e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sports Main Event)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=97b48d3a133ee312f06472c65d389be50e08bd98c65ddaeedbfecb1e502d0368.1778365481.3448e95a0944d4549531e014f1fa4172.375f2c383fc52786d2ab7edc7b4cfbc6.9e51023f37f44e052dc6f78c2aa6f2fa&signature=43393446789ef952ead81e38470016bee14e20e82e34c5fc7c2aca0d4abcc8e4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Hub Premier 5)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=ae38dfc0ae2c499c7e1305ebc53b1a4d700c2338c46f321129ef4c15cec46798.1778365482.3da797ecab7e3495f8bd9e6ceb7da5c5.0aa8ad2e71e39d55d54037f9b0c27ffb.0e0534073e1a5005bb39c794480b602c&signature=5847cec0d338565e162a5017fe92c89dc089caae63bce45f9d19ee0aea0d30f5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (Sky Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=e9139c2dc8c9c464dcc7e5b15b428cbc2b7bca461069426b42d8a686a5851fae.1778365483.5507d4fc03e5741627224dac04926b1f.a4511c344384b64f3f650851e991982e.3b68627c3fe7d5717e5acce51b8157e2&signature=30fa5c37032f2189b19499132296cf516a911c87fec796038f32bd8d621efb3f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Rajasthan Royals vs Gujarat Titans vs  (SuperSport Cricket)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=83b2f728c00fd9a06cb028da3bfaae2f67b6beaf431eee73d161c02a1493fd20.1778365485.a23f727f63684c6deb18edeb8b582b49.932bdbc110975708001f9243e1ecffeb.2de09a8d7683c5338e07ee29268b6660&signature=fd67c3e5fe499ece654179160c23ba173a1211f2a485c5e77d6d51e29dbd84f4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=fdf5e964a9706c48338a26c3bfd1fb69eb667117787254b66f21284fa25d04be.1778369310.aeedaaf409a64191502885acbd7cdacc.9024d486d19f96c0aad1eab4eba74810.a3b95792f58d4bd6b7ba497953c4d323&signature=0d90601bd73b76b8395c909000bcd6f900484b9cc8d5e87c98803d7d6317c1b0|x-forwarded-for:77.238.79.111
 
