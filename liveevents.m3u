@@ -1,37 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Bahia vs Cruzeiro (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1955.png" group-title="Soccer",[Soccer] Bahia vs Cruzeiro (Canal 11)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Cruz Azul vs Atlas (CBS Sports Network)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Atlas (CBS Sports Network)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=a473811f588e576040e6500ed234f658517d3516a2c235f2d031fcb646627a45.1778376249.8e30a856d5a96bbef268ec1065eefa09.2c48ab119128521ff78a5f4710440875.47599d45577d860c733c1fcb7e8a557e&signature=d144d0e942bb8254b8fc0e8d218248bfe87b2207c4f711d684c0c6fcb2f01800|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=ded2ba6bc53b5d89fbc447bb6851cb46545d90f528ec2deda3346659667f7117.1778389726.62f95cf8ad48e607bae233e5db6eeba4.98c792399c7024f9f50ca1ad53ea29af.c295bbf074ca63c819bcdf8e8d40fbf4&signature=ff007bd6b6812ac9f8e798744196d150b5ed9acde9f64ae8da912ff730bb5d41|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Bahia vs Cruzeiro (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1955.png" group-title="Soccer",[Soccer] Bahia vs Cruzeiro (Match Football 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Cruz Azul vs Atlas (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Atlas (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=fb7b3f941e9729b3705eebd8a88750d1f7465027a17cc2ac2350a03af995396b.1778376251.394891db7b8b6b8d82e3f48ad3867553.babd42006f7f6ffbd285c1f7fa590c27.7caecd7ceff54d4bbc60279483cd8c5b&signature=a6514fff26464baeff9d3531692dfdeff2b53d8d1c1c004d63f3909d4a0d7afe|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=3126ee25dd1ce37909c08d04305836771f21adb110ca44c9a7874693c0f859ce.1778389727.114d96243f180c127d765f3581071efd.12b5a9a3d6b159004814e60e67a350a7.f38ac047853ab2e21e99c58ff6ecbe13&signature=12583aa099dfc7180a0e83b87a91f00651877fc2f42e847849c2c5bb19b81dea|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Bahia vs Cruzeiro (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1955.png" group-title="Soccer",[Soccer] Bahia vs Cruzeiro (SporTV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Cruz Azul vs Atlas (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Atlas (Univision)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=6e8156fd5470c692cb83ece0bd1c19622d655b4631f53aa6f3ddba94330a3793.1778376252.bb5699163a8a586a673f8731882d116d.45784b77a45df37a77c2ad9d33e280cf.4b3dd468005efd64547205f57bf27883&signature=61cf39fd60256bc872548fc3d30d43e19fa00d6383bf9319bbd3dec5f172411f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=9a160ec1a824d83f5484ef16c4c520642a98e968eb00d2adbe0e8a5dfd3036a1.1778389727.a675cc3853427d18ae90b9c58314feb7.2e6f39ec99ee6741960df760c3a8d599.bb2f4556c6d8ab9627a9089d70be574b&signature=1e372584b24cd03f9fafb1bbab0385c5c5732e2d5283b0caeba277f181c95461|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Alianza Lima vs Sporting Cristal (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2311.png" group-title="Soccer",[Soccer] Alianza Lima vs Sporting Cristal (TNT Sports 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Cruz Azul vs Atlas (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261027.png" group-title="Soccer",[Soccer] Cruz Azul vs Atlas (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=ae3274f54d4b80124baa83c16eed5017a4f0d294da36abbfe4add56b357b80a2.1778376253.6a01d5a2e4479c84af98b6911a2e7ce8.e00fcd6b9d5f55eb5a4eb1fce2ab7e5e.3b31f497725133297c80534876a24377&signature=c30035c9816b38f1c995b0af44253a9068736d8a136e2db35843a398b357fbd2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/mx-tudn/playlist.m3u8?token=d1d3fbf3f5d3fab6034609ee7445047165a42e8c537d0aeddc5db8ebb7a31a3c.1778389728.2cd4fa1a40694cbf986c515051ee988a.ec44679ba7ebb16dfe971c84a8567262.7ade0928523d3a12e9442d299103bd06&signature=c5176a96176114490d441f31c224e4b4f1f220f1fe9b701c8b04df9d420fe48c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Guadalajara vs Tigres UANL (NBC)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/264823.png" group-title="Soccer",[Soccer] Guadalajara vs Tigres UANL (NBC)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nbc/playlist.m3u8?token=ed9fc89fd8c6852e52d7916ad924fe8f1e6f367f9e899c747910edb78541f6fd.1778376254.06bddf01a8f5e6b834e7394bcf38ea7f.3e02361269debe6189fa0d788b1d422e.9997806b74ef6e1d83e290cae197a8b6&signature=c048c9e5fa203a8532c2bf7abca8f65faeb6163dcc244482db5007e71c303dce|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=f90d72acc450efe209c62636e2930a95df7175aa73209f5569b6406587e8eb5e.1778389728.9b39db3ed1b1ddae0c71c738a768a64e.c9597fa0746765ff57d858eaa020bbe9.cefbda01725376fc53cc13f5890b44f9&signature=5bb05b900213e9afaf0c3556658bb8d788be635700ace3bcdcb1ed7f6ee1b22c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Guadalajara vs Tigres UANL (Telemundo)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/264823.png" group-title="Soccer",[Soccer] Guadalajara vs Tigres UANL (Telemundo)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=telemundo&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=telemundo&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-telemundo/playlist.m3u8?token=3ba4ff0c4bed05658e2a0abffd0ca2b31cc1516a557508723b45137874c21acb.1778376255.0184ca120b8c2cb9bb744224f89c2bb7.ec8e5c4d63f61a24a7e9dc58c4c2ac27.71203d5a5ef82a7d501a253ebdc33674&signature=d8e6bf2fa8142a28e9f543031dba0300b885e0790551de4aeed83c7df6b2b749|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=bbb2c2fcff73bef7e790cf5cee4d775278beafa1e7d71b4897cade14fd834bea.1778389729.fa36038365e2eb8641d9658feb58fbf8.20fb337013d37da9b89e2998afb03270.0503afea4579925b98cf03d56028e341&signature=a4df280147f454d148b6c45ccb5f3966029b25387b4b4ec3f1eddc4054541542|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Sky Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=08d028927254681cbd3f332c53dae46766d09b5680ad50002b12fd9427de7fad.1778389729.4d6f5db632f138f4db44014f054ec28a.7b177bb05bcec394900b91ad8ae6fff1.b386740edc7d5366f46f25fd644cf08f&signature=542bd531a362d8a407589ce8c9e63d845c1ee76818cbffcf1d6e8eaa2db30630|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=8649d3d4a92a63431fce9370dcf2ee96714ec62921a6e38d8cbb62639084fdb7.1778389730.340a2a25d5553bb8173027fd284a8c53.64e315af7aee13bc296c8ee0a5966ec1.3347613bd7e32a8e3ada7ca7cd3903b1&signature=5563dce190a106c119fb3897b09c4ee7ca9b0e67d168036bfc930103512326c1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Viaplay Sports 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=ddd0503663baf52fe48d2c3022d2f422a1d7cb80a9ccecf2cc3e17ebb5a232af.1778389730.42fb79657a71aac26c000dd6b485d070.fdcecba73323091ee63736aab70a1970.6d3e7b0ab37e72e630a03ba3297054b6&signature=4868c05aea54b53815b4644e9b818c2f47e5eb193619d4c3797db53452bbaff0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Sky Sport 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] 1st Test D2 : Pakistan vs Bangladesh vs  (Sky Sport 5)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+5&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-5/playlist.m3u8?token=91a14e17b9f9726781274cd2b5ac6248553dc3dfb5668b2c81c95e022ef97d9a.1778389731.3e6dd20c7c51c4fee719e2b2b9e3c93d.00a8ae0bf65e6484cd6a6c8cd88a8614.e27a263661b34cdd3eecd689cf8bd3fe&signature=c12b2dd16c4d08a61e08e3db5c05df654959e6f5b6b3fcd93bf6e8712ab2327c|x-forwarded-for:77.238.79.111
 
