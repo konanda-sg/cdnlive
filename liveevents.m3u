@@ -3,17 +3,35 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=c8468f1f582b7cac689a7dda6e4f9f805f510f667372b38061d33d335a548063.1778369307.23ee11ca15c8d7e9ad4a743af96b7d6a.61e3f7fe9b4f4b9dacde0b242a3cc6bd.aa1b23c4fa3d1119e6bd942cef203883&signature=7c02a92af57317bb9ee6c6204a269d64fa3499037c7f6322df0c2a76d123a103|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=a473811f588e576040e6500ed234f658517d3516a2c235f2d031fcb646627a45.1778376249.8e30a856d5a96bbef268ec1065eefa09.2c48ab119128521ff78a5f4710440875.47599d45577d860c733c1fcb7e8a557e&signature=d144d0e942bb8254b8fc0e8d218248bfe87b2207c4f711d684c0c6fcb2f01800|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Bahia vs Cruzeiro (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1955.png" group-title="Soccer",[Soccer] Bahia vs Cruzeiro (Match Football 3)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=e14dd64375d2140ee899d10ab2d84630e7b0dfc76a88f6d428137b5437f335a2.1778369309.62d431d95a9bc6fdbe7e51fbdc4928fd.5fcbc6f2b26ab152de2be638f3828a18.3eb295add181a9120b85f4d58d991e2d&signature=ecea6da34819d1f272f9267126541203d7885dc1307804039c4205d2ee28d230|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=fb7b3f941e9729b3705eebd8a88750d1f7465027a17cc2ac2350a03af995396b.1778376251.394891db7b8b6b8d82e3f48ad3867553.babd42006f7f6ffbd285c1f7fa590c27.7caecd7ceff54d4bbc60279483cd8c5b&signature=a6514fff26464baeff9d3531692dfdeff2b53d8d1c1c004d63f3909d4a0d7afe|x-forwarded-for:77.238.79.111
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Bahia vs Cruzeiro (SporTV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/1955.png" group-title="Soccer",[Soccer] Bahia vs Cruzeiro (SporTV 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportv+1&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=fdf5e964a9706c48338a26c3bfd1fb69eb667117787254b66f21284fa25d04be.1778369310.aeedaaf409a64191502885acbd7cdacc.9024d486d19f96c0aad1eab4eba74810.a3b95792f58d4bd6b7ba497953c4d323&signature=0d90601bd73b76b8395c909000bcd6f900484b9cc8d5e87c98803d7d6317c1b0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-sportv-1/playlist.m3u8?token=6e8156fd5470c692cb83ece0bd1c19622d655b4631f53aa6f3ddba94330a3793.1778376252.bb5699163a8a586a673f8731882d116d.45784b77a45df37a77c2ad9d33e280cf.4b3dd468005efd64547205f57bf27883&signature=61cf39fd60256bc872548fc3d30d43e19fa00d6383bf9319bbd3dec5f172411f|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Alianza Lima vs Sporting Cristal (TNT Sports 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2311.png" group-title="Soccer",[Soccer] Alianza Lima vs Sporting Cristal (TNT Sports 7)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=ae3274f54d4b80124baa83c16eed5017a4f0d294da36abbfe4add56b357b80a2.1778376253.6a01d5a2e4479c84af98b6911a2e7ce8.e00fcd6b9d5f55eb5a4eb1fce2ab7e5e.3b31f497725133297c80534876a24377&signature=c30035c9816b38f1c995b0af44253a9068736d8a136e2db35843a398b357fbd2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Guadalajara vs Tigres UANL (NBC)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/264823.png" group-title="Soccer",[Soccer] Guadalajara vs Tigres UANL (NBC)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-nbc/playlist.m3u8?token=ed9fc89fd8c6852e52d7916ad924fe8f1e6f367f9e899c747910edb78541f6fd.1778376254.06bddf01a8f5e6b834e7394bcf38ea7f.3e02361269debe6189fa0d788b1d422e.9997806b74ef6e1d83e290cae197a8b6&signature=c048c9e5fa203a8532c2bf7abca8f65faeb6163dcc244482db5007e71c303dce|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Guadalajara vs Tigres UANL (Telemundo)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/264823.png" group-title="Soccer",[Soccer] Guadalajara vs Tigres UANL (Telemundo)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=telemundo&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=telemundo&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-telemundo/playlist.m3u8?token=3ba4ff0c4bed05658e2a0abffd0ca2b31cc1516a557508723b45137874c21acb.1778376255.0184ca120b8c2cb9bb744224f89c2bb7.ec8e5c4d63f61a24a7e9dc58c4c2ac27.71203d5a5ef82a7d501a253ebdc33674&signature=d8e6bf2fa8142a28e9f543031dba0300b885e0790551de4aeed83c7df6b2b749|x-forwarded-for:77.238.79.111
 
