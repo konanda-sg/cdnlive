@@ -1,67 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] River Plate vs San Lorenzo (M Liga de Campeones 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs San Lorenzo (M Liga de Campeones 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-liga-de-campeones-1/playlist.m3u8?token=4fb6a21eba74bd25c58f570566071425d27bc80e3c2cb18e2d729a67f75e715b.1778455953.172cb5b080d7e004d746bb9ebedc6fdc.59b62254cc87b7efd726a1a090bcfdfd.6dd455c751314c2ddcd6ec1332d99aa0&signature=f0d7e4c153ee5b15645b50fcbd5fb77cb31998f3c64bf81ab84d593e8c2be3d7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] River Plate vs San Lorenzo (Sport TV 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs San Lorenzo (Sport TV 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=d34a438e6341d2720372c0717a3431500321107d876c9b51055e77d663f40d8c.1778455954.f6e2f6cef00291339619626090572f2a.9345d49df36c09e672e9afe05d69035a.49e82936541717d4aee24774ab00c865&signature=42a2ea40fe3b9e15d39b9e40bd25a6ace3352a57ff9c243b5541e11d6a0214c9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] River Plate vs San Lorenzo (ESPN 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs San Lorenzo (ESPN 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+4&code=br&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn-4/playlist.m3u8?token=f85bb441f13183ddcce4ab41e61496b81e6a59fab5e9c8694b26e3a8a0dcf3f7.1778455955.6c14d8493d59a89f46f7b10563d31a88.56add2362b515721f87808eeed847bc9.e0353c47d01b449cee2cd766c9fc7ba3&signature=26ac1804def9493d6c3fe9d832c181c9d3e7a6d4e2c988b7616bbe747a6f3ca5|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] River Plate vs San Lorenzo (ESPN Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3211.png" group-title="Soccer",[Soccer] River Plate vs San Lorenzo (ESPN Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-espn-premium/playlist.m3u8?token=fe06fa7c06885c74e39b79660a1a0e7e74616d6d9d9c1ff8f2a56bba8b256837.1778455955.7f4beedba2200244e95d500bfa4fcc50.91a4475888c8ddb297555fd097e0212f.0451cd50b84f8b3ed95c0d764da60a49&signature=4781562acdd5d6ed83c9258afeeeea1b71964755cef1fe85d384ef862f905057|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Grêmio vs Flamengo (Viaplay Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5926.png" group-title="Soccer",[Soccer] Grêmio vs Flamengo (Viaplay Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-2/playlist.m3u8?token=905533fe90de649ed5a6c2f860fbdbe692e10f892453b389a3ae508391a46922.1778455956.ddae63a236202b94109ba1c0053412b2.3b8bb38b58a94566ee9dad76b4211571.278ecc1b6c8c550cfd26d3be6e655851&signature=91a3b95573e1e5bfeed0d0ce19acbca68545984d79328c662441ad6eef1c0e8d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Grêmio vs Flamengo (Premier Sports 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5926.png" group-title="Soccer",[Soccer] Grêmio vs Flamengo (Premier Sports 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+2&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-2/playlist.m3u8?token=74dde49d78acd5f8ba5b6f447b2695d2e94ac0d59f6ce2e6df1d3afa243bdfb4.1778455957.86a3fcfa5133f9ed10213b7d54501082.a45aa84287a4b20eb8227dbe3144364a.03b93ccb1116f7885c452e00bacb2bb4&signature=612914b6af2710a7d3e0995468dd50d6d7dfb120277001f3093dec8b7c1bba0f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Grêmio vs Flamengo (Canal 11)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5926.png" group-title="Soccer",[Soccer] Grêmio vs Flamengo (Canal 11)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+11&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-canal-11/playlist.m3u8?token=ba5c4b10251e9bb0acc168940443ad6d280ada7fb392727a9109956b6fd44544.1778455957.09f0f5866302c6c9040b9106dd115c13.3b107f4df17d917a1e99d73938259fd9.264ddd180ccc8370ece3c4ff418b2d80&signature=edfb0d5b0749b75449798b78d6638b5486cd4bd313483c7b7c6756479450f2c8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Grêmio vs Flamengo (Arena 3 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/5926.png" group-title="Soccer",[Soccer] Grêmio vs Flamengo (Arena 3 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=3ad47b3de9f777bbd53987679823afb25bf56de16e7069fa7bbf2839f9746341.1778455958.5b38ca4bfaf506cb6eb2b0be0ea652b1.c4a7ef78f5c06a07e94eabfea99dd1a5.af033785ffa83fb44085aa921292016b&signature=1dbfcc75a8a28b8146fef1b3fe3c52b540123767858562aaa2eabebb5580332d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Pachuca vs Toluca (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/260999.png" group-title="Soccer",[Soccer] Pachuca vs Toluca (TUDN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=72ca3d6cbec3aa84c02263b7d2c89f837e35fa1ce51b0a15c969ee114a89089f.1778455958.3021b76933ce98fc7a59b6bf42077919.ee3ed4cefbbf02e4f42c5edd85d8f9be.4100fed7d5267fca1650bd26d724970f&signature=a044e593508f41bee03a14bef0f85f80e4b3bec4dbe101d05895a9e0d7201a6e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Once Caldas vs Junior (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6118.png" group-title="Soccer",[Soccer] Once Caldas vs Junior (Win Futbol)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=cea83ebad593e853b46252d1a87b22f90fd7f44601959c8143a7211e6ce1e745.1778455959.457e80404a9c6766d9e3f4995229bbd3.64272449c84733a50a64b88e5d05b225.f48720d2e7d303a81ddbd3a66f0396e2&signature=a954c61c1f2264b9b04156001c3bc336e87661c4dd828910140a29b571fdbbb0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Vélez Sarsfield vs Gimnasia La Plata (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3208.png" group-title="Soccer",[Soccer] Vélez Sarsfield vs Gimnasia La Plata (TNT Sports)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Vélez Sarsfield vs Gimnasia La Plata (TNT Sports)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/3208.png" group-title="Soccer",[Soccer] Vélez Sarsfield vs Gimnasia La Plata (TNT Sports)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=12a5343b180c183339261f4517e8f7f7583b49eb3b4a278447ff933a78ad3ffe.1778455959.1f2aafa29c8ed7a5e97888d8e32ca253.8700f6fdff7dfc97c37bcac8b64e94c9.3137bd27549231ca6432e058aca6d5c2&signature=b748f9558636fea13e2d2ca6b165ab85f3ac64bdf0a5e338e0b74dae5bb609c1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ar-tnt-sports/playlist.m3u8?token=88e182de0e608cc0b4c7d34e8e8fc8b80eb9dc1105227ca8a730a4961bc73a63.1778462898.0b67acb24d0e21650b8695ab64ad629d.60eae24c2315ac4ca0ad033df19f759a.87b530734fcd6af8deebfa4fbc256a0e&signature=bd7fdd41dce1adeaea6ead23cb2caa8cd54523a832be0887ed30e0acb1d5559d|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Pumas UNAM vs América (CBS Sports Golazo)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs América (CBS Sports Golazo)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+golazo&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+golazo&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-golazo/playlist.m3u8?token=4069af5e83a55e134b20c3c54b5f1fa425e24b3bc7a3f326168a187cb47bf0ce.1778462900.13efa682d6125e3ffb6d0846d36ba3d8.c06215b9f0e2a487e3b0a10d63c63a80.389a891c96c4dc6e062f2df17a5c0ff0&signature=af7afc258c5640672cb34795074fffc2be2cb4244ce9f353ef6f9ad8aa7dd8b1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Pumas UNAM vs América (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs América (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=9a3ddda71592ffc86f58487479e37ac12898251f5d41468a6033503b79a423f4.1778462900.5635eca71732a35821464ed2e3031020.ab029fc8a3ef692b69485cf9414e11b1.2339bc18e5617c41daabed210b15a642&signature=10510c0a8eee8a9e91610851339094a71c8a5fc5e52fec335d7d2cf932529772|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Pumas UNAM vs América (Univision)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs América (Univision)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=univision&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-univision/playlist.m3u8?token=a2d46a3d604e64c64911df65852a96e9976f9a7da1cad71a2a735a8ec2c93669.1778462901.63fd5c8d500c2078632e7df40762915e.801cab26661fb3b74e3dba0733058380.99e132e633fb2ca3fd518a76d393e592&signature=e812f44838b1d042f3a5869241d64154c8d5b905db1b2228e1836f2ae76c8659|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Pumas UNAM vs América (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/261000.png" group-title="Soccer",[Soccer] Pumas UNAM vs América (TUDN)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=mx&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/mx-tudn/playlist.m3u8?token=85457cca222367e064317c0f7cc43a7960aa466233879ae797b071589380d1fa.1778462902.bb257cf75f5158b5dd17c3fbb8ed71c0.6fe16b197caa17de7580e722d9a75519.7663ecc507cc0309a4a1c73dac354b41&signature=34887435c73e3174f23137e4b108d985618d4328a2993858e346f323a4b52925|x-forwarded-for:77.238.79.111
 
