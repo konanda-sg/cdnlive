@@ -1,253 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Osasuna vs Atlético Madrid (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (beIN SPORTS 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Atlético Nacional vs Inter Bogotá (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6106.png" group-title="Soccer",[Soccer] Atlético Nacional vs Inter Bogotá (Win Futbol)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=2929f7f8c2bedac1a6ebbc019bdf1e9cfb5e3a05873b2d1529042eee9f4a7f63.1778620210.57bcaf6bac7f2d35cedf2433294bde37.88433c5956d3da5e58c1fa031b3a2780.070b8b67cf76b0b8c10db6cfce97f253&signature=0d7d8096a459738a5e9b39b4e76d6d68af55f933da7b6bd831f90a34202482f4|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=8d4f113ae40efce55570b5d98c96c518a3a5ffed62be55b2b904017a87bd4b76.1778625433.ecb71396f0877ed5511f4d27fbde27bc.7d75dad7d8af32adc710730bc1282a19.050fa00db16457afa2e76991ba4a2075&signature=3ac2acefb0024f1b3a0fae64acab7807198a77ea054fc0788c64616b36a1e8e5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Osasuna vs Atlético Madrid (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (ESPN Deportes)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=678b769827635380974a4392b9f2b1dc408b224c7292810bc81c88ffd078f0cf.1778620210.6e718c10f2442174545fb5a564fd2cea.7b533181a41cdba481658000f38a0bae.e0521ea5ae78e76a74b732a455737e06&signature=4f75c5220e60cb8108b0ba30328f765e75820a0a2ba349d0df5608937fcd6e26|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Osasuna vs Atlético Madrid (beIN SPORTS MENA 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (beIN SPORTS MENA 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=2838b7c9e730ef9048f6e2ccc1790e336e0c54dd06d7cd5d0a2a21df882e07fd.1778620211.6592cd88471e6e67454c747ccda0e72b.e54e064a9e69328ad53a16cb0631f0b4.ab211173c9f0a51542b93f2be3899586&signature=03748b699bc6ced55fe8f353536019f20b908de96e749be36285d0d4e7fe4f06|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Osasuna vs Atlético Madrid (LaLiga TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (LaLiga TV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-laliga-tv/playlist.m3u8?token=4d6a258b59d6600f5ca4a8638e82600e5fd9548bf09f1c30f5d6280d715d983d.1778620211.424095bfed88aaef6e48b5b6c3ae7e37.5894e59cf6b9da1ed05a325f018ceca2.cf97f4bc162cf4efa2bff3e90689b793&signature=5e0ffdeaf30e595222e5e110bda8bcb4a0f725b3be41092b3f1fb670dd20a66f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Viaplay Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=d8d05490c6e1fdc2dcd275695d048df37db28ed75b15fb737ade9a021229de3a.1778620212.cd2698195db60e1fd76a33496411808e.cf59f713102eba02dbbb299bef1b9898.b3883f177e6a1c126574fc0108111f8b&signature=74a07eac583142a681d0ea2b12a6382a53e5cf51cc8d29609e372aa0ed61225e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Premier Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=3d97c48909867eaaffec4f5cf042ff69895f138b75faf45ffc3278c882075cca.1778620212.4b005be7d162940f4de060cb18c4d3c4.e841f6ce1fad81a08a83607f22d5dc98.d329539e16a59a56fa5752b9cae98691&signature=a6dd30b81d8a80a92ec3cd63a1ce9c97e325a7db0ffb7acd3db0e7a7e06081c3|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Hub Premier 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Hub Premier 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-3/playlist.m3u8?token=586cf0485a6bb7ab167a7fbe78572f40154d2a4934c658f5a76d2bdac3a0a232.1778620213.7b062fd30e497dc6530459559bb3d907.ac4d353606f8b088bfbf7ee5d6ea62c7.c05a3d0696eef256ebfbefc532039f27&signature=ac59b361eef02cbfe5c134aadb065f46d6b601397a9985d342df7482f0a4bfb6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Canal Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Canal Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-canal-sport-3/playlist.m3u8?token=d7adf6fe1bc9d4efa96b28823440b6cb88a20a252a42a2ab9058562c6c7fe77a.1778620213.81e98c67c78f31a2ab83fb0488f6f312.dcc139481f12838c54913cb765b70b79.44c6790141e5e66622b8364eea28d32d&signature=548faf380bf0a74d2af57ac809ad621afd1803dcfbb4eba256cd90a51e3608d9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Osasuna vs Atlético Madrid (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (SuperSport Maximo 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=a35104a3f71e50e7cbd0507f739fffd729b64cef0d817a72fbe884921a4d85a2.1778620214.68bb7c0f113aa7ad631ed1a5922626dc.49e225f4833d634760b30565b95495f1.f363210e17a9424168973782f42c9772&signature=509057d0e3a6a1334b0a9c08f64c33f69b0600194f9f8a9360f811d2f6397182|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Osasuna vs Atlético Madrid (SuperSport LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (SuperSport LaLiga)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=d98b54b02d453a23cc37cdcd1b27b128b3617f108e877f9e39e51a1d8ca8411b.1778620214.87f38816a63df0be3ea865a641ddd024.53bd268a0ea179c5bb64ba3d0d4277d4.b12bfe46bf3ab60f8f9976bb82b5c70b&signature=34b98471bd259d73b88d9d4a1931870cd94a1917466fa84115d7a28ed03ec6e9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Osasuna vs Atlético Madrid (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (beIN SPORTS 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-2/playlist.m3u8?token=09086834b80e9cd93c945a558974f2d9d72ba4e133aa20c1575ffa0a09498bd1.1778620214.7e7a03c93b715ea5b36133094849ecea.991a226a20e944e124fe06a4df40b04a.e5b76f3be551c93e2a6815f61fe04c77&signature=853af0dd260c32aab499fd49b4fe551f1034b27c384515ba4c0741194d4a5986|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Osasuna vs Atlético Madrid (M LALIGA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (M LALIGA)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-laliga/playlist.m3u8?token=855091f02064b719b4f3285a786f5b963dd949f20ae71bebccd003a5b362729d.1778620215.717a65d324257a747435686cdea26484.5a22d99d8deb9a29217b012fa1b30ae9.bdafd82b8090ea7ce1ee1576420a2f6f&signature=10e7d1a71c24f0f13ba6ce123cfd8a921ca261863986c9a7f57bb4bb4f5b7b91|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Osasuna vs Atlético Madrid (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (DAZN 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=9f48ed2f58aa90b44afab6b89f8fb72c4c9d642a99e6e475dd011ff97cede4d3.1778620215.eb08b25641f1821f842c1f9008cf5b4a.806def9f43caf7afa75e4365197fdc33.4667a534ffcfea04df0e5af7a2af982e&signature=a2cdef20ff6654b9a23c56261510decb90357373e4cbe353f0b3ae341b5e2d7a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Osasuna vs Atlético Madrid (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (DAZN 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=f3822d8ebb0a133efd297fbadff09b7cf9c24565a0151b7746acc663cf67b188.1778620216.f7d789797a2095fc21216e4e25ca45a5.5b482fa1b66d67ce6bf74fa9a3e18563.995ae6931633d335b2e0b7403ceb61f2&signature=804585e4a6a9ef81bdedb8aabb162276ddc97a06fa1662ebeada84cd3927554c|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Ziggo Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=5b1fd3a269cc1b0d4c382996adf8043c4588474168337218698666dbddd2a54c.1778620216.b78f169864cd430c09b033db74222751.13c39de27d504281e91ec868d462f72f.f2ed17e2eaf16a2efef4dcb47449babd&signature=881e5006f1972997e082d8c88c28c47e29afdf12e945624bb91ddf4df81b9dc0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Nova Sports Prime)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Nova Sports Prime)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-prime/playlist.m3u8?token=c570d93d778eec2ba10823f90f723a77ac601c3520c6626f7888b1d7a3be77e1.1778620217.1f9400d27b434a0eeb79a165a053f281.43a696a4b3bf1ac046d23d5bfa07c848.ada98244f992941d7dd5d5b979e0d387&signature=2c9096d50c832270e261be0698d027d6a7cdb2ea0aaba17f073c1cfe1c204dc4|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Osasuna vs Atlético Madrid (TV2 Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (TV2 Sport)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport/playlist.m3u8?token=b6569f0b690ca13a4699214ebe286f9a7d271de2a8c8332e80ea6073a57ae6a5.1778620217.a92d94e1e37f720a19eed64364b00392.f1131fadf8731099d805097726720330.53831353a791653506529ab5f0f2a415&signature=948dfc2626a6f2091faa8f1a5d1a8c88ec0acbe5d3a5eaa08f17fdc0bc50b9da|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Eleven Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Eleven Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-1/playlist.m3u8?token=4a2064e75800ec81eea3301afe34715bdc88b92cc3f01c3116ea443996d22401.1778620218.95d506e8689df034594d8cdd2971644d.06f5012f2ff0376876f3fe9464a362aa.f922a6826c2a3aedba2c033464480d61&signature=22c64bf88e656f566a00b29871f45fee139c916e2511e0df30c38eb3c14219f8|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Match TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Match TV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-tv/playlist.m3u8?token=7df749e76747474f298476d2c2932a8ecda2dba7ae4afb513fd4c587a6d61900.1778620218.8246ce8c723a77bfc10b435b81be7a77.366fcc906faef6c5dd8f0e9547d3bf47.1952736cd24dc833c6a5e1fac048e2e6&signature=95ec7c6cc7026c5a2c1f5f9523b7c6d3af4b1a3a12930ab10ee8bdce991986d9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Max Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=fc5535f0ff6c96d28148b83f1323c9858f368a4a0d6c4f8ac9b6f1f1877c00aa.1778620219.449f617b970a294d04abad122e437437.011dfb06d3de62e26bec19c425af177d.c857afc785f5019006d61fe0d58fd6fc&signature=46aa1b90d4a18aaf3122e0bc3a7c12e4a2c0a89b70d367151a0386c32264c125|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Arena 1 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=74501bca2decd45cfff80cc924cd45afe16caccb0fe76295f21147c4d527988a.1778620219.9e8ac7ea8515882ea949da0edfe741d4.bd0a7e08e85e9acbbdc52be23aaf23e1.afd620e3fe0151d645ffef59ba3b109f&signature=7970be3c52dca8d92897aa670a90b588349456f97d65daaa1fae0ea3d43edf8a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Arena Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=50c71514cbda3aa085e6d0640bd9ee96e5eb743809f2473fe98099120379de70.1778620219.108b8b659c2c830f667bbe81b209fd9a.39ac4e4da725eee3f9c5c565152a74db.8206990c8ac9a30c97d2bc501708d076&signature=25193c617f87c8fe8dddf78136ccf2c88e015f3acc531e3277b0c4869e2a60c0|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Osasuna vs Atlético Madrid (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (TV4 Football)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=2398a5ae5af86bbc853a65b31cfd0eaad8b02c52fa5ad3f4e52a2c47d3cef396.1778620220.e05a195f4a05a681ad00c9ede9b66f5d.bbdc933efd7db2bdb50a524903c46012.243a86baa4827e3255300196cce7b225&signature=a0b7a5b74f5f86189587bec76790f7af777849f250f56654172e73560e6dc48b|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Digi Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Digi Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-3/playlist.m3u8?token=d7b8cc809c387eda320f0f4e5a41e19bc2a6dc06827704a98e9a6e1e772b8fd8.1778620220.eacf0c2adce5e6d55836571b7fc1d6cc.0df0b5ad1218c39162d77482a9cdaac9.edd7af940678de9e60a2b1963e927a6b&signature=8eb07423e2fc4779f00bcfb5029a6792f3c61b03ee6a38b327ce9401d924a4d9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Osasuna vs Atlético Madrid (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (Prima Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=e7b5daf5642f424d65cf6cb04b113b751f50385b7c8fa16280df5ad3092a7618.1778620221.d9cb33a99f70100c0085eca595aaa219.89ebcbc41c3f98ac98d64854b14395e3.167f3332dfa5c6aad3881ec11a193335&signature=f3df319e0edd077f9262cf6887d362d52ba794e360b7f2895256cac8ce2587b7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Osasuna vs Atlético Madrid (beIN SPORTS 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2820.png" group-title="Soccer",[Soccer] Osasuna vs Atlético Madrid (beIN SPORTS 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=sa&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-2/playlist.m3u8?token=5a55bc603b3166cab46f128d903f819ad36f32c6a1d3bd1698cc62844e27430a.1778620221.8760fa8b8e096e61bcd26dec57b06650.fbcfcc3a3ac96f2fd1b0ca6d96269645.b95ce27923e8ca3d2154dd916d4750d1&signature=eebcba4984f74b5438c9820e0efee054762cdd384d9e24605864458e4bc90fe7|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="27" tvg-id="Cricket.27" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="2" tvg-id="Cricket.2" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=f0fc99c8f4ad96b762189fcd4c0063839d0c39329917b483c34e1d8ffd8ffcf8.1778620222.69223b0d4d2d40ac03999e54fe98d4f4.029cec0037c3e8c7cbb01016f4c8cb8f.00ef3786d692a0e5420a2393667d593b&signature=a9710211db9936cf240594ac41a1079a7659d652a1528849680b654c7393b0f8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=6accc0bc1b189a74f37fb4c1362c195ff76df06c05d68092118030bf16d6c842.1778625435.0caf06e69a98cf7a8f899a216f9a13c2.f81444b8d5f59b63b2d1b2e7b01da59d.380b4b92ca733be16bdb5457071a1be3&signature=6ee88e337149333694e0b3e8c402214db8e8d691acf6984395af92024449e821|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="3" tvg-id="Cricket.3" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d0797e294a7dc891de8dc54e22a56e5a611dc85cfbfa8f9df68b42683fc9908a.1778620222.c33356004202819711d9a86a753ed88f.cc6c3aa48c8afb41f0ec081155da9dcd.2a308633d5e71ea3b8441c167c05fb5c&signature=8717c7fd6ea8539cb4e3bec81a0fed55bfe6b87aab51c92135331038bd542e4d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=ebcb751a6dacc305b52ca927eff2c564642ea14e5c8ae04f7957731dce079f3a.1778625435.bea8765ef86fb51ef28615bbf395f8c2.2b96971644b77d4e8d7aa8317823769d.66aa3c1c623fccbdc6cb2ecded5c494d&signature=a75dc3f68d37a9bbfd816291cb8c238670829f30cc440e335ba3b4112b69aa9c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="4" tvg-id="Cricket.4" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=6e0fcc9b260ebc9de26b0795ae3f293e22bc01018d3eec9b0b5a4a5e6ab9aeff.1778620223.2d7323b2a482d43e15cc26c2aa6c26b2.ac01bfd128a8a4e0ff204f02345e1e7a.181f9cfe0bbe769c0a1d88e3b16b0770&signature=3dddcb3c494decdc08cc8fa94309c9d4b4e9418c35bc7636c4ebd16406a2cb1d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=c401689aacb866339afd3d1f089f6521f27debce742ebb98f4ed4edb2ea1b8f6.1778625436.70180113a843a1c0e4d73865e4633543.f52c57612e3a8138f34e78f24037b892.6fb5272f3244000bff08f674fa59384c&signature=37b505fc8d5abd302b40b896c41e075b868b34e56ef0a47882d7e5f23eb04412|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=c25597d69be888a7dc0a5a0b47d0c4440573ae96cf871a49f443a5e8264b2566.1778620223.3433b551be556e14e07a673bbf438c1f.273c7fa8fdf6b89bb464dbf975c562b8.a7cabc968d3fbdb88ccdcb27cd79e7bf&signature=308fe77ae310d1faaa65bf899373d86545e57ce932f418c117c6c2a5dc14c89b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=1c63960f047ac996318e2d4e2f926ea302f77ce0b555e28b508818f7523619eb.1778625437.1194df5a5e4622756f4414884ce2436c.f1ad25562d63956dbf99a95c14054d4c.cd0e039d5bd3966a40b9b05946b93f59&signature=a8f674f0889162bd50b60998256c6d3041c28d0abf6ea95d5def1f186bab13f8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=824ff713c858739bc9e87f922289d6fd04232856469924a88ed488100eec88c9.1778620223.a86f94f7c63ee687d6ce829651b64c78.27372bfecce515384dedb83e92e5547d.5b1b024cba54b842b997a20ac6052d02&signature=913105883606465d26518b0f20653af97e99c4d84822238b069bb2c86c68e7ca|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=213e39c841989c4e35bba7e87cecf14e848412cb2751390e810f67b0e34bc6b5.1778625438.1737eedb34ddec02776e82d2f0c43552.fdd72613da17e8510015f78375c9d5c0.b21cea40d256e2bd66d3f9e0909862e1&signature=b3f33922b2ca71fe34bb3d2b2d9dfdbdafb0b933309fcb973ca91d00298da6b4|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=f0fabb33494a403e365991d982bb9c801ef6f0339041c7f028d298ab608c0e02.1778620224.f4d1f1f271e9fdf313cc6fd2b1d2a24b.5aed8bb2f127e329b31bf1e16e302185.c9c4d50e28d4a280eeccd58643c0d058&signature=50e78a2a028ce097f99d6118c8aeb45e1fce93dd8ec142c2e6bc192a59127c43|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=206675f1d0624191c4bfcde6031319e6455ef8659a3e7881c205b6b61bf35df6.1778625439.36a692dab0d2f2385b5fcfbfafa7018c.826efdef02a027c2f749bed074af3f79.13329040871ee46e1677924db214d85d&signature=d97965eced7bd6ee89bb848c93768fdb500d7a9d684f86fbd51dbcaac97af438|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=f5cfa540d784e5df3340e6539358f05542f1e48f379457a620b662d6722d4e3c.1778620224.0656e5ccdb922bc6ef3ddf534d4420cb.543feeb077b7ea7dce3a41563c46c189.2cf0d499349e5cbb247e3dc8b16016d3&signature=6489ac08ca036d34dcf9a099b78c5be4550b2a09d221b5b09160791d61f6d934|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=fe4626c4fdf6c2a8518f8067706c504986503c9767d6f43cf4fabdcba1246d21.1778625440.f2a52273afe90e632a6740b19e56c18f.be20dbc9870f20d492bdb27e113a5ae1.67a5ee9f120ef834d231b15df9f5228c&signature=28d2d4b2b1f15f36287b480968033572dbfd6572ed3653f1d0f88fe5ef045f05|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=915f6a9f473709211ad70aa1a0107befea036d4f2491089ce7cf3cf225c48ff2.1778620225.d954d973d1df716825e77c84e8ddbbf1.e1290fb381f7303c5e734014b9dd05d2.657b2f39dfaec42655f3e2bb4f7fb6ef&signature=1dd9758303e0879afe0e0f463a63f0cad70e009653508e273da52e7124892194|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=4b1c294c0c432d86613b1ff9ce153d1d244fd842aa08f3f3d1f1fd655b34dcc4.1778625440.3a8aebb2677019c294daa23dbc075632.6239404ce6ca54dda1f75493f4360a07.83a462d86a7bbceffca6321af38cca82&signature=383d3d66a895f93c9433f2687a5c5326b27b572cd3d91c23f2f4e576dafba50b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=f1b371668b5d6b2deaf713c7e6e616f3cc6c483efea31f8f784201bb93f1af62.1778620225.d77bd235968c6907efcc199fce060d73.0fab30aae0a400eeb7cee2982736b735.b86967d69086af3ba5896e035a530dcb&signature=195860189bdbb69f4f806d3335138aeef094ff10f1e011cad7064aa8202949b8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=5de209ada4cae4a6f163a64fd16715d24d1e7654f3439a431c7bc75be2bae629.1778625441.ea93f5f9d51574d8bf03abb905c9e902.c465ee4bc6a903ffd569d0f6b8b4659d.1c714b0bd347143fe44de14f2f770cd9&signature=2fd7b6825d9bc0ae5ab5019fe064467efde4a78d4790603ac453be5cc0f03478|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=41448b3c132abe07be713a80552e90fd2f4f853ad60e463f93d29f0496571528.1778620226.397d06a37d1f54f5a736315491c83ee9.defab2b9a09d1c226af968ac552ec038.a916973701561d07a357f7b8832f5299&signature=899b4178664d1bb65cada6b9310ac846a617ea15d7ab57684a02fa34c7f560f2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=7bae09bb6e2d9fcc41043c8c9a06c0a647725a916485abfacd09241adbc3e2b4.1778625442.ee52efaa98c8e83cc0c66083299dfa0d.38c6e849fe7cf8ff2f1993cb286c9c23.c0005a79abb7df1d2488da438a848860&signature=988c45c348c97ab5bf0a52d71fb3b32fb413bea821d7f09b63c0035f1d6c1cac|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=d15ef4ddee4c3dc3a9b73d8e2a2f0e8d7716ef7d3219746cd9f5e7f5b86a1ec3.1778620226.b767d6d3668bd3b1abc1c5aac854f589.2d1b76059ce6bf1872a92dbab2bd20f7.b46037e1a41894ea7b2aad570980d0cf&signature=0ad30de990f5ca31eed2b24156de1c4e28c082aedd00f6513769d5da56f68853|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=5eb517ba3bd9e01c18c521af5bf59e4be7d37a77a999c7e49516b2afc0610699.1778625443.7fcc5e3ee0782d1e7a19db080faa49f0.9692515a41b046076256f917722b2a53.e4bda1a2aba8b29cd0404f98e32d480e&signature=cec447b91b56ae3b2aab6b55e1de5efa7ca33650914614c5524b980a8ed6e3ec|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=dd18e19a8bebbadcdad13f2a53567386d75a70f2b8d4b9b8a3f5964ecb428ee4.1778620227.4f7220b70c1db9bd14eebadf5ef8f528.a80deb5704d77f9ae892d57eec6c7e6d.553e20ac492535f8bb44698858d543f2&signature=6954707b74ad6e1fa51ab482d8b782690c3ed9a854070b1063977a68bdb35282|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=2fbad390c3589684c4093a89fd09f713157710c810bee392606a76a31264edce.1778625444.434da76bb062ff192a0ff1da52c9e0c4.dcfd2229f73dae58b2f9aa14fac6dc3e.97c0eeb084dcceee3fbe4250f929c5b3&signature=3ac7acd766bc976ac0cb1d6ddc3574fb7953e2fa24035b5301e8cd1dfe56dbd7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=24b28ceee12e62af0e07ca66497385f4325f7db3006e895017218bfc0ab6e30a.1778620227.e42099ff416492e2da359e388146fc2d.c8f2f363e20a64b308bd50a3007ba552.880678bb6844847125238e6581af1831&signature=ecd6873fd81cccf6d54e39f21811f67f949e45f75f155e72e729f3a6b64b60ee|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=24620d0b52c5d4f2aa0ec2da0bb9edd95f46df9f76aa41103210df3a131251e0.1778625445.db80bc440b58c0d7c6b45321034445bd.76ea68d7cd9603177b4276b6aac2edb1.e475dfae90398d520c8ddfbb1cf4294c&signature=e697ca7bd23f6531e6625027b7cdcfe6afa493c55bc4e04087ec6185162e6ba2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=055f60af680b3e2682331e821894bfbbe360a45c3f76354fc3239995c5f61a13.1778620227.607af435125dbba146fc49d242db940a.83e9ab925366dd33afb51404bec7abcb.2a2d6c3e7c15685934a07ce0c9e24c9c&signature=948c74a1a92f0968503e2c2b8cad679e0577ac265a3d32f7987830a111c62a32|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=30fe344ec27b625b22aeb0d48a8e82550a9af075f4b94dd42262c7773a95e2b9.1778625445.9fd3ba5d1b3cc38f74aa0c160220dda7.9c6ae0912d1d148a5b075dfd5bf27206.7dd43f8c086a87b7f04d8fe5887f4722&signature=d322005c405447f5cdf8bd29294364299b1504fd38c42f96d84c572916829612|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (Sky Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=8eb95253949f060827175cdafa307baa81a8051d7c251b1855f714f09c6df4b2.1778620228.eeebdae0bd04e134fd7f4882ae7b7b17.f142c457900c6a0282ac5dad00444ee8.a374f10b51fe707662038d1f9be546a1&signature=b03b20f650ef9e06fbc6264dffc0b34db58bc393c24c5f3f409fe1e3fe444744|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-1/playlist.m3u8?token=0abadeb18db72f6c7fb8b025a00574f2a4090c3a23afbebf71fa8ac5fce5958f.1778625446.937d5bc59eed9f7ab018e728276a6836.6f36132d9793179bdc18072c5cbb4294.31b2436ada7682465352f8b4d65c5173&signature=0c624febe6eb9bf63fe8736bd63880e7edb455b39fddf7bf492cd4f4bd2e2833|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Gujarat Titans vs Sunrisers Hyderabad vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=04dc11041466aa2aff2b00c22211a596814d6040ca9615149b01dcba8260b163.1778620228.e4f07998e916a40af1648cdd779055af.ae8f5bc255890f70e77541fcc91000b8.9d813ce76819c587de32c5f73b78aa0d&signature=79af3c1706b3f379b66c335cce7c7d948412f88d7fe71fdfa94988c911dfdec1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=7dbfe0184903e1339eb17f3c3dee01a73eed3fe87d44115e0d33e629c6cd54e4.1778625447.822bb1fe7c9be697527336e9f22988e8.fdb0da438eae08c59633eb07ebba0c8e.5c59147e5512bdb86f8572929a2dcb24&signature=ca31d24dd3c3b3ff1700b64297d2ee6a72566275ed22f849aaad586c85b997c7|x-forwarded-for:77.238.79.111
 
