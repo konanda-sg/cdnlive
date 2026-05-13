@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Atlético Nacional vs Inter Bogotá (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/6106.png" group-title="Soccer",[Soccer] Atlético Nacional vs Inter Bogotá (Win Futbol)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=f907230f9daf27bb8092c2f191a1da490428f09c35780d3c3c02f2a6b29661ce.1778629213.a3396a443edb371dd9276eac8dceb5a1.8d5c471f213afeca9681f9cf88bb04ee.1f8dfcbd4ad820fa06479bae49566b16&signature=64471dee435510ecddc4c1395aa35e7ae0fa54f719ff6e9aa0d87c68f77e5510|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Olancho vs Motagua (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/422195.png" group-title="Soccer",[Soccer] Olancho vs Motagua (Italia 1)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Olancho vs Motagua (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/422195.png" group-title="Soccer",[Soccer] Olancho vs Motagua (Italia 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=2d6134ef164df10eeeb5dab66d46befe28ab251a30ada7b2d639987bdd687e84.1778629215.7e0b82efa16663de20be428e013b8c54.b3812696d5a4f7ed8018823a49c1aa0e.1ea641aeac529329c443d84c81ba9d78&signature=f93ca0f9abb79c98e8c7867462e2a66197c27ce0381f256ad9f54a00e77ce1f3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=55173c65e62e909c2c5d99cf23f66555c2ed980a978daf9de9ea88e38efd84ad.1778635635.5be196b98e13414da94d153e9f6543d2.15e46e2c5028959513c64f8e22d896bc.f04101325ff263a3c273e237e7dc8f0b&signature=839578d123710d68ec74eea1dff9f7d06c8be229380368e3eaa768c93413793e|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Santa Fe vs América de Cali (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Santa Fe vs América de Cali (Win Futbol)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=3f4586afe0a53b3b91d7a52b977a5d423bccca54d2fd0ad049170f213402be30.1778635637.be59ee446d45ae908303a09db245dd39.cffbefc433ba4a9e387b1cb588f036e7.f5730b662eb40934bdc4db4acbdeff41&signature=4a48379af8e3d1ccae2fd04824412ffad2b002814df28c35d4d3c88a7ac19b30|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Olimpia vs Real España (FOX Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/25358.png" group-title="Soccer",[Soccer] Olimpia vs Real España (FOX Deportes)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=f95c22c55e5926d3dbc2c4cab92fae9af955b5e65f932dd7806d906b9cd9eb28.1778635638.87b0b7a665e4473d1ff19dcb58939472.6e33bfd84d4904f9727746e120a92731.3b8f7274210edf34a6661f841928e6b3&signature=db6c0f2b693107638134971facec79bee4d711f89316be8d58b5355df5c1f032|x-forwarded-for:77.238.79.111
 
