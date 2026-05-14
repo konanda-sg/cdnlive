@@ -1,385 +1,271 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Al Ittifaq vs Al Ittihad (Sky Sport Bundesliga 7)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Ittifaq vs Al Ittihad (Sky Sport Bundesliga 7)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=b13445feed278a1eb463db331734701d2e26efb5b7587682dfab1d38f2f358dd.1778786561.dd223839f80b21ed38ae2e49604e1b66.bcf6fd2a5b8b20642e393b4fa59ad995.e5396e7c28bda4c50cfb75bd443bf8f7&signature=09af8470bfc3503f7dcf7b4ff8b9795646025470a8a7a7d7ebd0c3362f47d22f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Al Quadisiya vs Al Hazm (Sky Sport Bundesliga 6)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Al Quadisiya vs Al Hazm (Sky Sport Bundesliga 6)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-6/playlist.m3u8?token=ddd54a67129fc7319056046b0c67e2a76f7db58beef944fa3bb2ab7cadb78123.1778786562.93e8ffa31bca66c57d9a95d49cd21e45.0ed3c0d7174aba3f4a07a03383a59bd2.d3ff56adf07e196fcdfe9b8379ac4022&signature=b72e66ebd557eb5a0f68cd14c3db7744c2c92647d8a74b4c8679cc99d88ae10f|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Girona vs Real Sociedad (beIN SPORTS 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (beIN SPORTS 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-3/playlist.m3u8?token=156547298ed5d153649af0e016a764dcd66b31da3b72c649f2dcea22e6c7a5b1.1778786563.5880ee5da0b0be006f47900d64cc1a63.abcea022d29bd81e6019b105773d8594.72fbf9ba11fbbb5276d2704f3c3080c4&signature=6914c938ec59b5a34e75bbe669f0bc4c54a45d9d625de9d26d136a0bbb81baa9|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Girona vs Real Sociedad (LaLiga TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (LaLiga TV)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-laliga-tv/playlist.m3u8?token=6e5ea0101f131de156a1c8d49ffe334ea32b35e30f0695371223727203da00b7.1778786564.c973826396fb4cf265fa7f7c93ebfc29.76ac9550bf8a6186d524fa79cb985d50.e3204ec24b4411b88c8092caff475fa5&signature=228d22133c6373f7e0f3da8f22e01f369e81698c5e00b033cfb94b9a5c6f1650|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Girona vs Real Sociedad (Hub Premier 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Hub Premier 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+3&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-3/playlist.m3u8?token=67edcc815369f22947ff75f33f163abbee5d8122f2ad2ced56cd2bd437ecfc5e.1778786565.5c0750b8fa6a7380835f604ac3a0e6da.94a4977d71c51d21ef0c6ee65437164a.f67e524ca913243ad736cd36aea896e0&signature=780c6dad927e940a3e1e9f8516cdbd70eb317a7bcddbbfbd7bd6ca201421c09d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Girona vs Real Sociedad (beIN SPORTS MAX 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (beIN SPORTS MAX 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-max-4/playlist.m3u8?token=49c46c1bda94553b8eaa59b677ced0d028aa01b0d157f45805d11816e3a6d71f.1778786566.4f9e414b24dd7f46fccda2f679caf41f.5f4131eacc643cb802d5431526628036.eeb73454678f373da90f96a5f88fefe2&signature=43fcece0d5e607a2286ff99ca05c21304f21268ed5394017fa4a5ecf0dedbc16|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Girona vs Real Sociedad (M LALIGA)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (M LALIGA)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=m+laliga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-m-laliga/playlist.m3u8?token=573299739e25d70b6f9789835e2dec52b1e51c3f767e27287a60804f5bf2bcfc.1778786567.f34e1b6f436dfda710ac22df96ec551a.5eec0d49d4016fba5511d4c257931936.e03b13002d63d0d6a0843aafac35fc25&signature=fec86047f77fc49e46d7f50fb1f389246190f1a821b4337768c2c6c9727bf897|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Girona vs Real Sociedad (DAZN 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (DAZN 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+2&code=pt&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-2/playlist.m3u8?token=5453935c48ed9d18198487be41a97d17d201291b35c4fb90af505045be88104e.1778786568.50acc747b8ca9940a1d59c4dfd74943f.527270db0977f04524f3404699c4074c.b089ad0a5183f2620a8ffd49de492edc&signature=1ab5d21d18c0e5d4a9bc5c448f52aa196d179a2ca878b6dc7ff86440c7ade778|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Girona vs Real Sociedad (Ziggo Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Ziggo Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-3/playlist.m3u8?token=0eab6ce38d58d6faa0211f9e6a1cc6aaa2b9bf56204a6356c563d0ea2c4b7981.1778786569.2ff97d1c271d5fb0219eb9d1ce4da93a.85b3cd058b16acbeb4d9386c7e211be1.9efac57ddda74be786c57a7e889ecb78&signature=438ddfc7627fc6cc9766f662ee4b4dd2f75b5c28f6d21c646aa294f037e2f75a|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Girona vs Real Sociedad (Nova Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Nova Sports 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+1&code=gr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-1/playlist.m3u8?token=498cfdfacfc2c9f0ae2c4f23ce1ad12a1e8f4b2a0617ac50bcdaab3f8778abb2.1778786570.a06de0d4ae77b7491764b8d1130b96c2.1bfce8051bee4da2b87cfcd28a2ddf29.db3a2098a819fd523d65f861fc7f1479&signature=b13eb7d8fcde68f5bafe762a52b35102c5bfa5923e014f28a78dd2e7bf0881bc|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Girona vs Real Sociedad (Canal Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Canal Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+1&code=pl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-canal-sport-1/playlist.m3u8?token=ba0efb1485ec75f2d74a22c8366fda1a19c8e4a65c5433ae338de058cccf19b6.1778786571.b99bab0883e7f458a9e84d98410b9f82.e2358c866539ddba31e65c8589935e7d.83acc08727be95c4dd27b3616eec79d4&signature=71482a25d81d71594b0341552dc33eb42fcc8a0b048b0ff479902f66ae3d2753|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Girona vs Real Sociedad (Match Football 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Match Football 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-3/playlist.m3u8?token=c549559f2214337efe59c8bee2075ce37f33eeb8d3c97dae9c574ba3ce2a09d1.1778786572.28461e17027e85cf22a95fb880e79974.7294e5bee80139c38aba247e0720cf85.321af0a6659188557cd57bdd02eab00e&signature=78f4277b49c56806809327ed30cffe03dfde1df6ab9bae31fdea3cad16524786|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Girona vs Real Sociedad (Max Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Max Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-3/playlist.m3u8?token=85bb20490d42df9f4177892cec68d51e4f20e706be7060dcf1f31e9715cd3364.1778786573.a50de2cfbb4dfb8838e17137dddabe07.912e81a22848af732d055194477e5ca2.0036b4d8b099e7f3449fe86c1674d322&signature=9b6e8114ef02200256c54dd6e6d1390e02c5f51ea2ca1d76708cec4b4bc1a512|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Girona vs Real Sociedad (Arena 2 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Arena 2 Premium)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-2-premium/playlist.m3u8?token=9cc9b1d1eb688e1ea5cc3f5a9bc772b37b074c101660985956faebc019837452.1778786574.09c02ada762b8b6104af6e17627e88d1.ddd5260513924e338a9ac78c4e9171f6.01c98d675f8d2c9f6e04f3dcc0a788e1&signature=d5752c69394be54e97f3571104815ede06590a84bcf7eb815ff6a02bfe401241|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Girona vs Real Sociedad (Arena Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Arena Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-4/playlist.m3u8?token=351e7b2da58ec6435afba58ec3eb291db48a70597f50060a7b00694f8cad94f0.1778786575.f9f7f99d8eb02f5b31d7c5c0f6051ad1.9c90ad30ec9bbe02927209f5791e57fd.6f000a6769d2ae5ffd5dbda026d32949&signature=2e6ec4bd8b3bdb46a11dc8e610b39fe1a5a67346f77f640801426fde0e860753|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Girona vs Real Sociedad (Nova Sport 3)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Nova Sport 3)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+3&code=cz&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-3/playlist.m3u8?token=b465bff1641cab04c618b110265f11f8d661d45714fc603470a8873a3a64dd21.1778786576.07d5aac90005d550c03a616ead8bf115.a08a3c48aafd9fe685242e5e2f16d91c.417b707411267eadc602691652a54a77&signature=031620f42efb6615df53ffad2efd7833249bd4642f14e989fbbf654a9d8f444d|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Girona vs Real Sociedad (TV4 Sportkanalen)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (TV4 Sportkanalen)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sportkanalen&code=se&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-sportkanalen/playlist.m3u8?token=9c7fa8822c842ec2b0bd1970ce91f39887769d1b27a7cfebd359612f3f96f24d.1778786577.3fc6c511ff11df3f2c3c9fb05224e045.b529c44be2dbc564d9589e064c3baef3.ea0c318245fe6d953a2b0eb1c47882fa&signature=f1d880b4ccf450be56846356961dd142d553b1ed3a8808ed0636b4f607319127|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Girona vs Real Sociedad (Prima Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Prima Sport 2)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+2&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-2/playlist.m3u8?token=3368cd59c3d312cc4d65fd22bd862af1a3d33b7b3af0256bb83997f82fa5a609.1778786578.cba3d06b3c72ff942cd8e2a993504267.f75bb6071d919a8286607dedf7715718.0f4a85e07308930ac9c459299acc4424&signature=9470e057ff85a8a1a9d177753dfbcd4b91b25eba4337116d7a6e5598191f778e|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Girona vs Real Sociedad (Digi Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/24264.png" group-title="Soccer",[Soccer] Girona vs Real Sociedad (Digi Sport 4)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+4&code=ro&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-4/playlist.m3u8?token=ad57eda5ea115fb295cdae4a82813fbaa4cd5b237d551dd35a8f9e182e0e55d0.1778786579.235b9070c52c5027d20191665c681b07.9e1b64e8187fb1238467913170b8ce8c.d7f3cf9e6e5dc02f01c07f360adf4926&signature=dfab540e550521016ad6073dccf44d2533e86b329c4272fa562afbdc46ffcfe6|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=4028bf6c45d6e26fcbdd9bba77a18e59450b0e1d1a12a457b46b8242cab0a77b.1778786580.54ebf7a33ee06295bd1d89f057d915a7.edeab7e8507ba4c65e82c6760c893595.27016dc52797f27d60c456a87e354277&signature=58f552b6c0c248e330b58161475d482aeea984906f15bdba6e7d093ea84799a5|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-1/playlist.m3u8?token=27d41afd4dd601f2266939289e88a360870cc59aab09fdef1624647abb309407.1778792137.797e78b5f73e9c5f3a7c739cb40ffe46.4910f4543a3a0f3406edcc5a52d9cc34.f0d8710745d34dde983b594bf7fe3c27&signature=8206b23cbd57bc79c961ddb3074ffaafe59f69952765c338f8621ca83219f459|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Real Madrid vs Real Oviedo (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (ESPN Deportes)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Real Madrid vs Real Oviedo (ESPN Deportes)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (ESPN Deportes)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=f02f41b3a48490429b72d3376ed611c20ff8a433297144ed79ac981a600d2711.1778786581.7956b7392c895fd9965dcaa89e3e492e.302f9e3a05b8bca2815bd60d5f6a118f.438588527e2dbc3c0117114bdaf610d8&signature=2de37cd9a3a2b98ce0b1666a66518a653c9449713980cf74d1a9460854e1d48f|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn-deportes/playlist.m3u8?token=76c876da8e14782ec0ed0f78d8c636f1a386967699d77c87004e16b99c1637dd.1778792138.c61458d2fff70328e643aadcb1434ea1.6f5c46e3f262f13e9ef04caec8199b3e.c2308efc6abfda9e7f3a6e073b1037ea&signature=2a5e6a1235fce69e7545b184713fd421bbdf1216051f9551b82eaec3bcd88e93|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Viaplay Sports 1)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Viaplay Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Viaplay Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=70db606d8d3e13fd376631b42a82d49597126e1b22d8ca6f2c737ed10af36e8f.1778786582.d2433a6286c9e8422c45f4301e38cd05.c2a7d3929be9716a02dde875e088af09.62e300d497882650696f5982bce130fe&signature=9279f1bff5e0faa00cb90851d57e57aa0f1dade2876f06cc84a32eb4f86385c8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=2a4ab8bf6bed55d4d67a1f1ed699161718a3b99bbc090c44862714e7d2ad5772.1778792139.2b4a54552cbe625d5b1ac25934ca10cc.eb48e1a418b4bf7d6d73f60be2ad1526.58fc100a0f1b999ceeb04dcb1b1b36df&signature=7a2e3e8be716d92fbea8e509e9747d093abc8a9967f140da6be75d98846c1bf5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Premier Sports 1)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Premier Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Premier Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=premier+sports+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=eb60be61464f41e5d979e23df1f6c6f510c2da10d57edaa32cfab1913edde63d.1778786583.4545ec0f8377275517e0cbc0743d96b8.fcd74609516f5ab197f1db993f72d9ea.82f8140b8ea6a2874398cda434d7b0b3&signature=47134c7c7845374c3889da3d96b7547f68642e99ba873a1e3113c6b38125e7a8|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-premier-sports-1/playlist.m3u8?token=ec8347b388dec8b88eb03db9d387bf9429e0383f4a5f1dccfa8cda60e20870f4.1778792139.7ff20253e1d13d9a3109fd507b8eb014.3efdb0b6e82cbd38e96c8079802c09b3.3371507feedf37feffaed9a066de057f&signature=28decca65c7f67b1bb08bb9f9d905bf7929bcd8d2ce1ad07ec85d91daf398555|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Hub Premier 5)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.5" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Hub Premier 5)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Hub Premier 5)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+5&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=3b8b98d4eba2d947b8626d9d7eff8abce6ddfa073715c15c33230cbfa561981f.1778786584.2454217db5f2812f7da3d212ac1299a9.3b48b3057288dc272aee92eb0f71e6b7.a0f322b26436e488925971831851120a&signature=9048e69bb5a6ef3f41932d5cc788a6e9565c92a39bc18db1da9eb28f7a464fce|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-5/playlist.m3u8?token=52554537b77fcd3fff0f97cf2664ad5a98464c090bd146a8995b263a8f2b69df.1778792140.a02015fc505795150f59db857508bf4b.2500a358dc50ee8ac229ccc8067519fd.eedb7236351e5749bcfaa31c06e4c31b&signature=0bc0d9d8aa74f641958c7d91691acec6c1ea0ac0272396e471713f1eb8d561df|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Real Madrid vs Real Oviedo (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (SuperSport Maximo 1)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.6" tvg-name="[Soccer] Real Madrid vs Real Oviedo (SuperSport Maximo 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (SuperSport Maximo 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+maximo+1&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=0eb540016452e5e3febff9892dfd3198283bf7e1075ec263e442b7dc920aa4d0.1778786585.f348299e0a5ffc8682094c34e93c7863.d2f8a62ab383fb92e6c6570b1ba36ee9.ed92e18eaaa13f4a59b3ec9defebc59d&signature=34a77ca157980443b213f5e2b6cf2eef98a1032a25de62701ff3ab049f63e174|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-maximo-1/playlist.m3u8?token=bdc7ad0ead6d9eac093fd8c51e12f135e4977508376cedebfe8d565b7cf9391b.1778792141.46a8d9ac25614dbb8376367b4771976a.56694d3650a92c8133934422c1162bef.91e45364548c50c6004ab08bfa0594a7&signature=3c7a8f24ff518ab60ff7547b007837523749635717265d909b7fd1a693dbfd59|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Real Madrid vs Real Oviedo (SuperSport LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (SuperSport LaLiga)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.7" tvg-name="[Soccer] Real Madrid vs Real Oviedo (SuperSport LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (SuperSport LaLiga)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=53c09274c5a0c1a790eefd03629724a43ec999d1135e6315f0904b4b41252b85.1778786586.864dedf321d98ebf21b9fd9fdff18145.99af71e89fdc8a824d5526b398097e3b.5ded89a39cf233ceae7bd99b60e21367&signature=57efc934c8816d8d10325fcbe2c963ea63a7bc4a8d3273b5021b59b21e70ce16|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=c74d178100753a361270983aea119d4ecb2073d4267d605681c6a79691c404cc.1778792142.203428b1187267cbcab08069e86b89aa.a1b21edb3e1c0d28fb5ca91a064046f9.7428c41f0d64e03bfa207ca9358512fd&signature=22e788080b7f493dfd43b9901a31c62d2507de7dde324e43d0b6693a9e80c418|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.8" tvg-name="[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-1/playlist.m3u8?token=194b237e6f0f6863d29e383044782209b4f493216b0bb6395f0b16672dfa8dc5.1778786587.8214417abd83046408814b454be84506.30ba8f1236655cdcdf40a37640ccf021.c8e8f011c23dcaf7f3e463971c62a509&signature=5f7be8800f9e8c1872d84111db77b3e1178345a861aa73117bc16bd2fc1148aa|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-1/playlist.m3u8?token=991efeaf1c8af9c2915d88311f410d449992f0d1feebf7f8f312d7ef0633824e.1778792142.d574d31e6f2b838cd343dd36288c02a0.8d81924e8ed38ff743062e497d360d52.060eea29558d330ce4290d3c0be4bd19&signature=26f4ceeb033ef0303b954fe216c91fc057754c1d7642954251d237dd268dad99|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="28" tvg-id="Soccer.28" tvg-name="[Soccer] Real Madrid vs Real Oviedo (DAZN LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (DAZN LaLiga)
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.9" tvg-name="[Soccer] Real Madrid vs Real Oviedo (DAZN LaLiga)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (DAZN LaLiga)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+laliga&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+laliga&code=es&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/es-dazn-laliga/playlist.m3u8?token=4a5efb8bdc2cbbdea3168c817b0d44572627d294635f9cecf1e13d575d189127.1778786588.9e276f8e3be83ac7879d9d474464ab98.a5707572c59ba1c0e329d5c7f18715a0.31862634e27d88c08f464744c2db9464&signature=fb346ddf6f5d97c8338c41bf59f435da7f32bf24d90e7de4cdb95aeeb535fce3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/es-dazn-laliga/playlist.m3u8?token=53a837733a8b7cfe369a884c755577ff86f63c55518b7606f7149ea572f8ec15.1778792143.a63e9e0e0278b9d81cb8807c6693c659.97ad635205e696e9b9e17a0e6b59143c.57e396a99dba0de76d9748ec04353eac&signature=e1b0e9c690f2069d2d5a512f1ce849031292ef86967fcdfb595aecd8b39aaeb1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Soccer.29" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Italia 1)
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.10" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Italia 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Italia 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=a0c21e5e8deeb6a408dc650a9e3233974d03434ccf57d9035882a9d89ba148d1.1778786589.c6f5b3a06a2919c5a169407818e3bd05.6cb9edc42c311a92c41d55feafeef051.2e1116ebe024329fe8249e5720967a5d&signature=7539f921baa7268b72372ce5f9b044e0a8aef0517005ef1ef78069e28c006f1b|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/it-italia-1/playlist.m3u8?token=80c48b36783956862928379641d5eacadf3ff8e20724f18c5309615f7080949d.1778792144.5a8b82b2c8f3cb1178b9c552049e7181.850f3bb9f57215ba2a165d816110ac7b.1b0ec474974a3bd59696cadd470ccb9d&signature=ae4dfde21c7a21e448f1320ac874c828fc9afa7e5975a0a911a6b00595101c8b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="30" tvg-id="Soccer.30" tvg-name="[Soccer] Real Madrid vs Real Oviedo (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (DAZN 1)
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.11" tvg-name="[Soccer] Real Madrid vs Real Oviedo (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (DAZN 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=f961d7da292ecd3835263d9e9b3b27c7bed63fb2a18eefab95f04dd0d91fad43.1778786590.a1f49fdc1bbbe5208e3366364fbd09be.f4a2ec0ba269dedd79707d82b3136cc0.107354d1482b3f1e33c88646e206b888&signature=65ad865c8f543d44cf0dca70bdc92aa7018876e310e74b52df56c8936f7d0fe9|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=0430ac7b63c3c64b06f392ab7bfa9c848b97a400ea33b6ac62948cd83a352b91.1778792144.36b3fc9279039b3056a0d54683c13d98.5b222dc65522cb315e3602e4135d0525.fba68f98aa3ff32b90e232adc2f55aa4&signature=ab1f1f420d3f08ce8a1a55a440d6998f39e30ff354769af72ac1a538288c5b05|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="31" tvg-id="Soccer.31" tvg-name="[Soccer] Real Madrid vs Real Oviedo (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (DAZN 1)
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.12" tvg-name="[Soccer] Real Madrid vs Real Oviedo (DAZN 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (DAZN 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=fbe272d86108d93b9fa1efa4fdb3c70da10517b968d88490435daa415242da44.1778786591.9b0fea43afb86c993c00f9c1d8e3a883.5afbc68f959047c201e023eb4888985e.94e055ab80b24382c1aecd794b7b5ec8&signature=bcc5a2e4d6c893c5316519333b967d899ba8817315423ba069e670bf902998f2|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pt-dazn-1/playlist.m3u8?token=4d7ef68e95a80c61f6e132fd223656b8f14fa33c811daaec85899586a1a94426.1778792145.e0b64a12b558dbae62bf20cd2657f5c3.c9983bb05adfa323c3bffba2ed8617dc.566415fd093fb59c1c79d788cc5c22c7&signature=4b8b9aaaaaae045c5e87558823e6ef5d3c56e1cb7e21b83e584e10481263b275|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Soccer.32" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Ziggo Sport 1)
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.13" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Ziggo Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Ziggo Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+1&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=76c203aba2118e18c2f7ef52195c59f2894effc46054f5e645d03d8a6110902c.1778786592.dc6b8915e88b4aae6fb06a954a99a676.1d1ffc34964f58fe2f53f74a163a9af5.c4cfd520c1e321b9ba1d4b30a7b73f04&signature=40bd521c5fe1b62d261f351d9ebda3144ccaea3ae58197b7773e37015d3a98eb|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nl-ziggo-sport-1/playlist.m3u8?token=ac963dc9b0328f778ae99caacf1e4311af6d404eda75349b2f78673efeef671c.1778792146.7005abd0d93959d6d7ced857a1b84fc3.e4b999ba11f1b0fb910dbc8b08e76b55.783e1c5f028c4a5ee2edd6e11412b649&signature=a92487a1d24090ff2f8fa296649da52f327cdc8468cf0104bf7a4356cb3282ae|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="33" tvg-id="Soccer.33" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Nova Sports Prime)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Nova Sports Prime)
+#EXTINF:-1 tvg-chno="14" tvg-id="Soccer.14" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Nova Sports Prime)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Nova Sports Prime)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+prime&code=gr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-prime/playlist.m3u8?token=ee6a5e4fad5a29eebbc1a3b1560e3dc1c466e142c682792bc3b26e3d1708cb81.1778786593.e92005cd0bf7875403d5230efdf2cd20.099e3f585ece44d680e5556ee846e5c6.93e42b4db6490907466558fd24d5d531&signature=1ebe49beba59ce98d0e62d1b999fb488bd87c0998b259bcaa0fad8a00011b332|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gr-nova-sports-prime/playlist.m3u8?token=85710cde1409fd47173a918591a6fc86fa15f5b3ec5c73bbdf17fef3a2f53ae5.1778792146.00b887c9a27c148b6ce7899bf59019eb.33778cf39c2e049398839b01b83f7000.98e88092a46babc4ba1e314c37a6bfba&signature=326966030d359520c59995fabd6ef2a23557ec74d78141000f11c427ff85d23c|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Soccer.34" tvg-name="[Soccer] Real Madrid vs Real Oviedo (TV2 Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (TV2 Sport)
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.15" tvg-name="[Soccer] Real Madrid vs Real Oviedo (TV2 Sport)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (TV2 Sport)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv2+sport&code=dk&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport/playlist.m3u8?token=5e544ac9b60bc6ee05b89496efa0c4f31161ed909a5479f1c0ebf71c76525374.1778786594.caa858bc4ebf79fb4779d6e0038ba2cb.798f9a2c8fb1d886e8573fc81cce76df.7d1ae510c538af36be56a41290d40dc3&signature=08d17c36cb9bd23bfa424813aed5479beb5b2218568c1d7eeda3725189d4ec74|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/dk-tv2-sport/playlist.m3u8?token=561eefcd2cafccb827519728f52b076c217f9dcc3623b3741823962b177fe31b.1778792147.bf56b3b4a8342e9efd8ec3f09ea0c88b.94bf2abc1399d28a46071f4ef7c7a7c3.169b2d7e194455e227c6697f75ec39f4&signature=4322b04c4632591ecb266b0b25f1f513602509f7086c513c914b11043e01f456|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="35" tvg-id="Soccer.35" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Eleven Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Eleven Sports 1)
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.16" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Eleven Sports 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Eleven Sports 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-1/playlist.m3u8?token=5070035f3ef9a9194d0ff001d490e68fe5cb9cd9188e1c2ffe7bc054a7225b33.1778786595.4511bbd8e4a11acd4a43a4b8eccad471.7f3c5e567a31a9569ae2c4733e92a394.31e38d2582cf55bd7f96d1cdde9ce21b&signature=34d568214b56974c8f1c67c625d964fa94350ed159400f46f40d86be4f301932|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/pl-eleven-sports-1/playlist.m3u8?token=6be3c4f05a90f8e609f438d5c87bdd9643b65594f03405dd509dcd16360e3472.1778792148.17d2f08854c6affe2c900df98b0feb04.f9b9870f1f42fb8c2eeb922a85ed39e9.187196e9213cdf766327de0fcd6786ea&signature=5a5e8c5c0111cb8af8e19f76230cb50c37ef7cd9c233b753fa61ae944bfb6f54|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="36" tvg-id="Soccer.36" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Match Football 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Match Football 2)
+#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.17" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Match Football 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Match Football 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+2&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+2&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-2/playlist.m3u8?token=adde1fba532f85b353f51f09fa4f60d150969f6797c17db88def11197edab604.1778786596.afe8dbc0fb5c04f492f1ba23675c6c60.3742af0f9814f574d4eaa5d221e1b394.f840369044fbc0609439f5f69c20537b&signature=ffec1365ed8101d86172c1aea205bfc5eabdd6e722da5f53f7126827878ad429|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-football-2/playlist.m3u8?token=84cc4e691a15b21c571d87fc73a7b37d3cfc4891b75df03150d63cfa4ff1c4b1.1778792148.deaad448c0e95c861af0b7f0834dd9b4.66a787a62d4dd11ede8f56c8c6cd18dd.fd56c4680606f03d0a4ac0a628c4eee1&signature=6dd12004cc9fd3537bfe47e01a0884f178207fe3b1e00fb55b3d4763d816703d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Soccer.37" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Match TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Match TV)
+#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.18" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Match TV)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Match TV)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=match+tv&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-tv/playlist.m3u8?token=932a3336ebcf2f7622d6a46fe77517747827f52bcc0c65fcc944da6aba5684a7.1778786597.cd03b3eda96d88876c8403beac320775.0a8db814a52bb8a027f433f1aedc25d0.07a17a3266dcd6f543ad04214522e0ed&signature=3f49191eb66f65ab5f20adfafa704f27efa5a1fc743cf5a89161f3e9eb4073b3|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-tv/playlist.m3u8?token=b857fb76b8b63f19f638ab4bf8e5dd85df1f52da3d0ff9f59a7834f627e83723.1778792149.a6afd11c61602946d2a8b59a047c5ebc.8bbf5a5960279cb211f0e6589f3dec82.89905b29ce01e0f69ebd56ae00a66a4c&signature=bf02987dfe1d68eb03b5dacd8f7a5b9302b0fc64202a56ee7638f73046469d7b|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="38" tvg-id="Soccer.38" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Max Sport 4)
+#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.19" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Max Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Max Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+4&code=bg&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=8e4a2d384b13b115e8435f7548b62ed005319cd445ee9f9d3543d53bac2f1424.1778786598.a3cf52a582ae51c53cca9d57a1b77e1c.668fb212c2e492796f707557f986cff4.c4f40b21c630bfbc8ae9a2b8c521294f&signature=854e9c8e021ced56b2c1fdb0724c4812e2bfdd74cfd36318230ec7053f973919|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/bg-max-sport-4/playlist.m3u8?token=1fc539744fe71f721abf1bcd54725d30c319f3590063eef80c0b62c0ec342af2.1778792150.fd069feb18b6736134f8e47c590f4cef.58bb83bf578f0e3c60ceb707af102f02.8f9edda0f0b3f0ac96254038c1d86b04&signature=7bb7e359a16fe255d3a89ad77ea9b84b29fe6b1861e42f8a9c88287156ff4b27|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="39" tvg-id="Soccer.39" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Arena 1 Premium)
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.20" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Arena 1 Premium)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Arena 1 Premium)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=a18589d09021d139cddc6b25ec08b661fef08085cbf2dcded8ab0c0ec92b67c3.1778786599.eae1737a2f0a9dac52d78d86e57ad114.916c91c7cb19bf18ec0e4f0a2aba61e8.7127d4a41fef0a695764318bcbee3f49&signature=2e73d927c75dd2fca4323b5516b43ad81aa7e821b531307e25a34dca26dc8719|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=fdbb9969f573e0807e5175cda1a81539235c3a2a7d1cbba5597db124f333e0f5.1778792150.e64d1ce5b2dde8ab6dbf07ff8301cc14.3cc09029f7703f78b77c18ed0014b214.820de1b1374daf4b28fc210098f37b63&signature=e88de526918946c0c2648aabfad1f15fa4f6ec18a95529cfef6a05a06a578022|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="40" tvg-id="Soccer.40" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Arena Sport 1)
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.21" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Arena Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Arena Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=hr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=a8257a9284d5bf2629902c4c5c53ace0c8fe2d99f2129c5e91f41d7b49481adf.1778786600.dc49bdb3b10e1e9d571954d45fc80284.17d72385ad964462bf14b4447808babc.5c93998d1d90a28a2da496615a0a7445&signature=1c1a6a7d4d9197a62507348310da3ef278d5514a8888d6ec1b3347e9e6664184|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-1/playlist.m3u8?token=428d1a3cc0388d229eb806622f1ec73ddfe4c89b9c17b196b51ed7fc17e710f9.1778792151.cb2351186e8ccb56d35f009d2b6bd5bb.2a12c430b626a0a7b8544a9bbd3b5c23.bb55e4c34d029ce8e787b9a5b48cd31a&signature=3a629b7edee416f212a9e3c4f5dc1814649e95ac59613f8f31a5788e727bb14d|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="41" tvg-id="Soccer.41" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Nova Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Nova Sport 4)
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.22" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Nova Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Nova Sport 4)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport+4&code=cz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-4/playlist.m3u8?token=cd7c70a4c3f97a51526bc91d5299eae353320fcbc613d60d888d4f20e82c86b3.1778786601.cb5fd39f9c9b79785c248c21173e3a52.7ee0a61c39b4b21e4998305721e45888.17f0e1cdb5e91704b4e977ca6b873a13&signature=bdd636b31a40e11a93e02d3aed3b7c7367fd39a0e5cc4afdd091cd6573e4dd2c|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/cz-nova-sport-4/playlist.m3u8?token=71dfda9f4b81897009576e00b484d4cd31c71e385c3e66c98e56a434f8efe115.1778792152.4f12514d0330082082fc779a8d0a6316.421383181113c967a9119c87fc1ca91a.a1b314acaa544ec870c99acd7b4f4b35&signature=978022eed23472c6d3127a9443293059144b09186eedc32c028d529f7061a1c7|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="42" tvg-id="Soccer.42" tvg-name="[Soccer] Real Madrid vs Real Oviedo (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (TV4 Football)
+#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.23" tvg-name="[Soccer] Real Madrid vs Real Oviedo (TV4 Football)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (TV4 Football)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=70c7f06c9d8ae117a81906f5f8e5300fab4238ddd6687b94ca97e2bdc5d84bfe.1778786602.48615cb28fafeea2e91044919b603348.1a168dbef8196ff76331933fd74cf662.6e63c3648b280559cd9c2bf8422a7ed3&signature=b1eccc1c083486ac6bd302e9c251b5c729d60e050e5923384d9fe3f045af6d0a|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=88d78ada7697b283c06c52e3ca5781bd51946958d1c901c8eecb22c880338e1b.1778792152.290639ed490b2849aa4a634a66711775.20820b8315bcf6fe5d23ee05790d7556.7752ee956d38ded535b96d4556d3df45&signature=0ffc7150bd1f75e14b431c0852b6b69aec1e77e397854a881b32e9e94e0e22cf|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.43" tvg-name="[Soccer] Real Madrid vs Real Oviedo (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (ESPN)
+#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.24" tvg-name="[Soccer] Real Madrid vs Real Oviedo (ESPN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (ESPN)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=br&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=7b58f29969f7fe2ec4595d4df8dea526b109ca1135169fe6be800f0f143e397e.1778786603.52d7553969e1f6def2e3c9ff19dd5d42.7a62d0b45c4b63c62d1bf7a5d0b907b5.61e914dfbf5743da05fb697b04d4d0e6&signature=4e7eae51b4c634980113d4fe4cb6bfbe9fcccfc630d7a988d6faa64ef32f5b43|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/br-espn/playlist.m3u8?token=91e0c69d980960eb8902acd9875815c430c0bf4fb7548f907fffbfac7751b56e.1778792153.03e109d0336fc08504f97a2b4990ebac.4cc7aef8e066c87d14637594bd758fcb.78d2d554b52605c55fa93d0aca448503&signature=62548bef9aee8555ea05b63d0c39f678b3ff08a105afc2f1c136ff6104f02075|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.44" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Digi Sport 1)
+#EXTINF:-1 tvg-chno="25" tvg-id="Soccer.25" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Digi Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Digi Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=d469d87dd674802090567676ce55b97ee1e3b5fc04c30952fcc111c278c83324.1778786604.41e3201ca69d68761e8fca6bfd5577ba.db214ceb3319839d0a05ea021a3f5afa.f1d7eee1e8cc8de4776d2c134bbbe5d8&signature=cf08d2c9732c0d9657c0290bf5ec7f7cd6aa0016067d167f7445feac02343194|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=36b2eb4795c96abe6247dfe65ba71c515b61634a138f2671c29607aa9c4d1e93.1778792154.7225c4273b897b9915db8f464ad5e2af.24b2ea806057bc862e3f1984df25743a.572ec793231f9f021d11a95a7f82fda4&signature=17c9b85d023a3626ca828457f4ce75769a811771c83a80f89fe3a3c6fc55e12f|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.45" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Prima Sport 1)
+#EXTINF:-1 tvg-chno="26" tvg-id="Soccer.26" tvg-name="[Soccer] Real Madrid vs Real Oviedo (Prima Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (Prima Sport 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=1f86c5d87eab7ca2cf9473e2556a438ed012dc966d07b567d84ff55e3a1cb30e.1778786605.943ac13d01975ff435b7475f508601fd.14ca845b1f4d33f3e19ef8502384c9ef.a39845672f3ec6a4b3f9926c80cbc8aa&signature=dcd9dfd59237cdca8aec0985cd74e166e77032ae5741347e8ec52ba6ef220b75|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/ro-prima-sport-1/playlist.m3u8?token=e1f71ba4e51292bf9dfaf17a66936c7ed561f4f4c857c7b6f943395a5eb22db2.1778792154.24a8fced37081442d39dad35ab3f8786.4d55d4656108b93e9d7ec7f27ae9d4d5.643774ec0e93eb5cbecc46b6dcde275c&signature=0af5b6ee17e7f183cbe453400ff6dba1921965f08fdaa0d26c3b31b5072e13d1|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.46" tvg-name="[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)
+#EXTINF:-1 tvg-chno="27" tvg-id="Soccer.27" tvg-name="[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2829.png" group-title="Soccer",[Soccer] Real Madrid vs Real Oviedo (beIN SPORTS 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=598bcb748ae9fdd82db7a26942c918e0ca1ece34be90e9907e1736618eae6113.1778786606.c5842170de0023ac3bf7a0586443f281.57d6708093fdb9555d766e926ed9862a.ae69beb35ebf11dcc64aa334540ce2d0&signature=ede891b3536b7cb3cd46c8e8210d0855180b95160d177b7e7480d238851c3641|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/sa-bein-sports-1/playlist.m3u8?token=e285c747dcca66cac97c1569e9faf64cdce3a6afbdeb9065d470981c13b41e4a.1778792155.45aaf8f0fcefb1fe96e7a2f8e8df5d97.a1fa57800d6d2470cc4dec1eec57d6f1.5847da3739b38fe356a25e7943767c9a&signature=1563026ba822d03b39c0225f527499167ed460fa46226a20227e36a289c9d456|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="47" tvg-id="Cricket.47" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="28" tvg-id="Cricket.28" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=0773752ed4c3fac7282acf7cfc30abcfe0c54372b195d1c2ecfae248ed6068af.1778786607.36e880aa99620ea96aef82fad5465ac6.c98ed24a6c7058b5a4d498f0ee64751e.1978beffce7c2313908672c2dfa652a6&signature=9fe414c1840c672187962a19d065ee41eb396e8c3daf52968056a36bd3d638ff|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=383103e6f08b71e7d381ed2897492938235e552a4c144ffd9aec44457602103c.1778792156.2fafd62856f42e4d917af0328b5472f9.5922673b6e41ff91a7a8ab7d72425982.fdeb1b957ba74316ce005a67fb15d02c&signature=5c87351ee5ee85b645c63d83d74c15eefef617e3a12a8859010abae1b8d25220|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="48" tvg-id="Cricket.48" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="29" tvg-id="Cricket.29" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=d68c5e819eba09cc254044fdf475be41d69ea05d5b8e6a228f2d1b67583a8451.1778786608.bf4c3b6d1ee53b4562e564484471f3f7.662dbba592cf1123758319a5902fa235.f14347bca6a272bde152ff8627904721&signature=f728dee2c805ddf8c258a83fe7b388d3169c9304dc96df137766939daefe4b9d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=2d51c997bb4ddccf8889858cb80b68577d16d24332ccca5f6e1db48713d87d65.1778792156.699365a92b9144b3a687d2126204505a.b20ccc94d0373b2a15983f7944b726af.05d09986816febe238867eef7de0e15c&signature=b8e5e3764c9854b5cd7d0f24dd66b4ead6550a61f0f25b7453bcee8f4eae6446|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="49" tvg-id="Cricket.49" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="30" tvg-id="Cricket.30" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=2392f06f0f37adfbad1e020f8e4e4de9c91a22640ce108bd5557600988e43668.1778786609.8fbeb6b9077141dd46a77c742c75077e.bfa2cb4a11d795d99ccd5f4fddc9f78e.c90a17e222bd10ae977f9ec05ca31e6d&signature=2694c8067783ec64bc851e2815a3fa25d21cce8cb3984a9eb51d01cba1d724f6|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=8f2bed13450ccbf7aa2bf2bdb743b674fb7ee4a2a24174d71afe2d8d0ddc99ca.1778792157.4b83d9bc8ff482ad94eea1f26b68d50d.d7577398809b0bb76df410f683929c5c.01b34890103c775d6100ea2b61c6a4b7&signature=ee156960be782d2ebd30537a6f28474facb141d7030ffaedf386e4f868e3f6e5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="50" tvg-id="Cricket.50" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="31" tvg-id="Cricket.31" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=e88d48a79d0b301ff7e5744968952b06088ff245cf6330997f4a83e56561ecf3.1778786610.daf831d01c9042351218cf2cf5eea09a.373c51464e291f98e7cfec627d4694e1.853f5979ec2d1b31f755fbeee7b284c3&signature=caf7b2d26e3ec8335f951aa74af3ea41128dee2cc2f6b27fed0503893560694d|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=025aff425637f6c2fb4259b7f739a16f040ac51c65f547d4fb51311f5d0c9d2b.1778792158.7533a7e96a88adf0bc986924c7f9a95b.e6c839df37a7b1fa3aeb9ba2f2e08066.a3b60660ab7449d1b8edc1d18842b8e5&signature=fa77174f7ae8b0da48f9fc83dad968713c554d07d8169ce81e3f2e218f8dce13|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="51" tvg-id="Cricket.51" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="32" tvg-id="Cricket.32" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=93723dd2a44ada347b4da9baad4f3e6ebac490d67a3a3eae90177e478c0597f7.1778786611.8bb8756bb496516cc3cfc2cae098f6ed.00d4b0640476cf3bb07e9d80c77a123b.db8214ee0cc4584d7f5cc224b7ea85ad&signature=4f49288d371a4b42211fa0b1033e40308fb17f6a265b47dc8b19a44b16039dca|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=01d4e9c9666ae06c6066dda5131d684b1ae977b120720eb56b0b20710a17c638.1778792158.c3f87cc40c59b4b131eb3b92176526bf.b813e5207e98ba335f761655308704f5.bc41584d57b8aa05646c02bbc6cd9139&signature=94bde7b969d65e02013df5b84cb08ea5072e4d4395709b5877d5bb072f3f5da2|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="52" tvg-id="Cricket.52" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="33" tvg-id="Cricket.33" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=41868acc36b1af482dd40db7458306471c72a5b74c019e947a41a082d9573e63.1778786612.1efeb1c8f35944079fb98de6a267e83e.def595764b5bf5fdfadfe524b7462c3e.ed0b8945ade77c28cd04d47d2517f274&signature=0d4e171350d74104787f37276286a58f6c2d843706d141a5475385f7dede5fbd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=51f8ce5287fb7807997d229a8ab2615765cd53874fcc54e3023f10ba19106523.1778792159.726520c7fec2f31c4e3076f8b0771032.7fe5f13f0f2b94424d49c6339f96fa19.3d74b327bd62306e6dd38862fa789288&signature=9c50243cb1368633f1151dc93095524bd9f41837f1805e27ba6bf8de443afbf5|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="53" tvg-id="Cricket.53" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)
+#EXTINF:-1 tvg-chno="34" tvg-id="Cricket.34" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=a5f5151c911f8adbe7bd0727085bbee203e4041529643a3db51788894a4ebe87.1778786613.21a88fa3b9a770ef1e20337ee2617ecc.dde4fc3f5073599ad4f67958e427c2c5.1ef229c2743684a040696058e780633d&signature=8ae4335fed813b96c28ea4700d2c6973a4c9f181ce001b7ff306e6d2f819caa1|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=f54dfce793a6b7755138022fa6d67837b6ac4ef9b5102ee35e9f0a6c3006ebe9.1778792160.33ba456036f72918e849021a7d2a0e83.c7ecbf082f1d27ba997cbb5c145ac8b0.15d2d93fdc438563bee6cd61c29d04d2&signature=93cc84ef5a392940212e80e0830fdd82691096e30a59ad97f2f6557f3161defc|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="54" tvg-id="Cricket.54" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="35" tvg-id="Cricket.35" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=15b9485d5ac0eb2935ee72d92402cd890bd83f9f0d8b9d94526afd38d440d03a.1778786614.11bbc0fc0ccff10490c4a96d745aca22.93a4ba1b1c5d2efb0cbbf68eddadbc90.d1725d4da94ae3893fa5d4a04fe25e22&signature=9cb8c551a25ebbd81868276f97668410c2e034ea7bf08453da50029e0d0a5590|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=c4551b333498aa329013918999d21943c0b26695db962cb8ab58fb7118fcc636.1778792160.fbe954e4d6a1e135da9ae37b195d9343.6b9f74123af01667c287b96189131a36.28a9cc43955e23c6b8b91f1c3b2cf79d&signature=f6555fe62a49aeac9cfeb87e59199bc35cdb236a7677b0cdb96f0ac88ea08d92|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="55" tvg-id="Cricket.55" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="36" tvg-id="Cricket.36" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=f4b51d0205cba5d44ae9dc6a3e30a2795b0183d36545d5d64dfd1b3a1e008803.1778786615.0fff5c32ae649a4ee088fbb6db48d60e.c9a3f056f5260955a923871578a94714.eccfe3d591331fe5fa01dcb3595f9aa2&signature=b1b2a17ef2f088754bb9d700ae68c994ea1e5113486ec35aeb3503e5ea18a812|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=3d086f31cc87bccffcc6208db0f7ca79638faebfd288de8a31e875265a2574a7.1778792161.c75ec98e4c9f4139812ecd64d7ca9286.18588564dc94cd5f7efc567a10d82458.ce270e35d491b964c2d1277ce92f1176&signature=58a2767f8d49d08b35353ce4e86e2091a4f251dc3e01336585071f157561a168|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="56" tvg-id="Cricket.56" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)
+#EXTINF:-1 tvg-chno="37" tvg-id="Cricket.37" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=955ae50b57d8d298b0852f9d1c9d206252187bc91415d6f879b1ab18365dacbe.1778786616.cc5d70208f92739445ccd9e34f7269a2.1934b08c33b6e58dd988d09c5a50893e.d006cd861dfb35aaa43b88a3e2094cc2&signature=ed77a8e5c0100486894c6475b5afd14a0ac2efc3bb74ff15402301a453b35569|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=9f8bee168823bfd7aabe084a3ea542d8b244f88801e9c1fc69b501c5892631c6.1778792162.b8b230e9fca3334b43968e1a9d7622fd.26c1deb00f5c98ca9ae940cd1084897b.d668625add1f6ee1de409532e690995b&signature=266fe271ce2cb2bec29b70463141935559a6ef9a322ea2b7a82ba485ca6cfba9|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="57" tvg-id="Cricket.57" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)
+#EXTINF:-1 tvg-chno="38" tvg-id="Cricket.38" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=0851725bac31cc621bec675b34017d863246feecff6de7f89b9b86783a4460b7.1778786617.2357340c002e02ce3c9f3b2c3ec3e811.2b25057e855c1609bcf76b96977c9c68.6ef4a5d8241a196fdd5d9df7a52a0291&signature=8e02443dcda55a132c58f21d4f719205a85fba19f200a3231c06080a3cfe5c87|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=a5ae4e93ba7db946cb90940bb2c40d8141f94ee0326180f121d13dc3675a1c7e.1778792162.0808dfd01fe3e646dcb92007d59f690c.b97d57e005793678752f0bd345f4b07d.9e0f297e3e0e7fd59c8f6b4e5970dafd&signature=e9b0265b6ac9ac6f3677656d42a81a9eda3a2431266ba1fe72b59c74d10b4716|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="58" tvg-id="Cricket.58" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)
+#EXTINF:-1 tvg-chno="39" tvg-id="Cricket.39" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=abcf461fb36a19ee8c5ab45046c299ffe7f83fea999a67736d25285514c14684.1778786618.2e03e3a1725c2963b02092dcc16f5816.9d621d60487c95cf34c54ef5b20e5f91.5c45bc65750f0dd5dc5b331f9226b3ae&signature=7c3ff633fbd342c56ab6df4d7daf91678ff3166fe1bf0f30e79390f3188574dc|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=978503dd96cee0442f00134ef87360597d706a90736a440b09e137ceaf85f68d.1778792163.eed6243ae3f8b9aeca0d04fa781a9409.08697f81451a2741fe227915dbd261ed.142960f33978b3f2e5dc5b0c559d66a2&signature=5ea743638cf3431e682ae7e4a88f44e0efa049316242838907a1029925c3c675|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="59" tvg-id="Cricket.59" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)
+#EXTINF:-1 tvg-chno="40" tvg-id="Cricket.40" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=ac87be36fd6d56e77a471f82f7a0e093095a1440b2e4be2eda18a248dbeda078.1778786619.8d582c2ea06181bd72692013079cb2db.26acd28d7f6eaad1cbbd812dc75e2f00.b21bf8b8cee638ff95e35a3ab5d6838e&signature=ce10a0229e2761fd3286591c39bb1f52b9c35d9d29896231e3e00f549ff9cedd|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=97330147bb32fa63d43b9c4f51b5546910e2c4b933bc395db59c524d8282491c.1778792164.b09ea1cfe4fbd39120fcb1c4bdf819ed.2f15eda6cb3a8864bf18bb20c13bf537.80c1e512c357558588c49148e5f4471e&signature=9508dd70d67c63d52e2d75f6e60a0755da72c613edba91ac7a9d3efc8d3fb9bf|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="60" tvg-id="Cricket.60" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)
+#EXTINF:-1 tvg-chno="41" tvg-id="Cricket.41" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=17fc02a1dd67c123aa5281ddd36074764520ab3e4c73d8aba54810d2c09de126.1778786620.67c5dcd873ddec237802fbd7a088f77f.eafc0067456267d198aec9e5c2fbb4c8.dd5202f16402492e482d5e97772b8875&signature=2f113d94db8d2063b18e894bf5b152d85eb7a974d0c9079a5eacb1ed47008e95|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=4ab8356bfda8e6576ecb9387320a691a64a513f17dc8726bc0b3a8b4b24add75.1778792165.8bbe2690027f99956a5ea6ea11261959.543c99e78e88bdc4ad406b3db6a1029d.790bd6cf1965f3de77abdba56ef419fc&signature=0c929da57c6257abb9c7774d50252d5116a41410938dcbd0ce2a40b09c4334b8|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="61" tvg-id="Cricket.61" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)
+#EXTINF:-1 tvg-chno="42" tvg-id="Cricket.42" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=769f2b865e12729f8eab9f8c7fd296faba5c7084b013d6c55388bfc88c436fad.1778786621.433439118a8101956486da308aaf7d75.b9559d8a77c0115c4ef256f31d27d656.47d9e968a218922be538eab806b4dc53&signature=7f74637211c8b77eade66440a6e225a90439e4fffd3640c7e9474985527c0d72|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=755f75f29d40982333ee42bc469cc5fce6be9a864d0ffe37d5bcb9e287f3acd0.1778792165.2f71b9dfbfa672aa409a013d03fd9378.34ba85b42a740c7ec0a9bf2893e95f47.461e2dc7e7fb8232f4e5e0221310445f&signature=589f53f6d655800ad95b26a12dd957fbcd71a6ca46c4127b92229291d335176a|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="62" tvg-id="Cricket.62" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)
+#EXTINF:-1 tvg-chno="43" tvg-id="Cricket.43" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=b254107ccc008e244c59c24d845d0df425fd2ba4e10fa08a2c396edd7b21a25c.1778786622.fd7a605fe44a61f208be3b299e00d4bc.ff14e3d25d8f83e518c6b2f5cc376538.0a7e52159e792e0cbb45ee616271356a&signature=86126396018cec3451120ce0771902d5b8e42d552f006a8e605a3b002542e096|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=934074ed2c543e23db86fb28819d5f78c75a4d9c3e4aba30ca30177c7a5caf88.1778792166.b31044ff9e95b5be8c93af9664768681.015ffc0b27a05943d6d010749cb3fced.a500d78314267393cea44ebf475f9f8d&signature=f15e342c986a0d361179a62574dd17a0274594ce96be8ab8b6a104f3a6cd76b6|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="63" tvg-id="Cricket.63" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)
+#EXTINF:-1 tvg-chno="44" tvg-id="Cricket.44" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=e5965d693a8a132fb06db2b4ef9202cfd827384074eaeb3a3fcc35357777f85b.1778786623.fcbbf374ae664ff8c890a535738d067d.cb2175e8d93c8c726070de6af86ae56c.45e49ce1e0ce09c7cfd86840e99a2dd4&signature=972e599c1f87e9e2200df50dbee32a01941ae5a6c9d72e9f638fd8a773880422|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=fe3a539263d10057167d333c8ccf510c1c42535fcdfe5f346bd496c4662e6f5b.1778792167.31ae7e2db468facdf963cdc85568f79a.67b901d04a686feb119360332ef0c58e.f02c27091cbe7cc60ea72aa10a5f08b4&signature=94b6e08c5d058f94674a63570bf3848ec8c965a6be5b1d92206b9dbcb06ccd59|x-forwarded-for:77.238.79.111
 
-#EXTINF:-1 tvg-chno="64" tvg-id="Cricket.64" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)
+#EXTINF:-1 tvg-chno="45" tvg-id="Cricket.45" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=ca54e3083cd9384b9e84e5499c8e4fb48ae715893b54fae23d2ced29f85ac699.1778786624.f51e045271a6e720c64d9bde24580f7b.66dc64f159af683dd872d9a1e0f4dec1.444801a3c347b39ec3e281ce0b2bcf42&signature=291994d6291e639a766e07dd64457b0ed95b0c76b729164958234c7847302bd0|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=d7561094b3468698935a2fc867569846d63e500eb4471adbbf9de9d8340707ea.1778792167.8559f15675fe4381aa8dacc869a8f093.5824b036286c69336bd4127ef9724fd6.d2bfa8649fbf43c0a16100dfc1235455&signature=4274c0c37968a0a3e8f46f2d9fd73aba6ea4a8aeba82db409c7427f27db0d55d|x-forwarded-for:77.238.79.111
 
