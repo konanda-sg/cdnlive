@@ -1,13 +1,133 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Septemvri Sofia vs Spartak Varna (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/201203.png" group-title="Soccer",[Soccer] Septemvri Sofia vs Spartak Varna (Diema Sport 1)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=e5884c8da2a4a10755b2881f7a1e59f668b4711260d98acb117ef85c87a527e8.1778757773.fc6edba671bfd75349a0a8dd8d174b10.13350b4e6ec2634d1360b0100a826b91.2dfd69ea9ef373960a3d36d78708f5a7&signature=8948585e379a5eab7057a7749df86bd4e19fe5487d0153b918292406f970fcd1|x-forwarded-for:77.238.79.111
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Septemvri Sofia vs Spartak Varna (Sport Klub 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/201203.png" group-title="Soccer",[Soccer] Septemvri Sofia vs Spartak Varna (Sport Klub 1)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Septemvri Sofia vs Spartak Varna (Sport Klub 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/201203.png" group-title="Soccer",[Soccer] Septemvri Sofia vs Spartak Varna (Sport Klub 1)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=afb915a4c9027a23892aeffa50a46d249c5bb51bac5df7e3d971eb41918479a4.1778757774.2f7c04c710aba7cc7317a9aba0fb9709.c07e2e32e22cbe61e714e2fc5b73b1ac.627a95495e631ababad91e447fc80b8a&signature=ed66e1ba06f6fa43259220a46845172f0f4c5d4ffc90dd5fb5011e8c2d25361e|x-forwarded-for:77.238.79.111
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=b46706cc1e302192cda14a53790464340a7c85706d8c17bcd1cb7c14074a965b.1778764933.1532902e357dd399bc0480c4108b6c1b.716a06cc0699860873ed0c06a3bd2df3.6649d312a15e88bd35ed4a0486e2bb92&signature=73810c934bee713a1deaab3aefb1bcad265f4e701c9ee08f36bed453e78aabb3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Wolfsburg vs Bayern (ZDF)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2524.png" group-title="Soccer",[Soccer] Wolfsburg vs Bayern (ZDF)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=zdf&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=zdf&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-zdf/playlist.m3u8?token=fd5ebda60eed6eac19886f8bd630c68695c245c37e410f0c189e494c6bb16254.1778764934.04c4f672c7d2995a0499228fc8049cfc.1b37b4fe8d0fa92a0362b15271446164.2de6a4751e6b98a52b73c5a9bdff2523&signature=9e60822cf985fcff4be3f2bd53e3c1c92520daac166a44cf67714095d6a97dac|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.3" tvg-name="[Soccer] Wolfsburg vs Bayern (Sky Sport Mix)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2524.png" group-title="Soccer",[Soccer] Wolfsburg vs Bayern (Sky Sport Mix)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+mix&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-mix/playlist.m3u8?token=35f539966a774bcb3776d391b2f4cb78eb8d4b55fa369fca3b6fb8042f827492.1778764939.4ee96f800954706cefff3fb80f63ba63.f909ef85e90281210cd7b6fb6c70c028.5b1e49335630c5a2dca99cd699a434b7&signature=c638bbb3c8feae12699c5a26ee5dc8a790899387c3ce06546f0fc3b049b3d4b3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.4" tvg-name="[Soccer] Wolfsburg vs Bayern (Sport 4)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/2524.png" group-title="Soccer",[Soccer] Wolfsburg vs Bayern (Sport 4)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=270573dc2ae958e630af09382a7975e62537a18cd7c8cdf4802456c2c59c07ed.1778764940.1daf608b01a49b13c4b5af61d44f6626.cde4778c78fd92e61bd9a651f5d4cdd2.5bc013697f597878688d5fefd9b7fb1f&signature=2747b1dc1071c19f09b921eca7c195a0c35fb4b95cc09f22cc901d7396df32ec|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Cricket.5" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=4c4f99b621ffd2b4d2d644d577a800420b34735329a1ec88d9836d4bcee951b5.1778764941.db56540f0d51e64596a70d64084fbd93.37fb0c30a2d365ea3e70d515388a3e7e.485c82947b023a654c3c076b2d408efb&signature=75dc44d51ab62567b3d59504cf4f82893eab65e74f7aa2decd8f89310c2a6bf9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Cricket.6" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=c61af4270a95ca389512266d36427bf6f434800b988fc4d157a7866112638e79.1778764942.9f92507a20a71623c3e32d1efd52935c.cc080cf8b6e5f7dfac76bf5cee2aa670.41772194d924816d22cc6ab931b13d95&signature=6757b98e3bbed9719db372c285f6f62af479e1c1782f256178f9cb5f4cf609f7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Cricket.7" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=99e835acd8d5217e0cef863feab580a0b2d440c4019774d9d37ceb2d8a0fb365.1778764943.a51e8bd5c20acc022570f4584cfaf22b.f652fc93bb687c2042865e5207cbf4ca.97c6c58ef9b5ed0a6c578183174d3860&signature=399fc2897326a7a493e8dca6e4e801ccf9f438969ed2c67d61f93a8f45c4d932|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Cricket.8" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=bba00eda3a2303525a864e5a10a174238f132798ab10c8d4b18c85dff4812539.1778764944.23bb3c62aa27f157e4c2d222035913d8.f1bf7b17f318231008997c09f66e47e9.9b0a623101f2680170cc8a50a0733271&signature=a65552a7e6691903dd1e46f856557b41c2c9efa082d7bc89427204043d6b73b3|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Cricket.9" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=b0f80cdf1d120bbeb7337ad26c5aa38cdf8264c82df180f6342a93c2005be06d.1778764945.016cd17e3e08acedbcf3be3f29089da0.b4e42cf3ab1ae473fdef3b94bb42a06e.b0054836a5320a316d55477af78e2b7b&signature=f44fd3c80f23b29e749392a98a9a185dba1e7f511c44b72c56b468c0574b64ea|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Cricket.10" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=879d79320164f5590bcd272947e868ab5262f493ad3883a51c5e520a562dab55.1778764946.e280398a76d61a029d15dc93c20ab72b.ad7b584bcce39a0b67383eeda67fb681.62133b26344d770a5c332b4355b2c73e&signature=d6f78a209f9752138df1d18ae143b3da88454df564add759b6f913e7101270fe|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Cricket.11" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=4caae26eb4506c39d276662cf5ae8ee03754f06d44ce8a46a709b33f349431a2.1778764947.8e984d3707a8f9029327cce10d20aa95.71314989c7417037f6272f7ec4259561.f513aa1a65b8ee183017b44cee1b0140&signature=702b56744e3d61800c0baf8d7bf37eb44274c42516359db14f58d4ae92347c3c|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Cricket.12" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=b948a00ad42e398971e8b9e2c3057f9a004de2b445b44735af0830688ded7d14.1778764948.c4dbe19a9a8befa35dc212eb24eb3aeb.ca48cd97b4d7a95a21287ed348b9aa9f.64da500dd88cc6b455569b94182db520&signature=17ad33bc7e5d9afb4efe30943fef067ce97533c011f13ec5b508e48162154726|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Cricket.13" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=a2c03ab9a18697356b50e973aa5d02374aaadc19c26e9f52607eff62da3b3ce9.1778764949.404f15916b2e876928dfcc027956f67b.d31146e10bcfb24c73b660e68eaf221c.ac05a579ab460d5935eddaf44582e573&signature=8609ae5207cc184cd600854ee0ce47d90a556b041c5122807221b4608e4a6ec7|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Cricket.14" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-cricket/playlist.m3u8?token=4ac94f88ea74c9d6e0dceb36f90019c5091f20379ff7ae0c65e1bce1856442fd.1778764950.7852832ec2fdac5f827761f982c7b1ff.4fb2d33763b777c6c69a6430161f5af5.c1fa863726fb489a28453937c81a427c&signature=d481f4c3391fac8c777b3b185b51cc900a98f1bbfc144c3a7b64b649dafd86b6|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Cricket.15" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Willow 2 Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=willow+2+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-willow-2-cricket/playlist.m3u8?token=e5eafedef4242e6a3a8cc4550dfaaff2526834c66c664c234da0b682d20fac93.1778764951.8a333119eebd8cc76524b41175ca5446.b9c1b62e0e9b5ed0ee76bb5e2fa1bde8.eb8c69979ad729fe39fbad90b02be7a1&signature=7d751a8df842c7392bbc004d0ac5d5065f344ba772ebbbc754f23f4cad5d8eb0|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Cricket.16" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Fox Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-cricket/playlist.m3u8?token=f506614b89e1777d74be11363634eb74227a1a905a6e376b3c44741f42bd8b5a.1778764952.7b2d8e83452ebcc636fca50d999080de.def7e768297d0c4a4e2e4fc38e00dad7.21965e1fdb41d1b81f57363cbc6a5c80&signature=dab98adb52736a8d1ce8b6bdcad85b3c5704fd42eacd9db90070b8c1324492a2|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Cricket.17" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Astro Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=5d60f4b236003497890bd6013078dee897772ffb1841a1b3e6d13e4b74976639.1778764953.5b6905c28f50a9087b2c4abb09da7f1b.d6f33fe55d0dd0585d330e36e8ad6a55.0d79111a4cf50b1671f10b615fcb4961&signature=7cf3c212c4e2eee744369cf27fdadb20b30f27ef3139f223f2145e888ae31659|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cricket.18" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+cricket&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-cricket/playlist.m3u8?token=189b5b2b96bd19092e9334afde947285f8c13c8ca4cffd07c7707609f7054b10.1778764954.e07c33914af9b5bfaa7e37fb880664ff.47ba7c625ed5f4707935e22d521eb117.73cfc0fae7d96e27db7fa99c4a4056e0&signature=bc5f1c2a26454cb297ee22d0599d0e87c81f4e44477d55c1601f2bf870c4d21a|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Cricket.19" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sports Main Event)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sports+main+event&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-sky-sports-main-event/playlist.m3u8?token=277c30d3a52df1cd110e75bf3956b5a408c0ea52fb11a4158eae40c674e4421a.1778764955.c298058b00bde2558748ebfaeccb4443.fa90ebbb4ec69be940c17eee29cb8563.e101e90310c7f83c0031b63689ff0f81&signature=b6db4eff4a53589d1aea8b95feff1a961a7a190644450826cfbe29a282c319f9|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Cricket.20" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Hub Premier 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=hub+premier+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-hub-premier-1/playlist.m3u8?token=2db419ed6aaa014caa071f3d5f05d609d8c4d394bc6864086e164a33136d03d9.1778764956.cd1db99048e490f34ddffe7eb2baab5e.ca57152137e37f0c11cb12aaa0c72fdf.01bdd53e8fc3f540913e9139b940b5e9&signature=3558b2062854ba021feb6cc2b606b893bfa08588ea58d1f946b81f9837b3b388|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Cricket.21" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (Sky Sport 2)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+2&code=nz&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nz-sky-sport-2/playlist.m3u8?token=e3047c5e10dc31b066578bf8ed65f4f67c585c1f7e57dc0edf6a5efc9a28c1a1.1778764958.181ddb96980e1c06a577b01191dfaa88.c40916061fb515c63934961926f8814d.06d49e6f0a628c4988d838be3775b179&signature=4863bc378c60b35c90bde3708953ec4ab8803cafeed5abce77651869faa5d628|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Cricket.22" tvg-name="[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/event.png" group-title="Cricket",[Cricket] Indian Premier League : Kings XI Punjab vs Mumbai Indians vs  (SuperSport Cricket)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+cricket&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-cricket/playlist.m3u8?token=c2ab8244e6b2a96c665b9686a70e284c230867539720d06c466fdc2b22712022.1778764959.3cd1b2af6134328d124e823b160d2107.b93e43ef62615c2fa63af37606a819f2.2672df9e9b97cfc4b4f14a1836000bf3&signature=9f14d7a8124e6626eae71fc081dfbddb6090c0aad6c6d4e75348e0f7468789fa|x-forwarded-for:77.238.79.111
 
