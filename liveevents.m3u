@@ -1,7 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Junior vs Once Caldas (Win Futbol)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/logo.png" group-title="Soccer",[Soccer] Junior vs Once Caldas (Win Futbol)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=b73539e7e089e6a567fbc25d3abf05b30b097eae39d3c30c55a387ff7e63ea8d.1778725778.a4554921c3eb355f8c8b88e4e214ef72.471b460bcf2c36bcd3c2938c94c491cb.0cfc616cfac995b1ef612b835cc15452&signature=edb6bdfb176246610f41d10435974baa8b4814734ee85a600b3cf80143c7e59a|x-forwarded-for:77.238.79.111
-
