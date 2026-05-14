@@ -1,1 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Septemvri Sofia vs Spartak Varna (Diema Sport 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/201203.png" group-title="Soccer",[Soccer] Septemvri Sofia vs Spartak Varna (Diema Sport 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=e5884c8da2a4a10755b2881f7a1e59f668b4711260d98acb117ef85c87a527e8.1778757773.fc6edba671bfd75349a0a8dd8d174b10.13350b4e6ec2634d1360b0100a826b91.2dfd69ea9ef373960a3d36d78708f5a7&signature=8948585e379a5eab7057a7749df86bd4e19fe5487d0153b918292406f970fcd1|x-forwarded-for:77.238.79.111
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.2" tvg-name="[Soccer] Septemvri Sofia vs Spartak Varna (Sport Klub 1)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/201203.png" group-title="Soccer",[Soccer] Septemvri Sofia vs Spartak Varna (Sport Klub 1)
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-1/playlist.m3u8?token=afb915a4c9027a23892aeffa50a46d249c5bb51bac5df7e3d971eb41918479a4.1778757774.2f7c04c710aba7cc7317a9aba0fb9709.c07e2e32e22cbe61e714e2fc5b73b1ac.627a95495e631ababad91e447fc80b8a&signature=ed66e1ba06f6fa43259220a46845172f0f4c5d4ffc90dd5fb5011e8c2d25361e|x-forwarded-for:77.238.79.111
+
