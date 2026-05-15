@@ -40,8 +40,8 @@ jobs:
 
     - name: Commit and Push Playlist
       run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
         git add live_tv_channels.m3u
         
         # Check if there are actually changes to commit to avoid empty commit errors
