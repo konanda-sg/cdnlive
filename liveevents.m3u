@@ -1,7 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.1" tvg-name="[Soccer] Pachuca vs Pumas UNAM (TUDN)" tvg-logo="https://api.cdnlivetv.tv/api/v1/team/images/260999.png" group-title="Soccer",[Soccer] Pachuca vs Pumas UNAM (TUDN)
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-tudn/playlist.m3u8?token=a1b011f4c66606be9eb539f5a041fc7198bcc83b2545aa38310bb9fc6ee5f8bf.1778803904.9dc24078204e529a0d5857ab5765745d.c65162ebd8bb9111d6cbda19854b0f41.48a1f326ef9bcca5c503f48bd2a909e4&signature=1f4c001189620691a7023d00fe0483b7a7c982323131b65760db394fe8d3cd47|x-forwarded-for:77.238.79.111
-
