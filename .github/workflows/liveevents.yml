@@ -38,8 +38,8 @@ jobs:
 
     - name: Commit and Push Playlist
       run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add liveevents.m3u
         # The '|| true' prevents the workflow from failing if no changes were made
         git commit -m "Auto-update liveevents.m3u" || true
